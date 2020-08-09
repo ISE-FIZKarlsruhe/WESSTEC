@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Indian court: Hindus, Muslims must share holy siteFor 150 years, Hindus and Muslims both claimed a site that is sacred to their religions, which triggered some of the worst rioting in India's history. Now, a court ordered a compromise: Split it.Both sides said they would appeal Thursday's ruling, and the muted reaction to the potentially explosive verdict generated hopes that the increasingly confident country, with its growing regional clout and skyrocketing economy, has moved beyond its divisive history."(This) shows that we have become a mature nation," said Kamal Farooqui, a member of the Muslim Personal Law Board.In advance of the ruling, the government sent hundreds of thousands of police into the streets, arrested more than 10,000 people to keep them from inciting violence, and pushed another 100,000 to sign affidavits saying they would not cause trouble.The dispute over the religious site in the city of Ayodhya, 350 miles (550 kilometers) east of New Delhi, has been one of the country's most contentious issues.Hindus argued that the Babri Mosque erected there by Muslims in 1528 stood on the site of the birthplace of the Hindu god Rama, and they filed suit in 1950.In 1992, while the legal case lingered, tens of thousands of Hindu extremists ripped apart the mosque with spades, crowbars and their bare hands as security forces watched. A small tented shrine to Rama now stands on the site.The demolition sparked nationwide riots that killed 2,000 people and shook the foundations of India's claim to be a multiethnic, secular democracy.The High Court in the state of Uttar Pradesh ruled that the 64-acre (25-hectare) site should be split, one-third to the Muslim community and the rest to two Hindu groups.The Hindus will keep the area where the mosque once stood because the court determined it was the birthplace of Rama and archaeological evidence showed a temple had predated the mosque, according to the judgment.Hindus want to build an enormous temple to Rama on the site, while Muslims want to rebuild the mosque. The ruling will likely force both groups to scale down those plans.The court said the status quo should be maintained at the site for three months."It's not a victory or defeat for any party. It's a step forward. We hope this matter will be resolved," said Zaffaryab Jilani, a lawyer for the Muslim community, who said he would appeal the verdict to the Supreme Court.H.S. Jain, one of the Hindu plaintiffs, also said he would appeal because "100 percent of the land belongs to Hindus. Why split it?"Public reaction to the verdict was restrained.In Ayodhya, Hindus rushed to nearby temples to give thanks, but the atmosphere throughout town was peaceful. Hindu and Muslim groups in Mumbai, a flash point for previous Hindu-Muslim violence over the temple dispute, appealed for peace.Many in India say the country has moved on, with Hindu nationalist groups on the wane and the younger generation more interested in their education and cell phones than communal divisions.Even hard-liners called for healing.Mohan Bhagwat, the chief of the Hindu nationalist Rashtriya Swayamsevak Sangh, which was implicated in the destruction of the mosque, said the ruling should clear the way for construction of the Rama temple."I will appeal to Muslims to forget the past. We have got an opportunity to act together," he said.------Nessman reported from New Delhi. Associated Press writers Erika Kinetz in Mumbai and Nirmala George and Ashok Sharma in New Delhi contributed to this report.</text>
+  <mention label="Rama" length="4" position="1156"/>
+  <mention label="Rama" length="4" position="1988"/>
+  <mention label="New Delhi" length="9" position="969"/>
+  <mention label="Muslim Personal Law Board" length="25" position="600"/>
+  <mention label="Ashok Sharma" length="12" position="3471"/>
+  <mention label="Hindu" length="5" position="65"/>
+  <mention label="India" length="5" position="0"/>
+  <mention label="Indian" length="6" position="0"/>
+  <mention label="Hindus" length="6" position="65"/>
+  <mention label="Hindus" length="6" position="14"/>
+  <mention label="Muslim" length="6" position="76"/>
+  <mention label="Muslims" length="7" position="76"/>
+  <mention label="Hindu" length="5" position="14"/>
+  <mention label="Hindus" length="6" position="1034"/>
+  <mention label="Hindu" length="5" position="1737"/>
+  <mention label="Hindus" length="6" position="1737"/>
+  <mention label="Hindu" length="5" position="1034"/>
+  <mention label="Muslim" length="6" position="22"/>
+  <mention label="Muslims" length="7" position="22"/>
+  <mention label="New Delhi" length="9" position="3487"/>
+  <mention label="Muslims" length="7" position="3280"/>
+  <mention label="Hindus" length="6" position="2526"/>
+  <mention label="Associated Press" length="16" position="3400"/>
+  <mention label="Ayodhya" length="7" position="925"/>
+  <mention label="Muslims" length="7" position="2012"/>
+  <mention label="Muslim" length="6" position="600"/>
+  <mention label="Hindus" length="6" position="1945"/>
+  <mention label="Mohan Bhagwat" length="13" position="3055"/>
+  <mention label="Ayodhya" length="7" position="2597"/>
+  <mention label="India" length="5" position="1510"/>
+  <mention label="Hindu" length="5" position="1251"/>
+  <mention label="Rama" length="4" position="1388"/>
+  <mention label="Hindus" length="6" position="2606"/>
+  <mention label="Mumbai" length="6" position="2730"/>
+  <mention label="Supreme Court" length="13" position="2402"/>
+  <mention label="Rama" length="4" position="1845"/>
+  <mention label="New Delhi" length="9" position="3389"/>
+  <mention label="Mumbai" length="6" position="3441"/>
+  <mention label="Uttar Pradesh" length="13" position="1594"/>
+  <mention label="Muslims" length="7" position="1087"/>
+  <mention label="Rashtriya Swayamsevak Sangh" length="27" position="3105"/>
+  <mention label="India" length="5" position="184"/>
+  <mention label="Hindu" length="5" position="1720"/>
+  <mention label="Hindu" length="5" position="1146"/>
+</item>

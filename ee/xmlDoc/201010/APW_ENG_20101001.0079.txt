@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Lincoln ' s election year in colorful detail"Year of Meteors: Stephen Douglas, Abraham Lincoln, and the Election That Brought on the Civil War" (Bloomsbury Press, $29), by Douglas R. Egerton: It was in the spring of 1860, an election year just a century and a half ago, that East Coast voters began talking about a dark horse -- a middle-aged lawyer from Illinois. His only experience in national politics was one term in the House of Representatives.He was such a dark horse that even people deep in public affairs like feminist Susan B. Anthony kept misspelling his name as "Abram" Lincoln.She thought he'd make a good president, though. She told a group of uniformed young Republicans called Wide Awakes -- "not only to keep wide awake to inaugurate Abram Lincoln, but also to go to the aid of the slaves, in case of insurrection ..."Six months later, Southern artillery opened fire on Fort Sumter and the Civil War had begun.One newspaper estimated the North had 400,000 Wide Awakes. That worried pro-slavery "fire eaters." Southern agitators who wanted to break up the union argued that the North was too rich and cowardly to fight.Douglas R. Egerton, a history professor at Le Moyne College in Syracuse, New York, takes his title, "Year of Meteors," from a Walt Whitman poem. It mentions the election but not Lincoln. Their acquaintance seems to have been limited to cordial bows exchanged as the president rode out to the summer White House in the suburbs and passed the poet on Washington streets.Whitman's poem mentions only a few "meteors." Civil War buffs will appreciate the book's dozens of vividly drawn characters -- many of them much less familiar than the most significant: Stephen A. Douglas. The "Little Giant" had bested Lincoln two years earlier in a Senate race. He might well have done the same in the presidential contest if there had not been a split in the Democratic Party and an additional candidate who took votes away from Douglas.Readers who take politics seriously will get the thrill of an insider's view of a hard-fought campaign: disappointed candidates convinced they would get Cabinet jobs and easily dominate Lincoln -- just a Western hick after all; extremist Southerners in love with a vision of a new slaveholders' republic including Cuba and maybe all Latin America; crazies who wanted to revive the slave trade with Africa.The fun in seeing them get their comeuppance, darkened by our foreknowledge of the bloody cost, is tempered by realizing that it all turned out not too much worse than could have been expected.So Lincoln won. A week before his inauguration, when seven slave states had already seceded from the Union, Douglas came to see him. He tried to get the president-elect to appease Southern leaders with concessions on the spread of slavery; concessions that Douglas hoped would prevent war.Lincoln refused. After an hour, Egerton records, Douglas unexpectedly said: "I'm with you, Mr. President, and God bless you."Lincoln, touched by the promise from his longtime adversary, replied: "God bless you, Douglas. The danger is great, but with such words and friends why should we fear? Our Union cannot be destroyed."Douglas stood behind Lincoln at the inauguration. The story goes that as Lincoln started to speak, a gust of March wind threatened to blow away his text and he fumbled with his silk stovepipe hat."Permit me, sir," said Douglas. He took the hat and held it throughout the speech.Less than four months later, Douglas, 48, weakened by long indulgence in whiskey and cigars, died of typhoid fever.</text>
+  <mention label="Civil War" length="9" position="141"/>
+  <mention label="Southern" length="8" position="1036"/>
+  <mention label="Stephen Douglas" length="15" position="70"/>
+  <mention label="Douglas" length="7" position="78"/>
+  <mention label="New York" length="8" position="1218"/>
+  <mention label="Susan B. Anthony" length="16" position="538"/>
+  <mention label="Lincoln" length="7" position="2570"/>
+  <mention label="Douglas" length="7" position="2824"/>
+  <mention label="Lincoln" length="7" position="8"/>
+  <mention label="East Coast" length="10" position="283"/>
+  <mention label="Lincoln" length="7" position="1749"/>
+  <mention label="Southern" length="8" position="863"/>
+  <mention label="Southern" length="8" position="2207"/>
+  <mention label="Lincoln" length="7" position="592"/>
+  <mention label="Abraham Lincoln" length="15" position="87"/>
+  <mention label="Lincoln" length="7" position="95"/>
+  <mention label="Civil War" length="9" position="917"/>
+  <mention label="Washington" length="10" position="1494"/>
+  <mention label="Civil War" length="9" position="1559"/>
+  <mention label="Douglas" length="7" position="2905"/>
+  <mention label="Lincoln" length="7" position="2981"/>
+  <mention label="Illinois" length="8" position="363"/>
+  <mention label="Republicans" length="11" position="684"/>
+  <mention label="Douglas" length="7" position="1710"/>
+  <mention label="Lincoln" length="7" position="1323"/>
+  <mention label="Lincoln" length="7" position="2155"/>
+  <mention label="Douglas" length="7" position="1961"/>
+  <mention label="Cuba" length="4" position="2283"/>
+  <mention label="Lincoln" length="7" position="2856"/>
+  <mention label="Syracuse" length="8" position="1208"/>
+  <mention label="Stephen A. Douglas" length="18" position="1699"/>
+  <mention label="Senate" length="6" position="1780"/>
+  <mention label="Democratic Party" length="16" position="1891"/>
+  <mention label="Latin America" length="13" position="2302"/>
+  <mention label="Douglas" length="7" position="180"/>
+  <mention label="Douglas" length="7" position="2675"/>
+  <mention label="Le Moyne College" length="16" position="1188"/>
+  <mention label="Egerton" length="7" position="191"/>
+  <mention label="Lincoln" length="7" position="767"/>
+  <mention label="Africa" length="6" position="2367"/>
+  <mention label="Western" length="7" position="2173"/>
+  <mention label="Whitman" length="7" position="1276"/>
+  <mention label="Walt Whitman" length="12" position="1271"/>
+  <mention label="Douglas" length="7" position="1145"/>
+</item>

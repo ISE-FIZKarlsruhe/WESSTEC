@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>At No. 1, Lil Wayne redefines stardom behind barsHe had the top-selling album in the country earlier this month. He's on the president's iPod. He's on the charts with two singles and a collaboration on a third. He's on Facebook with updates for the more than 14 million people following them. He is, in every respect, on.By the way, Lil Wayne's in jail. But his public persona is anything but locked away.The rapper, who's on track to be released Thursday after serving eight months in a gun case, is the first artist in 15 years to release a No. 1 album on the Billboard 200 chart while serving a sentence. His "I Am Not a Human Being" spent a week in the top slot and has sold more than 323,000 copies since its Sept. 27 release, according to Nielsen SoundScan.It's hardly a coveted distinction. But it is both a reflection of Lil Wayne's popularity -- he went to jail a multiplatinum-selling Grammy Award winner -- and a result of astute maneuvering in the multimedia landscape that now envelops pop stardom. Staying relevant? Try omnipresent."The challenge was to make sure you feel like he never left," says Bryan "Birdman" Williams, the Cash Money Records co-founder who has fostered Lil Wayne's career since the rapper's teens. "We came with a good strategy, and it worked."Members of the rapper's management team carefully scheduled releases of music and saw to it that his responses to the deluge of fan mail that has descended on the city's Rikers Island jail complex were typed up and posted online. They have become regulars at Rikers' visiting hours and have played, and recorded, music over a jail phone.The Lil Wayne campaign even comes with its own insider-y slogan -- "free Weezy," one of his nicknames -- circulated through channels ranging from T-shirts to a Twitter hashtag.For the rapper, his jail term has been a difficult exile from the recording studio where he generally likes to spend time every night, his associates say. "When you take somebody's passion away, it's gotta be frustrating," Williams said in an interview.But for his fans, it has provided not only a steady stream of new music, but an unusually direct connection to one of music's megastars. On a blog he set up for fans, he's offered insights into his day-to-day doings and responses to some of the listener letters that, he says, anchor his day."I never imagined that I could have such an impact on people's lives," he wrote in July on the site, Weezythanxyou.com.Known for his workaholic output of witty, manifold and sometimes weird wordplay, Lil Wayne had the best-selling album of 2008 and won a best rap album Grammy with "Tha Carter III." Time magazine weighed him for its most-influential-people list last year; President Barack Obama recently told Rolling Stone he has some Lil Wayne music on his iPod.The rapper, born Dwayne Carter Jr., pleaded guilty in October 2009 to having a loaded gun on his tour bus after a Manhattan concert in 2007. He began serving his one-year sentence in March.He's expected to get out early because of time off for good behavior, despite the electronic contraband that landed him in solitary confinement for the last month of his term: a charger and headphones for a digital music player were found in his cell, jail officials said. (He acknowledged the misstep on his blog.)While at Rikers, he also pleaded guilty to an Arizona drug possession charge and was sentenced to three years' probation.Lil Wayne joined a roster of successful rappers who have spent time behind bars, a list that has muddied the line between art and life in a genre that arose from inner-city streets and often chronicles crime and violence. Big names including Tupac Shakur, Lil' Kim, Foxy Brown, Shyne, Mystikal, Gucci Mane and T.I. have been incarcerated for periods ranging from months to years.Several rappers have put out albums while locked up; the late Shakur became the first to hit number one with 1995's "Me Against the World," released while he was imprisoned on a sexual assault conviction. Some have recorded songs behind bars.Lil Wayne made a slew of recordings and videos in his final weeks of freedom. The recording blitz provided enough material for "I Am Not a Human Being" and appearances on songs by artists ranging from his protege Drake to Eminem, their releases timed to keep him fresh in fans' minds, his managers said.The rapper initially played it cool when told about the album's success, said Derrick "E.I." Lawrence, a member of his management team. But as Lawrence was heading out after a visit, "He said, 'Number one?' ... That lit him up."Lil Wayne, too, kept an ear out for opportunities. After hearing the Drake/Jay-Z collaboration "Light Up" on the radio, he told longtime manager Cortez Bryant, "I gotta get on that," Bryant recalled. The rapper recorded a verse over the phone for a "Rikers Remix" that made the rounds online.But perhaps the most telling way Lil Wayne has made himself heard from jail hasn't been on records, but in writing.His managers say the rapper proposed the Weezythanxyou blog, which has become a public-yet-personal conversation between the star and his fans. They have sent so much mail that members of his management team routinely take home garbage bags full for safekeeping after the rapper has read it."He's using it as therapy to get by, to get through his long days," Bryant said in an interview.Writing in longhand with implements and notepads bought from the jail commissary, Lil Wayne issued chatty, upbeat updates, touching on such topics as his daily activities ("I'm still playing UNO"), pro basketball and Mother's Day.But mostly, he thanked fans, by the dozens and by name, with individual, brotherly notes: "So happy you found your iPod," "You're already where you need to be, school!"He even brokered a marriage proposal after getting a letter from a woman who had appeared in one of his label's videos, popping her question to her boyfriend on the site at her request, said Mack Maine, the president of Young Money Entertainment, Lil Wayne's imprint within Cash Money.So-called "Wayniacs" have been impressed with the updates, said Lilwaynehq.com fan site founder Daniel Mousdell. So have rap veterans."It was great that they had that communication with fans," said Death Row Records founder Marion "Suge" Knight, who worked with Shakur and spent five years in jail himself in the 1990s on an assault conviction. With the more limited communication options of the time, "the world stopped" for an artist in prison, he said.Lil Wayne's world, meanwhile, is already moving on. The rapper has written new lyrics in jail (describing them as "amazing would be too typical and perfect would be unfair," he said on his blog) and envisions releasing a much-anticipated "Tha Carter IV" next year, Williams said.He also has kept a journal in jail, Maine said, and might release it as a book.</text>
+  <mention label="Rikers" length="6" position="1540"/>
+  <mention label="Lil Wayne" length="9" position="10"/>
+  <mention label="Lil Wayne" length="9" position="333"/>
+  <mention label="Gucci Mane" length="10" position="3724"/>
+  <mention label="Mack Maine" length="10" position="5964"/>
+  <mention label="Mystikal" length="8" position="3714"/>
+  <mention label="Lil Wayne" length="9" position="6020"/>
+  <mention label="Lil Wayne" length="9" position="2776"/>
+  <mention label="Maine" length="5" position="5969"/>
+  <mention label="Dwayne Carter Jr." length="17" position="2821"/>
+  <mention label="Lawrence" length="8" position="4446"/>
+  <mention label="Lil Wayne" length="9" position="5457"/>
+  <mention label="Bryant" length="6" position="4764"/>
+  <mention label="Tupac Shakur" length="12" position="3671"/>
+  <mention label="Lil Wayne" length="9" position="4050"/>
+  <mention label="Shakur" length="6" position="3677"/>
+  <mention label="Arizona" length="7" position="3354"/>
+  <mention label="Lil Wayne" length="9" position="1622"/>
+  <mention label="T.I." length="4" position="3739"/>
+  <mention label="Williams" length="8" position="1129"/>
+  <mention label="Death Row Records" length="17" position="6256"/>
+  <mention label="Lil Wayne" length="9" position="2539"/>
+  <mention label="Drake" length="5" position="4263"/>
+  <mention label="Lil Wayne" length="9" position="4906"/>
+  <mention label="Cash Money Records" length="18" position="1143"/>
+  <mention label="Foxy Brown" length="10" position="3695"/>
+  <mention label="Rikers Island" length="13" position="1451"/>
+  <mention label="Williams" length="8" position="2017"/>
+  <mention label="Lil Wayne" length="9" position="3429"/>
+  <mention label="Lil Wayne" length="9" position="4581"/>
+  <mention label="Rikers" length="6" position="1451"/>
+  <mention label="Barack Obama" length="12" position="2723"/>
+  <mention label="Lil Wayne" length="9" position="1190"/>
+  <mention label="Manhattan" length="9" position="2918"/>
+  <mention label="Young Money Entertainment" length="25" position="5993"/>
+  <mention label="Rolling Stone" length="13" position="2750"/>
+  <mention label="Grammy Award" length="12" position="895"/>
+  <mention label="Lil Wayne" length="9" position="829"/>
+  <mention label="Eminem" length="6" position="4272"/>
+  <mention label="Nielsen SoundScan" length="17" position="745"/>
+  <mention label="Lil Wayne" length="9" position="6513"/>
+  <mention label="Bryant" length="6" position="4733"/>
+  <mention label="Shyne" length="5" position="3707"/>
+</item>

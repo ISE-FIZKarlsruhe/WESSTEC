@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Russell and Arnett run wild in new Fox comedySteve and Emmy were childhood sweethearts torn asunder by a conflict in their view of the world. Emmy wanted to save it. Goofball rich kid Steve was happy owning a big chunk.Now Emmy, with her 12-year-old daughter Puddle in tow, is back home from the Amazon rain forest. Maybe she and Steve will strike sparks anew. For all their differences, they retain one thing in common: They're both engagingly loopy.That is the premise for "Running Wilde" (airing Tuesdays at 9:30 p.m. EDT (Wednesdays at 0130 GMT), the twisted new Fox comedy starring Keri Russell (far from her adolescent-issues "Felicity" days) and Will Arnett, reunited here with Mitch Hurwitz, the creator of Arnett's bygone, zany series, "Arrested Development."For viewers keeping score, "Running Wilde" differs from its cult-favorite predecessor in one important way: A burgeoning approach-avoidance romance is built into the "Wilde" silliness. (On the last episode, Steve and Emmy obsess about going, or NOT going, on vacation together.)"It's an unconventional love story," says Arnett during a joint interview with his co-star. "It's about two people who were each other's first love, then went off in their own directions. But at this point in their lives they need each other. They both have an emotional void."Emmy Kadubic is a laughably overwrought humanitarian, too committed to accomplish much of anything. She's a perfect counterpoint to oil-company scion Steve Wilde, a spoiled, comically clueless playboy.Arnett says he first got the idea for this show a couple of years ago when, between projects yet comfortably supported by his wife, actress-comedian Amy Poehler, he was playing tennis at a friend's plush L.A. club one weekday morning."Afterwards, we were putting our tennis bags in our fancy cars, and neither of us was in any rush to get anywhere." With amused theatricality, he recalls asking himself, "WHO am I?! WHAT have I become?!"In the show he subsequently developed with Hurwitz, "I wanted to capture the hopelessness of somebody who seems to have it all, yet has no real direction," says Arnett, adding with a poker face, "I want this show to be `When Harry Met Sally...' met `Dynasty' met `Benny Hill.'"Russell chuckles at this. They already have bonded comedically, and not just on-screen but off-camera as well, ribbing each other and swapping laughs like longtime buds."I wasn't looking for a TV show at all," confides Russell, whose resume includes theater, TV movies and features including "Waitress," the acclaimed independent comedy-drama. "Playing a doctor on an hour show for the next six years: That's just not what I wanted to do. I feel like I had that experience with `Felicity.'""Was Felicity a DOCTOR?" Arnett cuts in, acting confused."Yes, yes," Russell says dismissively. "A doctor.""Or maybe she was a teenage detective," Arnett presses on. "`The Case of the Missing Hair': I know THAT was her big case in season two.""I was definitely a fan of `Arrested Development,'" says Russell when her hearty laugh subsides. "So I just thought I'd take a chance. And now," she cracks with admirable timing, "I'm trying to get out."The role of Steve Wilde's sprawling homestead is played by an estate Arnett describes as "Gatsby-esque" on Long Island's Gold Coast.This beats shooting in Los Angeles. Russell's husband, contractor Shane Deary, and their 3-year-old son live in New York City. And though Arnett's wife shoots her NBC comedy, "Parks and Recreation," in L.A., they and their two young sons still call New York home.Even so, the "Running Wilde" production site has its drawbacks.Arnett: "We have no Internet service."Russell: "We barely have phone service."Arnett: "Mitch finally said, `Drive me out to the top of the road. I need to make a phone call.'"Russell: "And we have no air conditioning. Everybody is sweating through their clothes. Just dripping!""But I feel reinvigorated," Arnett says grandly. "Getting back with Mitch was like the professional Viagra pill that I needed.""They're sort of in love with each other," Russell laughs. "Which is good.""And we've created this new family and brought in Keri.""I'm sort of learning on the job," she reports, marveling how the show "really moves.""There are a lot of rewrites," Arnett acknowledges. "Sometimes we block it and rewrite it while we're lighting it.""Mitch goes, `Oh, don't worry. I'll just stand off to the side and feed you the lines,'" says Russell. "And I'm going, `There's a little more to it than that, Mitch!'""Now she's totally in the game.""There's something about the system that works," Russell says. "But the style is so quick and concise, and I'm so worried about making a good moment.""I'm SO not worried about good!" Arnett fires back. He just can't help it. Russell shares his belly laugh.------Fox is owned by News Corp.------Online:http://www.fox.com------EDITOR'S NOTE -- Frazier Moore is a national television columnist for The Associated Press. He can be reached at fmoore(at)ap.org</text>
+  <mention label="Mitch" length="5" position="3719"/>
+  <mention label="Amy Poehler" length="11" position="1673"/>
+  <mention label="Will Arnett" length="11" position="653"/>
+  <mention label="Russell" length="7" position="0"/>
+  <mention label="Russell" length="7" position="3342"/>
+  <mention label="Arnett" length="6" position="12"/>
+  <mention label="Los Angeles" length="11" position="3329"/>
+  <mention label="NBC" length="3" position="3469"/>
+  <mention label="Russell" length="7" position="4617"/>
+  <mention label="Mitch" length="5" position="3978"/>
+  <mention label="Arnett" length="6" position="658"/>
+  <mention label="Mitch" length="5" position="4370"/>
+  <mention label="Russell" length="7" position="2457"/>
+  <mention label="Fox" length="3" position="35"/>
+  <mention label="Mitch Hurwitz" length="13" position="685"/>
+  <mention label="GMT" length="3" position="545"/>
+  <mention label="Frazier Moore" length="13" position="4910"/>
+  <mention label="Mitch" length="5" position="685"/>
+  <mention label="Steve" length="5" position="45"/>
+  <mention label="Arnett" length="6" position="3243"/>
+  <mention label="Amazon" length="6" position="296"/>
+  <mention label="L.A." length="4" position="3508"/>
+  <mention label="Emmy" length="4" position="55"/>
+  <mention label="Fox" length="3" position="567"/>
+  <mention label="Hurwitz" length="7" position="691"/>
+  <mention label="Arnett" length="6" position="3632"/>
+  <mention label="Russell" length="7" position="2238"/>
+  <mention label="Arnett" length="6" position="4285"/>
+  <mention label="Benny Hill" length="10" position="2225"/>
+  <mention label="Arnett" length="6" position="2875"/>
+  <mention label="Steve" length="5" position="184"/>
+  <mention label="L.A." length="4" position="1728"/>
+  <mention label="Arnett" length="6" position="1088"/>
+  <mention label="Arnett" length="6" position="2753"/>
+  <mention label="Keri Russell" length="12" position="587"/>
+  <mention label="Steve" length="5" position="975"/>
+  <mention label="Arnett" length="6" position="2122"/>
+  <mention label="Arnett" length="6" position="715"/>
+  <mention label="Keri" length="4" position="587"/>
+  <mention label="Steve" length="5" position="330"/>
+  <mention label="Russell" length="7" position="3670"/>
+  <mention label="New York" length="8" position="3418"/>
+  <mention label="Russell" length="7" position="3028"/>
+  <mention label="New York City" length="13" position="3418"/>
+  <mention label="Russell" length="7" position="592"/>
+  <mention label="Russell" length="7" position="3807"/>
+  <mention label="Long Island" length="11" position="3281"/>
+  <mention label="Fox" length="3" position="4830"/>
+  <mention label="Arnett" length="6" position="3938"/>
+  <mention label="News Corp." length="10" position="4846"/>
+  <mention label="Russell" length="7" position="4463"/>
+  <mention label="Russell" length="7" position="2797"/>
+  <mention label="Arnett" length="6" position="1524"/>
+  <mention label="Arnett" length="6" position="3444"/>
+  <mention label="The Associated Press" length="20" position="4963"/>
+  <mention label="Russell" length="7" position="4080"/>
+  <mention label="Arnett" length="6" position="3710"/>
+</item>

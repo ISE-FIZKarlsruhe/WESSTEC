@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Myanmar abuzz over possible release of Suu KyiThe detention of Myanmar's democracy icon Aung San Suu Kyi expires early next month, but an official said Friday that only the ruling junta chief knows exactly when she will be granted freedom.The Nobel Peace laureate has been locked away for 15 of the past 21 years, ever since her opposition party swept the country's last elections in 1990, and the military refused to cede power.Her latest term of house arrest ends Nov. 13, just days after the junta plans to hold the first elections since those ignored polls -- timing that analysts say is hardly coincidental. There is wide speculation the junta will release her as an olive branch to the international community after its expected win in elections that many observers have decried as so rigged as to be meaningless.But Suu Kyi's detention is considered a matter of national security and an official said Friday that any decision to release her would be made at the last-minute by Senior Gen. Than Shwe, the junta chief. The official spoke on condition of anonymity due to the sensitivity of the matter.Suu Kyi's National League for Democracy opposition party is boycotting the elections, which it calls unfair and undemocratic. As a result of not registering for the polls, the party has been dissolved, leaving no group that can effectively challenge the junta-backed party, which is expected to sweep the polls.Critics call the country's first elections in two decades a sham and say the military shows no sign of genuinely relinquishing power.The London-based rights group Burma Campaign UK issued a statement to express caution over recent reports about Suu Kyi's imminent freedom."We'll believe it when we see it," said Mark Farmaner, the group's director. "Regime officials have said similar things in the past, and Aung San Suu Kyi has remained in detention."If Suu Kyi is released, it would be wrong to attach too much political significance to it, Farmaner said."She has been released twice before without there being any political change in the country," he said. "It is more likely that the dictatorship will try to use her release to attempt to persuade the international community to relax pressure on them."The international community has long demand the release of Suu Kyi and more than 2,100 political prisoners.</text>
+  <mention label="Suu Kyi" length="7" position="39"/>
+  <mention label="National League for Democracy" length="29" position="1116"/>
+  <mention label="Suu Kyi" length="7" position="97"/>
+  <mention label="Myanmar" length="7" position="0"/>
+  <mention label="Aung San Suu Kyi" length="16" position="88"/>
+  <mention label="Mark Farmaner" length="13" position="1729"/>
+  <mention label="Suu Kyi" length="7" position="823"/>
+  <mention label="Aung San Suu Kyi" length="16" position="1826"/>
+  <mention label="Suu Kyi" length="7" position="1106"/>
+  <mention label="Myanmar" length="7" position="63"/>
+  <mention label="Nobel Peace" length="11" position="243"/>
+  <mention label="Suu Kyi" length="7" position="1662"/>
+  <mention label="Burma Campaign UK" length="17" position="1580"/>
+</item>

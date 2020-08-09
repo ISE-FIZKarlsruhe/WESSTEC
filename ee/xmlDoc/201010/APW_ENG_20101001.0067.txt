@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Nicole Richie is no longer famous for being famousNicole Richie first became a tabloid regular when she co-starred with childhood pal Paris Hilton in the reality show "The Simple Life."Several years later, the 29-year-old is still a paparazzi target, but she has broadened her resume.The daughter of singer Lionel Richie has transformed her image from red carpet regular and party girl to a hip, young mom (she has two children with musician Joel Madden of the band Good Charlotte), fashion designer, occasional actress and author.Her new book, "Priceless," is now in stores.It's about a wealthy young woman named Charlotte whose stockbroker father is busted for embezzling millions from his clients. Charlotte ends up escaping the barrage of media attention surrounding the scandal in New York City and relocating to New Orleans where she builds a life for herself."I don't think anyone is just a one-dimensional person. There are a few different people inside of every person," Richie said in an interview with The Associated Press to promote the book.This isn't Richie's first foray into writing. Her first novel, "The Truth About Diamonds," was about a girl who is the adopted daughter of a famous male singer and part of Hollywood's in-crowd. Richie denies reports the book, a New York Times best-seller, was "semi-autobiographical," saying her writing is influenced by personal experience, but the book wasn't about her own life.For "Priceless," Richie wanted to take a different direction."I wanted to write a story about the journey of a girl's life and about the steps that she takes to find her place her in the world and find her own voice."Richie also has capitalized on her status as a fashion "it girl" with an accessories line, House of Harlow 1960, and a clothing line called Winter Kate. She serves as creative director for both.Richie calls the acceptance by the fashion industry a blessing."It's very exciting. I'm learning a lot, I'm learning as I go."She will also return to NBC's "Chuck" next month where she has a recurring role as Heather Chandler, a former high school mean girl-turned-spy with a talent for kung fu.Despite her various hats, Richie wants to add yet another career to her resume: Singing."Music is something that I love so much and it's very close to my heart," she said. "I would never want to do something that I can't put all of my time and heart and soul into ... but ... I'm only 29! I have time!"------NBC is owned by General Electric Co.------Online:http://www.nicolerichie.celebuzz.com/</text>
+  <mention label="Richie" length="6" position="7"/>
+  <mention label="Hollywood" length="9" position="1226"/>
+  <mention label="Richie" length="6" position="1248"/>
+  <mention label="Associated Press" length="16" position="1017"/>
+  <mention label="Paris Hilton" length="12" position="134"/>
+  <mention label="Richie" length="6" position="1452"/>
+  <mention label="New York Times" length="14" position="1282"/>
+  <mention label="Nicole Richie" length="13" position="0"/>
+  <mention label="Charlotte" length="9" position="614"/>
+  <mention label="NBC" length="3" position="1996"/>
+  <mention label="Richie" length="6" position="1065"/>
+  <mention label="Joel Madden" length="11" position="442"/>
+  <mention label="NBC" length="3" position="2449"/>
+  <mention label="Richie" length="6" position="980"/>
+  <mention label="General Electric Co." length="20" position="2465"/>
+  <mention label="New Orleans" length="11" position="818"/>
+  <mention label="Richie" length="6" position="314"/>
+  <mention label="Charlotte" length="9" position="471"/>
+  <mention label="Lionel Richie" length="13" position="307"/>
+  <mention label="Nicole Richie" length="13" position="50"/>
+  <mention label="New York City" length="13" position="786"/>
+  <mention label="Richie" length="6" position="57"/>
+</item>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Australia lifts freeze on Afghan refugee claimsAustralia has lifted a six-month freeze on processing refugee claims from Afghan asylum seekers, the immigration minister said.In April, Australia suspended claimed from both Afghan and Sri Lankan asylum seeks, citing improved conditions in those countries. The Sri Lankan ban was lifted in July.The Afghan freeze was due to be reviewed next week, but Immigration Minister Chris Bowen said Thursday that he was lifting the suspension immediately based on information from the Department of Immigration and the Australian Embassy in Kabul.He did not give further details.Violence has intensified this year in Afghanistan as more NATO troops pour into the country, hoping to turn the tide in the 9-year-old war.Afghan asylum seekers currently in detention will now be provided with assistance in preparing their refugee claims."The government is committed to providing protection to those who are found to be genuine refugees, in accordance with Australia's international obligations," Bowen said in a statement. "Those people who are found not to be refugees will be returned to Afghanistan."The move follows criticism from opposition parties and refugee advocates and comes as the government faces pressure over overcrowding in the immigration detention network.There are almost 5,000 people in immigration detention on the mainland and at an Indian Ocean processing facility on Christmas Island.</text>
+  <mention label="Indian Ocean" length="12" position="1390"/>
+  <mention label="Sri Lankan" length="10" position="233"/>
+  <mention label="Afghanistan" length="11" position="655"/>
+  <mention label="Australia" length="9" position="557"/>
+  <mention label="Australia" length="9" position="47"/>
+  <mention label="Kabul" length="5" position="579"/>
+  <mention label="Australian" length="10" position="557"/>
+  <mention label="NATO" length="4" position="675"/>
+  <mention label="Afghan" length="6" position="655"/>
+  <mention label="Australia" length="9" position="0"/>
+  <mention label="Afghanistan" length="11" position="1125"/>
+  <mention label="Bowen" length="5" position="426"/>
+  <mention label="Chris Bowen" length="11" position="420"/>
+  <mention label="Australia" length="9" position="184"/>
+  <mention label="Afghan" length="6" position="222"/>
+  <mention label="Afghan" length="6" position="26"/>
+  <mention label="Afghan" length="6" position="347"/>
+  <mention label="Sri Lankan" length="10" position="309"/>
+  <mention label="Afghan" length="6" position="121"/>
+</item>

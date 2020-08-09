@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>TNT Post 3Q profit falls 24 percentTNT NV, the Dutch-based postal and express delivery company, has reported a fall in third-quarter earnings as margins were squeezed by higher costs.The company says its net profit was (EURO)75 million ($105 million), down from (EURO)99 million. Revenues rose 11 percent to (EURO)2.77 billion from (EURO)2.48 million.CEO Peter Bakker Monday cited a "difficult pricing environment," and said plans to split express and mail operations are on track for January.The company's accounting showed rising materials, salary and external contractor costs.</text>
+  <mention label="TNT NV" length="6" position="35"/>
+  <mention label="TNT Post" length="8" position="0"/>
+  <mention label="Peter Bakker" length="12" position="355"/>
+</item>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Favre hurts chin late in game; carted off fieldBrett Favre was carted off the field midway in the fourth quarter Sunday with a cut to his chin that required 10 stitches.Favre was hit by Patriots defensive tackle Myron Pryor while throwing. He stayed on the ground momentarily, then tried to get up while holding his face. But Favre then sank to the ground as Vikings trainers rushed onto the field, and they helped him to the sideline.The 41-year-old quarterback spent a few minutes on a training table at the Vikings' sideline as staffers held a towel to his chin. He sat up after trainers applied a compress, then was carted from the field as a few fans booed.Minnesota was beaten 28-18 and fell to 2-5.The Vikings said the injury was to Favre's chin and that he needed 10 stitches.Favre, who did not appear bothered by two fractures in his left foot that initially jeopardized his availability Sunday, extended his NFL record consecutive starts streak to 292.Tarvaris Jackson replaced Favre and immediately threw a 1-yard touchdown pass to Naufahu Tahi. Jackson completed a 2-point conversion pass to Percy Harvin, bringing Minnesota within 21-18.Favre has both a stress fracture and an avulsion fracture in the foot. The avulsion fracture in the heel bone is where a fragment has been torn away by a tendon or ligament.He appeared to have no trouble with his foot, though. He injured his ankle and heel in last week's loss at Green Bay. But after a week of treatment and even some practice time Friday, he was in the starting lineup Sunday, a few days after coach Brad Childress said he would consider starting Jackson if Favre was hobbled.Favre was fine for most of the game, but left with 7:31 remaining after the hard hit by Pryor left him wobbly.Favre, who did not appear bothered by two fractures in his left foot that initially jeopardized his availability Sunday, extended his NFL record consecutive starts streak to 292.Favre played well in the first half, but an interception in the third quarter catapulted the Patriots to victory.The interception wasn't Favre's fault -- Percy Harvin bobbled it directly into the arms of Patriots rookie Devin McCourty. Favre even gave chase, sort of, on the 37-yard runback, falling over two other players when McCourty was tackled. Favre slowly stood up and walked to the sideline, looking weary and every bit his age.Favre completed his first four passes for 40 yards and was 11 for 13 for 121 yards through the first half. But the second half was ugly for Minnesota -- just as much of the season has been for the Vikings and their aged QB, who had taken every snap this season.The website Deadspin reported weeks ago that Favre sent lewd photos and inappropriate text messages to a New York Jets game hostess in 2008 when Favre played for the team. The NFL is investigating and the woman, Jenn Sterger, has not yet spoken to league investigators, although her manager and her lawyer both have said she might do so soon.</text>
+  <mention label="Vikings" length="7" position="709"/>
+  <mention label="Vikings" length="7" position="2565"/>
+  <mention label="Favre" length="5" position="326"/>
+  <mention label="Favre" length="5" position="0"/>
+  <mention label="Favre" length="5" position="2368"/>
+  <mention label="Minnesota" length="9" position="2508"/>
+  <mention label="Favre" length="5" position="1932"/>
+  <mention label="Jackson" length="7" position="971"/>
+  <mention label="Favre" length="5" position="2069"/>
+  <mention label="Tarvaris Jackson" length="16" position="962"/>
+  <mention label="Favre" length="5" position="784"/>
+  <mention label="Jenn Sterger" length="12" position="2841"/>
+  <mention label="NFL" length="3" position="918"/>
+  <mention label="Deadspin" length="8" position="2641"/>
+  <mention label="Favre" length="5" position="988"/>
+  <mention label="Percy Harvin" length="12" position="1104"/>
+  <mention label="Favre" length="5" position="1626"/>
+  <mention label="Favre" length="5" position="1754"/>
+  <mention label="Pryor" length="5" position="218"/>
+  <mention label="Minnesota" length="9" position="662"/>
+  <mention label="Naufahu Tahi" length="12" position="1043"/>
+  <mention label="Green Bay" length="9" position="1430"/>
+  <mention label="Myron Pryor" length="11" position="212"/>
+  <mention label="Vikings" length="7" position="359"/>
+  <mention label="Favre" length="5" position="740"/>
+  <mention label="New York Jets" length="13" position="2734"/>
+  <mention label="NFL" length="3" position="1888"/>
+  <mention label="Brett Favre" length="11" position="47"/>
+  <mention label="Jackson" length="7" position="1057"/>
+  <mention label="McCourty" length="8" position="2158"/>
+  <mention label="Devin McCourty" length="14" position="2152"/>
+  <mention label="Favre" length="5" position="1644"/>
+  <mention label="Percy Harvin" length="12" position="2086"/>
+  <mention label="Favre" length="5" position="169"/>
+  <mention label="Minnesota" length="9" position="1127"/>
+  <mention label="Brad Childress" length="14" position="1568"/>
+  <mention label="Favre" length="5" position="2282"/>
+  <mention label="Favre" length="5" position="53"/>
+  <mention label="NFL" length="3" position="2805"/>
+  <mention label="Favre" length="5" position="2674"/>
+  <mention label="Vikings" length="7" position="510"/>
+  <mention label="Favre" length="5" position="1150"/>
+  <mention label="Favre" length="5" position="2168"/>
+</item>

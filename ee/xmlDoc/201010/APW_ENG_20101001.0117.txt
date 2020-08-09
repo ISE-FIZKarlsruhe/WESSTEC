@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Dailey &amp;  Vincent win entertainer of the yearDailey &amp; Vincent have won entertainer of the year for the third straight time at the International Bluegrass Music Association Awards.The group, led by Jamie Dailey and Darrin Vincent, won five awards Thursday night at Ryman Auditorium in Nashville. Michael Cleveland &amp; Flamekeeper won three, and The Gibson Brothers and Adam Steffey won two awards each.Dailey &amp; Vincent also won vocal group of the year for the third straight time, album of the year for "Dailey &amp; Vincent Sing The Statler Brothers," recorded event of the year for "Give This Message To Your Heart," with Larry Stephenson and best graphic design for the "Statler Brothers."The group was the leading nominee with 10.------Online:</text>
+  <mention label="The Gibson Brothers" length="19" position="342"/>
+  <mention label="Nashville" length="9" position="284"/>
+  <mention label="Statler Brothers" length="16" position="527"/>
+</item>

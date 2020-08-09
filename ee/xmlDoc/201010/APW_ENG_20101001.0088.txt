@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: ' Social Network '  epic and intimate at onceChecking into Facebook sporadically while writing my review of "The Social Network," I notice my hairstylist commenting on how freakishly hot it's been in Los Angeles, an old friend announcing she's flying back to Dallas from a business trip in New Jersey and a sports colleague posting a photo of himself while on assignment in Wales covering the Ryder Cup.My dog trainer has seven new friends. A classmate from my college newspaper is celebrating a birthday.They're all the usual mundane updates and observations that have become second nature in an age when we must share the meaningless immediately -- all part of who we are and how we live and work. But the origin tale of Facebook itself is filled with high drama, betrayal and rage -- just one of the many fascinating contradictions that make "The Social Network" so smart, meaty and compulsively watchable.Director David Fincher and writer Aaron Sorkin have gotten together to create an epic tale about how we're able to tell the world about the tiniest details of our lives; they depict potentially dry, unwieldy topics -- computer coding and competing lawsuits -- and they do it in an intimate way. These are two guys who aren't exactly checking their smart phones constantly for new friend requests, but "The Social Network" represents the best of what they do: Fincher's mastery of fluid, visual storytelling, Sorkin's knack for crisp, biting dialogue. It's sharp, funny and tense, has great energy and pulsates with the thrill of discovery.Why we think people are itching to discover so much about us is another conversation for another time. But at age 19, Harvard student Mark Zuckerberg figured out that we'd want to do just that, and he determined it while screwing around on his computer one night in 2003, drunkenly miffed after his girlfriend dumped him. At least, that's how the story goes; Facebook itself calls the movie fiction. Still, here we are now, 500 million users strong worldwide -- and here Zuckerberg is, billions of dollars richer.Zuckerberg himself is the biggest contradiction of all: a socially inept guy who came up with a revolutionary way for others to connect, a hugely inventive genius who's also depicted as being small, petty and back-stabbing. He's coy about his own life and likes but he's become obscenely wealthy by urging others to divulge theirs. In starring as Zuckerberg, Jesse Eisenberg rises beautifully to the challenge of portraying an unlikable protagonist and making us feel engaged by him -- or even want to see him succeed, depending on your perspective. And perspective is everything, as you'll find in "The Social Network." Eisenberg hones the awkward intelligence that's become his trademark in films like "The Squid and the Whale" and "Adventureland," but there's an edge to it now, a bitterness that makes him the most dangerous nerd ever.Based on Ben Mezrich's book "The Accidental Billionaires," "The Social Network" couldn't be more timely, with Trent Reznor's synth-heavy score contributing to the contemporary, techie vibe. But it's a classic tale of ambition, greed, ego and self-destruction. It looks like a Fincher film with its dark, smoky warmth, similar to "Fight Club," "Panic Room" and "Zodiac." And yet it's his least show-offy film from a technical standpoint (although how he digitally depicts a set of twins is seamless). "The Social Network" moves with great verve but it's all about the dialogue. And that's where Sorkin comes in -- his 162-page script packed neatly into a two-hour film with patter so brisk, especially off the top, it'll make you feel as if you're watching a 1940s screwball comedy.Fincher cuts back and forth between the creation of what we now know to be the juggernaut of Facebook and the depositions in two lawsuits against Zuckerberg. One is from a group of Harvard classmates, twins Cameron and Tyler Winklevoss (Armie Hammer and Josh Pence) and Divya Narendra (Max Minghella), who say Zuckerberg agreed to help them establish their own on-campus social network, then stole his idea and formed his own. The other is from his former business partner and only close friend back then, Facebook co-founder Eduardo Saverin (Andrew Garfield), who says he was cheated out of millions after providing the earliest financial backing.Each is certain of his telling of the events; "The Social Network" lets us watch them all play out and gives us enough credit to decide for ourselves. And the performances all around bring these various versions of the truth to life.Eisenberg is at the center of it all, but Garfield is just as strong: He's the realist in the equation, but he's also more emotionally invested. And Justin Timberlake is, totally unsurprisingly, charismatic as hell as Sean Parker, the Napster co-founder who encourages Zuckerberg's ambition, as well as his darker instincts.Just as you can't stop yourself from checking into Facebook more than once a day, you'll find yourself drawn to "The Social Network" again and again. It's easily one of the year's best."The Social Network," a Columbia Pictures release, is rated PG-13 for sexual content, drug and alcohol use and language. Running time: 120 minutes. Four stars out of four.</text>
+  <mention label="Social Network" length="14" position="10"/>
+  <mention label="Garfield" length="8" position="4239"/>
+  <mention label="Andrew Garfield" length="15" position="4232"/>
+  <mention label="Max Minghella" length="13" position="3975"/>
+  <mention label="Eisenberg" length="9" position="2434"/>
+  <mention label="Eisenberg" length="9" position="2690"/>
+  <mention label="Harvard" length="7" position="1674"/>
+  <mention label="Dallas" length="6" position="267"/>
+  <mention label="Social Network" length="14" position="2972"/>
+  <mention label="David Fincher" length="13" position="926"/>
+  <mention label="Mark Zuckerberg" length="15" position="1690"/>
+  <mention label="Zuckerberg" length="10" position="1695"/>
+  <mention label="Zuckerberg" length="10" position="3999"/>
+  <mention label="Sorkin" length="6" position="1425"/>
+  <mention label="Ryder Cup" length="9" position="401"/>
+  <mention label="Harvard" length="7" position="3870"/>
+  <mention label="Zuckerberg" length="10" position="2069"/>
+  <mention label="New Jersey" length="10" position="298"/>
+  <mention label="Fincher" length="7" position="932"/>
+  <mention label="Social Network" length="14" position="1323"/>
+  <mention label="Aaron Sorkin" length="12" position="951"/>
+  <mention label="Sorkin" length="6" position="957"/>
+  <mention label="Cameron" length="7" position="3896"/>
+  <mention label="Sean Parker" length="11" position="4788"/>
+  <mention label="Napster" length="7" position="4805"/>
+  <mention label="Trent Reznor" length="12" position="3018"/>
+  <mention label="Facebook" length="8" position="67"/>
+  <mention label="Facebook" length="8" position="3782"/>
+  <mention label="Facebook" length="8" position="731"/>
+  <mention label="Social Network" length="14" position="858"/>
+  <mention label="Tyler Winklevoss" length="16" position="3908"/>
+  <mention label="Facebook" length="8" position="4945"/>
+  <mention label="Armie Hammer" length="12" position="3926"/>
+  <mention label="Los Angeles" length="11" position="208"/>
+  <mention label="Zuckerberg" length="10" position="2027"/>
+  <mention label="Fincher" length="7" position="1376"/>
+  <mention label="Facebook" length="8" position="4195"/>
+  <mention label="Ben Mezrich" length="11" position="2917"/>
+  <mention label="Zuckerberg" length="10" position="3835"/>
+  <mention label="Facebook" length="8" position="1915"/>
+  <mention label="Jesse Eisenberg" length="15" position="2428"/>
+  <mention label="Social Network" length="14" position="121"/>
+  <mention label="Eduardo Saverin" length="15" position="4215"/>
+  <mention label="Divya Narendra" length="14" position="3959"/>
+  <mention label="Zuckerberg" length="10" position="2416"/>
+  <mention label="Wales" length="5" position="382"/>
+  <mention label="Columbia Pictures" length="17" position="5103"/>
+  <mention label="Justin Timberlake" length="17" position="4719"/>
+  <mention label="Social Network" length="14" position="2673"/>
+</item>

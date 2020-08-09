@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Batsmen unable to ask for bad light in law changesBatsmen will no longer be able to ask for play to be suspended because of bad light in one of eight minor changes to the laws of cricket set to take effect from Friday.The Marylebone Cricket Club -- the custodian of the laws of the game -- will now allow only on-field umpires the right to decide whether play can be halted because of darkness.That will eliminate the practice of batting sides stopping play for tactical reasons.The MCC "has introduced changes aimed at providing more fairness to both sides and reducing the amount of playing time lost," it said in a statement Thursday.Among the other changes, the MCC stipulated that an umpire must attend the pre-match toss of a coin to determine which team bats and which team fields first. The captain who wins the coin toss must make an immediate choice.The MCC has also reduced from two to one the number of warnings given by umpires to batsmen for damaging the pitch before penalty runs are imposed and has banned bowlers from warming up by bowling the ball into the ground to a teammate -- an action that can wear the ball and waste time.Top-ranked India hosts Australia at Mohali in a test match starting Friday.</text>
+  <mention label="MCC" length="3" position="483"/>
+  <mention label="MCC" length="3" position="864"/>
+  <mention label="India" length="5" position="1158"/>
+  <mention label="Marylebone Cricket Club" length="23" position="222"/>
+  <mention label="Mohali" length="6" position="1183"/>
+  <mention label="MCC" length="3" position="666"/>
+  <mention label="Australia" length="9" position="1170"/>
+</item>

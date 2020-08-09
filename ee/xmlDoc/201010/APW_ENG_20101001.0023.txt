@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Lakers wary but excited about European tourPau Gasol has traveled to Spain twice during previous NBA preseasons, so he knows all about being a tour guide for a bunch of wide-eyed American hoopsters in his native Barcelona. Las Ramblas, the Sagrada Familia, the paella -- he has it all covered.But Gasol knows his third trip back home is a whole lot bigger than his first two with the Memphis Grizzlies. After all, he's now with the two-time defending NBA champion Los Angeles Lakers, whose every move is a big deal."It's always special, but at the same time, it wears you out a little bit," Gasol said of the NBA's preseason European tours. "They've got you doing two events a day, practice, media. You want to see your friends, you're excited to be home, you have no time, so it becomes a little stressful. The most enjoyable part is the game. You can't wait to play the game, get on a plane and get back here."Although the Lakers would prefer to be practicing at their quiet training complex near LAX, they were politely excited about boarding one of those planes Thursday for a flight to London, where they'll face the Minnesota Timberwolves at The O2 on Monday. They'll go on to Spain for another game next Thursday against Regal FC Barcelona, Gasol's former team.Their schedule is jam-packed with public events, private gatherings, team-building sessions, two exhibitions in front of excited audiences -- and a few practices, if they can find the time.Gasol acknowledges he'll be the No. 2 attraction -- even in Barcelona -- behind Kobe Bryant. The two-time NBA finals MVP hopes to play in both exhibitions, although his minutes will be limited as he ramps back up from offseason knee surgery."Most of us have all been traveling all summer, so it just feels like another trip," said Bryant, who has practiced only sparingly in the past week. "(The travel) doesn't concern me. I'll play if it feels right. These are like practice games. If I can play, I'll play."The Lakers have been on a treadmill of nearly nonstop basketball since late 2007, when they gathered at training camp before the first of three consecutive trips to the NBA finals. Bryant and Gasol also participated in the 2008 Beijing Olympics, while Lamar Odom just got back from Europe after playing for the championship-winning U.S. team at the world championships.Just when Odom finally had his body clock re-set to California time, he hopped on another plane -- but Odom wasn't complaining much."We're on the world stage representing our team and our corporation," Odom said. "There's nothing like representing basketball. The game is expanding, and basketball is the new soccer. It's catching on all over the world. ... London is a pretty cool city, so I'm looking forward to getting this practice over with and getting out and walking around, just getting out and seeing the town, maybe getting my wife some shoes -- something she wouldn't see over here."Odom's wife, reality TV star Khloe Kardashian, won't make the trip, but Odom knows the spotlight on the Lakers still will be quite bright."The paparazzi is strong over there, too, right?" he asked with a grin.Coach Phil Jackson already is a world traveler, and his natural concerns about interrupting training camp are tempered by the opportunity to expand his younger players' horizons. Since he hasn't installed Los Angeles' inbounds plays, Jackson still plans to get the Lakers into a gym on every off-day to work on the triangle offense and their teamwork."You have to go over there and find a way to get some progress, and not just slide along in neutral," Jackson said. "I don't know how much ground we're going to gain, though. It's really more of a publicity thing for the league."The Lakers are traveling with 16 players, including injured center Andrew Bynum. Bryant and Derek Fisher plan to get the players together at some point on the trip for an expensive meal and some good conversation as they attempt to solidify the team chemistry they'll need to compete with Miami, Boston, Orlando and everybody else for a third straight title."I'm not a fish-and-chips type of guy, but hopefully we'll get a chance to enjoy some fine dining," Fisher said. "It's tough to prepare for the type of season we have in front of us with such a disjointed October, but I think we've maximized what we have. I don't think we'll view it as an excuse to lean on or anything as to why we don't start the season the right way."</text>
+  <mention label="Bryant" length="6" position="1542"/>
+  <mention label="London" length="6" position="2694"/>
+  <mention label="Odom" length="4" position="2439"/>
+  <mention label="Lakers" length="6" position="0"/>
+  <mention label="Kobe Bryant" length="11" position="1537"/>
+  <mention label="Memphis Grizzlies" length="17" position="384"/>
+  <mention label="Olympics" length="8" position="2203"/>
+  <mention label="Beijing" length="7" position="2195"/>
+  <mention label="European" length="8" position="30"/>
+  <mention label="NBA" length="3" position="1563"/>
+  <mention label="Europe" length="6" position="30"/>
+  <mention label="Spain" length="5" position="1183"/>
+  <mention label="Lakers" length="6" position="925"/>
+  <mention label="Khloe Kardashian" length="16" position="2959"/>
+  <mention label="Lamar Odom" length="10" position="2219"/>
+  <mention label="Pau Gasol" length="9" position="43"/>
+  <mention label="Boston" length="6" position="4015"/>
+  <mention label="Gasol" length="5" position="47"/>
+  <mention label="Jackson" length="7" position="3373"/>
+  <mention label="Gasol" length="5" position="297"/>
+  <mention label="Miami" length="5" position="4008"/>
+  <mention label="Odom" length="4" position="2346"/>
+  <mention label="Orlando" length="7" position="4023"/>
+  <mention label="Lakers" length="6" position="1971"/>
+  <mention label="Odom" length="4" position="2225"/>
+  <mention label="American" length="8" position="179"/>
+  <mention label="NBA" length="3" position="451"/>
+  <mention label="Spain" length="5" position="69"/>
+  <mention label="Los Angeles Lakers" length="18" position="464"/>
+  <mention label="Phil Jackson" length="12" position="3145"/>
+  <mention label="London" length="6" position="1091"/>
+  <mention label="Andrew Bynum" length="12" position="3786"/>
+  <mention label="Jackson" length="7" position="3150"/>
+  <mention label="Gasol" length="5" position="591"/>
+  <mention label="Lakers" length="6" position="476"/>
+  <mention label="Los Angeles" length="11" position="464"/>
+  <mention label="Barcelona" length="9" position="1237"/>
+  <mention label="Barcelona" length="9" position="212"/>
+  <mention label="Regal FC Barcelona" length="18" position="1228"/>
+  <mention label="California" length="10" position="2388"/>
+  <mention label="NBA" length="3" position="97"/>
+  <mention label="NBA" length="3" position="609"/>
+  <mention label="Bryant" length="6" position="2148"/>
+  <mention label="LAX" length="3" position="999"/>
+  <mention label="Gasol" length="5" position="1248"/>
+  <mention label="Odom" length="4" position="2538"/>
+  <mention label="Fisher" length="6" position="3817"/>
+  <mention label="Derek Fisher" length="12" position="3811"/>
+  <mention label="Minnesota Timberwolves" length="22" position="1122"/>
+  <mention label="Odom" length="4" position="2930"/>
+  <mention label="European" length="8" position="625"/>
+  <mention label="Bryant" length="6" position="1788"/>
+  <mention label="U.S." length="4" position="2299"/>
+  <mention label="Sagrada Familia" length="15" position="240"/>
+</item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>George W. Bush to kick off book fair in MiamiFormer President George W. Bush will kick off this year's international book fair in Miami.Bush is scheduled to speak at the 27th annual Miami Book Fair International, which runs from Nov. 14-21. The former president will present his memoir "Decision Points," on Nov. 14 at 4 p.m.Book fair organizers told The Associated Press that tickets to Bush's presentation are $40. That includes a presigned copy of the book, which comes out Nov. 9. Crown Publishers has said it will have a print run of 1.5 million copies.This year's fair celebrates Mexico as its featured country with cultural programming, including food, theater, music and dance. Other notable authors include Jonathan Franzen, Salman Rushdie, Michael Cunningham and Gay Talese.------ONLINE:Miami Book Fair International: http://www.miamibookfair.com.</text>
+  <mention label="Miami" length="5" position="130"/>
+  <mention label="Miami Book Fair International" length="29" position="182"/>
+  <mention label="Bush" length="4" position="72"/>
+  <mention label="Mexico" length="6" position="586"/>
+  <mention label="Miami" length="5" position="40"/>
+  <mention label="George W. Bush" length="14" position="0"/>
+  <mention label="Bush" length="4" position="10"/>
+  <mention label="Gay Talese" length="10" position="773"/>
+  <mention label="George W. Bush" length="14" position="62"/>
+  <mention label="Salman Rushdie" length="14" position="734"/>
+  <mention label="Associated Press" length="16" position="355"/>
+  <mention label="Miami" length="5" position="182"/>
+  <mention label="Michael Cunningham" length="18" position="750"/>
+  <mention label="Jonathan Franzen" length="16" position="716"/>
+</item>

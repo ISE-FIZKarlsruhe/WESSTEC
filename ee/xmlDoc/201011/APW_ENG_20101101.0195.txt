@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>In China, hit-and-run death exposes class angerThe more he heard about the person accused of killing his 20-year-old daughter in a drunken hit-and-run, the more terrified Chen Guangqian became.The suspect's father is a high-ranking police officer. In a country where fear of the police runs high, the 49-year-old farmer decided there was no point in fighting."I'm just a peasant," he said in an interview. "If it's unfair, let it be."But an angry public overruled him. The hit-and-run last month has crystallized popular outrage at China's powerful elite and the arrogance of some children of money and power."My father is Li Gang!" the driver reportedly shouted when a crowd stopped his car, referring to the deputy chief of the local district police.The comment, which was reported in the media, exploded on the Internet, becoming the country's newest catch phrase. An online contest challenged people to work "My father is Li Gang" into classical poetry. One artist used the phrase as the centerpiece of a towering art installation.On the night of Oct. 16, a car struck first-year student Chen Xiaofeng on a Hebei University campus. Li Qiming, 22, is accused of driving under the influence of alcohol, hitting Chen and driving away.Six days later, state broadcaster China Central Television aired an unusual pair of interviews with Li and his father. Both of them wept and apologized. The senior police officer bowed in front of the camera for half a minute, until the reporter helped him up."I will not shield my child," the elder Li said.Zhang Kai, a Beijing-based human rights lawyer who has taken up Chen's case, questioned the motive behind the interviews and whether Li Gang used his influence to make them happen.On his blog, Zhang also asked how CCTV, as the broadcaster is known, was able to interview the son, saying Chinese law allows only police, prosecutors, legal workers and lawyers to enter a detention center.Chen, the victim's father, has not been interviewed by CCTV."CCTV only cares about the upper class and not us victims," Chen said. "If they found and talked to Li Gang, then they should have found and talked to me too."Many in China are cowed by police power, and no witnesses have come forward in response to a plea from Zhang, even though photos show dozens at the scene."Nobody dares speak out" except on the Internet, the lawyer said.Chen spends his days in a tiny hotel room in Baoding, the northern city where his daughter died. He and his wife rushed to the city after the accident from their village a few hours away. His wife has since been hospitalized with high blood pressure, which he attributes to her grief.His temporary life is kept in a pile of cheap zip-up plastic bags on the floor. In one is a school photo of his daughter, looking serious, with short-cropped hair. The photo has been enlarged to be the centerpiece of her funeral, but Chen doesn't know when that will be allowed to happen.Li Gang, the father of the accused, has come to the dreary hotel to visit him twice."My first impression was that he was an honest guy, easygoing, apologizing and apologizing," Chen said. "And he bowed. But he didn't cry like he did on TV."Li told him there were two ways to resolve the situation, Chen said.They could do it privately through compensation. "He said he would give us his last penny," Chen said. Or Chen could take the legal route through the courts. "He said he'd support me all the same."Since then, police from Li's district have come several times to tell Chen to make up his mind quickly, he said. "They told me to give a figure" for compensation.The police are also urging him to have his daughter's body cremated quickly, he said.That's a warning sign for Chen's lawyer, who says the body is evidence. He wants Li's son to face a more serious charge of endangering public security, which could carry the death penalty. The current charge is causing a traffic death.Li Gang could not be reached. He gave the Chen family a contact number, but a police officer who answered the number declined to comment and said Li was unavailable.A commentary in one of China's more aggressive newspapers, Southern Weekend, said the hit-and-run wouldn't have become a major controversy without citizens watching and reporting online. "It is the age when anyone can make themselves useful," the article read in part. "It gives help to the helpless, power to the powerless."The governor of Hebei province announced that the provincial Communist Party committee has formed a working group to look into the incident, which he said has made Hebei look bad.But the Chinese government also appears to be trying to tamp down interest in the case. State media have been ordered not to publish any more stories on it and to pull their reporters out of the city, a two-hour drive south of Beijing.</text>
+  <mention label="Chen" length="4" position="1092"/>
+  <mention label="Chen" length="4" position="2885"/>
+  <mention label="Zhang" length="5" position="1543"/>
+  <mention label="CCTV" length="4" position="1990"/>
+  <mention label="Chen" length="4" position="1607"/>
+  <mention label="CCTV" length="4" position="1984"/>
+  <mention label="Chen" length="4" position="2049"/>
+  <mention label="China" length="5" position="3"/>
+  <mention label="Hebei University" length="16" position="1111"/>
+  <mention label="Li Gang" length="7" position="1676"/>
+  <mention label="Zhang" length="5" position="1736"/>
+  <mention label="Chen" length="4" position="1929"/>
+  <mention label="Zhang Kai" length="9" position="1543"/>
+  <mention label="Li" length="2" position="1676"/>
+  <mention label="Chen" length="4" position="3339"/>
+  <mention label="China" length="5" position="532"/>
+  <mention label="Hebei" length="5" position="1111"/>
+  <mention label="Beijing" length="7" position="1556"/>
+  <mention label="Hebei" length="5" position="4432"/>
+  <mention label="Li Gang" length="7" position="926"/>
+  <mention label="CCTV" length="4" position="1757"/>
+  <mention label="Li" length="2" position="926"/>
+  <mention label="Chen" length="4" position="3353"/>
+  <mention label="Chen" length="4" position="3237"/>
+  <mention label="Chinese" length="7" position="1830"/>
+  <mention label="Internet" length="8" position="814"/>
+  <mention label="Chen" length="4" position="3116"/>
+  <mention label="Li Gang" length="7" position="623"/>
+  <mention label="China" length="5" position="2156"/>
+  <mention label="Baoding" length="7" position="2412"/>
+  <mention label="China Central Television" length="24" position="1269"/>
+  <mention label="Internet" length="8" position="2341"/>
+  <mention label="Li" length="2" position="623"/>
+  <mention label="Li Gang" length="7" position="2089"/>
+  <mention label="Chen" length="4" position="171"/>
+  <mention label="China" length="5" position="1269"/>
+  <mention label="Li" length="2" position="1136"/>
+  <mention label="Communist Party" length="15" position="4477"/>
+  <mention label="Li" length="2" position="1335"/>
+  <mention label="Chen" length="4" position="1213"/>
+  <mention label="Chen" length="4" position="2367"/>
+  <mention label="Chinese" length="7" position="4603"/>
+  <mention label="Li" length="2" position="1535"/>
+  <mention label="Chen" length="4" position="3514"/>
+</item>

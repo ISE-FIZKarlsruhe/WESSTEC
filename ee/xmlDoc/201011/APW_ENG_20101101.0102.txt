@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Oil rises to near $82 as China manufacturing growsOil prices rose to near $82 a barrel Monday in Asia as regional stock markets jumped on news that growth in Chinese manufacturing picked up pace in October.Benchmark crude for December delivery was up 42 cents at $81.85 a barrel at late morning Bangkok time in electronic trading on the New York Mercantile Exchange. The contract fell 75 cents to settle at $81.43 on Friday.The pickup in Chinese manufacturing suggests that China's economic recovery remains on track, bolstering expectations that its demand for crude will offset weakness in advanced economies.The figures boosted Asian stock markets which were mostly higher Monday.Crude has been stuck in a range of about $80 to $83 a barrel for the past week, as traders and investors wait for the Federal Reserve to say what it will do to stimulate the U.S. economy.Expectations the Fed will Wednesday announce a Treasury bond buying program to pump money into the ailing economy were reinforced by lackluster third quarter U.S. growth figures released last week.In other energy trading on the Nymex, heating oil was up 1 cent to $2.25 a gallon. Gasoline dropped 2 cents to $2.06 a gallon and natural gas added 6 cents to $4.10 per 1,000 cubic feet.Brent crude was up 9 cents at $83.24 a barrel on the ICE futures exchange in London.</text>
+  <mention label="Bangkok" length="7" position="295"/>
+  <mention label="U.S." length="4" position="1028"/>
+  <mention label="Fed" length="3" position="801"/>
+  <mention label="Asia" length="4" position="97"/>
+  <mention label="New York Mercantile Exchange" length="28" position="337"/>
+  <mention label="Federal Reserve" length="15" position="801"/>
+  <mention label="Nymex" length="5" position="1098"/>
+  <mention label="Chinese" length="7" position="438"/>
+  <mention label="Asian" length="5" position="631"/>
+  <mention label="London" length="6" position="1330"/>
+  <mention label="Chinese" length="7" position="158"/>
+  <mention label="China" length="5" position="25"/>
+  <mention label="U.S." length="4" position="857"/>
+  <mention label="Treasury" length="8" position="917"/>
+  <mention label="China" length="5" position="474"/>
+</item>

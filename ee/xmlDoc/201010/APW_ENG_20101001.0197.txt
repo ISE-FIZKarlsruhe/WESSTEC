@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Australian mother jailed for starving her childrenAn Australian mother who admitted spending welfare money on cigarettes and gambling was sentenced Friday to six years in prison for starving, beating, and neglecting her children.Prosecutor Jim Pearce told the court the children were starved and sometimes forced to vomit if they ate when they were not supposed to. They were also made to stand against a wall all day and beaten for stepping out of line.When authorities were notified in June 2008, one child was hospitalized with hypothermia and all the children were taken into protective custody.Judge Chris Kourakis handed down the sentence in the South Australian Supreme Court, where the woman pleaded guilty last month to two counts of endangering life and three counts of creating a risk of serious harm relating to five children.The woman cannot be identified in order to protect the identity of her children.Kourakis said the woman had been abused as a child but added the need for a deterrent in child protection cases outweighed her lawyer's request for a suspended sentence.The mother will be eligible for parole in three years and three months.</text>
+  <mention label="South Australian Supreme Court" length="30" position="652"/>
+  <mention label="Australian" length="10" position="0"/>
+  <mention label="Jim Pearce" length="10" position="240"/>
+  <mention label="Australian" length="10" position="53"/>
+</item>

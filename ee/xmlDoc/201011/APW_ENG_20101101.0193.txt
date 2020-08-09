@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Nissan shows tiny electric concept vehicleNissan showed a two-seater electric vehicle resembling a go-cart Monday that isn't ready for sale but spotlights the Japanese automaker's ambitions to be the leader in zero-emission cars.Nissan Motor Co. is planning to produce 250,000 electric vehicles a year, starting with the Leaf electric car set for delivery in Japan and the U.S. in December, and next year in Europe.Its alliance partner Renault SA of France is planning to produce another 250,000 electric vehicles a year.The two companies together will produce 500,000 batteries for EVs a year, said Nissan, which makes batteries with Japanese electronics maker NEC Corp."We don't want EVs to be a niche product," Corporate Vice President Hideaki Watanabe told reporters at the company's headquarters southwest of Tokyo.He said Nissan boasts 18 years of development experience in lithium-ion batteries, which will power the Leaf, and the company developed its first electric vehicle in 1947. Lithium-ion batteries are common in devices like laptops but will be relatively new for autos.Then Watanabe zipped around -- smoothly and silently as is characteristic of electric vehicles -- Nissan's showroom in the tiny electric vehicle called "Nissan New Mobility CONCEPT."It has a range of a 100 kilometers (62 miles), and maximum speed of 75 kilometers (47 miles) per hour. The EV system was developed by Renault, but the car's design was by Nissan.Some analysts are skeptical about the practicality of electric vehicles, noting they will make up only a tiny fraction of the overall auto market for some years to come.Watanabe did not give a price for the concept car. He said uses were still being studied, such as amusement parks and Yokohama city's green mobility projects.Nissan said it is setting up charging stations for electric vehicles, and forging partnerships with governments and companies, now climbing to more than 80 around the world from 30 last year in an effort to make the move to electric successful."That shows how interest in zero-emissions is growing," said Watanabe.Nissan dealers in Japan will be equipped with battery rechargers with the goal of having 2 million chargers, and an additional 5,000 that recharge quicker, around Japan by 2020, according to the manufacturer of the March subcompact and Infiniti luxury models.Nissan has set up a company to recycle used EV batteries to reuse and repackage, as well as reselling for back-up and storage.</text>
+  <mention label="France" length="6" position="450"/>
+  <mention label="Nissan" length="6" position="0"/>
+  <mention label="Watanabe" length="8" position="1615"/>
+  <mention label="Watanabe" length="8" position="1091"/>
+  <mention label="Yokohama" length="8" position="1733"/>
+  <mention label="Nissan" length="6" position="1239"/>
+  <mention label="Japanese" length="8" position="159"/>
+  <mention label="Nissan" length="6" position="1439"/>
+  <mention label="Japan" length="5" position="159"/>
+  <mention label="Infiniti" length="8" position="2323"/>
+  <mention label="Europe" length="6" position="408"/>
+  <mention label="Nissan" length="6" position="600"/>
+  <mention label="Japan" length="5" position="359"/>
+  <mention label="Watanabe" length="8" position="747"/>
+  <mention label="Nissan" length="6" position="229"/>
+  <mention label="Nissan" length="6" position="1184"/>
+  <mention label="Nissan Motor" length="12" position="229"/>
+  <mention label="Tokyo" length="5" position="814"/>
+  <mention label="Nissan" length="6" position="1773"/>
+  <mention label="Nissan" length="6" position="42"/>
+  <mention label="U.S." length="4" position="373"/>
+  <mention label="Renault" length="7" position="436"/>
+  <mention label="Japanese" length="8" position="635"/>
+  <mention label="Nissan" length="6" position="828"/>
+  <mention label="Japan" length="5" position="635"/>
+  <mention label="Renault SA" length="10" position="436"/>
+</item>

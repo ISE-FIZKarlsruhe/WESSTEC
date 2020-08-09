@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Philippine actor playing gunman killed by watchmanPolice say a Filipino actor playing a masked gunman has been shot dead by a village watchman in the central Philippines who allegedly mistook him for a real assassin.Cebu city community police chief Alexis Relado says that watchman Eddie Cuizon tried to accost Kirk Abella, who was wearing a ski mask and carrying a toy gun, and shot him late Saturday just as the actor was directed to speed away on a motorcycle.Relado says the 32-year-old actor was working on "Going Somewhere," being filmed by British director Alan Lyddiard in Cebu.Cuizon claims he was only responding to the reported presence of armed men.Relado said Monday that Cuizon faces homicide charges and violation of a gun ban.</text>
+  <mention label="Cebu" length="4" position="581"/>
+  <mention label="British" length="7" position="547"/>
+  <mention label="Philippines" length="11" position="158"/>
+  <mention label="Cuizon" length="6" position="288"/>
+  <mention label="Filipino" length="8" position="63"/>
+  <mention label="Alan Lyddiard" length="13" position="564"/>
+  <mention label="Philippine" length="10" position="0"/>
+  <mention label="Cuizon" length="6" position="586"/>
+  <mention label="Cebu" length="4" position="216"/>
+</item>

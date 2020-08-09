@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>OJ Simpson suit when acquitted on Newseum displayThe suit O.J. Simpson wore when he was acquitted of murder is going on display at the Newseum in Washington in an exhibit on sensationalism in the news.The tan Italian suit on display Friday was custom tailored by Ermenegildo Zegna. It will be shown under the headline "Sex! Crime! Scandal!"The exhibit also includes the mute button Superior Court Judge Lance Ito used when he wanted to shut off the live microphone in court.Curators say a jury consultant chose the suit for Simpson's last day in court.It was likely chosen with the media in mind for how Simpson would be portrayed in the news. He was acquitted in the 1994 slayings of his ex-wife, Nicole Brown Simpson, and her friend, Ronald Goldman.</text>
+  <mention label="Simpson" length="7" position="3"/>
+  <mention label="Newseum" length="7" position="34"/>
+  <mention label="O.J. Simpson" length="12" position="58"/>
+  <mention label="Italian" length="7" position="209"/>
+  <mention label="Ermenegildo Zegna" length="17" position="263"/>
+  <mention label="Washington" length="10" position="146"/>
+  <mention label="Simpson" length="7" position="63"/>
+  <mention label="Lance Ito" length="9" position="403"/>
+  <mention label="OJ Simpson" length="10" position="0"/>
+  <mention label="Nicole Brown Simpson" length="20" position="698"/>
+  <mention label="Ronald Goldman" length="14" position="736"/>
+</item>

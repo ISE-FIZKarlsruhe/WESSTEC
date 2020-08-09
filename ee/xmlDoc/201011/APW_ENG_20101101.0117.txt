@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Britons to the fore at world rowing championshipsEight British crews won heats and four progressed directly to finals on the second day of the world rowing championships on Lake Karapiro.The cancellation of racing because of high winds on Sunday created a packed schedule Monday and Britain provided some of the day's most impressive winners, among them Olympic champions Mark Hunter and Zac Purchase in the lightweight double sculls.Hunter and Purchase's first day heat was underway when championships organizers called off racing because of strong winds. The pair dominated their heat Monday to progress to the semifinals.</text>
+  <mention label="Lake Karapiro" length="13" position="173"/>
+  <mention label="British" length="7" position="55"/>
+  <mention label="Olympic" length="7" position="354"/>
+  <mention label="Britons" length="7" position="0"/>
+  <mention label="Zac Purchase" length="12" position="388"/>
+  <mention label="Britain" length="7" position="283"/>
+  <mention label="Hunter" length="6" position="377"/>
+  <mention label="Mark Hunter" length="11" position="372"/>
+</item>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Greinke, Royals beat Rays, leave AL East tied upZack Greinke pitched seven sharp innings as Kansas City beat Tampa Bay 3-2 on Thursday night, leaving the Rays and New York Yankees with a share of the AL East lead.The Rays and Yankees, who have both clinched playoff spots, are at 94-65 going into the final weekend. Tampa Bay plays three more times at Kansas City while the Yankees have a three-game series at Boston.If Tampa Bay and New York are level after Sunday, the Rays win the division title because they won the season series against the Yankees.Greinke (10-4) gave up two runs and four hits while striking out nine. He had won only one of his previous seven starts.Joakim Soria worked the ninth for his 43rd save. He has earned saves in his past 36 opportunities since his last blown save on May 6 at Texas.Matt Garza (15-10) gave up three runs and five hits in seven innings.Rangers 3, Angels 2At Arlington, Vladimir Guerrero drove in the go-ahead run in the eighth for Texas and Cliff Lee pitched seven innings in his final tuneup before the playoffs.Nelson Cruz, who had three hits, doubled to right and stole third on a pitch in the dirt with one out in the eighth. Guerrero lined a single to left off reliever Jordan Walden (0-1) to give Texas the lead.Darren O'Day (6-2) relieved Lee and allowed a game-tying home run to Peter Bourjos.Lee, who struck out eight without a walk, gave up four singles and an unearned run. He will start Game 1 of the AL division series Wednesday against either Tampa Bay or New York.Neftali Feliz pitched a scoreless ninth to earn his 39th save.Angels starter Scott Kazmir allowed two runs and six hits in 5 1-3 innings. The left-hander made his final start of the season and is 2-10 since June 24.Blue Jays 13, Twins 2At Minneapolis, Jose Bautista hit home runs No. 53 and 54, including a grand slam, and Toronto went deep six times.Edwin Encarnacion hit two homers and Jose Molina and Travis Snider added long balls for the Blue Jays, who have hit 253 homers this season, the fourth-highest total in baseball history.Bautista's second homer went to right field, his first this season that didn't go to either left or left-center.Francisco Liriano (14-10) gave up five runs and six hits, including three of those homers, with six strikeouts in 5 1-3 innings in his final start before the playoffs. The left-hander is scheduled to start Game 1 of the ALDS on Wednesday at Target Field.The AL Central champions have lost six of seven and missed a chance to tie the Rays and Yankees for the best record in the American League.Bautista entered the night on an 0-for-20 skid, but had three hits and five RBIs.Casey Janssen (5-2) pitched 1 1-3 innings of scoreless relief for the win.White Sox 8, Red Sox 2At Chicago, Paul Konerko hit a grand slam that wrecked Jon Lester's bid for his 20th win, and Chicago won a game delayed by a power failure.The game was held up for 21 minutes in the sixth inning when most of the stadium lights went out. A power outage in the area was the cause.Konerko connected for his 39th homer of the season and the ninth grand slam of his career. The fourth-inning shot off Lester (19-9) made it 6-2 and Dayan Viciedo chased the Red Sox ace with a two-run homer in the fifth.Lester, trying to become the first Red Sox left-hander in 57 years to win 20 games, gave up eight runs and nine hits in four-plus innings in his final start of the season.Victor Martinez homered for Boston, which has lost four of its last five.Juan Pierre stole three bases, giving him a career-high 66, as the White Sox finished 6-1 against the Red Sox. Chicago has won seven of eight since being eliminated from the AL Central.Athletics 8, Mariners 1At Seattle, Oakland's Gio Gonzalez threw seven scoreless innings, giving up four hits, walking five and striking out eight.Jeremy Hermida of the Athletics singled to lead off the fifth inning and Rajai Davis and Daric Barton both singled with two outs to load the bases before Doug Fister (6-14) balked in a run. Mark Ellis drove in one run with a single and Jack Cust added a two-run single.Kevin Kouzmanoff singled to lead off sixth inning and Chris Carter homered to give Oakland a 6-0 lead and chase Fister.</text>
+  <mention label="Travis Snider" length="13" position="1932"/>
+  <mention label="Red Sox" length="7" position="3590"/>
+  <mention label="Arlington" length="9" position="907"/>
+  <mention label="Angels" length="6" position="896"/>
+  <mention label="Vladimir Guerrero" length="17" position="918"/>
+  <mention label="Greinke" length="7" position="0"/>
+  <mention label="AL Central" length="10" position="2434"/>
+  <mention label="Chicago" length="7" position="3599"/>
+  <mention label="Gio Gonzalez" length="12" position="3718"/>
+  <mention label="Fister" length="6" position="3978"/>
+  <mention label="Lee" length="3" position="1295"/>
+  <mention label="Doug Fister" length="11" position="3973"/>
+  <mention label="Royals" length="6" position="9"/>
+  <mention label="Rays" length="4" position="21"/>
+  <mention label="Francisco Liriano" length="17" position="2176"/>
+  <mention label="Guerrero" length="8" position="927"/>
+  <mention label="Bautista" length="8" position="2064"/>
+  <mention label="Boston" length="6" position="410"/>
+  <mention label="Rays" length="4" position="154"/>
+  <mention label="Chicago" length="7" position="2840"/>
+  <mention label="Chris Carter" length="12" position="4142"/>
+  <mention label="Mark Ellis" length="10" position="4009"/>
+  <mention label="Yankees" length="7" position="546"/>
+  <mention label="AL East" length="7" position="33"/>
+  <mention label="Yankees" length="7" position="172"/>
+  <mention label="Juan Pierre" length="11" position="3488"/>
+  <mention label="New York" length="8" position="163"/>
+  <mention label="Tampa Bay" length="9" position="420"/>
+  <mention label="Nelson Cruz" length="11" position="1062"/>
+  <mention label="White Sox" length="9" position="2724"/>
+  <mention label="Joakim Soria" length="12" position="674"/>
+  <mention label="Texas" length="5" position="810"/>
+  <mention label="Greinke" length="7" position="53"/>
+  <mention label="New York Yankees" length="16" position="163"/>
+  <mention label="Tampa Bay" length="9" position="316"/>
+  <mention label="Peter Bourjos" length="13" position="1336"/>
+  <mention label="Red Sox" length="7" position="2737"/>
+  <mention label="New York" length="8" position="434"/>
+  <mention label="Matt Garza" length="10" position="816"/>
+  <mention label="Chicago" length="7" position="2749"/>
+  <mention label="Zack Greinke" length="12" position="48"/>
+  <mention label="Toronto" length="7" position="1851"/>
+  <mention label="Rajai Davis" length="11" position="3892"/>
+  <mention label="Lester" length="6" position="3143"/>
+  <mention label="Jordan Walden" length="13" position="1224"/>
+  <mention label="Blue Jays" length="9" position="1743"/>
+  <mention label="Edwin Encarnacion" length="17" position="1879"/>
+  <mention label="Daric Barton" length="12" position="3908"/>
+  <mention label="Red Sox" length="7" position="3279"/>
+  <mention label="Scott Kazmir" length="12" position="1605"/>
+  <mention label="Paul Konerko" length="12" position="2758"/>
+  <mention label="Oakland" length="7" position="4171"/>
+  <mention label="Konerko" length="7" position="2763"/>
+  <mention label="AL East" length="7" position="200"/>
+  <mention label="Athletics" length="9" position="3673"/>
+  <mention label="Texas" length="5" position="980"/>
+  <mention label="Cliff Lee" length="9" position="990"/>
+  <mention label="Kansas City" length="11" position="92"/>
+  <mention label="Casey Janssen" length="13" position="2650"/>
+  <mention label="Twins" length="5" position="1757"/>
+  <mention label="Victor Martinez" length="15" position="3415"/>
+  <mention label="Rays" length="4" position="217"/>
+  <mention label="Jack Cust" length="9" position="4055"/>
+  <mention label="Texas" length="5" position="1252"/>
+  <mention label="Tampa Bay" length="9" position="109"/>
+  <mention label="Jeremy Hermida" length="14" position="3819"/>
+  <mention label="Yankees" length="7" position="226"/>
+  <mention label="Lee" length="3" position="996"/>
+  <mention label="Kevin Kouzmanoff" length="16" position="4088"/>
+  <mention label="Dayan Viciedo" length="13" position="3173"/>
+  <mention label="White Sox" length="9" position="3555"/>
+  <mention label="Kansas City" length="11" position="352"/>
+  <mention label="Minneapolis" length="11" position="1767"/>
+  <mention label="Mariners" length="8" position="3686"/>
+  <mention label="Yankees" length="7" position="374"/>
+  <mention label="Bautista" length="8" position="1785"/>
+  <mention label="Lester" length="6" position="2805"/>
+  <mention label="Seattle" length="7" position="3699"/>
+  <mention label="Boston" length="6" position="3443"/>
+  <mention label="Neftali Feliz" length="13" position="1528"/>
+  <mention label="American League" length="15" position="2553"/>
+  <mention label="Jose Molina" length="11" position="1916"/>
+  <mention label="Red Sox" length="7" position="3198"/>
+  <mention label="Jose Bautista" length="13" position="1780"/>
+  <mention label="Oakland" length="7" position="3708"/>
+  <mention label="Jon Lester" length="10" position="2801"/>
+  <mention label="Darren O'Day" length="12" position="1267"/>
+</item>

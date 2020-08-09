@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Koreas meet to discuss family reunionsRed Cross officials from the two Koreas tried to narrow differences Friday on how to restart a stalled program to hold reunions for families separated by civil war 60 years ago, South Korea's Unification Ministry said.The reunions, which have not been held in more than a year, could help restore calm between North and South Korea, which have been especially tense since the March sinking of a South Korean warship that killed 46 sailors. An international investigation blamed the attack on North Korea, but Pyongyang denied involvement.North Korea in early September proposed a resumption in the reunions, but the two sides have not agreed on details of the venue as well as their scale, and two previous rounds of talks last month failed to resolve the dispute.The difficulty of broadly reducing tensions between the sides was underscored Thursday when their first working-level military talks between in two years ended without progress, with the meeting stumbling over the issue of the warship sinking.South Korea has proposed holding the family meetings in a reunion center at the North's scenic Diamond Mountain resort. The North also has suggested the resort, but the two sides have not agreed on an exact location within it."I will try to resolve the issue of a venue for reunions of separated families and discuss details on the schedule," Kim Eyi-do, the South Korean side's chief delegate, told reporters before crossing the border into the North Korean city of Kaesong where the talks were being held.The dispute over the venue stems from South Korea's suspension of tourist trips there, which had provided the impoverished North with much-needed hard currency for a decade. Seoul took the action in 2008 when a South Korean tourist was fatally shot after allegedly entering a restricted military area next to the facility.Pyongyang, which has repeatedly called for the tours to resume, appeared likely to take advantage of the reunions as leverage to reopen the tourist trips. South Korea has refused to restart them until its demands for a joint investigation into the shooting are carried out.On Thursday, South Korea renewed its demand that North Korea immediately acknowledge and apologize for the ship sinking and punish those responsible, according to Seoul's Defense Ministry.North Korea responded that it cannot accept the result of the international investigation and reiterated its long-standing demand that its own investigators be allowed to go to South Korea to examine the results, the ministry said.The North also called on the South to rein in activists who spread anti-North Korean leaflets, the ministry said. The North warned that its artillery units were "getting fully ready to strike the spotted centers for scattering leaflets," North Korea's official Korean Central News Agency reported late Thursday.The North regularly threatens military retaliation against the South, though the threat to fire artillery at the leaflet launch sites appeared to be a first. Seoul's Defense Ministry said it had no comment.The talks came after North Korean leader Kim Jong Il earlier this week promoted his youngest son, Kim Jong Un, to four-star general and gave him key political posts, messaging the world that he is his chosen successor.Kim Jong Il took over the authoritarian country in 1994 after the death of his father, the North's founder Kim Il Sung.------Associated Press writer Sangwon Yoon in Seoul contributed to this report.</text>
+  <mention label="North Korean" length="12" position="2638"/>
+  <mention label="Seoul" length="5" position="2310"/>
+  <mention label="Koreas" length="6" position="0"/>
+  <mention label="North Korea" length="11" position="576"/>
+  <mention label="Seoul" length="5" position="3466"/>
+  <mention label="Korean Central News Agency" length="26" position="2827"/>
+  <mention label="South Korea" length="11" position="216"/>
+  <mention label="North Korea" length="11" position="2335"/>
+  <mention label="North Korea" length="11" position="1491"/>
+  <mention label="North Korea" length="11" position="530"/>
+  <mention label="North" length="5" position="348"/>
+  <mention label="Kim Il Sung" length="11" position="3408"/>
+  <mention label="Pyongyang" length="9" position="1874"/>
+  <mention label="South" length="5" position="216"/>
+  <mention label="Defense Ministry" length="16" position="2318"/>
+  <mention label="South Korea" length="11" position="1045"/>
+  <mention label="Seoul" length="5" position="3035"/>
+  <mention label="North Korea" length="11" position="2196"/>
+  <mention label="North Korean" length="12" position="1491"/>
+  <mention label="South" length="5" position="358"/>
+  <mention label="South Korea" length="11" position="1763"/>
+  <mention label="Pyongyang" length="9" position="547"/>
+  <mention label="South Korea" length="11" position="358"/>
+  <mention label="Kim Jong Il" length="11" position="3301"/>
+  <mention label="South Korean" length="12" position="1763"/>
+  <mention label="Kaesong" length="7" position="1512"/>
+  <mention label="South Korean" length="12" position="1404"/>
+  <mention label="Associated Press" length="16" position="3426"/>
+  <mention label="Defense Ministry" length="16" position="3043"/>
+  <mention label="South Korea" length="11" position="1404"/>
+  <mention label="South Korea" length="11" position="433"/>
+  <mention label="Seoul" length="5" position="1726"/>
+  <mention label="South Korea" length="11" position="1590"/>
+  <mention label="South Korean" length="12" position="433"/>
+  <mention label="Kim Jong Il" length="11" position="3124"/>
+</item>

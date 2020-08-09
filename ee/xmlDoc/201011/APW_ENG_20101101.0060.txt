@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>America trounces Estudiantes 4-1 in MexicoDaniel Marquez scored twice as America trounced Estudiantes 4-1 on Sunday to move the Eagles closer to a postseason spot in the Mexican Apertura championship.Marquez opened the scoring in the 43rd minute and added his second strike in the 84, while Uruguayan Vicente Sanchez also scored in the 45th and Argentine midfielder Daniel Montenegro found the net in the 47th.America won its second in a row and has 24 points from 15 rounds to take second place in Group 2, behind San Luis who reached 25 with an away win over reining champion Toluca on Sunday.In other Sunday scores: Atlante rallied for a 2-1 win over Nexaca and Monterrey defeated Morelia 2-0.With just two weeks to play in the regular season, America needs two points to qualify for the playoffs. The two best teams in each group progress to the final round along with the two teams with the most points.Monterrey leads Group 1 with 32 points followed by Santos with 26. In Group 3, Cruz Azul leads with 35 -- the best point total in Mexico -- with Jaguares on 21.Argentine Mauro Cejas scored in the 54th minute for Estudiantes, who came in to the match eliminated with just 12 points.In Toluca, Ecuadorian striker Michael Arroyo scored in the third minute and added a strike in 53rd as the Gladiators defeated the Red Devils.Antonio Naelson scored in the 69th for Toluca, which suffered its first loss at home since week 10 of the Clausura championship.Arroyo scored his third goal in the last four rounds.</text>
+  <mention label="Toluca" length="6" position="578"/>
+  <mention label="Monterrey" length="9" position="908"/>
+  <mention label="America" length="7" position="0"/>
+  <mention label="Mexico" length="6" position="1038"/>
+  <mention label="San Luis" length="8" position="515"/>
+  <mention label="Arroyo" length="6" position="1227"/>
+  <mention label="Michael Arroyo" length="14" position="1219"/>
+  <mention label="America" length="7" position="73"/>
+  <mention label="Monterrey" length="9" position="665"/>
+  <mention label="Argentine" length="9" position="345"/>
+  <mention label="Estudiantes" length="11" position="90"/>
+  <mention label="Cruz Azul" length="9" position="987"/>
+  <mention label="Clausura" length="8" position="1436"/>
+  <mention label="Estudiantes" length="11" position="17"/>
+  <mention label="America" length="7" position="410"/>
+  <mention label="Toluca" length="6" position="1369"/>
+  <mention label="Vicente Sanchez" length="15" position="301"/>
+  <mention label="Mexico" length="6" position="36"/>
+  <mention label="Daniel Marquez" length="14" position="42"/>
+  <mention label="Argentine" length="9" position="1068"/>
+  <mention label="Uruguayan" length="9" position="291"/>
+  <mention label="Morelia" length="7" position="684"/>
+  <mention label="Estudiantes" length="11" position="1120"/>
+  <mention label="Atlante" length="7" position="619"/>
+  <mention label="America" length="7" position="747"/>
+  <mention label="Red Devils" length="10" position="1319"/>
+  <mention label="Toluca" length="6" position="1192"/>
+  <mention label="Marquez" length="7" position="49"/>
+  <mention label="Santos" length="6" position="959"/>
+  <mention label="Ecuadorian" length="10" position="1200"/>
+  <mention label="Mauro Cejas" length="11" position="1078"/>
+  <mention label="Antonio Naelson" length="15" position="1330"/>
+  <mention label="Daniel Montenegro" length="17" position="366"/>
+</item>

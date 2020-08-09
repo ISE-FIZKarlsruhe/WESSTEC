@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US officials: Bombmaker in Yemen a key suspectHe is suspected of packing explosives into the underwear of a Nigerian accused of trying to blow up a Detroit-bound airliner last Christmas and sent his own brother on a suicide mission against a top Saudi official.Ibrahim Hassan al-Asiri, considered a key figure in al-Qaida's most active franchise, is now the chief suspect behind the mail bombs sent from Yemen and bound for the United States, according to U.S. intelligence officials.Together with a U.S.-born preacher, Yemeni militants, and former Saudi inmates of Guantanamo, al-Asiri makes up the leadership of Al-Qaida in the Arabian Peninsula.Forensic analysis indicates that al-Asiri, who is living in Yemen, built all three devices and is believed to have a fair degree of skill and training, although all the operations have been unsuccessful.British Home Secretary Theresa May said the bomb discovered on the plane that landed in England was powerful enough to bring down the aircraft. A U.S. official and a British security consultant said the device, hidden in a printer cartridge, was sophisticated enough that it nearly slipped past British investigators even after they were tipped off.Yemeni security officials said they are searching for al-Asiri, who is believed to be in Marib province.His most effective operation was the attack on top Saudi counterterrorism official Prince Mohammed bin Nayef, in which he recruited his younger brother, Abdullah, to pose as a repentant militant.Al-Asiri and his brother abruptly left their Mecca home three years ago, said their father, a four-decade veteran of the Saudi military. Aside from a brief phone call to say they had left the country, he never heard from them again.With the bomb hidden in a body cavity, Abdullah approached the prince and blew himself up. The prince was only wounded.All three bombs contained a high explosive known as PETN, or pentaerythritol tetranitrate, which was also used by convicted shoe bomber Richard Reid when he tried to destroy a trans-Atlantic flight in 2001.In a September 2009 issue of Sada al-Malahem, or Voice of Battles, an Arabic-language online magazine put out by al-Qaida in the Arabian Peninsula, al-Asiri described how he recruited his brother and they made the journey to Yemen.He said he and his friends were originally planning to go fight the Americans in Iraq, but Saudi police raided the apartment where they were hiding and arrested them."They put me in prison and I began to see the depths of (the Saudis) servitude to the Crusaders and their hatred for the true worshippers of God, from the way they interrogated me," he is quoted as saying.Abdullah, who visited him in prison, was horrified by the stories of torture and also came to believe that the government is "infidel," al-Asiri said.Upon his release, al-Asiri tried to create a new militant cell inside Saudi Arabia but was once again discovered. Six of his colleagues were killed and he and his brother fled south to the Asir mountains where they holed up for weeks.They entered Yemen on Aug. 1, 2006, and met with Yemeni militant Nasser al-Wahishi, who had escaped from prison just months earlier, and became the nucleus of the new al-Qaida affiliate, said the account, which could not be independently confirmed.Al-Qaida's presence in Saudi Arabia and Yemen has been distinguished by its tenacious ability to regroup after severe setbacks, having been nearly wiped out in both countries just five years ago.The group's battered Saudi and Yemeni branches merged in January 2009 to form al-Qaida in the Arabian Peninsula under the leadership of al-Wahishi, a former aide to Osama bin Laden who staged a dramatic jail break from a Yemeni prison with 22 others in 2006. In the past year, the organization has emerged as "one of the most dangerous branches of al-Qaida," according to a U.S. assessment.Al-Wahishi's deputy, Saeed al-Shihri, is a Saudi who fought in Afghanistan and spent six years in Guantanamo Bay as inmate No. 372, before being released and going through Saudi Arabia's famous "rehabilitation" institutes. The experiences didn't prevent him from heading south to Yemen on his release.The organization calls for the overthrow of the Saudi and Yemeni governments and has carried out a string of brazen attacks against local security forces before melting away into the rugged mountains of Yemen's inhospitable hinterlands.It has been its attempts to take the fight to the West, however, that have attracted attention, especially through the propaganda efforts of Yemeni cleric Anwar al-Awlaki.Born in New Mexico, al-Awlaki has used his website to encourage Muslims around the world to kill U.S. troops in Iraq and has been tied by U.S. intelligence to the 9/11 hijackers, underwear bomber Umar Farouk Abdulmutallab, as well as Maj. Nidal Malik Hasan, the Army psychiatrist accused of killing 13 people in November at Fort Hood, Texas.Al-Awlaki's growing involvement in planning operations by al-Qaida in the Arabian Peninsula has prompted the Obama administration to place him on a target list for terrorists to be killed or captured.All these militants were believed to be hiding in the remote and rugged mountains of Yemen's Shabwa province, helped by tribesmen disaffected with the government.Just a day before the attempted bombing of the jet bound for Detroit last year, Yemeni warplanes raided a site where the top leadership had gathered, only missing al-Wahishi, al-Shihri and al-Awlaki by hours.Of all of al-Qaida's affiliates, the Arabian branch has distinguished itself by its English-language outreach, mainly through al-Awlaki's writings and a new English-language online magazine.Issues include an "Open Jihad" forum with tips for Muslims living in the West to carry out terrorist operations, such as building a bomb in the kitchen or equipping a pickup truck with metal blades to mow down pedestrians.The last issue also included a testimonial from Samir Khan, describing how he turned against America to fight with militants in Yemen.Although the number of hard core al-Qaida fighters in Yemen is only believed to number in the low hundreds, they are aided by sympathetic local tribes who see the central government as corrupt and oppressive.Heavy-handed tactics by the Yemeni military have often only further inflamed tribal animosity.Yemen is also wracked by a number of rebellions and secessionist movements, including one throughout much of the south that has provided fertile ground to al-Qaida's recruiting efforts.The poorest country in Arab world, Yemen has 35 percent unemployment and a literacy rate of only 50 percent. It is also threatened by declining water and oil resources and an exploding population of 22 million.------Associated Press writers Lee Keath in Cairo and Ahmed al-Haj in San'a, Yemen, contributed to this story.</text>
+  <mention label="al-Qaida" length="8" position="3209"/>
+  <mention label="US" length="2" position="0"/>
+  <mention label="Yemeni" length="6" position="6276"/>
+  <mention label="Yemen" length="5" position="3330"/>
+  <mention label="Guantanamo Bay" length="14" position="3973"/>
+  <mention label="Yemeni" length="6" position="4234"/>
+  <mention label="Marib" length="5" position="1289"/>
+  <mention label="Mecca" length="5" position="1544"/>
+  <mention label="Yemen" length="5" position="520"/>
+  <mention label="Yemeni" length="6" position="520"/>
+  <mention label="Yemen" length="5" position="4234"/>
+  <mention label="Yemen" length="5" position="404"/>
+  <mention label="Ibrahim Hassan al-Asiri" length="23" position="261"/>
+  <mention label="Detroit" length="7" position="148"/>
+  <mention label="Asir" length="4" position="279"/>
+  <mention label="Yemeni" length="6" position="3091"/>
+  <mention label="Yemen" length="5" position="3091"/>
+  <mention label="Arabian Peninsula" length="17" position="4998"/>
+  <mention label="U.S." length="4" position="3859"/>
+  <mention label="Arabian Peninsula" length="17" position="2185"/>
+  <mention label="al-Asiri" length="8" position="276"/>
+  <mention label="Yemen" length="5" position="27"/>
+  <mention label="Yemen" length="5" position="4379"/>
+  <mention label="Saudi" length="5" position="549"/>
+  <mention label="United States" length="13" position="428"/>
+  <mention label="al-Asiri" length="8" position="681"/>
+  <mention label="Fort Hood" length="9" position="4907"/>
+  <mention label="England" length="7" position="939"/>
+  <mention label="Obama" length="5" position="5033"/>
+  <mention label="al-Qaida" length="8" position="313"/>
+  <mention label="Saudi Arabia" length="12" position="2878"/>
+  <mention label="Umar Farouk Abdulmutallab" length="25" position="4779"/>
+  <mention label="Texas" length="5" position="4918"/>
+  <mention label="America" length="7" position="2355"/>
+  <mention label="Yemen" length="5" position="1200"/>
+  <mention label="Yemeni" length="6" position="1200"/>
+  <mention label="Abdullah" length="8" position="1457"/>
+  <mention label="Yemen" length="5" position="3516"/>
+  <mention label="Yemeni" length="6" position="3516"/>
+  <mention label="Americans" length="9" position="2355"/>
+  <mention label="Saudi" length="5" position="2878"/>
+  <mention label="Guantanamo" length="10" position="566"/>
+  <mention label="Yemen" length="5" position="4155"/>
+  <mention label="Yemen" length="5" position="708"/>
+  <mention label="Saudi Arabia" length="12" position="4047"/>
+  <mention label="Iraq" length="4" position="2368"/>
+  <mention label="Associated Press" length="16" position="6743"/>
+  <mention label="Nidal Malik Hasan" length="17" position="4822"/>
+  <mention label="Samir Khan" length="10" position="5954"/>
+  <mention label="al-Asiri" length="8" position="578"/>
+  <mention label="U.S." length="4" position="456"/>
+  <mention label="U.S." length="4" position="4680"/>
+  <mention label="Osama bin Laden" length="15" position="3650"/>
+  <mention label="Richard Reid" length="12" position="1986"/>
+  <mention label="Saudi" length="5" position="1355"/>
+  <mention label="Yemeni" length="6" position="4553"/>
+  <mention label="Saudi" length="5" position="2378"/>
+  <mention label="Saudi" length="5" position="1620"/>
+  <mention label="Iraq" length="4" position="4695"/>
+  <mention label="Al-Asiri" length="8" position="1499"/>
+  <mention label="Saudis" length="6" position="2514"/>
+  <mention label="British" length="7" position="851"/>
+  <mention label="Saudi" length="5" position="2514"/>
+  <mention label="Anwar al-Awlaki" length="15" position="4567"/>
+  <mention label="Mohammed bin Nayef" length="18" position="1394"/>
+  <mention label="U.S." length="4" position="997"/>
+  <mention label="Theresa May" length="11" position="874"/>
+  <mention label="Abdullah" length="8" position="1770"/>
+  <mention label="al-Qaida" length="8" position="3563"/>
+  <mention label="Nigerian" length="8" position="108"/>
+  <mention label="New Mexico" length="10" position="4591"/>
+  <mention label="Arabian Peninsula" length="17" position="630"/>
+  <mention label="Afghanistan" length="11" position="3938"/>
+  <mention label="Army" length="4" position="4845"/>
+  <mention label="Arabian Peninsula" length="17" position="3579"/>
+  <mention label="West" length="4" position="4462"/>
+  <mention label="Abdullah" length="8" position="2658"/>
+  <mention label="Yemen" length="5" position="3055"/>
+  <mention label="Yemen" length="5" position="2281"/>
+  <mention label="al-Asiri" length="8" position="1254"/>
+  <mention label="U.S." length="4" position="500"/>
+  <mention label="Yemeni" length="6" position="5366"/>
+  <mention label="Arabian" length="7" position="630"/>
+  <mention label="al-Qaida" length="8" position="2169"/>
+  <mention label="al-Qaida" length="8" position="3833"/>
+  <mention label="Arab" length="4" position="630"/>
+  <mention label="Saudi" length="5" position="246"/>
+  <mention label="Saudi" length="5" position="3313"/>
+  <mention label="Cairo" length="5" position="6781"/>
+  <mention label="Yemeni" length="6" position="3706"/>
+  <mention label="Saudi Arabia" length="12" position="3313"/>
+  <mention label="British" length="7" position="1146"/>
+  <mention label="British" length="7" position="1017"/>
+  <mention label="al-Qaida" length="8" position="4982"/>
+  <mention label="Yemen" length="5" position="3706"/>
+</item>

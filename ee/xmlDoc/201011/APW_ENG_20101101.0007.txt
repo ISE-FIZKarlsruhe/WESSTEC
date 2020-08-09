@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>After 4-state swing, Obama awaits election outcomePresident Barack Obama wound up a full-bore, last minute campaign blitz through four states and returned to the White House to wait out Tuesday's congressional election returns, voting that is widely expected to strip his Democrats of their majority in the House of Representatives.Obama took his message into key states where he won in the 2008 presidential contest, places where Democrats now are struggling against an enthusiastic tide of Republican voters who want to turn the president's party out of power because of the economy.The Republicans and their ultraconservative tea party allies are riding high on voter anger about near-10 percent unemployment, lagging economic growth and a burst real estate bubble that cost millions Americans their life savings when banks foreclosed on mortgages.The president, however, said he was not giving up hope that Democrats will beat the bad odds on Election Day, keeping the party on track to move forward with reforms he promised in his winning campaign for the White House two years ago. He acknowledged, however, the massive challenge facing Democrats."Don't let anybody tell you this fight isn't worth it," Obama told the friendly crowd Sunday at Cleveland State University, ticking off the accomplishments of his first two years in office. "Its always been hard to bring about change."Sarah Palin, who has been leading the tea party charge but is running for no office, trumpeted the opposition message in a Sunday morning television appearance. The 2008 Republican vice presidential nominee said voters would be sending Obama and his Democrats a sobering message: "You blew it, President Obama. We gave you the two years to fulfill your promise of making sure that our economy starts roaring back to life again."Rep. John Boehner, the top Republican in the House and likely speaker of the chamber if the Republicans gain the majority, spoke in Ohio as well, telling his audience the only hope for pulling the country out of the economic doldrums was smaller government and lower taxes, a message that is playing well nationwide.Mississippi Gov. Haley Barbour, chairman of the Republican Governors Association, joined the attack Sunday."What the American people are looking at and they're saying is, 'The Obama policies aren't working. We need new policies, we need an economic-growth agenda,'" he said. "If Republicans win, that's what it will be, a repudiation of Obama's policies."As Obama pushed hard for Democrats this weekend, his final stop in swing-state Ohio was designed to bolster Gov. Ted Strickland who is in danger of losing office to Republican John Kasich, a former congressman.A Strickland loss could have a severe effect beyond the state in 2012 when Obama is next on the ballot. Ohio will lose two House seats because of the 2010 census, and the governor there will help oversee a redistricting process that may be fiercely partisan. Governors also can direct substantial political resources to the presidential contender of their choice, and Ohio is the state that decided the 2004 presidential race in favor of George W. Bush.Obama's continual reminders that the country's economic troubles began under former President George W. Bush has done little to beat back the Republican charge. Democrats are widely expected to lose at least 40 seats and their majority in the House, where all 435 seats are on the ballot.Also at stake are 37 places in the 100-seat Senate and governorships in 37 states. Republicans are expected to considerably shrink the Democrats' edge in the Senate, but fall short of the 10 seats they need to regain the majority they lost four years ago. Republicans were likewise expected to pick up several governors' seats.Obama and the Democrats can boast of major legislative achievements during the first two years of his presidency -- a major overhaul of the U.S. health care system and new tougher regulations on the financial industry -- but those accomplishments are complex and hard to turn into simple campaign sales pitches.Republicans, on the other hand, are running on a far simpler promise -- smaller government and low taxes. That's a message that has resonated with many angry and anxious American voters. Republicans also have been helped by the enthusiasm of the ultraconservative tea party movement that has blossomed in this election. Its candidates are running under the Republican banner.In addition to the final stop in Ohio, Obama spent the weekend in three other states he carried in 2008 -- Pennsylvania, Connecticut and Illinois and Ohio -- but where Democrats are struggling this year. From Cleveland he returned to Washington to celebrate the Halloween holiday with his two daughters and other children invited to the White House.Obama and his wife, Michelle, handed out Halloween treats to area children and military families at the White House Sunday evening.The president was joined in Ohio by Vice President Joe Biden, a sign of the importance the administration places in the pivotal swing state, where Democrats could lose as many as six House seats.Candidates were everywhere over the weekend, making their last-minute pitches for support.Former President Bill Clinton returned to Maine on Sunday to campaign for Democrat Libby Mitchell as she and four other candidates for governor made a final push to get their backers to the polls.Clinton's visit to the Lewiston Armory was his second stop in Maine in five weeks to campaign for Mitchell, who's is running third in the five-way race.He praised Mitchell's record on jobs, education, energy and taxes, and urged young people to cast their ballots."Any young person who doesn't vote this Tuesday is playing Russian roulette with their future," he said.</text>
+  <mention label="Ohio" length="4" position="4484"/>
+  <mention label="Obama" length="5" position="2308"/>
+  <mention label="Democrats" length="9" position="4619"/>
+  <mention label="Ohio" length="4" position="2566"/>
+  <mention label="Democrats" length="9" position="911"/>
+  <mention label="Senate" length="6" position="3596"/>
+  <mention label="Republican" length="10" position="2180"/>
+  <mention label="Mitchell" length="8" position="5510"/>
+  <mention label="Maine" length="5" position="5258"/>
+  <mention label="Obama" length="5" position="4490"/>
+  <mention label="Obama" length="5" position="21"/>
+  <mention label="John Boehner" length="12" position="1821"/>
+  <mention label="Ohio" length="4" position="1948"/>
+  <mention label="Obama" length="5" position="1692"/>
+  <mention label="Democrats" length="9" position="272"/>
+  <mention label="Americans" length="9" position="787"/>
+  <mention label="American" length="8" position="787"/>
+  <mention label="Republican" length="10" position="1558"/>
+  <mention label="Senate" length="6" position="3482"/>
+  <mention label="Obama" length="5" position="2469"/>
+  <mention label="George W. Bush" length="14" position="3244"/>
+  <mention label="Republican Governors Association" length="32" position="2180"/>
+  <mention label="Ted Strickland" length="14" position="2600"/>
+  <mention label="Democrats" length="9" position="431"/>
+  <mention label="White House" length="11" position="162"/>
+  <mention label="House of Representatives" length="24" position="307"/>
+  <mention label="Republicans" length="11" position="4263"/>
+  <mention label="House" length="5" position="168"/>
+  <mention label="Obama" length="5" position="3765"/>
+  <mention label="Barack Obama" length="12" position="60"/>
+  <mention label="George W. Bush" length="14" position="3135"/>
+  <mention label="Mitchell" length="8" position="5305"/>
+  <mention label="House" length="5" position="307"/>
+  <mention label="Republican" length="10" position="1843"/>
+  <mention label="Obama" length="5" position="1209"/>
+  <mention label="Libby Mitchell" length="14" position="5299"/>
+  <mention label="Obama" length="5" position="2490"/>
+  <mention label="American" length="8" position="2249"/>
+  <mention label="Pennsylvania" length="12" position="4558"/>
+  <mention label="U.S." length="4" position="3905"/>
+  <mention label="Republicans" length="11" position="589"/>
+  <mention label="Obama" length="5" position="67"/>
+  <mention label="Republican" length="10" position="589"/>
+  <mention label="Washington" length="10" position="4685"/>
+  <mention label="Obama" length="5" position="332"/>
+  <mention label="Republicans" length="11" position="3521"/>
+  <mention label="Democrats" length="9" position="3779"/>
+  <mention label="Obama" length="5" position="3150"/>
+  <mention label="Obama" length="5" position="2772"/>
+  <mention label="Connecticut" length="11" position="4572"/>
+  <mention label="Democrats" length="9" position="2512"/>
+  <mention label="Ohio" length="4" position="4959"/>
+  <mention label="Michelle" length="8" position="4820"/>
+  <mention label="Obama" length="5" position="1624"/>
+  <mention label="Mississippi" length="11" position="2132"/>
+  <mention label="Republicans" length="11" position="2411"/>
+  <mention label="Halloween" length="9" position="4713"/>
+  <mention label="Illinois" length="8" position="4588"/>
+  <mention label="Republicans" length="11" position="3694"/>
+  <mention label="Republican" length="10" position="492"/>
+  <mention label="Democrats" length="9" position="3311"/>
+  <mention label="Maine" length="5" position="5474"/>
+  <mention label="Republicans" length="11" position="4076"/>
+  <mention label="Sarah Palin" length="11" position="1388"/>
+  <mention label="Cleveland" length="9" position="1249"/>
+  <mention label="Haley Barbour" length="13" position="2149"/>
+  <mention label="John Kasich" length="11" position="2663"/>
+  <mention label="Democrats" length="9" position="1638"/>
+  <mention label="Clinton" length="7" position="5238"/>
+  <mention label="Ohio" length="4" position="2801"/>
+  <mention label="Cleveland State University" length="26" position="1249"/>
+  <mention label="Democrats" length="9" position="3573"/>
+  <mention label="Bill Clinton" length="12" position="5233"/>
+  <mention label="Ohio" length="4" position="3065"/>
+  <mention label="Ohio" length="4" position="4601"/>
+  <mention label="Republican" length="10" position="1908"/>
+  <mention label="Democrats" length="9" position="1143"/>
+  <mention label="Republicans" length="11" position="1908"/>
+  <mention label="Joe Biden" length="9" position="4982"/>
+</item>

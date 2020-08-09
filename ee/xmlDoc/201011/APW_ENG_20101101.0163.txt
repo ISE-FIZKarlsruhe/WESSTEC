@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US missile attack kills 5 in NW PakistanA U.S. drone attack killed five people in northwest Pakistan on Monday, local intelligence officials said, the latest in a barrage of such strikes against al-Qaida and Taliban militants that have long sought sanctuary in the region.Also in the northwest, four militants stormed a police complex, killing two officers, and gunmen attacked tankers carrying fuel for NATO and US troops just across the border in Afghanistan, wounding a driver and his assistant, police said.Four American missiles were fired at a house in North Waziristan, the area that has seen the overwhelming majority of attacks over the last two months, said the officials, who did not give their names because the agency they work for does not allow its operatives to be identified.The identities of those killed was not immediately known.North Waziristan is too dangerous for outsiders to visit and independently confirm the attacks, and U.S. officials do not acknowledge firing the missiles, much less discuss who they are targeting.Some locals say many of those killed are often civilians; others say nearly all the victims are militants or those actively harboring them.There have now been at least 21 suspected U.S. missile strikes in Pakistan this month. There were 21 such attacks in September, nearly double the previous monthly record. The attacks are carried out by unmanned drones that fly over the region for hours and equipped with extremely high-powered video cameras.North Waziristan is home to hundreds of Pakistani and foreign militants, many belonging to or allied with al-Qaida and the Taliban. The region also hosts the Haqqani network, a powerful insurgent group that U.S. officials say is behind many of the attacks on U.S. and NATO forces just across the border in Afghanistan.The militants attacked the police complex in the town of Swabi, said officer Abdullah Khan. The attack triggered a gunbattle in which two officers and two insurgents were killed, he said, adding that one of the attackers was wearing a suicide belt.Gunmen opened fire on the tankers carrying fuel for NATO and U.S. troops in Afghanistan, wounding a driver and his assistant, said police officer Nisar Khan. The attack happened close to the main northwestern city of Peshawar, he said.Several hundred trucks carrying fuel and non-lethal supplies to foreign forces in Afghanistan everyday, with between 2,500 and 3,000 on Pakistani roads at any one time.Militants occasionally attack them, but the vast majority travel through unhampered. Last month, Islamabad closed one of the supply routes in protest at incursions by NATO helicopters into Pakistani airspace.</text>
+  <mention label="NATO" length="4" position="2628"/>
+  <mention label="North Waziristan" length="16" position="849"/>
+  <mention label="U.S." length="4" position="2119"/>
+  <mention label="North Waziristan" length="16" position="1492"/>
+  <mention label="Afghanistan" length="11" position="449"/>
+  <mention label="al-Qaida" length="8" position="195"/>
+  <mention label="Afghanistan" length="11" position="2375"/>
+  <mention label="American" length="8" position="516"/>
+  <mention label="Afghanistan" length="11" position="1798"/>
+  <mention label="Swabi" length="5" position="1867"/>
+  <mention label="U.S." length="4" position="1226"/>
+  <mention label="NATO" length="4" position="404"/>
+  <mention label="Abdullah Khan" length="13" position="1887"/>
+  <mention label="Pakistani" length="9" position="2650"/>
+  <mention label="U.S." length="4" position="1751"/>
+  <mention label="Pakistan" length="8" position="92"/>
+  <mention label="Nisar Khan" length="10" position="2204"/>
+  <mention label="Taliban" length="7" position="208"/>
+  <mention label="Afghanistan" length="11" position="2134"/>
+  <mention label="NATO" length="4" position="1760"/>
+  <mention label="U.S." length="4" position="1699"/>
+  <mention label="Pakistan" length="8" position="32"/>
+  <mention label="Pakistan" length="8" position="1250"/>
+  <mention label="Peshawar" length="8" position="2275"/>
+  <mention label="U.S." length="4" position="42"/>
+  <mention label="U.S." length="4" position="949"/>
+  <mention label="Pakistani" length="9" position="2429"/>
+  <mention label="Pakistani" length="9" position="1532"/>
+  <mention label="Haqqani" length="7" position="1650"/>
+  <mention label="al-Qaida" length="8" position="1598"/>
+  <mention label="Islamabad" length="9" position="2558"/>
+  <mention label="NATO" length="4" position="2110"/>
+  <mention label="North Waziristan" length="16" position="559"/>
+</item>

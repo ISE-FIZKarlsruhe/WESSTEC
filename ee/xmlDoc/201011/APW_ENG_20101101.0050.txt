@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Trainer Bart Cummings goes for 13th Melbourne CupSo You Think, Australia's hottest horse, will be the odds-on favorite Tuesday when the country's biggest and richest race is held at Flemington.The 150th running of the 3,200-meter (2-mile) Melbourne Cup will spotlight the New Zealand-bred four-year-old, winner of five Group 1 races at this year's spring racing carnival in Melbourne.The stallion is trained by 82-year-old Bart Cummings, who was released from hospital after a respiratory infection on the weekend and is expected to take place at the track for what could be his 13th Melbourne Cup victory.The biggest knock against So You Think is questions over the distance -- he's never run beyond 2,040 meters.</text>
+  <mention label="Melbourne Cup" length="13" position="239"/>
+  <mention label="Bart Cummings" length="13" position="8"/>
+  <mention label="Australia" length="9" position="63"/>
+  <mention label="Melbourne" length="9" position="239"/>
+  <mention label="Melbourne Cup" length="13" position="36"/>
+  <mention label="Bart Cummings" length="13" position="423"/>
+  <mention label="Flemington" length="10" position="182"/>
+  <mention label="Melbourne" length="9" position="36"/>
+</item>

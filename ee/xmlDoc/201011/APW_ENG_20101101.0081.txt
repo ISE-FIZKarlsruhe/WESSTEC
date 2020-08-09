@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Bumgarner pitches Giants to brink of Series crownMadison Bumgarner allowed just four hits over eight innings, and Aubrey Huff and Buster Posey homered as San Francisco beat the Texas Rangers 4-0 on Sunday to move within one win of the Giants' first World Series title since 1954.Bumgarner, San Francisco's 21-year-old No. 4 starter, didn't allow a runner past second base as the Giants took a 3-1 lead in the best of seven series.Brian Wilson finished with a hitless ninth for the Giants' second shutout of the Series.Huff hit a two-run homer in the third off loser Tommy Hunter, Andres Torres added an RBI double in the seventh against Darren Oliver and Posey homered in the eighth off Darren O'Day.In Game 5 on Monday, Tim Lincecum pitches for the Giants against Cliff Lee.</text>
+  <mention label="Madison Bumgarner" length="17" position="49"/>
+  <mention label="Brian Wilson" length="12" position="430"/>
+  <mention label="Darren O'Day" length="12" position="687"/>
+  <mention label="Giants" length="6" position="481"/>
+  <mention label="Giants" length="6" position="750"/>
+  <mention label="Bumgarner" length="9" position="0"/>
+  <mention label="Andres Torres" length="13" position="580"/>
+  <mention label="Posey" length="5" position="137"/>
+  <mention label="Giants" length="6" position="235"/>
+  <mention label="Buster Posey" length="12" position="130"/>
+  <mention label="San Francisco" length="13" position="290"/>
+  <mention label="Darren Oliver" length="13" position="637"/>
+  <mention label="Bumgarner" length="9" position="57"/>
+  <mention label="Giants" length="6" position="18"/>
+  <mention label="Cliff Lee" length="9" position="765"/>
+  <mention label="World Series" length="12" position="249"/>
+  <mention label="San Francisco" length="13" position="154"/>
+  <mention label="RBI" length="3" position="603"/>
+  <mention label="Aubrey Huff" length="11" position="114"/>
+  <mention label="Tommy Hunter" length="12" position="566"/>
+  <mention label="Texas Rangers" length="13" position="177"/>
+  <mention label="Huff" length="4" position="121"/>
+  <mention label="Giants" length="6" position="379"/>
+  <mention label="Tim Lincecum" length="12" position="721"/>
+</item>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Microsoft CEO ' s compensation up 6 percent in 2010The value of Microsoft Corp. CEO Steve Ballmer's compensation package rose 6 percent in fiscal 2010, as the world's largest software maker began to benefit from a resurgence of corporate spending on technology.Ballmer was granted a pay package valued at $1.35 million for the year that ended in June, according to an Associated Press calculation of figures disclosed in a Securities and Exchange Commission filing Thursday.Ballmer's salary rose 1 percent to $670,000, while his bonus rose 12 percent to $670,000.According to the filing, the company's compensation committee evaluates Ballmer's performance in the fiscal year, looks at what other Microsoft executives will be paid and "exercises its judgment" in recommending his bonus. Ballmer could have received up to 200 percent of his base salary.The filing said that Ballmer's bonus was based on an appraisal of his performance, which took into account various factors including "a series of successful product launches including Windows 7, Office 2010, Bing, Windows Server, and SQL Server."However, it also took into account "the unsuccessful launch of the Kin phone; loss of market share in the company's mobile phone business; and the need for the company to pursue innovations to take advantage of new form factors."Ballmer also received $11,121 worth of other compensation. This included $7,350 in company matches to his retirement fund and $3,771 in imputed income from life insurance, disability insurance, athletic club membership and payments in place in place of an athletic club membership.Just like last year, Ballmer did not get any stock or stock options in 2010. He owns 4.8 percent of Microsoft's shares. Microsoft founder and current board chairman Bill Gates owns 7.2 percent of its shares.For the company's full fiscal year, which ended in June, Microsoft's net income rose 29 percent to $18.8 billion, or $2.10 per share, from $14.6 billion, or $1.62 per share, a year earlier. Revenue increased 7 percent to $62.5 billion, from $58.4 billion in the previous year.From the fiscal second quarter through the end of the year, Microsoft's sales picked up as companies began spending again on computers and other technology needs -- including Microsoft's Windows operating system for PCs and servers and its Office and other business software.</text>
+  <mention label="Associated Press" length="16" position="368"/>
+  <mention label="Bing" length="4" position="1060"/>
+  <mention label="Ballmer" length="7" position="261"/>
+  <mention label="Windows Server" length="14" position="1066"/>
+  <mention label="Microsoft" length="9" position="1708"/>
+  <mention label="Bill Gates" length="10" position="1773"/>
+  <mention label="Ballmer" length="7" position="1327"/>
+  <mention label="Microsoft" length="9" position="0"/>
+  <mention label="Microsoft" length="9" position="64"/>
+  <mention label="Microsoft" length="9" position="1728"/>
+  <mention label="Windows" length="7" position="1036"/>
+  <mention label="Windows" length="7" position="1066"/>
+  <mention label="Microsoft" length="9" position="2151"/>
+  <mention label="Microsoft Corp" length="14" position="64"/>
+  <mention label="Ballmer" length="7" position="873"/>
+  <mention label="Microsoft" length="9" position="697"/>
+  <mention label="Ballmer" length="7" position="787"/>
+  <mention label="Steve Ballmer" length="13" position="84"/>
+  <mention label="Microsoft" length="9" position="1872"/>
+  <mention label="Ballmer" length="7" position="635"/>
+  <mention label="Ballmer" length="7" position="90"/>
+  <mention label="Ballmer" length="7" position="474"/>
+</item>

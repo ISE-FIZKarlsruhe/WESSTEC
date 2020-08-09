@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>White House weighs response to mail bomb plotA team of U.S. investigators is headed to Yemen to help search for suspects in the mail bomb plot.A top Yemeni official says John Brennan, the White House's top counterterrorism official, has told Yemen it has the lead in responding to the terrorists suspected of trying to mail explosive-laden cargo to the U.S. The Yemeni official spoke on condition of anonymity to discuss high-level conversations between the U.S. and Yemen.The Yemen-based al-Qaida in the Arabian Peninsula has been linked to the bomb plot because of the use of the powerful explosive PETN. That is the same explosive that was used by the group in last Christmas Day's attempted bombing of a Detroit-bound airliner.</text>
+  <mention label="Yemen" length="5" position="149"/>
+  <mention label="Yemen" length="5" position="87"/>
+  <mention label="U.S." length="4" position="55"/>
+  <mention label="Yemeni" length="6" position="149"/>
+  <mention label="U.S" length="3" position="55"/>
+  <mention label="U.S." length="4" position="353"/>
+  <mention label="John Brennan" length="12" position="170"/>
+  <mention label="Yemen" length="5" position="242"/>
+  <mention label="Arabian Peninsula" length="17" position="505"/>
+  <mention label="White House" length="11" position="0"/>
+  <mention label="Yemeni" length="6" position="362"/>
+</item>

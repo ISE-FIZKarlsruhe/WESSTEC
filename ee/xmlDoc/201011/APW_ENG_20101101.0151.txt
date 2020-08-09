@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>8-year sentence for Gitmo ' s former ' child soldier 'The long-running case of a onetime teenage al-Qaida fighter is over, with a U.S. military judge sentencing Omar Khadr to eight more years in custody for war crimes.The sentence was handed down Sunday under a plea bargain in which the young Canadian admitted to five war crimes charges, including killing a U.S. soldier in Afghanistan. Under the deal, the judge was limited to the eight-year sentence and had to ignore the recommendation of a military jury that Khadr serve 40 years.The case attracted intense scrutiny and criticism because Khadr was 15 when he was captured after suffering serious wounds during a four-hour battle at an al-Qaida compound in Afghanistan in 2002.Appearing relaxed, Khadr stared straight ahead as the judge read a sentence that calls for him to stay at the Guantanmo prison another year before he can ask Canada's government to allow him to return to his homeland to serve out his sentence or seek early release on parole. He doesn't get credit for the eight years he already spent at Guantanamo.The Canadian government gave no indication how it might react. Melissa Lantsman, a spokeswoman for Canada's foreign affairs minister, said only that a decision will be made when Khadr formally applies."Omar Khadr pleaded guilty to murdering U.S. Army medic Christopher Speer," Lantsman added. "He pleaded guilty to attempted murder. He admitted he was a member of al-Qaeda. He also publicly acknowledged that he planted roadside bombs and that he knew he was targeting civilians."A jury of seven military officers deliberated Khadr's case for nearly nine hours over two days and had not been told that the sealed plea deal would mean that their decision would be largely symbolic.Military prosecutors, who had portrayed the now 24-year-old Khadr as a dangerous terrorist, had asked for a sentence of 25 years -- and he could have received up to life in prison if convicted of even one of the counts against him.Navy Capt. John F. Murphy, the chief military prosecutor, said the plea deal included a provision that Khadr cannot appeal, eliminating the possibility of a reversal or even more time being spent on a case that has been winding its way through the Guantanamo tribunals since 2004.Khadr's lawyers and human rights groups had argued he was a "child soldier" who should have been sent home long ago for rehabilitation and they challenged the notion that a battlefield killing amounted to a war crime.Murphy said the government considered Khadr's age and background as the child of a prominent al-Qaida figure in agreeing to the eight-year sentence."I hope it sends a message to any terrorists that if you are involved with serious offenses like this you face the potential of a very serious sentence," Murphy said.Khadr admitted planting 10 roadside bombs in Afghanistan as part of an al-Qaida explosive cell and throwing a grenade that mortally wounded an American special forces medic, Sgt. 1st Class Christopher Speer of Albuquerque, New Mexico.Defense lawyers said they had no choice but to strike a plea deal given the potential for a long sentence."I think when you look at it we did quite well," said Marine Col. Jeffrey Colwell, the chief defense counsel.Dennis Edney, a Canadian attorney for Khadr, said his client agreed to plead guilty because it was a route to repatriation. He said that led Khadr to sign an admission of facts which the lawyer called "stunning in its false portrayal of him."Khadr was prohibited under the deal from calling witnesses at his sentencing hearing who would support defense claims that he was a "child soldier," forced into fighting the U.S. by a radical father who was an associate of Osama bin Laden."The fact that the trial of a child soldier, Omar Khadr, has ended with a guilty plea in exchange for his eventual release to Canada does not change the fact that fundamental principles of law and due process were long since abandoned in Omar's case," Edney said.The plea deal also prohibits Khadr from traveling to the United States and requires him to turn over to the Canadian government any proceeds earned from publishing information "related to the illegal conduct alleged on the charge sheet."The jury began its deliberations after nearly a week of testimony that included a wrenching account from Speer's widow about the loss of her husband and a 10-minute statement from Khadr, who apologized to the soldier's family in his most extensive public statements since his capture.Speer's widow, Tabitha, pumped her fist and cheered "yes!" when the jury announced its 40-year sentence. Then she burst into tears.Later, she said that she was relieved to have the case behind her. She called the jury's verdict "the right thing" but accepted the eight-year sentence."I miss my husband very, very much. There will never be anyone or anything that can replace or bring him back, but today this helps to close a huge chapter," Speer said, her voice breaking.Khadr is the fifth person convicted and sentenced under the military commissions at Guantanamo, three of which were plea bargains. There is only one more active case among the 175 detainees at the U.S. base, and Murphy said he did not know when any new cases would be filed.</text>
+  <mention label="Canadian" length="8" position="4104"/>
+  <mention label="Khadr" length="5" position="515"/>
+  <mention label="U.S." length="4" position="130"/>
+  <mention label="Omar Khadr" length="10" position="1283"/>
+  <mention label="American" length="8" position="2946"/>
+  <mention label="Osama bin Laden" length="15" position="3717"/>
+  <mention label="Khadr" length="5" position="1288"/>
+  <mention label="Gitmo" length="5" position="20"/>
+  <mention label="Canada" length="6" position="3859"/>
+  <mention label="Khadr" length="5" position="1821"/>
+  <mention label="Canada" length="6" position="1180"/>
+  <mention label="al-Qaida" length="8" position="2582"/>
+  <mention label="Christopher Speer" length="17" position="2992"/>
+  <mention label="Khadr" length="5" position="166"/>
+  <mention label="Khadr" length="5" position="3494"/>
+  <mention label="U.S. Army" length="9" position="1322"/>
+  <mention label="Guantanamo" length="10" position="1070"/>
+  <mention label="Omar" length="4" position="161"/>
+  <mention label="Khadr" length="5" position="2095"/>
+  <mention label="Afghanistan" length="11" position="2848"/>
+  <mention label="Omar Khadr" length="10" position="161"/>
+  <mention label="Christopher Speer" length="17" position="1338"/>
+  <mention label="al-Qaeda" length="8" position="1445"/>
+  <mention label="Canadian" length="8" position="294"/>
+  <mention label="U.S." length="4" position="1322"/>
+  <mention label="al-Qaida" length="8" position="2874"/>
+  <mention label="Tabitha" length="7" position="4532"/>
+  <mention label="Canadian" length="8" position="1085"/>
+  <mention label="Dennis Edney" length="12" position="3252"/>
+  <mention label="Speer" length="5" position="3004"/>
+  <mention label="al-Qaida" length="8" position="691"/>
+  <mention label="Edney" length="5" position="3259"/>
+  <mention label="Murphy" length="6" position="2489"/>
+  <mention label="Khadr" length="5" position="1607"/>
+  <mention label="Khadr" length="5" position="3783"/>
+  <mention label="Afghanistan" length="11" position="712"/>
+  <mention label="Speer" length="5" position="1350"/>
+  <mention label="Khadr" length="5" position="3393"/>
+  <mention label="Omar Khadr" length="10" position="3778"/>
+  <mention label="Guantanamo" length="10" position="2240"/>
+  <mention label="Canadian" length="8" position="3268"/>
+  <mention label="Albuquerque" length="11" position="3013"/>
+  <mention label="U.S." length="4" position="3668"/>
+  <mention label="Khadr" length="5" position="594"/>
+  <mention label="United States" length="13" position="4053"/>
+  <mention label="New Mexico" length="10" position="3026"/>
+  <mention label="Khadr" length="5" position="2527"/>
+  <mention label="Guantanamo" length="10" position="5073"/>
+  <mention label="John F. Murphy" length="14" position="2003"/>
+  <mention label="Murphy" length="6" position="2011"/>
+  <mention label="Khadr" length="5" position="3290"/>
+  <mention label="Murphy" length="6" position="2791"/>
+  <mention label="Khadr" length="5" position="2272"/>
+  <mention label="al-Qaida" length="8" position="97"/>
+  <mention label="Khadr" length="5" position="751"/>
+  <mention label="U.S." length="4" position="360"/>
+  <mention label="Khadr" length="5" position="1259"/>
+  <mention label="Afghanistan" length="11" position="376"/>
+  <mention label="Khadr" length="5" position="2803"/>
+  <mention label="Speer" length="5" position="4338"/>
+  <mention label="Canada" length="6" position="890"/>
+</item>

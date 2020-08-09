@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Britons to the fore at world rowing championshipsEight British crews won heats and four progressed directly to finals on the second day of the world rowing championships on Lake Karapiro.The cancellation of racing because of high winds on Sunday created a packed schedule Monday and Britain provided some of the day's most impressive winners, among them Olympic champions Mark Hunter and Zac Purchase in the lightweight double sculls.Hunter and Purchase's first day heat was underway when championships organizers called off racing because of strong winds. The pair dominated their heat Monday to progress to the semifinals.The men's pair of Andy Hodge and Pete Reed, members of the champion British four at the 2008 Beijing Olympics, moved through to their semifinals as did double scullers Matthew Wells and Marcus Bateman.The quadruple scull of Debbie Flood, Beth Rodford, Fran Houghton and Annie Vernon beat a German crew by one-tenth of a second in the opening race of the day to progress directly to the final.Katherine Grainger and Anna Watkins, who have dominated the World Cup season, led from start to finish to win impressively in the women's double sculls.Britain's only reigning world champions, Alex Partridge, Ric Egington, Alex Gregory and Matt Langridge, began the defense of their men's four title with an emphatic win.The men's single sculls lived up to its billing as the most competitive race at the championships with Britain's Alan Campbell, New Zealand's four-time world champion Mahe Drysdale, Olympic champion Olaf Tufte and Czech Ondrej Synek all winning heats. Synek posted the fastest time.Drysdale had been battling a back injury and came into his heat lacking recent racing."It was a pretty solid effort," he said. "It was a tough race but that was exactly what I was after first up."It was my first race since July, so it was good to blow out my lungs and legs and remember what it feels like to be out there racing at international level."Katie Solesbury in the women's single sculls and Peter Chambers in the lightweight men's single sculls continued Britain's strong performance, advancing to the semifinals.Sweden's Frida Svensson was impressive in winning her heat of the women's singles sculls from New Zealand's Emma Twigg while Poland's Magdalena Fularczyk and Julia Michalska set a fast time in their heat of the women's double scull.The world champion pair of Juliette Haigh and Rebecca Scown were among a number of New Zealand crews to excel Monday. New Zealand's world champion men's pair of Hamish Bond and Eric Murray won their heat by more than 10 seconds while lightweight double sculls world champions Peter Taylor and Storm Uru of New Zealand were also dominant.</text>
+  <mention label="Britons" length="7" position="0"/>
+  <mention label="Zac Purchase" length="12" position="388"/>
+  <mention label="Andy Hodge" length="10" position="642"/>
+  <mention label="Olaf Tufte" length="10" position="1536"/>
+  <mention label="Beijing" length="7" position="717"/>
+  <mention label="Czech" length="5" position="1551"/>
+  <mention label="New Zealand" length="11" position="2458"/>
+  <mention label="Olympic" length="7" position="725"/>
+  <mention label="German" length="6" position="914"/>
+  <mention label="Matthew Wells" length="13" position="792"/>
+  <mention label="Peter Taylor" length="12" position="2651"/>
+  <mention label="Britain" length="7" position="1168"/>
+  <mention label="Pete Reed" length="9" position="657"/>
+  <mention label="Sweden" length="6" position="2143"/>
+  <mention label="Poland" length="6" position="2268"/>
+  <mention label="Debbie Flood" length="12" position="848"/>
+  <mention label="Britain" length="7" position="283"/>
+  <mention label="Olympics" length="8" position="725"/>
+  <mention label="Lake Karapiro" length="13" position="173"/>
+  <mention label="Britain" length="7" position="2085"/>
+  <mention label="Hamish Bond" length="11" position="2536"/>
+  <mention label="Olympic" length="7" position="354"/>
+  <mention label="Frida Svensson" length="14" position="2152"/>
+  <mention label="Britain" length="7" position="1440"/>
+  <mention label="Alan Campbell" length="13" position="1450"/>
+  <mention label="Katherine Grainger" length="18" position="1016"/>
+  <mention label="Mahe Drysdale" length="13" position="1504"/>
+  <mention label="British" length="7" position="55"/>
+  <mention label="Annie Vernon" length="12" position="894"/>
+  <mention label="New Zealand" length="11" position="1465"/>
+  <mention label="New Zealand" length="11" position="2681"/>
+  <mention label="Eric Murray" length="11" position="2552"/>
+  <mention label="British" length="7" position="692"/>
+  <mention label="New Zealand" length="11" position="2237"/>
+  <mention label="New Zealand" length="11" position="2493"/>
+  <mention label="Alex Partridge" length="14" position="1209"/>
+  <mention label="World Cup" length="9" position="1076"/>
+  <mention label="Mark Hunter" length="11" position="372"/>
+  <mention label="Hunter" length="6" position="377"/>
+</item>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ecuador troops clash with rebellious policeSoldiers apparently involved in rescuing Ecuador's president have exchanged gunfire with rebellious police at the hospital where he has been trapped by police.Dozens of soldiers fired rifles and detonated what appeared to be percussion bombs, then rushed into the hospital where President Rafael Correa was being treated after being tear-gassed earlier Thursday in a confrontation with hundreds of police.One soldier, apparently hit by gunfire, tumbled down a small embankment.Two vehicles later left the hospital flanked by soldiers in riot gear. The troops then withdrew from the hospital, still holding up shields as if concerned about taking fire.</text>
+  <mention label="Rafael Correa" length="13" position="332"/>
+  <mention label="Ecuador" length="7" position="84"/>
+  <mention label="Ecuador" length="7" position="0"/>
+</item>

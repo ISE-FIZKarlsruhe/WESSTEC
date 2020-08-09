@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Death toll from Iraqi church siege rises to 39The toll from the bloody siege of a Baghdad church rose Monday to 39 dead with dozens more injured, Iraqi officials said.The standoff began at dusk Sunday when militants wearing suicide vests and armed with grenades attacked the nearby Iraqi stock exchange and then entered the nearby Our Lady of Deliverance church -- one of Baghdad's main Catholic places of worship -- taking about 120 Christians hostage.Iraqi forces stormed the church after a tense hours-long standoff, freeing the hostages. It was not immediately clear whether the hostages died at the hands of the attackers or during the rescue.Officials said at least one priest and nine policemen were among the dead. Many of the wounded were women.The casualty information came from police and officials at hospitals where the dead and wounded were taken. They spoke on condition of anonymity because they were not authorized to speak to the media.There were conflicting accounts about the number of attackers involved in the assault, with Baghdad military spokesman Maj. Gen. Qassim al-Moussawi saying Sunday night that security forces killed eight, while the U.S. military said between five and seven died.Two police officers on the scene, however, say only three attackers were killed and another seven arrested afterwards.A cryptically worded statement posted late Sunday on a militant website allegedly by the Islamic State of Iraq appeared to claim responsibility for the attack. The group, which is linked to al-Qaida in Iraq, said it would "exterminate Iraqi Christians" if Muslim women are not freed within 48 hours from churches in Egypt.Iraqi Christians, who have been frequent targets for Sunni insurgents, have left in droves since the 2003 U.S.-led war.</text>
+  <mention label="Iraqi" length="5" position="453"/>
+  <mention label="Islamic" length="7" position="1421"/>
+  <mention label="Catholic" length="8" position="387"/>
+  <mention label="U.S." length="4" position="1167"/>
+  <mention label="Sunni" length="5" position="1707"/>
+  <mention label="Baghdad" length="7" position="1046"/>
+  <mention label="Muslim" length="6" position="1588"/>
+  <mention label="Baghdad" length="7" position="372"/>
+  <mention label="Iraq" length="4" position="16"/>
+  <mention label="Egypt" length="5" position="1648"/>
+  <mention label="Iraqi" length="5" position="16"/>
+  <mention label="Baghdad" length="7" position="82"/>
+  <mention label="Iraq" length="4" position="146"/>
+  <mention label="Iraqi" length="5" position="146"/>
+  <mention label="Christians" length="10" position="434"/>
+  <mention label="al-Qaida" length="8" position="1522"/>
+  <mention label="Iraqi" length="5" position="282"/>
+</item>

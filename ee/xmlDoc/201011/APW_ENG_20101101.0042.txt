@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>America trounces Estudiantes 4-1 in MexicoDaniel Marquez scored twice as America trounced Estudiantes 4-1 on Sunday to move the Eagles closer to a postseason spot in the Mexican Apertura championship.Marquez opened the scoring in the 43rd minute and added his second strike in the 84, while Uruguayan Vicente Sanchez also scored in the 45th and Argentine midfielder Daniel Montenegro found the net in the 47th.America won its second in a row and has 24 points from 15 rounds to take second place in Group 2, behind San Luis who reached 25 with an away win over reining champion Toluca on Sunday.In other Sunday scores: Atlante rallied for a 2-1 win over Nexaca and Monterrey defeated Morelia 2-0.</text>
+  <mention label="Vicente Sanchez" length="15" position="301"/>
+  <mention label="Mexico" length="6" position="36"/>
+  <mention label="Toluca" length="6" position="578"/>
+  <mention label="Daniel Marquez" length="14" position="42"/>
+  <mention label="America" length="7" position="0"/>
+  <mention label="Uruguayan" length="9" position="291"/>
+  <mention label="San Luis" length="8" position="515"/>
+  <mention label="Morelia" length="7" position="684"/>
+  <mention label="Atlante" length="7" position="619"/>
+  <mention label="America" length="7" position="73"/>
+  <mention label="Monterrey" length="9" position="665"/>
+  <mention label="Argentine" length="9" position="345"/>
+  <mention label="Estudiantes" length="11" position="90"/>
+  <mention label="Marquez" length="7" position="49"/>
+  <mention label="Estudiantes" length="11" position="17"/>
+  <mention label="America" length="7" position="410"/>
+  <mention label="Daniel Montenegro" length="17" position="366"/>
+</item>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>On a rainy morning, the Ryder Cup beginsSending out Phil Mickelson and Dustin Johnson for the first match, the United States has opened its defense of the Ryder Cup on a rainy morning in Wales.More than 2,000 fans were chanting "Ole! Ole! Ole!" as the first two pairs walked into the amphitheater-like setting around the first tee Friday. Mickelson and Johnson, two of the biggest hitters on the U.S. team, were taking on Lee Westwood and Martin Kaymer of Europe in the opening best-ball match.Johnson hit the first shot of the biennial event, driving it into the thick rough right of the green. Westwood was given the honor of hitting the first shot for Europe, and he put it right in the fairway. Mickelson and Kaymer also drove it into the fairway.The other morning matches: Rory McIlroy and Graeme McDowell vs. Stewart Cink and Matt Kuchar; Ian Poulter and Ross Fisher vs. Steve Stricker and Tiger Woods; and Luke Donald and Padraig Harrington vs. Bubba Watson and Jeff Overton.</text>
+  <mention label="Jeff Overton" length="12" position="969"/>
+  <mention label="Ian Poulter" length="11" position="845"/>
+  <mention label="Rory McIlroy" length="12" position="778"/>
+  <mention label="U.S." length="4" position="396"/>
+  <mention label="Dustin Johnson" length="14" position="71"/>
+  <mention label="Johnson" length="7" position="78"/>
+  <mention label="Europe" length="6" position="655"/>
+  <mention label="Matt Kuchar" length="11" position="832"/>
+  <mention label="Tiger Woods" length="11" position="896"/>
+  <mention label="Europe" length="6" position="456"/>
+  <mention label="Ryder Cup" length="9" position="24"/>
+  <mention label="Ryder Cup" length="9" position="155"/>
+  <mention label="Graeme McDowell" length="15" position="795"/>
+  <mention label="Ross Fisher" length="11" position="861"/>
+  <mention label="Luke Donald" length="11" position="913"/>
+  <mention label="Mickelson" length="9" position="339"/>
+  <mention label="United States" length="13" position="111"/>
+  <mention label="Westwood" length="8" position="426"/>
+  <mention label="Stewart Cink" length="12" position="815"/>
+  <mention label="Steve Stricker" length="14" position="877"/>
+  <mention label="Johnson" length="7" position="353"/>
+  <mention label="Lee Westwood" length="12" position="422"/>
+  <mention label="Mickelson" length="9" position="57"/>
+  <mention label="Padraig Harrington" length="18" position="929"/>
+  <mention label="Bubba Watson" length="12" position="952"/>
+  <mention label="Kaymer" length="6" position="446"/>
+  <mention label="Phil Mickelson" length="14" position="52"/>
+  <mention label="Martin Kaymer" length="13" position="439"/>
+  <mention label="Wales" length="5" position="187"/>
+</item>

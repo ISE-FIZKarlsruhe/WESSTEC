@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Massive fire hits South Korean high-riseNews reports and fire officials say a massive fire has torn through a 38-floor apartment and tower in the southern port city of Busan.A local fire official in Busan says flames from Friday's fire have largely been contained and that residents are still being rescued, some by helicopter from the building's roof. He could not say how many people remained in the building, and declined to give his name.No deaths have been reported. YTN television says four people have been taken to hospital and that one firefighter has been injured.Yonhap news agency says the fire started early Friday morning in a janitor's closet in the building, which is in a seaside district of the city.</text>
+  <mention label="Busan" length="5" position="199"/>
+  <mention label="Yonhap" length="6" position="574"/>
+  <mention label="YTN" length="3" position="472"/>
+  <mention label="Busan" length="5" position="168"/>
+  <mention label="South Korean" length="12" position="18"/>
+</item>

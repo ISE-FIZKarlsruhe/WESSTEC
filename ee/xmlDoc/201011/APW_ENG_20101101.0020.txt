@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Theodore Sorensen, top JFK aide, dies at 82 in NYTheodore C. Sorensen, the studious, star-struck aide and alter ego to President John F. Kennedy whose crisp, poetic turns of phrase helped idealize and immortalize a tragically brief administration, has died at age 82.Sorensen's passing Sunday came just as supporters of his friend and boss were preparing to celebrate the 50th anniversary of a very different moment in history: The election of Kennedy as president and the speech that remains the greatest collaboration between Sorensen and Kennedy and the standard for modern oratory.With its call for self-sacrifice and civic engagement -- "Ask not what your country can do for you, ask what you can do for your country" -- and its promise to spare no cost in defending the country's interests worldwide, the address is an uplifting but haunting reminder of national purpose and confidence, before Vietnam, assassinations, Watergate, terrorists attacks and economic shock.Sorensen died at noon at a New York hospital from complications of a stroke, his widow, Gillian Sorensen, said.Sorensen had been in poor health in recent years and a stroke in 2001 left him with such poor eyesight that he was unable to write his memoir, "Counselor," published in 2008. Instead, he had to dictate it to an assistant.President Barack Obama issued a statement saying he was saddened to learn of Sorensen's death."I know his legacy will live on in the words he wrote, the causes he advanced, and the hearts of anyone who is inspired by the promise of a new frontier," Obama said.Of all Kennedy's inner circle, special counsel Sorensen ranked just below Kennedy's brother Bobby. He was the adoring, tireless speechwriter and confidant to a president whose term was marked by Cold War struggles, growing civil rights strife and the beginnings of the U.S. intervention in Vietnam.Some of Kennedy's most memorable speeches, from his inaugural address to his vow to place a man on the moon, resulted from such close collaborations with Sorensen that scholars debated who wrote what. He had long been suspected as the real writer of the future president's Pulitzer Prize-winning "Profiles in Courage," an allegation Sorensen and the Kennedys emphatically -- and litigiously -- denied.They were an odd, but utterly compatible duo, the glamorous, wealthy politician from Massachusetts and the shy wordsmith from Nebraska, described by Time magazine in 1960 as "a sober, deadly earnest, self-effacing man with a blue steel brain." But as Sorensen would write in "Counselor," the difference in their lifestyles was offset by the closeness of their minds: Each had a wry sense of humor, a dislike of hypocrisy, a love of books and a high-minded regard for public life.Kennedy called him "my intellectual blood bank" and the press frequently referred to Sorensen as Kennedy's "ghostwriter," especially after the release of "Profiles in Courage." Presidential secretary Evelyn Lincoln saw it another way: "Ted was really more shadow than ghost, in the sense that he was never really very far from Kennedy."Sorensen's brain of steel was never needed more than in October 1962, with the U.S. and the Soviet Union on the brink of nuclear annihilation over the placement of Soviet missiles in Cuba. Kennedy directed Sorensen and Bobby Kennedy, the administration's attorney general, to draft a letter to Nikita Khrushchev, who had sent conflicting messages, first conciliatory, then confrontational.The carefully worded response -- which ignored the Soviet leader's harsher statements, and included a U.S. concession involving U.S. weaponry in Turkey -- was credited with persuading the Soviets to withdraw their missiles from Cuba and with averting war between the superpowers.Sorensen considered his role his greatest achievement."That's what I'm proudest of," he once told the Omaha (Nebraska) World-Herald. "Never had this country, this world, faced such great danger. You and I wouldn't be sitting here today if that had gone badly."Of the many speeches Sorensen helped compose, Kennedy's inaugural address shone brightest. Bartlett's Familiar Quotations includes four citations from the speech -- one-seventh of the entire address, which built to an unforgettable exhortation: "Ask not what your country can do for you; ask what you can do for your country."Much of the roughly 14-minute speech -- the fourth-shortest inaugural address ever, but in the view of many experts rivaled only by Lincoln's -- was marked by similar sparkling phrase-making:-- "Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe, in order to assure the survival and the success of liberty."-- "If a free society cannot help the many who are poor, it cannot save the few who are rich."-- "Let us never negotiate out of fear. But let us never fear to negotiate."As with "Profiles in Courage, Sorensen never claimed primary authorship of the address. Rather, he described speechwriting within Kennedy's White House as highly collaborative -- with JFK a constant kibitzer.In April 1961, weeks into the Kennedy presidency, the Soviet Union launched the first man into orbit. Less than a month later, Alan Shepard became the first American in space with a 15-minute suborbital flight. The idea of a moon landing "caught my attention, and I knew it would catch Kennedy's," Sorensen recalled. "This is the man who talked about new frontiers. That's what I took to him."Shortly after Shepard's landmark flight, Kennedy said: "I believe this nation should commit itself to achieving the goal, before the decade is out, of landing a man on the moon and returning him safely to Earth." U.S. astronauts met that deadline in July 1969.Sorensen would witness a brief revival of Kennedy-era idealism with the presidential election of Obama, whom Sorensen endorsed "because he is more like John F. Kennedy than any other candidate of our time. He has judgment as he demonstrated in his early opposition to the war in Iraq."A year after Obama's election, Sorensen said he was disappointed with the president's speeches, saying that Obama was "clearly well informed on all matters of public policy, sometimes, frankly, a little too well informed. And as a result, some of the speeches are too complicated for typical citizens and very clear to university faculties and big newspaper editorial boards."Theodore Chaikin Sorensen was born in Lincoln, Nebraska, on May 8, 1928.He graduated from Lincoln High, the University of Nebraska and the university's law school. At age 24, he explored job prospects in Washington, D.C., and found himself weighing offers from two newly elected senators, Kennedy of Massachusetts and fellow Democrat Henry Jackson, from Washington state.As Sorensen recalled, Jackson wanted a PR. man. Kennedy, considered the less promising politician, wanted Sorensen to poll economists and develop a plan to jump-start New England's economy."Two roads diverged in the Old Senate Office Building and I took the one less recommended, and that has made all the difference," Sorensen wrote in his memoir. "The truth is more prosaic: I wanted a good job."At the 1956 Democratic National Convention, the charismatic Kennedy attracted wide attention as a candidate for vice president. He eventually withdrew, but his exposure at the convention led to a flurry of invitations to speak around the country.During the next four years -- the de facto beginning of Kennedy's presidential run -- he and Sorensen traveled together to every state, with Sorensen juggling various jobs: scheduler, speechwriter, press rep.After Kennedy's thousand days in the White House, Sorensen worked as an international lawyer, counting Anwar Sadat among his clients. He stayed involved in politics, joining Bobby Kennedy's presidential campaign in 1968 and running unsuccessfully for the New York Senate four years later. In 1976, President Jimmy Carter nominated Sorensen for the job of CIA director, but conservative critics quickly killed the nomination, citing -- among other alleged flaws -- his youthful decision to identify himself as a conscientious objector.------Associated Press writer Mike Stewart and AP National Writer Hillel Italie contributed to this report.</text>
+  <mention label="Sorensen" length="8" position="3080"/>
+  <mention label="Sorensen" length="8" position="9"/>
+  <mention label="Sorensen" length="8" position="267"/>
+  <mention label="Sorensen" length="8" position="2829"/>
+  <mention label="U.S." length="4" position="3597"/>
+  <mention label="Bartlett" length="8" position="4099"/>
+  <mention label="Sorensen" length="8" position="6916"/>
+  <mention label="Omaha" length="5" position="3850"/>
+  <mention label="Theodore Sorensen" length="17" position="0"/>
+  <mention label="Obama" length="5" position="1555"/>
+  <mention label="White House" length="11" position="7699"/>
+  <mention label="Turkey" length="6" position="3614"/>
+  <mention label="Sorensen" length="8" position="528"/>
+  <mention label="Nebraska" length="8" position="3857"/>
+  <mention label="Kennedy" length="7" position="541"/>
+  <mention label="Associated Press" length="16" position="8202"/>
+  <mention label="Kennedy" length="7" position="2841"/>
+  <mention label="Kennedy" length="7" position="1573"/>
+  <mention label="Massachusetts" length="13" position="2350"/>
+  <mention label="Kennedy" length="7" position="5155"/>
+  <mention label="Kennedy" length="7" position="5411"/>
+  <mention label="John F. Kennedy" length="15" position="5930"/>
+  <mention label="Theodore C. Sorensen" length="20" position="49"/>
+  <mention label="Sorensen" length="8" position="1070"/>
+  <mention label="Sorensen" length="8" position="5423"/>
+  <mention label="Barack Obama" length="12" position="1316"/>
+  <mention label="Democratic National Convention" length="30" position="7220"/>
+  <mention label="Jimmy Carter" length="12" position="7970"/>
+  <mention label="Obama" length="5" position="1323"/>
+  <mention label="Mike Stewart" length="12" position="8226"/>
+  <mention label="U.S." length="4" position="1835"/>
+  <mention label="Sorensen" length="8" position="6456"/>
+  <mention label="Sorensen" length="8" position="61"/>
+  <mention label="Sorensen" length="8" position="1085"/>
+  <mention label="Gillian Sorensen" length="16" position="1062"/>
+  <mention label="Soviet Union" length="12" position="5179"/>
+  <mention label="Nikita Khrushchev" length="17" position="3374"/>
+  <mention label="Sorensen" length="8" position="1613"/>
+  <mention label="Vietnam" length="7" position="1856"/>
+  <mention label="New England" length="11" position="6977"/>
+  <mention label="CIA" length="3" position="8017"/>
+  <mention label="U.S." length="4" position="3159"/>
+  <mention label="Kennedy" length="7" position="1872"/>
+  <mention label="Sorensen" length="8" position="4947"/>
+  <mention label="Nebraska" length="8" position="6486"/>
+  <mention label="Earth" length="5" position="5723"/>
+  <mention label="Massachusetts" length="13" position="6739"/>
+  <mention label="Anwar Sadat" length="11" position="7765"/>
+  <mention label="Nebraska" length="8" position="2391"/>
+  <mention label="Soviet" length="6" position="3172"/>
+  <mention label="Time magazine" length="13" position="2414"/>
+  <mention label="Democrat" length="8" position="6764"/>
+  <mention label="U.S." length="4" position="5731"/>
+  <mention label="Soviet Union" length="12" position="3172"/>
+  <mention label="Kennedy" length="7" position="1640"/>
+  <mention label="Sorensen" length="8" position="1383"/>
+  <mention label="Lincoln" length="7" position="4466"/>
+  <mention label="Cuba" length="4" position="3697"/>
+  <mention label="Henry Jackson" length="13" position="6773"/>
+  <mention label="Jackson" length="7" position="6779"/>
+  <mention label="Bobby" length="5" position="1658"/>
+  <mention label="Lincoln" length="7" position="2951"/>
+  <mention label="Vietnam" length="7" position="900"/>
+  <mention label="Alan Shepard" length="12" position="5252"/>
+  <mention label="Lincoln High" length="12" position="6529"/>
+  <mention label="Evelyn Lincoln" length="14" position="2944"/>
+  <mention label="Kennedy" length="7" position="137"/>
+  <mention label="John F. Kennedy" length="15" position="129"/>
+  <mention label="Shepard" length="7" position="5257"/>
+  <mention label="Bobby Kennedy" length="13" position="7836"/>
+  <mention label="Sorensen" length="8" position="6813"/>
+  <mention label="Sorensen" length="8" position="5778"/>
+  <mention label="Sorensen" length="8" position="2197"/>
+  <mention label="Kennedy" length="7" position="2214"/>
+  <mention label="American" length="8" position="5282"/>
+  <mention label="Soviet" length="6" position="3244"/>
+  <mention label="Sorensen" length="8" position="3748"/>
+  <mention label="Iraq" length="4" position="6057"/>
+  <mention label="Kennedys" length="8" position="2214"/>
+  <mention label="Kennedy" length="7" position="5047"/>
+  <mention label="Kennedy" length="7" position="5559"/>
+  <mention label="Sorensen" length="8" position="4029"/>
+  <mention label="Obama" length="5" position="6076"/>
+  <mention label="Kennedy" length="7" position="444"/>
+  <mention label="Kennedy" length="7" position="5820"/>
+  <mention label="Cuba" length="4" position="3263"/>
+  <mention label="Kennedy" length="7" position="2744"/>
+  <mention label="Kennedy" length="7" position="3269"/>
+  <mention label="Sorensen" length="8" position="974"/>
+  <mention label="Sorensen" length="8" position="6094"/>
+  <mention label="White House" length="11" position="5057"/>
+  <mention label="Kennedy" length="7" position="4054"/>
+  <mention label="Sorensen" length="8" position="7129"/>
+  <mention label="Sorensen" length="8" position="2516"/>
+  <mention label="Sorensen" length="8" position="3286"/>
+  <mention label="New York" length="8" position="1001"/>
+  <mention label="New York Senate" length="15" position="7917"/>
+  <mention label="Cold War" length="8" position="1761"/>
+  <mention label="Sorensen" length="8" position="2018"/>
+  <mention label="Bobby Kennedy" length="13" position="3299"/>
+  <mention label="Kennedy" length="7" position="3305"/>
+  <mention label="Obama" length="5" position="5875"/>
+  <mention label="U.S." length="4" position="3571"/>
+  <mention label="Sorensen" length="8" position="5887"/>
+  <mention label="Kennedy" length="7" position="3071"/>
+  <mention label="Washington" length="10" position="6643"/>
+  <mention label="D.C." length="4" position="6655"/>
+</item>

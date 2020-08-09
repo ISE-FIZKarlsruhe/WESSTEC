@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>India less tense after court verdict on holy siteSchools, shops and businesses reopened Friday as fears of violence ebbed in northern India following a court order to divide a disputed holy site between the Hindu and Muslim communities.Thousands of government forces remained in the streets and on high alert, but the decision Thursday offered at least a reprieve in a battle over the site that has sparked deadly rioting in the past.With both Muslim and Hindu lawyers vowing to appeal to the Supreme Court, public reaction to the verdict was restrained.As the day broke, hundreds of devotees prayed at a makeshift Hindu temple at the disputed site in the town of Ayodhya.R.K.S. Rathore, the senior superintendent of police, told The Associated Press there were no confrontations between Hindus and Muslims in the region.Streets had been mostly deserted as the ruling was delivered, but vehicles returned Friday, ferrying children to schools. Shops and businesses reopened in Ayodhya, Varanasi, Lucknow and other potentially explosive places with a mixed population of Hindus and Muslims.The Allahabad High Court ruled Thursday that the 64-acre (25-hectare) site should be split, with the Muslim community getting control of one-third and two Hindu groups splitting the remainder.Muslims revere the compound as the former site of the 16th century Babri Mosque, while Hindus say it is the birthplace of their god Rama and contend that a temple to him stood on the site before the mosque.Thursday's ruling said the Hindus could keep the area where the mosque once stood because the court determined it was the birthplace of Rama and archaeological evidence showed a temple had predated the mosque.Over the years, the dispute triggered bloody communal violence and threatened India's foundation as a secular, multicultural democracy.The muted reaction to the potentially explosive verdict generated hopes that the increasingly confident country, with its growing regional clout and skyrocketing economy, has moved beyond its divisive history.The dispute over the religious site in the city of Ayodhya, 350 miles (550 kilometers) east of New Delhi, has been one of the country's most contentious issues.In 1992, while the legal case lingered, tens of thousands of Hindu extremists ripped apart the mosque with spades, crowbars and their bare hands as security forces watched. A small tented shrine to Rama now stands on the site.The demolition sparked nationwide riots that killed 2,000 people and shook the foundations of India's claim to be a multiethnic, secular democracy.</text>
+  <mention label="Rama" length="4" position="1412"/>
+  <mention label="Hindu" length="5" position="455"/>
+  <mention label="India" length="5" position="134"/>
+  <mention label="India" length="5" position="0"/>
+  <mention label="Muslims" length="7" position="1280"/>
+  <mention label="Hindu" length="5" position="207"/>
+  <mention label="Associated Press" length="16" position="734"/>
+  <mention label="Hindu" length="5" position="788"/>
+  <mention label="Varanasi" length="8" position="985"/>
+  <mention label="Hindus" length="6" position="1367"/>
+  <mention label="Rama" length="4" position="1622"/>
+  <mention label="Hindus" length="6" position="788"/>
+  <mention label="India" length="5" position="2519"/>
+  <mention label="Ayodhya" length="7" position="976"/>
+  <mention label="Muslims" length="7" position="799"/>
+  <mention label="Rama" length="4" position="2397"/>
+  <mention label="Muslim" length="6" position="799"/>
+  <mention label="New Delhi" length="9" position="2134"/>
+  <mention label="Ayodhya" length="7" position="664"/>
+  <mention label="Muslim" length="6" position="217"/>
+  <mention label="Supreme Court" length="13" position="493"/>
+  <mention label="Hindu" length="5" position="615"/>
+  <mention label="Lucknow" length="7" position="995"/>
+  <mention label="Hindu" length="5" position="1069"/>
+  <mention label="India" length="5" position="1773"/>
+  <mention label="Hindus" length="6" position="1069"/>
+  <mention label="Ayodhya" length="7" position="2090"/>
+  <mention label="Hindus" length="6" position="1513"/>
+  <mention label="Muslim" length="6" position="444"/>
+  <mention label="Muslims" length="7" position="1080"/>
+</item>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Buddle ' s goal lifts Galaxy past SoundersEdson Buddle floated a long shot over Kasey Keller and into the top left corner of the net in the 38th minute Sunday to give the Los Angeles Galaxy a 1-0 win over the Seattle Sounders in the first match of Major League Soccer's Western Conference semifinals.Buddle scored his third career playoff goal and his first with the Galaxy. He was the second highest goal-scorer in the regular season with 17.Los Angeles, winner of the Supporters Shield for best record in the league, will host the return match in the home-and-away series next Sunday in Carson, California.Defender Omar Gonzalez helped set up the Galaxy's goal with a short pass to Buddle, who launched a shot from 30 yards (meters) out that went just over Keller's outstretched hands.</text>
+  <mention label="Los Angeles" length="11" position="171"/>
+  <mention label="Seattle Sounders" length="16" position="209"/>
+  <mention label="Omar Gonzalez" length="13" position="617"/>
+  <mention label="Edson Buddle" length="12" position="42"/>
+  <mention label="Buddle" length="6" position="0"/>
+  <mention label="Buddle" length="6" position="300"/>
+  <mention label="Sounders" length="8" position="34"/>
+  <mention label="Major League Soccer" length="19" position="248"/>
+  <mention label="Carson" length="6" position="589"/>
+  <mention label="Keller" length="6" position="86"/>
+  <mention label="Buddle" length="6" position="48"/>
+  <mention label="Los Angeles Galaxy" length="18" position="171"/>
+  <mention label="Kasey Keller" length="12" position="80"/>
+  <mention label="California" length="10" position="597"/>
+</item>

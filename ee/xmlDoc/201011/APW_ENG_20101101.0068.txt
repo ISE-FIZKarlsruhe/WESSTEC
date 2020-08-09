@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Allott quits as New Zealand Cricket GMNew Zealand Cricket general manager Geoff Allott has quit his position saying he was at odds with his organization over its high-performance strategy.The former international fast bowler appeared to be the first casualty Monday of last month's disastrous tour to Bangladesh by a New Zealand team beaten 4-0 in a one-day series.New Zealand Cricket decided, after a lengthy review, to keep the current management structure of the national team, including coach Mark Greatbatch, captain Daniel Vettori, manager Dave Currie and high performance director Roger Mortimer.</text>
+  <mention label="Roger Mortimer" length="14" position="588"/>
+  <mention label="Daniel Vettori" length="14" position="522"/>
+  <mention label="New Zealand" length="11" position="317"/>
+  <mention label="New Zealand" length="11" position="365"/>
+  <mention label="Allott" length="6" position="0"/>
+  <mention label="Geoff Allott" length="12" position="74"/>
+  <mention label="Bangladesh" length="10" position="301"/>
+  <mention label="New Zealand" length="11" position="16"/>
+  <mention label="New Zealand" length="11" position="38"/>
+  <mention label="Mark Greatbatch" length="15" position="497"/>
+</item>

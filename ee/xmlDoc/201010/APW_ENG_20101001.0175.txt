@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan PM concerned over China ' s maritime expansionJapan's prime minister expressed concern Friday over China's strengthening military power and expanding maritime activity in Asia, including waters near disputed islands where a ship collision ignited a bitter diplomatic feud.Prime Minister Naoto Kan's comments came after three Japanese held by China for allegedly entering a restricted military zone returned home -- a sign that tension between the two Asian giants was easing.In his first major policy speech in parliament since surviving a leadership challenge last month, Kan stressed the need for Japan to adopt a more "active" diplomacy and defense policy that can deal with "uncertainty and instability that exist in areas surrounding our country."Kan urged China -- Japan's biggest trading partner -- to act as a responsible international community member, calling on both countries to deepen relations and promote economic cooperation to contribute to regional peace."The rise of China has been remarkable in recent years, but we are concerned about its strengthening defense capability without transparency and accelerating maritime activities spanning from the Indian Ocean to the East China Sea," he said.Relations plunged to their lowest level in years in recent weeks following a collision between Japanese and Chinese boats near a string of islands claimed by both countries.Beijing suspended ministerial-level talks with Tokyo, and numerous anti-Japanese protests laid bare decades-old anger in China toward Japanese wartime aggression, as experts wondered how far the freeze would go.But a thaw began earlier this week with Beijing lifting a de facto ban on rare earth materials needed for advanced manufacturing and Thursday's release of three of four Japanese detained for questioning after allegedly entering a restricted military zone. The three men, employees of a Japanese construction company, arrived back in Tokyo Friday afternoon.Tokyo was pressing China to release the fourth man who remained under house arrest and was being investigated for illegally videotaping military targets, China's official Xinhua News Agency reported.Still, tensions remain and there were no plans yet for Kan to meet his counterpart, Wen Jiabao, at a summit in Brussels early next week."I expect China's appropriate role and actions as a responsible member of the international community. If problems occur between Japan and China, it is important for us neighbors to respond calmly," Kan said.The four Japanese held by Beijing were in China working to prepare a bid for a project to dispose of chemical weapons abandoned by the Japanese military at the end of World War II, according to their employer, Fujita Corp.They were detained outside the northern city of Shijiazhuang on Sept. 21 following the Sept. 7 collision between a Chinese fishing trawler and two Japanese patrol boats near disputed islands in the East China Sea.Japan released the fishing boat captain last weekend, but was shocked by Beijing's demand for an apology and compensation over the incident, prompting Tokyo to counter with a demand that China pay for damages to its patrol boats.Tokyo had said China needs to resolve the case of the four as the first step toward repairing ties. China's Foreign Ministry has denied any link between the detentions and the collision.Kan reiterated Tokyo's territorial claims over the islands, called Senkaku in Japanese and Diaoyu in Chinese. He said Japan merely handled the collision under domestic law as "territorial disputes do not exist" in the area.He also said Japan will issue a revised defense policy by December to develop "a truly useful and effective defense capability adequate to the coming era."------Associated Press writers Malcolm Foster and Shino Yuasa in Tokyo contributed to this report.</text>
+  <mention label="China" length="5" position="2305"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="China" length="5" position="768"/>
+  <mention label="China" length="5" position="2434"/>
+  <mention label="Associated Press" length="16" position="3737"/>
+  <mention label="Japan" length="5" position="777"/>
+  <mention label="Tokyo" length="5" position="1937"/>
+  <mention label="Tokyo" length="5" position="3089"/>
+  <mention label="Indian Ocean" length="12" position="1175"/>
+  <mention label="China" length="5" position="24"/>
+  <mention label="Chinese" length="7" position="2840"/>
+  <mention label="East China Sea" length="14" position="1195"/>
+  <mention label="Tokyo" length="5" position="1440"/>
+  <mention label="Kan" length="3" position="2214"/>
+  <mention label="Japan" length="5" position="1315"/>
+  <mention label="Kan" length="3" position="299"/>
+  <mention label="Japanese" length="8" position="1315"/>
+  <mention label="Naoto Kan" length="9" position="293"/>
+  <mention label="Tokyo" length="5" position="1960"/>
+  <mention label="Tokyo" length="5" position="3368"/>
+  <mention label="Japanese" length="8" position="2872"/>
+  <mention label="China" length="5" position="3125"/>
+  <mention label="Japan" length="5" position="52"/>
+  <mention label="Japanese" length="8" position="1465"/>
+  <mention label="Asia" length="4" position="177"/>
+  <mention label="China" length="5" position="1200"/>
+  <mention label="Chinese" length="7" position="1328"/>
+  <mention label="Japan" length="5" position="1465"/>
+  <mention label="Kan" length="3" position="2494"/>
+  <mention label="China" length="5" position="1979"/>
+  <mention label="Kan" length="3" position="579"/>
+  <mention label="Xinhua News Agency" length="18" position="2131"/>
+  <mention label="Japanese" length="8" position="331"/>
+  <mention label="Beijing" length="7" position="3011"/>
+  <mention label="Japanese" length="8" position="2638"/>
+  <mention label="China" length="5" position="2114"/>
+  <mention label="Wen Jiabao" length="10" position="2243"/>
+  <mention label="Asian" length="5" position="457"/>
+  <mention label="Japan" length="5" position="331"/>
+  <mention label="Tokyo" length="5" position="3796"/>
+  <mention label="Brussels" length="8" position="2270"/>
+  <mention label="Japan" length="5" position="605"/>
+  <mention label="Japanese" length="8" position="2512"/>
+  <mention label="Shijiazhuang" length="12" position="2773"/>
+  <mention label="China" length="5" position="348"/>
+  <mention label="Tokyo" length="5" position="3167"/>
+  <mention label="Foreign Ministry" length="16" position="3275"/>
+  <mention label="World War II" length="12" position="2670"/>
+  <mention label="Japanese" length="8" position="1773"/>
+  <mention label="East China Sea" length="14" position="2923"/>
+  <mention label="China" length="5" position="992"/>
+  <mention label="Beijing" length="7" position="2529"/>
+  <mention label="Japanese" length="8" position="1890"/>
+  <mention label="Beijing" length="7" position="1644"/>
+  <mention label="China" length="5" position="105"/>
+  <mention label="China" length="5" position="1514"/>
+  <mention label="Japan" length="5" position="1527"/>
+  <mention label="Diaoyu" length="6" position="3444"/>
+  <mention label="China" length="5" position="2545"/>
+  <mention label="China" length="5" position="2928"/>
+  <mention label="Kan" length="3" position="758"/>
+  <mention label="Beijing" length="7" position="1393"/>
+  <mention label="Chinese" length="7" position="3454"/>
+  <mention label="Japanese" length="8" position="1527"/>
+</item>

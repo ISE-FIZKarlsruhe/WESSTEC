@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>China defends Africa, US investment amid tensionsChina defended its growing global commercial presence as a source of jobs in Africa and the United States amid tension over control of resources and Zambia's arrest of two Chinese managers who shot miners during a pay dispute.Chinese companies invested $56.5 billion abroad last year and hired 438,000 workers, many of them in developing countries, Cabinet officials said at a news conference Monday."Chinese investors have brought not only capital and technology but also job opportunities and tax revenue," said a deputy commerce minister, Chen Jian.Governments in Africa, Latin America and elsewhere have welcomed Chinese investment in mining and other industries. But in some economies, the Chinese presence has sparked tensions over control of oil, gas and other resources and complaints that local communities get too little of the economic rewards.Beijing is encouraging Chinese companies, flush with cash from the country's economic boom, to expand abroad to diversify an economy driven by exports and investment. Investment has largely targeted oil, gas and mining but is expanding to manufacturing, real estate and other sectors.In Zambia, two Chinese mine bosses were charged with attempted murder last month after shooting miners during a pay dispute. Chinese companies have invested nearly $3 billion in Zambia, a major copper producer, according to the Zambian government."Of course we have noticed some improper or bad behavior by some individual companies or people from China, but that is not the mainstream," Chen said.Chen made no mention of Zambia or other specific incidents but said Chinese enterprises in Africa have built 60,000 kilometers of roads and 70 million square meters (700 million square feet) of housing since 2000."Chinese companies have built hospitals and schools and helped with personnel training," he said. "We have injected new vigor and vitality into local development."Last year's outbound investment by Chinese companies was up from just $2.8 billion in 2003, according to Chen Lin, a Commerce Ministry official at the news conference.In the United States, some proposed Chinese investments in oil and technology companies have spurred complaints about possible national security risks.Chinese companies have shifted strategy, buying minority stakes in U.S. assets to reduce possible opposition. In 2005, state-owned Chinese oil company CNOOC Ltd. withdrew a bid to acquire Unocal Corp. after critics said the deal might threaten national security. Last month, CNOOC agreed to buy a one-third interest in a Texas oil and gas field in a deal worth up to $2.16 billion that prompted little public comment.In Australia, some proposed Chinese investments in mining companies prompted objections from some lawmakers to what they deemed possible control of national assets by foreign state-owned companies.Before last month's CNOOC deal, Chinese companies had invested $900 million in the United States, Chen said. He said state-owned China Ocean Shipping Group helped to preserve 9,000 jobs at the port of Boston by expanding operations there beginning in 2002. The port says ships operated by COSCO and its partners accounted for more than 50 percent of its traffic last year."We also hope the U.S. can further improve the investment environment and attract more Chinese companies so we can further promote our bilateral trade relations," Chen said.------Chinese Ministry of Commerce (in Chinese): http://www.mofcom.gov.cn</text>
+  <mention label="United States" length="13" position="141"/>
+  <mention label="China" length="5" position="0"/>
+  <mention label="China" length="5" position="1536"/>
+  <mention label="Australia" length="9" position="2700"/>
+  <mention label="Africa" length="6" position="14"/>
+  <mention label="Africa" length="6" position="1677"/>
+  <mention label="Zambia" length="6" position="1416"/>
+  <mention label="Commerce Ministry" length="17" position="2079"/>
+  <mention label="Beijing" length="7" position="904"/>
+  <mention label="Chinese" length="7" position="1800"/>
+  <mention label="Zambian" length="7" position="1416"/>
+  <mention label="Boston" length="6" position="3095"/>
+  <mention label="Chinese" length="7" position="275"/>
+  <mention label="Chen" length="4" position="2067"/>
+  <mention label="Chinese" length="7" position="927"/>
+  <mention label="Chen Lin" length="8" position="2067"/>
+  <mention label="Chinese" length="7" position="666"/>
+  <mention label="Chinese" length="7" position="3353"/>
+  <mention label="Zambia" length="6" position="1191"/>
+  <mention label="Chinese" length="7" position="2725"/>
+  <mention label="Chinese" length="7" position="1313"/>
+  <mention label="United States" length="13" position="2977"/>
+  <mention label="Chen" length="4" position="1576"/>
+  <mention label="Texas" length="5" position="2601"/>
+  <mention label="U.S." length="4" position="2347"/>
+  <mention label="China" length="5" position="49"/>
+  <mention label="Chinese" length="7" position="1203"/>
+  <mention label="Chen" length="4" position="1586"/>
+  <mention label="Zambia" length="6" position="198"/>
+  <mention label="Chinese" length="7" position="450"/>
+  <mention label="Chinese" length="7" position="1997"/>
+  <mention label="Chen" length="4" position="591"/>
+  <mention label="Zambia" length="6" position="1366"/>
+  <mention label="U.S." length="4" position="3284"/>
+  <mention label="United States" length="13" position="2136"/>
+  <mention label="Chinese" length="7" position="221"/>
+  <mention label="Chinese Ministry of Commerce" length="28" position="3445"/>
+  <mention label="Chinese" length="7" position="2926"/>
+  <mention label="COSCO" length="5" position="3183"/>
+  <mention label="Chinese" length="7" position="2411"/>
+  <mention label="Africa" length="6" position="616"/>
+  <mention label="Chinese" length="7" position="744"/>
+  <mention label="Chinese" length="7" position="2280"/>
+  <mention label="Chinese" length="7" position="1654"/>
+  <mention label="Chinese" length="7" position="2165"/>
+  <mention label="Chinese" length="7" position="3445"/>
+  <mention label="CNOOC Ltd." length="10" position="2431"/>
+  <mention label="Africa" length="6" position="126"/>
+  <mention label="CNOOC" length="5" position="2431"/>
+  <mention label="Latin America" length="13" position="624"/>
+  <mention label="CNOOC" length="5" position="2555"/>
+</item>

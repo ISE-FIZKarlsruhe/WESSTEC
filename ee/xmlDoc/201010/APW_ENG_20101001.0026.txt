@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Idaho candidates play up cowboy credentialsThey have castrated thousands of calves. They spend free time riding the range on horseback or hunting with shotguns slung over their shoulders. Cowboy hats, oversized belt buckles and scuffed-up boots are standard attire.Meet the candidates for Idaho governor -- two champion horsemen who seem to be running as much for cowboy-in-chief as they are for the state's top political office.Even their equestrian prowess has come up during the campaign: In a recent debate, Democrat Keith Allred poked fun at Republican Gov. C.L. Otter's propensity to get thrown off his horse while roping cattle.The cowboy theme has injected an Old West feel into a governor's race that has been more competitive than originally expected. Otter enjoys widespread popularity in the heavily Republican state and leads in the polls, but Allred has gone toe-to-toe with the incumbent in fundraising.The candidates hope the cowboy images send powerful messages to voters about their characters: individualism, purpose, common sense -- and maybe even spurs to give the tuckered-out economy a little giddy-up.Never mind that manufacturing of products like semiconductors makes up 10 percent of Idaho's $53 billion economy, about twice agriculture's contribution. In the campaign, it's still cowboys who ride to the rescue.Allred said there's an important distinction to be made between being a cowboy on the weekends and learning important life lessons while growing up on a ranch."Butch Otter and I have done the dress-up stuff, the cutting horses, the rodeo," Allred said. "That's playing cowboy. The part that is a formative part of my life, and really shapes my leadership style, is the experience I had as a kid, when my family's cattle ranch was honestly on the line."Until 2005, the 68-year-old Otter team-roped cattle on a 40-acre (16-hectare) Boise River ranch he owned called "Lonesome Dove," named after the Larry McMurtry Western. His fictional hero: Woodrow Call, the ex-Texas Ranger from the book.He says his cowboy image has helped open doors on trade missions. While Otter was lieutenant governor in 1996, the mayor of Salzburg, Austria, turned down a formal picture of Idaho's second-in-command.The Austrian instead demanded one with Otter on his trusty cow pony.While serving three terms in Congress, Otter gussied up his Washington office with photos of rodeo queens and champion bull riders. His Idaho Capitol suite has shots of him on trail rides and at local rodeos.Otter, a 30-year businessman and politician, ranks getting elected to the National Cowboy Hall of Fame board of directors as his "greatest achievement." He has several enormous belt buckles won in rodeo competitions.In April, Otter's cowboy credentials might have even gotten a boost -- he suspects bacteria from manure dust he gulped while branding and castrating calves at Lt. Gov. Brad Little's ranch put him in the hospital.Allred, 46, twice went to the National Cutting Horse Association championships with his prize mare, Little Angelena. He left a teaching job at Harvard University to found a nonpartisan Idaho citizens group.Allred, who favors a Resistol hat to Otter's beloved Stetson, is trying to overcome any baggage that might come with being a former Ivy League professor by emphasizing his ranch roots.His TV ads call him the "lone hand on his grandpa's cattle ranch" while growing up on the Utah frontier as a teenager.There was the time a blind, pregnant cow strayed into a trench. Allred said he jumped from his horse and into the water to discover the cow was giving birth."My horse and I gave everything we had to pull that cow out," Allred said. "Then, I pulled that calf out, and the cow and the calf survived. I didn't have anybody to turn to. It was miles before you could find another soul."In the pantheon of Rocky Mountain politicians, Otter and Allred aren't unique.In Montana, Gov. Brian Schweitzer's collection of 30-some bolo ties, jeans and ranch dog are campaign-trail cliches. And the two candidates for Montana's lone House seat are not shy about boasting about their cowboy credentials."It's all about creating an identity," said Larry Swanson, head of the O'Connor Center for the Rocky Mountain West at the University of Montana. "If you don't create one for yourself, your opposition is going to do it for you."State Rep. Scott Bedke, a Republican rancher from Idaho, says it's nice to see politicians embrace the cowboy way, even if it's to win over voters."The persona of a cowboy is, he had common sense, he was an original, he was an individualist, he made do with what he had," said Bedke. "It's a compliment, to know there are people still wanting to identify with us, that we're not just the hayseeds people might think."</text>
+  <mention label="Keith Allred" length="12" position="521"/>
+  <mention label="Idaho" length="5" position="0"/>
+  <mention label="Idaho" length="5" position="2432"/>
+  <mention label="Scott Bedke" length="11" position="4365"/>
+  <mention label="Democrat" length="8" position="512"/>
+  <mention label="Allred" length="6" position="527"/>
+  <mention label="University of Montana" length="21" position="4249"/>
+  <mention label="Idaho Capitol" length="13" position="2432"/>
+  <mention label="Rocky Mountain" length="14" position="3840"/>
+  <mention label="National Cowboy Hall of Fame" length="28" position="2578"/>
+  <mention label="Harvard University" length="18" position="3075"/>
+  <mention label="Old West" length="8" position="668"/>
+  <mention label="Republican" length="10" position="4380"/>
+  <mention label="Bedke" length="5" position="4371"/>
+  <mention label="Otter" length="5" position="2335"/>
+  <mention label="Congress" length="8" position="2325"/>
+  <mention label="Otter" length="5" position="1818"/>
+  <mention label="Idaho" length="5" position="2202"/>
+  <mention label="Idaho" length="5" position="289"/>
+  <mention label="Republican" length="10" position="812"/>
+  <mention label="Idaho" length="5" position="3117"/>
+  <mention label="Republican" length="10" position="547"/>
+  <mention label="Allred" length="6" position="1578"/>
+  <mention label="National Cutting Horse Association" length="34" position="2962"/>
+  <mention label="Austrian" length="8" position="2232"/>
+  <mention label="Otter" length="5" position="2099"/>
+  <mention label="Allred" length="6" position="3504"/>
+  <mention label="Woodrow Call" length="12" position="1979"/>
+  <mention label="Montana" length="7" position="3902"/>
+  <mention label="C.L. Otter" length="10" position="563"/>
+  <mention label="Allred" length="6" position="1338"/>
+  <mention label="Otter" length="5" position="568"/>
+  <mention label="Washington" length="10" position="2356"/>
+  <mention label="Idaho" length="5" position="1210"/>
+  <mention label="Brad Little" length="11" position="2888"/>
+  <mention label="Allred" length="6" position="3138"/>
+  <mention label="Boise River" length="11" position="1868"/>
+  <mention label="Montana" length="7" position="4043"/>
+  <mention label="Ivy League" length="10" position="3270"/>
+  <mention label="Allred" length="6" position="3659"/>
+  <mention label="Utah" length="4" position="3412"/>
+  <mention label="Butch Otter" length="11" position="1498"/>
+  <mention label="Brian Schweitzer" length="16" position="3916"/>
+  <mention label="Otter" length="5" position="2267"/>
+  <mention label="Allred" length="6" position="857"/>
+  <mention label="Otter" length="5" position="1504"/>
+  <mention label="Salzburg" length="8" position="2151"/>
+  <mention label="Stetson" length="7" position="3191"/>
+  <mention label="Allred" length="6" position="2932"/>
+  <mention label="Austria" length="7" position="2161"/>
+  <mention label="Otter" length="5" position="762"/>
+</item>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Protesting police throw Ecuador into chaosHundreds of police angry over a law that would cut their benefits plunged this oil-exporting country into chaos Thursday, roughing up and tear-gassing the president, shutting down airports and blocking highways in a nationwide strike.At least one person was killed and six injured in clashes between police and supporters of President Rafael Correa outside a police hospital where the leader was being treated, the security minister said.Incensed officers shoved Correa around earlier in the day, pelted him with water and doused him in tear gas when he tried to speak to rebellious officers. The 47-year-old leader was taken to the hospital after being nearly asphyxiated by the gas.Hours after Correa was roughed up, and surrounded by dozens of insurgent cops outside the hospital, the president declared himself "practically captive."He said he was negotiating with the police insurgents, but he vowed to leave either "as president or as a corpse."The hospital's director, Cesar Carrion, told Sonorama radio that the president was accompanied by his security guards and at no time been held against his will.The South American nation's government declared a state of siege, putting the military in charge of public order, suspending civil liberties and allowing soldiers to carry out searches without a warrant.The defiant police took over police barracks in Quito, Guayaquil and other cities. Some set up roadblocks of burning tires, cutting off highway access to the capital.Schools shut down in Quito and many businesses closed early due to the absence of police protection that left citizens and businesses vulnerable.Looting was reported in the capital -- where at least two banks were sacked -- and in the coastal city of Guayaquil. That city's main newspaper, El Universo, reported attacks on supermarkets and robberies due to the absence of police.Hundreds of Correa supporters gathered outside the National Assembly, which was seized by striking police.The armed forces commander, Gen. Ernesto Gonzalez, declared the military's loyalty to Correa at a news conference. He called for "a re-establishment of dialogue, which is the only way Ecuadoreans can resolve our differences."But he also called for the law that provoked the unrest to be "reviewed or not placed into effect so public servants, soldiers and police don't see their rights affected."The law, which Congress approved on Wednesday, must be published before it takes effect and that has not happened.Peru and Colombia closed their countries' borders with Ecuador in solidarity with Correa. Along with the rest of the region's leaders and the United States, they expressed firm support for Correa. Bolivia's leftist president, Evo Morales, summoned South America's presidents to an emergency meeting Thursday night in Buenos Aires of the continent's fledgling UNASUR defense union.This poor Andean nation of 14 million people had a history of political instability before Correa, cycling through eight presidents in a decade before the leftist U.S.-trained economist first won election in December 2006. Three of them were driven from office by street protests that plagued the country, which is a member of OPEC.In April 2009, after voters approved a new constitution he championed, Correa became Ecuador's first president to win election without a runoff. That success has led him at times to act with overconfidence, even arrogance.Confronting the protesters Thursday morning, Correa was agitated and unyielding."If you want to kill the president, here he is! Kill me!" he told them before limping away with the aid of a cane as an aide fitted a gas mask over his face. Correa's right knee, with which he has had recurring problems, was operated on last week.Some 800 police officers in Quito joined the protest, which appeared to have arisen spontaneously. The number of participants outside the capital was unclear. Ecuador has 40,000 police officers.Correa called the unrest "an attempted coup" spurred by his opponents in remarks to reporters at the police hospital, where he at one point was hooked to an intravenous drip. "They're practically holding the president captive," he said.The insurgent police surrounding the hospital fought with Correa supporters, and Miguel Carvajal, the security minister, told reporters that one person was killed and six injured. He provided no details.Correa later told state TV from the hospital that "I'm leaving here as president or as a corpse, but I'm not losing my dignity."Correa's leftist ally, Venezuela's President Hugo Chavez, claimed earlier that the Ecuadorean leader was "in danger of being killed." Ecuador's foreign minister, Ricardo Patino, said at one point that insurgents were trying to enter the hospital through the roof."They are trying to oust President Correa," Chavez said via Twitter.That claim was echoed by Cuba while the Organization of American States' secretary-general, Miguel Insulza, called the situation "a coup d'etat in the making."The United States didn't go that far."We urge all Ecuadorians to come together and to work within the framework of Ecuador's democratic institutions to reach a rapid and peaceful restoration of order," U.S. Secretary of State Hillary Rodham Clinton said in a statement.Ecuador's ambassador to the OAS, Maria Isabel Salvador, alleged involvement by "opposition politicians with military backgrounds and police ties." She did not name names.Correa's main political opponent, Mayor Jaime Nebot of Guayaquil, called a news conference to denounce the revolt. "No problem should be resolved with violence and disrespect for the constitution and the law," he said.The striking police were angered by a law passed by Congress on Wednesday that would end the practice of giving members of Ecuador's military and police medals and bonuses with each promotion. It would also extend from five to seven years the usual period required for a subsequent promotion."They are a bunch of ungrateful bandits," Correa said of the protesters after they set upon him.He said the new law "is removing bonus payments and decorations from the entire public sector ... to prevent abuses of state money. We know the Ecuadorean people support us in all this."The U.S. Embassy issued a message warning U.S. citizens "of a "nationwide strike by all levels of police, including military police." It warned them to "stay in their homes or current location, if safe."The president's policy coordination minister, Doris Soliz, asked Ecuadoreans to be calm and support the government."This is an act of indiscipline that is going to be controlled. It is being controlled," she said.Air force troops shut down Quito's Mariscal Sucre airport as the protests began Thursday morning. Dozens of flights were canceled and it was unclear when international service would be restored to the Quito, Guayaquil and Manta airports.The head of Ecuador's civil aviation authority, Fernando Guerrero, said in a statement that international operations were suspended at the latter two airports "due to the lack of immigration and counternarcotics personnel."------Associated Press photographer Dolores Ochoa in Quito and AP writers Gonzalo Solano in Quito, Luis Alonso Lugo in Washington, Frank Bajak in Bogota, Colombia, Fabiola Sanchez in Caracas, Venezuela, and Carla Salazar in Lima, Peru, contributed to this report.</text>
+  <mention label="Quito" length="5" position="1543"/>
+  <mention label="Correa" length="6" position="3972"/>
+  <mention label="Correa" length="6" position="384"/>
+  <mention label="South America" length="13" position="1157"/>
+  <mention label="Ecuador" length="7" position="2191"/>
+  <mention label="Ecuador" length="7" position="4622"/>
+  <mention label="Guayaquil" length="9" position="1411"/>
+  <mention label="Ecuador" length="7" position="2572"/>
+  <mention label="South American" length="14" position="1157"/>
+  <mention label="Jaime Nebot" length="11" position="5508"/>
+  <mention label="Quito" length="5" position="7189"/>
+  <mention label="Caracas" length="7" position="7319"/>
+  <mention label="Hillary Rodham Clinton" length="22" position="5255"/>
+  <mention label="Correa" length="6" position="2706"/>
+  <mention label="Guayaquil" length="9" position="5523"/>
+  <mention label="Cuba" length="4" position="4895"/>
+  <mention label="OPEC" length="4" position="3224"/>
+  <mention label="Bolivia" length="7" position="2714"/>
+  <mention label="Buenos Aires" length="12" position="2834"/>
+  <mention label="El Universo" length="11" position="1812"/>
+  <mention label="Ecuador" length="7" position="24"/>
+  <mention label="Ecuador" length="7" position="5144"/>
+  <mention label="Fernando Guerrero" length="17" position="6961"/>
+  <mention label="Correa" length="6" position="2599"/>
+  <mention label="United States" length="13" position="5033"/>
+  <mention label="Venezuela" length="9" position="7328"/>
+  <mention label="Quito" length="5" position="6703"/>
+  <mention label="Correa" length="6" position="2988"/>
+  <mention label="Correa" length="6" position="2093"/>
+  <mention label="Correa" length="6" position="4266"/>
+  <mention label="Correa" length="6" position="3496"/>
+  <mention label="National Assembly" length="17" position="1952"/>
+  <mention label="Organization of American States" length="31" position="4910"/>
+  <mention label="Quito" length="5" position="7228"/>
+  <mention label="Evo Morales" length="11" position="2743"/>
+  <mention label="Correa" length="6" position="4411"/>
+  <mention label="Correa" length="6" position="4539"/>
+  <mention label="Peru" length="4" position="7366"/>
+  <mention label="Lima" length="4" position="7360"/>
+  <mention label="Ecuador" length="7" position="4673"/>
+  <mention label="OAS" length="3" position="5326"/>
+  <mention label="Ecuador" length="7" position="5079"/>
+  <mention label="Peru" length="4" position="2517"/>
+  <mention label="Colombia" length="8" position="2526"/>
+  <mention label="Quito" length="5" position="6877"/>
+  <mention label="Correa" length="6" position="5468"/>
+  <mention label="Quito" length="5" position="3806"/>
+  <mention label="Venezuela" length="9" position="4562"/>
+  <mention label="Ecuadorians" length="11" position="5079"/>
+  <mention label="Washington" length="10" position="7255"/>
+  <mention label="Andean" length="6" position="2907"/>
+  <mention label="Congress" length="8" position="5738"/>
+  <mention label="Correa" length="6" position="3300"/>
+  <mention label="Hugo Chavez" length="11" position="4584"/>
+  <mention label="Correa" length="6" position="4837"/>
+  <mention label="Guayaquil" length="9" position="1773"/>
+  <mention label="Correa" length="6" position="738"/>
+  <mention label="Ecuador" length="7" position="3937"/>
+  <mention label="Chavez" length="6" position="4589"/>
+  <mention label="U.S." length="4" position="5231"/>
+  <mention label="Guayaquil" length="9" position="6884"/>
+  <mention label="United States" length="13" position="2659"/>
+  <mention label="Correa" length="6" position="3689"/>
+  <mention label="U.S." length="4" position="3060"/>
+  <mention label="Colombia" length="8" position="7290"/>
+  <mention label="Rafael Correa" length="13" position="377"/>
+  <mention label="Bogota" length="6" position="7282"/>
+  <mention label="Ecuador" length="7" position="3314"/>
+  <mention label="Associated Press" length="16" position="7142"/>
+  <mention label="Manta" length="5" position="6898"/>
+  <mention label="Quito" length="5" position="1404"/>
+  <mention label="Congress" length="8" position="2418"/>
+  <mention label="Correa" length="6" position="505"/>
+  <mention label="Correa" length="6" position="1913"/>
+</item>

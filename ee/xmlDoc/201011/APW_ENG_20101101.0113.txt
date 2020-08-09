@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US missile attack kills 5 people in NW PakistanA U.S. drone attack killed five people in northwest Pakistan on Monday, local intelligence officials said, the latest in a barrage of such strikes against al-Qaida and Taliban militants who have long sought sanctuary in the region.The missile or missiles struck a house in North Waziristan, the area that has seen the overwhelming majority of attacks over the last two months, said the officials, who did not give their names because the agency they work for does not allow its operatives to be identified.The identities of those killed was not immediately known.North Waziristan is too dangerous for outsiders to visit and independently confirm the attacks. U.S. officials do not acknowledge firing the missiles, much less discuss who they are targeting. Some locals say many of those killed are civilians; others say nearly all the victims are militants or those actively harboring them.There have now been at least 21 suspected U.S. missile strikes in Pakistan this month. There were 21 such attacks in September, nearly double the previous monthly record. They are fired by unmanned drones that fly over the region for hours and equipped with extremely high-powered video cameras.North Waziristan is home to hundreds of Pakistani and foreign Islamist militants, many belonging to or allied with al-Qaida and the Taliban. The region also hosts the Haqqani network, a powerful insurgent group that U.S. officials say is behind many of the attacks on U.S. and NATO forces just across the border in Afghanistan.</text>
+  <mention label="NATO" length="4" position="1508"/>
+  <mention label="Afghanistan" length="11" position="1546"/>
+  <mention label="Pakistan" length="8" position="1002"/>
+  <mention label="al-Qaida" length="8" position="202"/>
+  <mention label="U.S." length="4" position="1447"/>
+  <mention label="Islamist" length="8" position="1293"/>
+  <mention label="U.S." length="4" position="706"/>
+  <mention label="al-Qaida" length="8" position="1346"/>
+  <mention label="Pakistan" length="8" position="99"/>
+  <mention label="Pakistan" length="8" position="39"/>
+  <mention label="Taliban" length="7" position="215"/>
+  <mention label="North Waziristan" length="16" position="320"/>
+  <mention label="Haqqani" length="7" position="1398"/>
+  <mention label="North Waziristan" length="16" position="610"/>
+  <mention label="U.S." length="4" position="49"/>
+  <mention label="U.S." length="4" position="978"/>
+  <mention label="Pakistani" length="9" position="1271"/>
+  <mention label="U.S." length="4" position="1499"/>
+  <mention label="North Waziristan" length="16" position="1231"/>
+</item>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>3 Japanese freed by China arrive back homeThree Japanese held by China for allegedly entering a restricted military zone arrived back home Friday as tensions over a territorial dispute eased. But Tokyo continued to press for the release of a fourth citizen still in Chinese custody.In recent weeks, following a collision between Japanese and Chinese boats near a string of islands claimed by both Asian giants, relations plunged to their lowest level in several years. Beijing suspended ministerial-level talks with Tokyo, and numerous anti-Japanese protests laid bare decades-old anger in China toward Japanese wartime aggression, as experts wondered how far the freeze would go.But a thaw began earlier this week, with China apparently lifting a de facto ban on rare earth materials needed for advanced manufacturing. The three Japanese were freed Thursday after admitting to violating Chinese law, China's official Xinhua News Agency reported. A fourth, identified as Sadamu Takahashi, remains under house arrest and was being investigated for illegally videotaping military targets, Xinhua said.Japanese Prime Minister Naoto Kan said the government would work to win Takahashi's release "as soon as possible."Chief Cabinet Secretary Yoshito Sengoku told reporters Friday that Tokyo still "had no facts" to explain why the four men were detained or why three were released, according to the Kyodo News agency.The four men, employees of Fujita Corp., a Tokyo-based construction and urban redevelopment company, were in China working to prepare a bid for a project to dispose of chemical weapons abandoned in China by the Japanese military at the end of World War II, the company said.Fujita said the three men arrived at Tokyo's Haneda airport early Friday afternoon.They were detained outside the northern city of Shijiazhuang on Sept. 21 following the Sept. 7 collision between a Chinese fishing trawler and two Japanese patrol boats near disputed islands in the East China Sea.Japan released the fishing boat captain over the weekend and said China needs to resolve the case of the four as the first step toward repairing ties. China's Foreign Ministry has denied any link between the detentions and the islands incident.The latest confrontation sank relations to their lowest level since the 2001-2006 term of former Prime Minister Junichiro Koizumi, whose repeated visits to a war shrine in Japan enraged China and sparked a wave of violent anti-Japanese protests across the country.The spat -- and China's unusually strong response -- also raised questions about cooperation between the Asian powers at international meetings. Kan and Chinese Premier Wen Jiabao essentially ignored each other at a recent gathering at the United Nations and have no plans to meet at a major Asia-Europe forum in Belgium early next week.There are signs now, however, that China is apparently lifting a de facto ban on Japan-bound exports of rare earths, minerals used in high-tech products, although shipments appeared to be still be largely blocked at Chinese ports and subject to increased inspections.Experts said China's communist leaders did not wish to further stoke public anger that risks morphing into a genuine protest movement."China never really wanted to see it get out of hand. It doesn't like to see foreign policy go to the street," said David Zweig, director of the Center on China's Transnational Relations at Hong Kong University of Science and Technology.------Associated Press writer Christopher Bodeen in Beijing contributed to this report.</text>
+  <mention label="China" length="5" position="901"/>
+  <mention label="Tokyo" length="5" position="516"/>
+  <mention label="Xinhua News Agency" length="18" position="918"/>
+  <mention label="Tokyo" length="5" position="1280"/>
+  <mention label="China" length="5" position="2048"/>
+  <mention label="Japan" length="5" position="2"/>
+  <mention label="Asian" length="5" position="397"/>
+  <mention label="Japanese" length="8" position="2"/>
+  <mention label="Chinese" length="7" position="266"/>
+  <mention label="Xinhua" length="6" position="918"/>
+  <mention label="China" length="5" position="20"/>
+  <mention label="Shijiazhuang" length="12" position="1817"/>
+  <mention label="Japanese" length="8" position="541"/>
+  <mention label="China" length="5" position="3229"/>
+  <mention label="Fujita" length="6" position="1439"/>
+  <mention label="Associated Press" length="16" position="3471"/>
+  <mention label="East China Sea" length="14" position="1967"/>
+  <mention label="United Nations" length="14" position="2730"/>
+  <mention label="Asian" length="5" position="2595"/>
+  <mention label="China" length="5" position="3107"/>
+  <mention label="Tokyo" length="5" position="1455"/>
+  <mention label="China" length="5" position="2862"/>
+  <mention label="China" length="5" position="1972"/>
+  <mention label="Junichiro Koizumi" length="17" position="2338"/>
+  <mention label="Japan" length="5" position="48"/>
+  <mention label="Japanese" length="8" position="830"/>
+  <mention label="Japanese" length="8" position="48"/>
+  <mention label="Beijing" length="7" position="3517"/>
+  <mention label="Tokyo" length="5" position="196"/>
+  <mention label="Japanese" length="8" position="329"/>
+  <mention label="Japanese" length="8" position="1099"/>
+  <mention label="China" length="5" position="65"/>
+  <mention label="Haneda" length="6" position="1731"/>
+  <mention label="China" length="5" position="590"/>
+  <mention label="Foreign Ministry" length="16" position="2141"/>
+  <mention label="China" length="5" position="1610"/>
+  <mention label="China" length="5" position="2506"/>
+  <mention label="China" length="5" position="2133"/>
+  <mention label="Chinese" length="7" position="342"/>
+  <mention label="Beijing" length="7" position="469"/>
+  <mention label="Japanese" length="8" position="603"/>
+  <mention label="China" length="5" position="721"/>
+  <mention label="Chinese" length="7" position="2643"/>
+  <mention label="Yoshito Sengoku" length="15" position="1237"/>
+  <mention label="Takahashi" length="9" position="978"/>
+  <mention label="Chinese" length="7" position="1884"/>
+  <mention label="Japanese" length="8" position="1623"/>
+  <mention label="Chinese" length="7" position="3043"/>
+  <mention label="China" length="5" position="2412"/>
+  <mention label="Wen Jiabao" length="10" position="2659"/>
+  <mention label="Naoto Kan" length="9" position="1123"/>
+  <mention label="Kan" length="3" position="1129"/>
+  <mention label="China" length="5" position="1521"/>
+  <mention label="Belgium" length="7" position="2803"/>
+  <mention label="Kyodo News" length="10" position="1394"/>
+  <mention label="World War II" length="12" position="1655"/>
+  <mention label="Chinese" length="7" position="888"/>
+</item>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>German retail sales slightly lower in AugustPreliminary data show that German retail sales were down 0.2 percent on the month in August, although they rose 2.2 percent compared with a year earlier.The Federal Statistical Office said Friday sales of goods other than food rose by a strong 5.3 percent in year-on-year terms. Sales of cloths and shoes were up 8.4 percent.The office said total sales from January to August were 0.9 percent higher than a year earlier.Domestic demand has long been a weak point of Germany's export-led economy although consumer confidence is rising.ING economist Carsten Brzeski noted that German retail sales statistics are volatile and often-revised. He said one-time factors such as vacations abroad or worries about the global economic outlook likely hit August sales.</text>
+  <mention label="ING" length="3" position="578"/>
+  <mention label="German" length="6" position="71"/>
+  <mention label="Federal Statistical Office" length="26" position="201"/>
+  <mention label="German" length="6" position="0"/>
+  <mention label="German" length="6" position="510"/>
+  <mention label="Germany" length="7" position="510"/>
+</item>

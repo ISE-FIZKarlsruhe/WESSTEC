@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Former presidents throw out ceremonial 1st pitchFather and son George H.W. Bush and George W. Bush threw out the ceremonial first pitch Sunday in what Major League Baseball said was the first time two former presidents attended a World Series game.George W. Bush, the 43rd president, threw the pitch with his father, the 41st president, at his side.The pair drove in from left field together in a golf cart, with the younger Bush wearing a blue Texas Rangers jacket and the elder Bush a red World Series jacket. The older held a cane in his left hand and walked haltingly, and he later needed assistance getting into his seat in the first row next to the Texas Rangers dugout.As they approached the infield dirt and drove past four Giants, San Francisco outfielder Cody Ross gave a handshake to the older Bush.Former First Lady Barbara Bush took pictures from her first-row seat with former First Lady Laura Bush, her daughter-in-law, standing next to her.When the golf cart pulled up next to the mound of the first-base side, the two ex-presidents were greeted by Hall of Famer Nolan Ryan, the current Rangers president. George W. Bush threw a high pitch to Ryan, who caught it over the right-handed hitter's batter's box.After the pitch, the pair got back in the golf cart and drove the short distance to in front of the Rangers dugout. Once they were in their seats, the umpires walked over to shake their hands.The younger Bush is a familiar face at Rangers Ballpark, where he became controlling owner in April 1989 and relinquished the baseball position when he took over as Texas governor in 1995. His group owned the team until selling to Tom Hicks in 1998.The elder, more of a Houston Astros fan, was a first baseman at Yale and captain of the Bulldogs' baseball team. He played in the first two College World Series, losing the 1947 championship to California 8-7 and the 1948 final to Southern California 3-1. Bush kept his Yale first baseman's glove in his Oval Office desk during his White House years, and he is friends with former baseball commissioner Fay Vincent.Both threw out first pitches many times while president. The older performed the task at the 1992 All-Star game in San Diego and the younger did it before Game 3 of the 2001 World Series at Yankee Stadium.The older Bush was president from 1989-93 and the younger was president from 2001-09. The younger also attended Game 3.Rangers spokesman John Blake said neither Bush would discuss the World Series appearance because of a media embargo related to the publication of George W. Bush's upcoming book.</text>
+  <mention label="Bush" length="4" position="836"/>
+  <mention label="World Series" length="12" position="2253"/>
+  <mention label="Major League Baseball" length="21" position="151"/>
+  <mention label="Texas Rangers" length="13" position="655"/>
+  <mention label="Yale" length="4" position="1728"/>
+  <mention label="Rangers" length="7" position="451"/>
+  <mention label="Bush" length="4" position="258"/>
+  <mention label="California" length="10" position="1858"/>
+  <mention label="Yale" length="4" position="1934"/>
+  <mention label="Laura Bush" length="10" position="902"/>
+  <mention label="Bush" length="4" position="75"/>
+  <mention label="Bulldogs" length="8" position="1752"/>
+  <mention label="Fay Vincent" length="11" position="2067"/>
+  <mention label="College World Series" length="20" position="1804"/>
+  <mention label="World Series" length="12" position="1812"/>
+  <mention label="George W. Bush" length="14" position="84"/>
+  <mention label="Bush" length="4" position="94"/>
+  <mention label="Giants" length="6" position="732"/>
+  <mention label="San Diego" length="9" position="2194"/>
+  <mention label="Houston Astros" length="14" position="1685"/>
+  <mention label="Bush" length="4" position="805"/>
+  <mention label="Bush" length="4" position="480"/>
+  <mention label="World Series" length="12" position="491"/>
+  <mention label="Tom Hicks" length="9" position="1646"/>
+  <mention label="San Francisco" length="13" position="740"/>
+  <mention label="World Series" length="12" position="230"/>
+  <mention label="George W. Bush" length="14" position="1122"/>
+  <mention label="Bush" length="4" position="425"/>
+  <mention label="George H.W. Bush" length="16" position="63"/>
+  <mention label="Texas Rangers" length="13" position="445"/>
+  <mention label="Barbara Bush" length="12" position="828"/>
+  <mention label="Cody Ross" length="9" position="765"/>
+  <mention label="Southern California" length="19" position="1895"/>
+  <mention label="George W. Bush" length="14" position="248"/>
+  <mention label="Texas" length="5" position="445"/>
+  <mention label="Ryan" length="4" position="1085"/>
+  <mention label="George W. Bush" length="14" position="2549"/>
+  <mention label="Nolan Ryan" length="10" position="1079"/>
+  <mention label="Rangers Ballpark" length="16" position="1454"/>
+  <mention label="John Blake" length="10" position="2421"/>
+</item>

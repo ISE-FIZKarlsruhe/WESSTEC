@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Freeway collapse kills 7 in TaiwanAn official says a section of a freeway under construction has collapsed in central Taiwan, killing seven workers.Labor Council chief Wang Ju-hsiuan says several steel pillars supporting the freeway gave way and sent large concrete slabs hurtling 160 feet (50 meters) toward the ground at the construction site in Nantou county.She says six Indonesian workers and one Taiwanese were killed during the Thursday accident and three others Taiwanese were injured.Wang says the freeway contractor is being investigated for possible negligence.</text>
+  <mention label="Taiwan" length="6" position="118"/>
+  <mention label="Nantou county" length="13" position="348"/>
+  <mention label="Labor Council" length="13" position="148"/>
+  <mention label="Taiwan" length="6" position="28"/>
+  <mention label="Taiwanese" length="9" position="402"/>
+  <mention label="Wang" length="4" position="168"/>
+  <mention label="Indonesian" length="10" position="375"/>
+  <mention label="Taiwanese" length="9" position="470"/>
+</item>

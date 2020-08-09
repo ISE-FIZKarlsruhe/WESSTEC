@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Hands off private property: Dutch outlaw squattingA law banning "squatting" in unused buildings has come into force in the Netherlands, the latest pillar of Dutch liberal traditions to be curtailed in an era of deepening conservatism.A study published this year by Amsterdam's Free University estimated about 1,500 squatters still live in the Dutch capital, far fewer than in the 1970s and 1980s when severe housing shortages left many young Dutch people homeless. Critics say most squatters today are migrants from eastern or southern Europe looking for a free place to stay.Amsterdam Mayor Eberhart van der Laan says he plans to gradually empty the remaining 200 buildings in the city occupied by squatters.But officials say no major action against the squatters is planned for Friday when the law takes effect.</text>
+  <mention label="Netherlands" length="11" position="123"/>
+  <mention label="Amsterdam" length="9" position="265"/>
+  <mention label="Dutch" length="5" position="343"/>
+  <mention label="Dutch" length="5" position="157"/>
+  <mention label="Amsterdam" length="9" position="576"/>
+  <mention label="Dutch" length="5" position="28"/>
+  <mention label="Free University" length="15" position="277"/>
+  <mention label="Europe" length="6" position="536"/>
+  <mention label="Dutch" length="5" position="442"/>
+</item>

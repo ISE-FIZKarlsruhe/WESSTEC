@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Neil Young experiments on ' Le Noise 'Neil Young, "Le Noise" (Reprise)The concept is tantalizing: Neil Young, alone with his guitar, hooks up with musician and producer of the stars Daniel Lanois in his acoustically souped-up house for an intimate, off-the-cuff recording done with no band or overdubs.Unfortunately, the resulting pretentiously titled "Le Noise" mostly works better in theory than in reality. The biggest detriment is that while it sounds cool, the songs themselves are mostly not all that interesting, with a couple notable exceptions."Love and War" and "Hitchhiker" both find Young in a reflective mood, and coupled with Lanois' delirious production, makes them seem all the more like they're being transmitted in a dream.The star of this disc is Young's guitar and what Lanois is able to do to it. The audio effects they use, including a generous dose of echo on the vocals, can be hypnotic in small doses. Luckily they showed some restraint in keeping the disc to a concise 37 minutes, since there's a certain sameness to the eight tracks."Le Noise" seems destined to fall into the same category of other ambitious Young projects that get high marks for distinctiveness, like "Greendale" and "Trans," but that won't get many repeat plays.CHECK THIS TRACK OUT: "Walk With Me," the opening track, uses a power chord that hits the listener in the gut right out of the gate. It's always refreshing to hear something new from an artist who's been recording for nearly 40 years and has released 34 studio albums.</text>
+  <mention label="Neil Young" length="10" position="106"/>
+  <mention label="Neil Young" length="10" position="8"/>
+  <mention label="Daniel Lanois" length="13" position="190"/>
+  <mention label="Lanois" length="6" position="197"/>
+  <mention label="Neil Young" length="10" position="46"/>
+  <mention label="Young" length="5" position="13"/>
+  <mention label="Lanois" length="6" position="648"/>
+  <mention label="Greendale" length="9" position="1206"/>
+</item>

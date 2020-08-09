@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US ' surge '  increases focus on S. Sudan before voteThe top U.S. official in Sudan labeled it the "Juba surge," linking a diplomatic push in oil-rich Southern Sudan to troop deployments in Afghanistan and Iraq.With 100 days before a scheduled independence referendum, though, the surge looks more like a trickle as Washington scrambles to find qualified personnel and to complete the paperwork to get them into this dusty, impoverished city. The Nile River town of Juba could soon become the world's newest capital city or the focal point of a renewed war.U.N. Secretary-General Ban Ki-moon last week hosted President Barack Obama and other world leaders to address concerns that preparations for Southern Sudan's Jan. 9 vote on independence are lagging. Obama said the coming months may show whether the Sudanese people move "forward toward peace or slip backward into bloodshed."The U.S. diplomatic presence has doubled here over the last three months and is the largest of any country, a reflection of the Obama administration's support of the semiautonomous southern government. U.S. officials refused to say how many diplomats are present, citing security reasons.U.S. Embassy personnel live in a compound, some in shipping containers or modest houses. The compound, which sits behind high concrete walls and barbed wire, has a swimming pool and a tennis court. Aside from a handful of restaurants, few entertainment options exist outside the walls.U.S. personnel are driven around Juba in embassy vehicles and can't live outside their compound. In a sign of the increasing U.S. interest, a second building is under construction beside the current consulate. The embassy is seeking additional housing for its increasing staff.Five months after Obama's special envoy to Sudan, Scott Gration, announced plans for a "Juba surge" the effects of that push are not apparent. Many personnel haven't arrived because of "logistical barriers," including problems obtaining visas and space constraints on the U.S. compound, said Eythan Sontag, coordinator of the State Department's Civilian Response Corps program in Southern Sudan. Nine Civilian Response Corps personnel have arrived in Juba. The number will eventually rise to 17.The Civilian Response Corps is supposed to work on security-related referendum activities and extend the U.S. presence beyond Juba and throughout the south's remote rural areas before the referendum. One project will be to improve communications systems used by police and other authorities. But Sontag said it's unclear if U.S. personnel will be deployed across the south for the vote itself, partly because of security concerns.A 2005 peace accord between the south and north ended a 21-year civil war that killed at least 2 million people and paved the way for the referendum. The head of Southern Sudan's mission in Washington, Ezekiel Lol Gatkuoth, said Washington's interest is highly appreciated in this critical period."The Obama administration is seriously looking into making sure the (north-south peace agreement) is fully implemented and the referendum is held," Gatkuoth said.Southern Sudan has much to accomplish over the next year if it becomes the world's newest country, including establishing diplomatic relations with the world community. Nations such as France and England have opened small consular offices here but Khartoum, Sudan's capital, remains the diplomatic hub. However the U.S. does not have an ambassador in Sudan and accuses it of supporting terrorism.The U.S. diplomats who are tasked with conflict prevention and police reform arrive with little or no experience in the region and little knowledge of Southern Sudan's various tribes and complex internal politics. Finding Sudan experts among U.S. government employees has been difficult."The fact of the matter is, look across the government, you are not going to find many steeped Sudan experts in any government agency. There just aren't that many of them," Sontag said.But several activist groups, including ones that drew attention to atrocities in the western Sudan region of Darfur over the last decade, are pleased with the Juba surge and with Obama's attendance at the U.N.'s Sudan meeting last week."We applaud President Obama and his Sudan policy team for making Sudan a top priority," leading advocacy groups including The Enough Project and the Save Darfur Coalition said in a statement.</text>
+  <mention label="Juba" length="4" position="2183"/>
+  <mention label="Sudan" length="5" position="2828"/>
+  <mention label="Obama" length="5" position="2959"/>
+  <mention label="Sudan" length="5" position="3467"/>
+  <mention label="Sudan" length="5" position="3734"/>
+  <mention label="Washington" length="10" position="2847"/>
+  <mention label="U.S." length="4" position="1170"/>
+  <mention label="Juba" length="4" position="1820"/>
+  <mention label="U.S." length="4" position="2332"/>
+  <mention label="Southern Sudan" length="14" position="151"/>
+  <mention label="State Department" length="16" position="2058"/>
+  <mention label="U.S. Embassy" length="12" position="1170"/>
+  <mention label="Sudan" length="5" position="36"/>
+  <mention label="Sudan" length="5" position="806"/>
+  <mention label="Sudan" length="5" position="160"/>
+  <mention label="U.S." length="4" position="1580"/>
+  <mention label="U.N." length="4" position="557"/>
+  <mention label="Sudan" length="5" position="3374"/>
+  <mention label="Juba" length="4" position="4143"/>
+  <mention label="U.S." length="4" position="1455"/>
+  <mention label="Khartoum" length="8" position="3364"/>
+  <mention label="Sudanese" length="8" position="806"/>
+  <mention label="Sudan" length="5" position="3125"/>
+  <mention label="Sudan" length="5" position="3894"/>
+  <mention label="Southern Sudan" length="14" position="698"/>
+  <mention label="Afghanistan" length="11" position="190"/>
+  <mention label="Juba" length="4" position="2353"/>
+  <mention label="Washington" length="10" position="316"/>
+  <mention label="U.S." length="4" position="1084"/>
+  <mention label="U.S." length="4" position="3516"/>
+  <mention label="U.S." length="4" position="61"/>
+  <mention label="Obama" length="5" position="4163"/>
+  <mention label="Sudan" length="5" position="707"/>
+  <mention label="Iraq" length="4" position="206"/>
+  <mention label="Sudan" length="5" position="78"/>
+  <mention label="Sudan" length="5" position="2121"/>
+  <mention label="Washington" length="10" position="2886"/>
+  <mention label="Southern Sudan" length="14" position="2112"/>
+  <mention label="Ban Ki-moon" length="11" position="580"/>
+  <mention label="U.S." length="4" position="2004"/>
+  <mention label="Obama" length="5" position="1750"/>
+  <mention label="Juba" length="4" position="1488"/>
+  <mention label="Juba" length="4" position="466"/>
+  <mention label="U.N." length="4" position="4189"/>
+  <mention label="Sudan" length="5" position="3672"/>
+  <mention label="Sontag" length="6" position="2523"/>
+  <mention label="Juba" length="4" position="100"/>
+  <mention label="U.S." length="4" position="3431"/>
+  <mention label="France" length="6" position="3301"/>
+  <mention label="Barack Obama" length="12" position="619"/>
+  <mention label="Sontag" length="6" position="2031"/>
+  <mention label="Sudan" length="5" position="1775"/>
+  <mention label="Obama" length="5" position="756"/>
+  <mention label="U.S." length="4" position="886"/>
+  <mention label="U.S." length="4" position="2551"/>
+  <mention label="Obama" length="5" position="626"/>
+  <mention label="Obama" length="5" position="1010"/>
+  <mention label="England" length="7" position="3312"/>
+  <mention label="Darfur" length="6" position="4093"/>
+  <mention label="Scott Gration" length="13" position="1782"/>
+</item>

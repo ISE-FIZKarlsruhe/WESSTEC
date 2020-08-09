@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>AP Weekly Sports CalendarEDITORS:These are among the top sports events of the week. Coverage of most of these events will move on this circuit:FRIDAY, Oct. 1thru 3, Newport, Wales -- golf, Ryder Cup.thru 3, Madison, Mississippi -- golf, US PGA, Viking Classic.thru 3, Taipei, Taiwan -- golf, Asian, Taiwan Masters.thru 3, Conover, North Carolina -- golf, Champions, Greater Hickory Classic.thru 2, Tokyo -- tennis, WTA, Toray Pan Pacific Open.thru 3, Bangkok -- tennis, ATP, Thailand Open.thru 3, Kuala Lumpa, Malaysia -- tennis, ATP, Malaysian Open.thru 5, Mohali, India -- cricket, India vs. Australia, 1st test.thru 3, various sites, France -- auto racing, WRC, Rallye d'Alsace.thru 3, Geelong, Australia -- cycling, road world championships.thru 10, various sites, Italy -- volleyball, men's world championship.thru 3, various sites, Czech Republic -- basketball, women's world championship.thru 10, Lexington, Kentucky -- equestrian, World Equestrian Games.SATURDAY, Oct. 2Homestead, Florida -- auto racing, IRL, Miami Indy 300.Tokyo -- boxing, Poonsawat Kratingdaenggym vs. Ryol Li Lee for Poonsawat's WBA junior featherweight title.Panama City, Panama -- boxing, Luis Concepcion vs. Denkaosan Kaovichit for Concepcion's interim WBA flyweight title.SUNDAY, Oct. 3thru 14, New Delhi -- Commonwealth Games.Motegi, Japan -- motorcycling, Japanese MotoGP.St. Paul, Minnesota -- athletics, Twin Cities Marathon.Kansas City, Kansas -- auto racing, NASCAR, Kansas 400.Paris -- horse racing, Prix de l'Arc de Triomphe.MONDAY, Oct. 4thru 10, Tokyo -- tennis, ATP, Japan Open.thru 10, Beijing -- tennis, ATP-WTA, China Open.London -- basketball, NBA preseason, Minnesota vs. Los Angeles Lakers.TUESDAY, Oct. 5Riyadh, Saudi Arabia -- football, Asian Champions League semifinal: Al Shabab vs. Seongnam Ilhwa.WEDNESDAY, Oct. 6Fooladshahr, Iran -- football, Asian Champions League semifinal: Zobahan vs. Al Hilal.Paris -- basketball, NBA preseason, New York vs. Minnesota.THURSDAY, Oct. 7thru 10, Carnoustie, Scotland -- golf, European, Alfred Dunhill Links Championship.thru 10, Sea Island, Georgia -- golf, US PGA, McGladrey Classic.thru 10, Jakarta, Indonesia -- golf, Asian, Indonesia President Invitational.thru 10, Prattville, Alabama -- golf, US LPGA, Navistar LPGA Classic.thru 10, Potomac, Maryland -- golf, Champions, Constellation Energy Senior Players Championships.Barcelona, Spain -- basketball, Barcelona vs. Los Angeles Lakers.Helsinki -- ice hockey, NHL, Carolina vs. Minnesota.FRIDAY, Oct. 8Various sites -- football, EURO 2012 qualifying: Kazakhstan vs. Belgium, Austria vs. Azerbaijan, Germany vs. Turkey, Armenia vs. Slovakia, Ireland vs. Russia, Andorra vs. Macedonia, Slovenia vs. Faeroe Islands, Serbia vs. Estonia, Northern Ireland vs. Italy, Albania vs. Bosnia-Herzegovina, Luxembourg vs. Belarus, Hungary vs. San Marino, Moldova vs. Netherlands, Greece vs. Latvia, Georgia vs. Malta, Israel vs. Croatia, Montenegro vs. Switzerland, Wales vs. Bulgaria, Portugal vs. Denmark, Cyprus vs. Norway, Czech Republic vs. Scotland, Spain vs. Lithuania. AFRICAN CUP qualifying: Comoros vs. Mozambique, Burkina Faso vs. Gambia, Angola vs. Guinea-Bissau. FRIENDLIES: Japan vs. Argentina, China vs. Syria, Ecuador vs. Colombia, India vs. Vietnam, Oman vs. Gabon, Indonesia vs. Uruguay, Kuwait vs. Bahrain, Taiwan vs. Macau, Peru vs. Costa Rica, Panama vs. El Salvador.Muang, Thailand -- boxing, Pongsaklek Wonjongkam vs. Suriyan Por Chokchai for Pongsaklek's WBC flyweight title.Various sites, Europe -- ice hockey, NHL, Carolina vs. Minnesota, San Jose vs. Columbus.SATURDAY, Oct. 9Various sites -- football, EURO 2012 qualifying, France vs. Romania. AFRICAN CUP qualifying: Senegal vs. Mauritius, Tanzania vs. Morocco, Burundi vs. Ivory Coast, Rwanda vs. Benin, Kenya vs. Uganda, Malawi vs. Chad, Cameroon vs. Congo. FRIENDLIES: Australia vs. Paraguay, New Zealand vs. Honduras, United Arab Emirates vs. Chile, Guatemala vs. Belize, Saudi Arabia vs. Uzbekistan, United States vs. Poland.thru 13, Bangalore, India -- cricket, India vs. Australia, 2nd test.Kona, Hawaii -- triathlon, Ironman World Championship.Various sites, Europe -- ice hockey, NHL, San Jose vs. Columbus, Boston vs. Phoenix.Aguascalientes, Mexico -- boxing, Hugo Cazares vs. Alberto Rossel for Cazares' WBA junior bantamweight title.SUNDAY, Oct. 10Suzuka, Japan -- auto racing, F1, Japanese GP.Fontana, California -- auto racing, NASCAR, Pepsi 400.Sepang, Malaysia -- motorcycling, Malaysian MotoGP.thru 17, Shanghai -- tennis, ATP, Shanghai Masters.Chicago -- athletics, Chicago Marathon.Prague -- ice hockey, NHL, Boston vs. Phoenix.</text>
+  <mention label="Belgium" length="7" position="2565"/>
+  <mention label="Poonsawat Kratingdaenggym" length="25" position="1050"/>
+  <mention label="Tokyo" length="5" position="1539"/>
+  <mention label="Austria" length="7" position="2574"/>
+  <mention label="Tokyo" length="5" position="1033"/>
+  <mention label="Azerbaijan" length="10" position="2586"/>
+  <mention label="Mozambique" length="10" position="3098"/>
+  <mention label="ATP" length="3" position="530"/>
+  <mention label="Sea Island" length="10" position="2072"/>
+  <mention label="Poonsawat" length="9" position="1050"/>
+  <mention label="ATP" length="3" position="1556"/>
+  <mention label="Malaysian Open" length="14" position="535"/>
+  <mention label="Japan" length="5" position="1561"/>
+  <mention label="Malaysian" length="9" position="535"/>
+  <mention label="Malaysia" length="8" position="535"/>
+  <mention label="Germany" length="7" position="2598"/>
+  <mention label="Georgia" length="7" position="2084"/>
+  <mention label="Mohali" length="6" position="558"/>
+  <mention label="Beijing" length="7" position="1581"/>
+  <mention label="Burkina Faso" length="12" position="3110"/>
+  <mention label="Gambia" length="6" position="3127"/>
+  <mention label="India" length="5" position="566"/>
+  <mention label="France" length="6" position="3637"/>
+  <mention label="Turkey" length="6" position="2610"/>
+  <mention label="Angola" length="6" position="3135"/>
+  <mention label="NHL" length="3" position="4153"/>
+  <mention label="Armenia" length="7" position="2618"/>
+  <mention label="AFRICAN CUP" length="11" position="3657"/>
+  <mention label="Guinea-Bissau" length="13" position="3146"/>
+  <mention label="Romania" length="7" position="3648"/>
+  <mention label="China" length="5" position="1609"/>
+  <mention label="India" length="5" position="584"/>
+  <mention label="Slovakia" length="8" position="2630"/>
+  <mention label="London" length="6" position="1620"/>
+  <mention label="Boston" length="6" position="4181"/>
+  <mention label="Ireland" length="7" position="2640"/>
+  <mention label="Russia" length="6" position="2652"/>
+  <mention label="Australia" length="9" position="594"/>
+  <mention label="Jakarta" length="7" position="2136"/>
+  <mention label="Japan" length="5" position="3173"/>
+  <mention label="Andorra" length="7" position="2660"/>
+  <mention label="Mauritius" length="9" position="3693"/>
+  <mention label="Argentina" length="9" position="3183"/>
+  <mention label="Aguascalientes" length="14" position="4200"/>
+  <mention label="Senegal" length="7" position="3681"/>
+  <mention label="Phoenix" length="7" position="4192"/>
+  <mention label="Indonesia" length="9" position="2145"/>
+  <mention label="NBA" length="3" position="1642"/>
+  <mention label="Tanzania" length="8" position="3704"/>
+  <mention label="Minnesota" length="9" position="1657"/>
+  <mention label="Indonesia" length="9" position="2171"/>
+  <mention label="Slovenia" length="8" position="2683"/>
+  <mention label="Panama" length="6" position="1139"/>
+  <mention label="Panama City" length="11" position="1139"/>
+  <mention label="Macedonia" length="9" position="2672"/>
+  <mention label="France" length="6" position="637"/>
+  <mention label="Mexico" length="6" position="4216"/>
+  <mention label="China" length="5" position="3194"/>
+  <mention label="Syria" length="5" position="3204"/>
+  <mention label="Morocco" length="7" position="3717"/>
+  <mention label="Panama" length="6" position="1152"/>
+  <mention label="Faeroe Islands" length="14" position="2696"/>
+  <mention label="Hugo Cazares" length="12" position="4234"/>
+  <mention label="Cazares" length="7" position="4239"/>
+  <mention label="Burundi" length="7" position="3726"/>
+  <mention label="Ecuador" length="7" position="3211"/>
+  <mention label="Ivory Coast" length="11" position="3738"/>
+  <mention label="Los Angeles Lakers" length="18" position="1671"/>
+  <mention label="Alberto Rossel" length="14" position="4251"/>
+  <mention label="WRC" length="3" position="660"/>
+  <mention label="Luis Concepcion" length="15" position="1170"/>
+  <mention label="Serbia" length="6" position="2712"/>
+  <mention label="Colombia" length="8" position="3223"/>
+  <mention label="Rwanda" length="6" position="3751"/>
+  <mention label="Newport" length="7" position="165"/>
+  <mention label="India" length="5" position="3233"/>
+  <mention label="Estonia" length="7" position="2723"/>
+  <mention label="Wales" length="5" position="174"/>
+  <mention label="Vietnam" length="7" position="3243"/>
+  <mention label="Prattville" length="10" position="2213"/>
+  <mention label="Oman" length="4" position="3252"/>
+  <mention label="Australia" length="9" position="698"/>
+  <mention label="Ryder Cup" length="9" position="189"/>
+  <mention label="Denkaosan Kaovichit" length="19" position="1190"/>
+  <mention label="Alabama" length="7" position="2225"/>
+  <mention label="Benin" length="5" position="3762"/>
+  <mention label="Gabon" length="5" position="3261"/>
+  <mention label="Northern Ireland" length="16" position="2732"/>
+  <mention label="Kenya" length="5" position="3769"/>
+  <mention label="Saudi Arabia" length="12" position="1713"/>
+  <mention label="LPGA" length="4" position="2245"/>
+  <mention label="Navistar" length="8" position="2251"/>
+  <mention label="Italy" length="5" position="2753"/>
+  <mention label="Uganda" length="6" position="3779"/>
+  <mention label="Bosnia-Herzegovina" length="18" position="2772"/>
+  <mention label="Madison" length="7" position="207"/>
+  <mention label="Malawi" length="6" position="3787"/>
+  <mention label="Indonesia" length="9" position="3268"/>
+  <mention label="Asian" length="5" position="1739"/>
+  <mention label="Albania" length="7" position="2760"/>
+  <mention label="Chad" length="4" position="3798"/>
+  <mention label="Mississippi" length="11" position="216"/>
+  <mention label="Cameroon" length="8" position="3804"/>
+  <mention label="Uruguay" length="7" position="3282"/>
+  <mention label="Kuwait" length="6" position="3291"/>
+  <mention label="Asian Champions League" length="22" position="1739"/>
+  <mention label="Bahrain" length="7" position="3302"/>
+  <mention label="Suzuka" length="6" position="4324"/>
+  <mention label="Luxembourg" length="10" position="2792"/>
+  <mention label="Al Shabab" length="9" position="1773"/>
+  <mention label="Taiwan" length="6" position="3311"/>
+  <mention label="Congo" length="5" position="3817"/>
+  <mention label="Potomac" length="7" position="2282"/>
+  <mention label="Belarus" length="7" position="2807"/>
+  <mention label="Australia" length="9" position="3836"/>
+  <mention label="Seongnam Ilhwa" length="14" position="1787"/>
+  <mention label="New Delhi" length="9" position="1278"/>
+  <mention label="Maryland" length="8" position="2291"/>
+  <mention label="Viking Classic" length="14" position="245"/>
+  <mention label="Macau" length="5" position="3322"/>
+  <mention label="Costa Rica" length="10" position="3338"/>
+  <mention label="Paraguay" length="8" position="3850"/>
+  <mention label="Italy" length="5" position="769"/>
+  <mention label="Peru" length="4" position="3329"/>
+  <mention label="San Marino" length="10" position="2828"/>
+  <mention label="Hungary" length="7" position="2816"/>
+  <mention label="Taipei" length="6" position="268"/>
+  <mention label="Japanese" length="8" position="4358"/>
+  <mention label="California" length="10" position="4379"/>
+  <mention label="Taiwan" length="6" position="276"/>
+  <mention label="Fontana" length="7" position="4370"/>
+  <mention label="Moldova" length="7" position="2840"/>
+  <mention label="New Zealand" length="11" position="3860"/>
+  <mention label="Asian" length="5" position="292"/>
+  <mention label="Japan" length="5" position="1318"/>
+  <mention label="Muang" length="5" position="3373"/>
+  <mention label="El Salvador" length="11" position="3361"/>
+  <mention label="Iran" length="4" position="1832"/>
+  <mention label="Honduras" length="8" position="3876"/>
+  <mention label="Asian Champions League" length="22" position="1850"/>
+  <mention label="Taiwan" length="6" position="299"/>
+  <mention label="Netherlands" length="11" position="2852"/>
+  <mention label="NASCAR" length="6" position="4406"/>
+  <mention label="Japanese" length="8" position="1341"/>
+  <mention label="Greece" length="6" position="2865"/>
+  <mention label="Japan" length="5" position="1341"/>
+  <mention label="Latvia" length="6" position="2876"/>
+  <mention label="United Arab Emirates" length="20" position="3886"/>
+  <mention label="Pepsi" length="5" position="4414"/>
+  <mention label="Thailand" length="8" position="3380"/>
+  <mention label="Chile" length="5" position="3911"/>
+  <mention label="Pongsaklek" length="10" position="3400"/>
+  <mention label="Georgia" length="7" position="2884"/>
+  <mention label="North Carolina" length="14" position="331"/>
+  <mention label="St. Paul" length="8" position="1357"/>
+  <mention label="Conover" length="7" position="322"/>
+  <mention label="Guatemala" length="9" position="3918"/>
+  <mention label="Spain" length="5" position="2381"/>
+  <mention label="Czech Republic" length="14" position="838"/>
+  <mention label="Barcelona" length="9" position="2370"/>
+  <mention label="Sepang" length="6" position="4424"/>
+  <mention label="Israel" length="6" position="2903"/>
+  <mention label="Malta" length="5" position="2896"/>
+  <mention label="Carolina" length="8" position="337"/>
+  <mention label="Belize" length="6" position="3932"/>
+  <mention label="Pongsaklek Wonjongkam" length="21" position="3400"/>
+  <mention label="Minnesota" length="9" position="1367"/>
+  <mention label="Al Hilal" length="8" position="1896"/>
+  <mention label="Montenegro" length="10" position="2923"/>
+  <mention label="Los Angeles Lakers" length="18" position="2416"/>
+  <mention label="Croatia" length="7" position="2914"/>
+  <mention label="Saudi Arabia" length="12" position="3940"/>
+  <mention label="Barcelona" length="9" position="2402"/>
+  <mention label="Switzerland" length="11" position="2938"/>
+  <mention label="Paris" length="5" position="1905"/>
+  <mention label="Uzbekistan" length="10" position="3957"/>
+  <mention label="Lexington" length="9" position="904"/>
+  <mention label="Wales" length="5" position="2951"/>
+  <mention label="Kansas" length="6" position="1412"/>
+  <mention label="NBA" length="3" position="1926"/>
+  <mention label="Helsinki" length="8" position="2435"/>
+  <mention label="Tokyo" length="5" position="398"/>
+  <mention label="WBC" length="3" position="3464"/>
+  <mention label="United States" length="13" position="3969"/>
+  <mention label="Shanghai" length="8" position="4484"/>
+  <mention label="Kansas City" length="11" position="1412"/>
+  <mention label="Portugal" length="8" position="2971"/>
+  <mention label="Poland" length="6" position="3987"/>
+  <mention label="Shanghai" length="8" position="4509"/>
+  <mention label="Kansas" length="6" position="1425"/>
+  <mention label="NHL" length="3" position="2459"/>
+  <mention label="Bulgaria" length="8" position="2961"/>
+  <mention label="Kentucky" length="8" position="915"/>
+  <mention label="WTA" length="3" position="415"/>
+  <mention label="New York" length="8" position="1941"/>
+  <mention label="Toray" length="5" position="420"/>
+  <mention label="Minnesota" length="9" position="2477"/>
+  <mention label="Carolina" length="8" position="2464"/>
+  <mention label="Chicago" length="7" position="4526"/>
+  <mention label="Bangalore" length="9" position="4003"/>
+  <mention label="India" length="5" position="4014"/>
+  <mention label="Minnesota" length="9" position="1954"/>
+  <mention label="Europe" length="6" position="3499"/>
+  <mention label="NASCAR" length="6" position="1448"/>
+  <mention label="Denmark" length="7" position="2984"/>
+  <mention label="Cyprus" length="6" position="2993"/>
+  <mention label="Norway" length="6" position="3004"/>
+  <mention label="World Equestrian Games" length="22" position="939"/>
+  <mention label="Paris" length="5" position="1467"/>
+  <mention label="NHL" length="3" position="3521"/>
+  <mention label="Australia" length="9" position="4042"/>
+  <mention label="Bangkok" length="7" position="451"/>
+  <mention label="India" length="5" position="4032"/>
+  <mention label="Czech Republic" length="14" position="3012"/>
+  <mention label="Carnoustie" length="10" position="1989"/>
+  <mention label="Thailand" length="8" position="475"/>
+  <mention label="Prague" length="6" position="4565"/>
+  <mention label="ATP" length="3" position="470"/>
+  <mention label="San Jose" length="8" position="3550"/>
+  <mention label="Scotland" length="8" position="2001"/>
+  <mention label="Kona" length="4" position="4062"/>
+  <mention label="Florida" length="7" position="989"/>
+  <mention label="Minnesota" length="9" position="3539"/>
+  <mention label="Scotland" length="8" position="3031"/>
+  <mention label="Hawaii" length="6" position="4068"/>
+  <mention label="Lithuania" length="9" position="3051"/>
+  <mention label="Columbus" length="8" position="3563"/>
+  <mention label="Ironman World Championship" length="26" position="4089"/>
+  <mention label="Alfred Dunhill" length="14" position="2029"/>
+  <mention label="Spain" length="5" position="3041"/>
+  <mention label="Europe" length="6" position="2019"/>
+  <mention label="NHL" length="3" position="4587"/>
+  <mention label="European" length="8" position="2019"/>
+  <mention label="Boston" length="6" position="4592"/>
+  <mention label="IRL" length="3" position="1013"/>
+  <mention label="Malaysia" length="8" position="510"/>
+  <mention label="Kuala Lumpa" length="11" position="497"/>
+  <mention label="Kazakhstan" length="10" position="2550"/>
+  <mention label="Phoenix" length="7" position="4603"/>
+  <mention label="AFRICAN CUP" length="11" position="3062"/>
+  <mention label="Miami" length="5" position="1018"/>
+</item>

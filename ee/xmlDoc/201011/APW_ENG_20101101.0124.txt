@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Real Madrid looking to make it into last 16Real Madrid will qualify for the knockout stage of the Champions League if it can maintain its supreme form and complete a Group G double over AC Milan in the standout match of the tournament this week.Madrid and Milan, who have won Europe's biggest prize 16 times between them, met two weeks ago when early goals by Cristiano Ronaldo and Mesut Oezil earned the Spanish club a 2-0 win.The result kept up Madrid's unbeaten record in the competition, lifting it onto nine points. A victory at the San Siro on Wednesday will guarantee Jose Mourinho's side a top-two group finish and allow it to relax in its final two matches.Four other teams -- Chelsea, Arsenal, Bayern Munich and Lyon -- will look to defend 100 percent starts to group play.</text>
+  <mention label="Real Madrid" length="11" position="43"/>
+  <mention label="Madrid" length="6" position="5"/>
+  <mention label="Chelsea" length="7" position="686"/>
+  <mention label="Real Madrid" length="11" position="0"/>
+  <mention label="Bayern Munich" length="13" position="704"/>
+  <mention label="Arsenal" length="7" position="695"/>
+  <mention label="Jose Mourinho" length="13" position="575"/>
+  <mention label="Europe" length="6" position="276"/>
+  <mention label="San Siro" length="8" position="538"/>
+  <mention label="Spanish" length="7" position="405"/>
+  <mention label="Mesut Oezil" length="11" position="382"/>
+  <mention label="Lyon" length="4" position="722"/>
+  <mention label="Madrid" length="6" position="48"/>
+  <mention label="Milan" length="5" position="189"/>
+  <mention label="Cristiano Ronaldo" length="17" position="360"/>
+</item>

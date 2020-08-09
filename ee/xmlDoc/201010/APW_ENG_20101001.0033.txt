@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan jobless rate falls to 5.1 percent in AugustJapan's jobless rate improved in August, but prices fell for the 18th straight month as deflation kept its hold on the country's economy.The seasonally adjusted unemployment rate fell to 5.1 percent in August, the government said Friday. The result marks the second straight month of decline and follows a 5.2 percent reading in July.The total number of jobless stood at 3.37 million, down 6.6 percent from the previous year. Those with jobs slipped 0.3 percent to 62.78 million. The unemployment rate only counts those who are actively looking for work, not those who have dropped out of the job market entirely.Meanwhile, the core consumer price index, which excludes fresh food, fell 1 percent in August from a year earlier, the Ministry of Internal Affairs and Communications said in a separate report.The figure matches Kyodo News agency's average market forecast.While lower prices boost individual purchasing power, deflation is generally bad for the economy overall. It plagued Japan during its "Lost Decade" in the 1990s, hampering growth by depressing company profits, sparking wage cuts and causing consumers to postpone purchases. It also can increase debt burdens.The country recorded particularly sharp declines in prices of household goods and education.The preliminary core CPI for Tokyo -- considered a barometer of broader price trends -- fell 1 percent in September, pointing toward another nationwide drop this month.</text>
+  <mention label="Kyodo News" length="10" position="874"/>
+  <mention label="Japan" length="5" position="49"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="Tokyo" length="5" position="1347"/>
+  <mention label="CPI" length="3" position="1339"/>
+  <mention label="Japan" length="5" position="1035"/>
+</item>

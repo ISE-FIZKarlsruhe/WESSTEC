@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Swedish police release Goteborg terrorism suspectsSwedish security police say they have released two men who were arrested on suspicion of plotting a terror attack in Sweden's western city of Goteborg.Security police spokesman Patrik Peter says the two men, aged 28 and 48, are still suspected of preparing a bomb attack in Goteborg but couldn't be detained due to lack of evidence.Police in the city were on high alert over the weekend after receiving reports about a bomb threat and arrested the two men in early morning raids Saturday.Peter on Monday said police will continue the investigation but that the Goteborg is no longer deemed to be under threat. He declined to give any details about the motive for the suspected plot or what led police to arrest the two men.</text>
+  <mention label="Sweden" length="6" position="167"/>
+  <mention label="Swedish" length="7" position="50"/>
+  <mention label="Swedish" length="7" position="0"/>
+  <mention label="Goteborg" length="8" position="192"/>
+  <mention label="Goteborg" length="8" position="611"/>
+  <mention label="Goteborg" length="8" position="324"/>
+  <mention label="Peter" length="5" position="234"/>
+  <mention label="Goteborg" length="8" position="23"/>
+</item>

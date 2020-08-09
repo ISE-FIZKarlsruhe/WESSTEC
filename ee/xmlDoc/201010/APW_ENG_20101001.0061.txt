@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Colbert sparks debate about ' expert '  celebritiesThere are congressional hearings and there are comedy shows, and the twain rarely meet.So when a House of Representatives panel on immigration combined them on purpose last week with testimony from Stephen Colbert and his "truthy" alter ego, debate broke out on the proper roles of the many celebrities -- from Angelina Jolie to Bono to Elmo -- who advocate in Washington.In Colbert's appearance, there was profit to be made from the public, taxpayer-funded forum on one of the nation's weightiest issues, the plight of migrant workers. Immigrant advocates won national news coverage; Colbert helped generate material for his show; politicians scored live coverage of themselves during a brutal election year; and the media bagged a widely viewed story.Witness Carol Swain, the law school professor who testified before Colbert, was annoyed at being overshadowed by a fictional talk show host. But she scored, too. Before the hearing was over, Swain's Twitter and Facebook followings soared. People e-mailed her at Vanderbilt University Law School. A guy recognized her the next day in the grocery store."It's increased my visibility in a number of ways," Swain said Monday. "I don't think it would have gotten that much attention had he not been on the panel."United Farm Workers President Arturo Rodriguez, who also joined Colbert at the witness table on Friday, said he, too, has seen an increase in e-mails and Facebook followers. Inquiries to the United Farm Workers "Take Our Jobs" website also jumped, he said."The last big media attention we had like that is really going back to when Cesar passed away in 1993," Rodriguez said, referring to UFW founder and farm worker Cesar Chavez.Celebrities frequently beat a path to Congress to raise awareness of issues and bills that otherwise stand little chance of news coverage. Lawmakers crowd into the shot when Jolie advocates for refugees. They hang out publicly with rock stars Bono and Jon Bon Jovi when they're in Washington on official business. Even Sesame Street's Elmo, a fuzzy red puppet, has received coverage for his "testimony" -- in 2002 about the benefits of music education.Likewise, this news story will be more widely read because it mentions the Twitter partnership between Lady Gaga and Senate Majority Leader Harry Reid on behalf of the effort to repeal the ban on gays serving openly in the military.Colbert's celebrity is a commodity that California Democrat Zoe Lofgren, who chaired the subcommittee hearing, and the other witnesses that day sought to leverage. Lofgren joked at one point that the last time the hearing room was so crammed with audience members and cameras was for President Bill Clinton's impeachment hearings a dozen years ago.But for all of the attention Colbert might have brought to immigration reform, his testimony also chafed lawmakers of both parties who are engaged in a brutal campaign season.Republicans, not all of whom apparently were familiar with the character, did not appreciate being satirized on their own turf. And some Democrats cringed at "testimony" from a comedian's alter ego on an issue that for so many is a matter of life and death.Judiciary Committee Chairman John Conyers asked Colbert to leave because he had no experience with farm labor issues or immigration policy. Lofgren urged him to stay. He stayed.Outside the hearing room, House Speaker Nancy Pelosi, who had not yet heard or seen Colbert's testimony, said she had no objection to it.But House Majority Leader Steny Hoyer on Sunday called Colbert's appearance "inappropriate" and "an embarrassment." A spokeswoman on Monday said the Democrat still believes celebrity endorsements generally can be a good thing.Swain said she agreed with that, if not Colbert's testimony or the Democrats' approach to the plight of migrant workers."I have testified before," Swain said. But this time, because she spoke before Colbert and people had to sit through her remarks to hear his, "people heard my testimony."------Associated Press writer Suzanne Gamboa contributed to this report.------Online:Take Our Jobs: http://tinyurl.com/32kn58v</text>
+  <mention label="Elmo" length="4" position="388"/>
+  <mention label="Senate" length="6" position="2311"/>
+  <mention label="Democrat" length="8" position="3086"/>
+  <mention label="Colbert" length="7" position="257"/>
+  <mention label="Colbert" length="7" position="0"/>
+  <mention label="Democrats" length="9" position="3086"/>
+  <mention label="Vanderbilt University Law School" length="32" position="1066"/>
+  <mention label="Colbert" length="7" position="3467"/>
+  <mention label="Republicans" length="11" position="2949"/>
+  <mention label="House" length="5" position="148"/>
+  <mention label="Harry Reid" length="10" position="2334"/>
+  <mention label="Judiciary Committee" length="19" position="3206"/>
+  <mention label="Washington" length="10" position="412"/>
+  <mention label="Lofgren" length="7" position="2590"/>
+  <mention label="Democrat" length="8" position="2477"/>
+  <mention label="UFW" length="3" position="1701"/>
+  <mention label="Swain" length="5" position="3746"/>
+  <mention label="Carol Swain" length="11" position="812"/>
+  <mention label="California" length="10" position="2466"/>
+  <mention label="Bill Clinton" length="12" position="2720"/>
+  <mention label="Colbert" length="7" position="426"/>
+  <mention label="Arturo Rodriguez" length="16" position="1342"/>
+  <mention label="John Conyers" length="12" position="3235"/>
+  <mention label="Colbert" length="7" position="3254"/>
+  <mention label="Swain" length="5" position="1207"/>
+  <mention label="Facebook" length="8" position="1466"/>
+  <mention label="United Farm Workers" length="19" position="1312"/>
+  <mention label="Swain" length="5" position="818"/>
+  <mention label="Lofgren" length="7" position="2490"/>
+  <mention label="Zoe Lofgren" length="11" position="2486"/>
+  <mention label="Bono" length="4" position="1985"/>
+  <mention label="Jon Bon Jovi" length="12" position="1994"/>
+  <mention label="United Farm Workers" length="19" position="1503"/>
+  <mention label="Rodriguez" length="9" position="1349"/>
+  <mention label="Cesar Chavez" length="12" position="1729"/>
+  <mention label="Colbert" length="7" position="3786"/>
+  <mention label="Steny Hoyer" length="11" position="3546"/>
+  <mention label="Nancy Pelosi" length="12" position="3423"/>
+  <mention label="Associated Press" length="16" position="4042"/>
+  <mention label="Colbert" length="7" position="871"/>
+  <mention label="Angelina Jolie" length="14" position="362"/>
+  <mention label="Swain" length="5" position="995"/>
+  <mention label="Colbert" length="7" position="1376"/>
+  <mention label="Cesar" length="5" position="1644"/>
+  <mention label="Democrats" length="9" position="3813"/>
+  <mention label="Washington" length="10" position="2023"/>
+  <mention label="Colbert" length="7" position="3575"/>
+  <mention label="Lady Gaga" length="9" position="2297"/>
+  <mention label="Colbert" length="7" position="2803"/>
+  <mention label="Jolie" length="5" position="371"/>
+  <mention label="Stephen Colbert" length="15" position="249"/>
+  <mention label="Bono" length="4" position="380"/>
+  <mention label="Colbert" length="7" position="636"/>
+  <mention label="Congress" length="8" position="1780"/>
+  <mention label="Colbert" length="7" position="2426"/>
+  <mention label="Facebook" length="8" position="1015"/>
+</item>

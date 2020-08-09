@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>A generation seen through `The Social Network '"The Social Network" is a stylish, hyperspeed portrait of a Web-connected generation made by two men with scant love for the Internet and would not be caught dead "friending" anybody.Director David Fincher and screenwriter Aaron Sorkin's film is about Mark Zuckerberg (played by Jesse Eisenberg) and the contentious creation of the social networking behemoth Facebook. Born in Zuckerberg's Harvard dorm room, the site has in six years grown to more than 500 million users worldwide and a dollar worth in the billions.The film, which premieres at the New York Film Festival on Friday and opens in theaters Oct. 1, is pulsating with prestige, of-the-moment hipness and glowing early reviews. Much of the excitement is over the sheer filmmaking prowess of the movie, the classical storytelling and the whip-smart script -- all 162 pages of it, distilled into a dialogue-rich two-hour film.It also is a fascinating, pugnacious rendering of a younger generation by two filmmakers not of it."The movie is sort of built to pick a fight," says Sorkin. "Not with Facebook; I mean it's built not to have unanimous consensus about what just happened.""The Social Network" already has found controversy for its portrayal of Zuckerberg as an arrogant, back-stabbing hacker with, of all things, social awkwardness. The film details the fallout of Zuckerberg's friend and original Facebook CFO Eduardo Saverin (Andrew Garfield, the "Spider-Man" heir apparent) and the claims of college classmates Cameron and Tyler Winklevoss (twins played with digital help by Armie Hammer and Josh Pence) and Divya Narendra (Max Minghella). Both Saverin and the Winklevoss clan have sued Zuckerberg and Facebook, claiming a hand in its invention, winning undisclosed settlements.Sorkin's screenplay was adapted from Ben Mezrich's book "The Accidental Billionaires." After reading Mezrich's early treatment, Sorkin ("The West Wing," "A Few Good Men") began his script while Mezrich was writing his book, and even finished his screenplay before the book was released.Approached by producer Scott Rudin, Fincher ("Se7en," "Fight Club") came aboard but with the insistence that the film not be cycled through development and numerous revisions, but rather expedited to keep its timeliness."It felt like it was talking about something that was immediate," says Fincher. "It used to be that to make an invention that touched as many lives as Facebook has, you had to have a wind tunnel, you had to have an assembly line, you had to have a work force. And now all you need is two cases of Red Bull and a DSL."Sorkin makes no bones about it: He is not a fan of the Internet. He says that in innocuous wall posts like "Had a girls night tonight. Split five deserts. Better hit the gym tomorrow!" he hears someone aping Ally McBeal or Carrie Bradshaw, projecting themselves as a fictional type. Social networking, he says, has done the opposite of its intention and "pushed us further apart.""When I signed up for this, I had heard of Facebook, but that's it," says the 49-year-old Sorkin. "Frankly, I had heard of Facebook the way I've heard of a carburetor. I can't pop the hood of my car, point to it and tell you what it does. My attraction to this were the themes that are as old as storytelling itself: of loyalty and betrayal, friends and enemies, power, class, jealousy."Particularly in scenes set at Harvard, "The Social Network" is filled with intelligent teenagers who believe steadfastly in their perspectives. Their young lives -- driven, sexual, messy -- spill out on the Internet."Probably kids today waste as much time on Twittering and instant-messaging as I did on `Gilligan's Island,'" says Fincher, 48. "At least people are going to have very dexterous thumbs when they ask the age-old question: `What are you doin'?'"Fincher jokingly calls the film "the `Citizen Kane' of John Hughes movies," a kind of 21st century morality tale. Where his previous two films -- "The Curious Case of Benjamin Button," "Zodiac" -- dealt with the passage of time, "The Social Network" hums to an accelerated modern pace, set to Trent Reznor's synthesizer-heavy score. Zuckerberg is depicted as a time-condensed Charles Foster Kane, successful but regretful by his mid-20s.The 26-year-old Eisenberg ("The Squid and the Whale," "Adventureland") has a perhaps less cynical view of the Internet. Not long after Zuckerberg was inventing Facebook, Eisenberg launched a much smaller and much less ambitious wordplay site called OneUpMe.com. His cousin and Facebook employee Eric Fisher now runs it; ironically, users need a Facebook account to play.In preparation to play Zuckerberg, a relative blank slate considering the little known about him,--Eisenberg watched everything he could watch of the young CEO. After reading that Zuckerberg had been a fencer, he took fencing lessons. He listened to speeches by Zuckerberg on an iPod on his way to the set, and grew to have a "great affection" for him."I had the unique position on set of having to defend my character for six months," says Eisenberg. "Even though the character occasionally acts in ways that are hurtful to the other characters, I was in the unique position of never seeing him in any light but a completely justified one. It's impossible to play a role any other way."The portrayal is both harsh and empathetic, treating Zuckerberg as a visionary with little patience for condescending adults. Facebook, which did not cooperate with the film, said in a statement that "The movie might be a sign that Facebook has become meaningful to people, even if the movie is fiction.""You have to answer to its factuality," says Sorkin. "I understand Facebook pushing back against the movie. That's both predictable and understandable. They're not doing anything wrong; it's what I'd do, too. First of all, Facebook's beef isn't with the movie, it's with the people who sued them and the testimony they gave. If I were Mark Zuckerberg, if I were Facebook, I would want this story only told from my point of view, which is what they wanted. But we're telling it from their point of view and the point of view of Eduardo Saverin and the point of view of Cameron and Tyler Winklevoss."The Oscar drumbeat has already started for "The Social Network," with many prognosticators expecting considerable awards attention for the film. Fincher, Sorkin and Eisenberg are all doing their best to ignore such talk for now; they know how fast and fickle online conversation can be."It's scaring the heck out of me, I won't lie to you," says Sorkin of the swelling interest. "The rollout is enormous, the reaction has been extremely positive, which can only mean one thing: The backlash will begin any moment now."</text>
+  <mention label="Ally McBeal" length="11" position="2827"/>
+  <mention label="Winklevoss" length="10" position="1547"/>
+  <mention label="Aaron Sorkin" length="12" position="270"/>
+  <mention label="Fincher" length="7" position="3717"/>
+  <mention label="Fincher" length="7" position="3845"/>
+  <mention label="Sorkin" length="6" position="1796"/>
+  <mention label="Sorkin" length="6" position="1924"/>
+  <mention label="Eisenberg" length="9" position="4751"/>
+  <mention label="Facebook" length="8" position="1413"/>
+  <mention label="Social Network" length="14" position="31"/>
+  <mention label="Sorkin" length="6" position="276"/>
+  <mention label="Tyler Winklevoss" length="16" position="1541"/>
+  <mention label="Eduardo Saverin" length="15" position="6170"/>
+  <mention label="Carrie Bradshaw" length="15" position="2842"/>
+  <mention label="Sorkin" length="6" position="3089"/>
+  <mention label="West Wing" length="9" position="1937"/>
+  <mention label="Facebook" length="8" position="4627"/>
+  <mention label="Saverin" length="7" position="1434"/>
+  <mention label="Facebook" length="8" position="2453"/>
+  <mention label="Eduardo Saverin" length="15" position="1426"/>
+  <mention label="Facebook" length="8" position="406"/>
+  <mention label="Social Network" length="14" position="6289"/>
+  <mention label="Zuckerberg" length="10" position="424"/>
+  <mention label="Ben Mezrich" length="11" position="1833"/>
+  <mention label="Zuckerberg" length="10" position="1705"/>
+  <mention label="Mark Zuckerberg" length="15" position="299"/>
+  <mention label="Social Network" length="14" position="1192"/>
+  <mention label="Trent Reznor" length="12" position="4138"/>
+  <mention label="Mezrich" length="7" position="1837"/>
+  <mention label="Andrew Garfield" length="15" position="1443"/>
+  <mention label="Red Bull" length="8" position="2599"/>
+  <mention label="Facebook" length="8" position="1720"/>
+  <mention label="Scott Rudin" length="11" position="2105"/>
+  <mention label="Harvard" length="7" position="437"/>
+  <mention label="Armie Hammer" length="12" position="1593"/>
+  <mention label="John Hughes" length="11" position="3900"/>
+  <mention label="Zuckerberg" length="10" position="4914"/>
+  <mention label="Social Network" length="14" position="52"/>
+  <mention label="Facebook" length="8" position="3122"/>
+  <mention label="Zuckerberg" length="10" position="304"/>
+  <mention label="Sorkin" length="6" position="1083"/>
+  <mention label="Sorkin" length="6" position="2619"/>
+  <mention label="Sorkin" length="6" position="5688"/>
+  <mention label="Fincher" length="7" position="2118"/>
+  <mention label="Fincher" length="7" position="2373"/>
+  <mention label="New York Film Festival" length="22" position="597"/>
+  <mention label="Eisenberg" length="9" position="4298"/>
+  <mention label="Cameron" length="7" position="6211"/>
+  <mention label="Facebook" length="8" position="1101"/>
+  <mention label="Eisenberg" length="9" position="332"/>
+  <mention label="Facebook" length="8" position="5710"/>
+  <mention label="Facebook" length="8" position="4559"/>
+  <mention label="Zuckerberg" length="10" position="4675"/>
+  <mention label="Jesse Eisenberg" length="15" position="326"/>
+  <mention label="Facebook" length="8" position="5571"/>
+  <mention label="Zuckerberg" length="10" position="4417"/>
+  <mention label="Facebook" length="8" position="5465"/>
+  <mention label="Facebook" length="8" position="4442"/>
+  <mention label="Divya Narendra" length="14" position="1626"/>
+  <mention label="Mark Zuckerberg" length="15" position="5978"/>
+  <mention label="Zuckerberg" length="10" position="4178"/>
+  <mention label="Harvard" length="7" position="3416"/>
+  <mention label="Tyler Winklevoss" length="16" position="6223"/>
+  <mention label="Social Network" length="14" position="4079"/>
+  <mention label="Zuckerberg" length="10" position="1259"/>
+  <mention label="David Fincher" length="13" position="239"/>
+  <mention label="Facebook" length="8" position="5866"/>
+  <mention label="Max Minghella" length="13" position="1642"/>
+  <mention label="Social Network" length="14" position="3430"/>
+  <mention label="Eric Fisher" length="11" position="4577"/>
+  <mention label="Facebook" length="8" position="3042"/>
+  <mention label="Zuckerberg" length="10" position="4832"/>
+  <mention label="Eisenberg" length="9" position="5093"/>
+  <mention label="Eisenberg" length="9" position="4452"/>
+  <mention label="Charles Foster Kane" length="19" position="4221"/>
+  <mention label="Mezrich" length="7" position="1897"/>
+  <mention label="Zuckerberg" length="10" position="1380"/>
+  <mention label="Fincher" length="7" position="245"/>
+  <mention label="Sorkin" length="6" position="6395"/>
+  <mention label="Cameron" length="7" position="1529"/>
+</item>

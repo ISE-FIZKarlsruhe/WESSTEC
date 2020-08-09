@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Al-Qaida group releases tape of French hostagesA tape released on a jihadist forum shows the first images of a group of hostages including five French citizens since they were seized two weeks ago in Niger by an al-Qaida offshoot and taken into the desert.The four-minute tape shows still images of the hostages sitting cross-legged in the sand with a gently sloping dune behind them. French officials believe the seven hostages are now in the bordering West African nation of Mali.The hostages were grabbed in the middle of the night on Sept. 16 from their guarded villas in the uranium mining town of Arlit in Niger where they were working for French nuclear giant Areva.The French Foreign Ministry said the tape was encouraging because its images show the hostages alive."Even if we don't know what date it was taken, it constitutes an encouraging sign in the sense that it shows all the hostages alive," a ministry statement said Thursday, adding that France "is doing everything to obtain their liberation."The tape's release came as top officials from Areva began a visit to Niger, and Areva's president said she was deeply moved by the pictures and also considered them encouraging."They moved all of us because we are all a little bit hostages with them and at the same time I believe that this is an encouraging sign, very encouraging," Anne Lauvergeon told reporters in the Niger capital, Niamey. French TV carried her comments.If the company or the governments of Niger or France had known something ahead of time, "everyone would have acted," she said. "We don't play with the lives of our employees."The tape was an audio recording accompanied by still images. Standing behind the hostages are men brandishing automatic weapons who are wearing the face-covering turbans typical of the Tuaregs, a nomadic people who live in the Sahara desert and who are believed to be working with al-Qaida in the Islamic Maghreb.During the recording, the hostages are questioned about their names, ages and marital status, according to the translation provided to reporters by U.S.-based SITE Intelligence Group.Five of the hostages are French citizens; the other two are from Togo and Madagascar. They are also asked if they know who their kidnappers are, and acknowledge the kidnappers are al-Qaida in the Islamic Maghreb, or AQIM.The terror group has its roots in an extremist Islamic group in Algeria that brokered an alliance with al-Qaida in 2006.Since then, AQIM has kidnapped more than a dozen Europeans including tourists and aid workers. The group is believed to be using the ransom payments to bankroll their operations and with each kidnapping their tactics have become more bold.The attack on the Areva compound in Niger is their most daring to date. The heavily armed gunmen were able to get past the town's security cordon which includes 350 of Niger's troops as well as 150 security guards hired by Areva.In the tape produced by AQIM's media arm, al-Andalus Media Foundation, they explain that the kidnapping came in the "context of retaliation." It is a reference to a joint French-Mauritanian raid on an AQIM base in Mali earlier this summer that killed at least six members of the terror cell.Soon after the raid in July, AQIM announced they had assassinated French hostage Michel Germaneau, a 78-year-old aid worker who had been seized in Niger in April. The tape warns that the French -- who have sent a regiment of soldiers to Niger -- should not attempt another rescue mission as they had done for Germaneau.The French defense minister had said that France was willing and interested in talking to the terror group.The al-Qaida-linked group has invaded large swaths of the desert region spanning portions of Mauritania, Mali, Niger and Algeria. Famous tourists spots like Timbuktu are now on the no-go list of numerous foreign embassies, including the U.S. and France.Experts say the group has made inroads by creating strategic alliances with disenfranchised groups that inhabit these remote desert areas -- like the Tuareg who have taken up arms against the governments of Mali and Niger over claims they were not receiving an equal share of the countries' resources including profits from uranium mining in Niger.</text>
+  <mention label="Tuareg" length="6" position="1798"/>
+  <mention label="French" length="6" position="646"/>
+  <mention label="Tuaregs" length="7" position="1798"/>
+  <mention label="Niger" length="5" position="4230"/>
+  <mention label="French" length="6" position="385"/>
+  <mention label="Al-Qaida" length="8" position="0"/>
+  <mention label="al-Qaida" length="8" position="2433"/>
+  <mention label="Madagascar" length="10" position="2183"/>
+  <mention label="Niger" length="5" position="4104"/>
+  <mention label="Islamic Maghreb" length="15" position="2305"/>
+  <mention label="AQIM" length="4" position="2325"/>
+  <mention label="Mauritania" length="10" position="3096"/>
+  <mention label="French" length="6" position="144"/>
+  <mention label="Areva" length="5" position="2707"/>
+  <mention label="French" length="6" position="3089"/>
+  <mention label="Mali" length="4" position="3740"/>
+  <mention label="Niger" length="5" position="3356"/>
+  <mention label="AQIM" length="4" position="2462"/>
+  <mention label="U.S." length="4" position="2074"/>
+  <mention label="Areva" length="5" position="667"/>
+  <mention label="Niger" length="5" position="2725"/>
+  <mention label="French" length="6" position="677"/>
+  <mention label="French" length="6" position="32"/>
+  <mention label="Areva" length="5" position="1058"/>
+  <mention label="Niger" length="5" position="3746"/>
+  <mention label="Algeria" length="7" position="3756"/>
+  <mention label="Niger" length="5" position="2857"/>
+  <mention label="France" length="6" position="3881"/>
+  <mention label="Sahara" length="6" position="1840"/>
+  <mention label="Mali" length="4" position="3132"/>
+  <mention label="France" length="6" position="956"/>
+  <mention label="Foreign Ministry" length="16" position="684"/>
+  <mention label="Niger" length="5" position="1081"/>
+  <mention label="Areva" length="5" position="1092"/>
+  <mention label="French" length="6" position="3396"/>
+  <mention label="Niger" length="5" position="1475"/>
+  <mention label="Europeans" length="9" position="2499"/>
+  <mention label="France" length="6" position="1484"/>
+  <mention label="West African" length="12" position="454"/>
+  <mention label="French" length="6" position="3275"/>
+  <mention label="Niger" length="5" position="200"/>
+  <mention label="Anne Lauvergeon" length="15" position="1346"/>
+  <mention label="French" length="6" position="2134"/>
+  <mention label="Timbuktu" length="8" position="3792"/>
+  <mention label="Mali" length="4" position="477"/>
+  <mention label="al-Qaida" length="8" position="212"/>
+  <mention label="Algeria" length="7" position="2394"/>
+  <mention label="Arlit" length="5" position="603"/>
+  <mention label="Niger" length="5" position="612"/>
+  <mention label="Areva" length="5" position="2912"/>
+  <mention label="Niger" length="5" position="1384"/>
+  <mention label="al-Qaida" length="8" position="1894"/>
+  <mention label="Islamic" length="7" position="1910"/>
+  <mention label="Niamey" length="6" position="1399"/>
+  <mention label="Niger" length="5" position="3446"/>
+  <mention label="France" length="6" position="3570"/>
+  <mention label="French" length="6" position="1407"/>
+  <mention label="Islamic Maghreb" length="15" position="1910"/>
+  <mention label="al-Qaida" length="8" position="2289"/>
+  <mention label="AQIM" length="4" position="2942"/>
+  <mention label="Togo" length="4" position="2174"/>
+  <mention label="Mali" length="4" position="4095"/>
+</item>

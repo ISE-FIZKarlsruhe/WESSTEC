@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Blount on Marx Bros: Author examines `Duck Soup '"Hail, Hail, Euphoria! Presenting the Marx Brothers in Duck Soup, the Greatest War Movie Ever Made" (It Books, $19.99), by Roy Blount Jr.: "Duck Soup" was a box office disappointment when it was released in 1933, at least compared with the Marx Brothers' previous movies. All these decades later, the film about the brothers bringing a mythical country called Freedonia to war is not only considered probably the best Marx Brothers movie, but also one of the funniest movies ever made."Hail, Hail, Euphoria!" by Roy Blount Jr. represents the veteran humorist's stab at providing a running commentary on "Duck Soup" as he watches the movie on his monitor, offering a bunch of side stories along the way. It's not really film criticism. This slim book has a more modest goal of being a witty, idiosyncratic companion to people watching the movie.By the time they started filming "Duck Soup," Groucho, Harpo and Chico were in their 40s with successful careers in vaudeville and Broadway, and they already had several movies under their belts. (Zeppo was only 32.) They were at their comedic height. While so many early film comedies come off flat now, "Duck Soup" is still funny (check out the famous mirror scene on YouTube with Harpo pretending to be Groucho's reflection).The Marx Brothers were always absurd, but they pushed it to the limit in "Duck Soup" -- the breakout of war is celebrated with a musical number featuring the brothers playing xylophone on the helmeted heads of soldiers and then mule-kicking while singing "Heidi Heidi, Heidi Heidi, Heidi Heidi Ho!"Blount is no film critic, and his contention that "Duck Soup" is "the greatest war movie ever made" isn't very convincing. But Blount puts his finger on its appeal when he notes the "absence of real people." Everyone in the movie whose last name isn't Marx is there strictly as a comic foil, notably the brothers' long-suffering straight-woman, Margaret Dumont.After "Duck Soup," the brothers moved to a new studio that toned down their anarchy and added romantic subplots to their movies. They would never be as wild again.Blount is best when he digresses, like writing about the time Harpo and W. Somerset Maugham skinny-dipped, or about Karl Marx (no relation) throwing rocks at street lamps after some pub crawling. Then there's Buster Keaton's recipe for the best pie to throw at someone's face (double crust, filled with flour and water and topped with lemon meringue for brunettes, or blueberry for those who are blond).This is a book for the subset of readers who really like the Marx Brothers and Blount. People who haven't been exposed to either might just want to rent "Duck Soup."------Online:</text>
+  <mention label="Marx Bros" length="9" position="10"/>
+  <mention label="Blount" length="6" position="0"/>
+  <mention label="Zeppo" length="5" position="1090"/>
+  <mention label="Marx" length="4" position="10"/>
+  <mention label="Freedonia" length="9" position="409"/>
+  <mention label="Groucho" length="7" position="1299"/>
+  <mention label="Blount" length="6" position="1746"/>
+  <mention label="Blount" length="6" position="1619"/>
+  <mention label="Harpo" length="5" position="2205"/>
+  <mention label="Marx Brothers" length="13" position="87"/>
+  <mention label="Karl Marx" length="9" position="2259"/>
+  <mention label="Marx Brothers" length="13" position="467"/>
+  <mention label="Marx Brothers" length="13" position="1325"/>
+  <mention label="Roy Blount Jr." length="14" position="172"/>
+  <mention label="Margaret Dumont" length="15" position="1964"/>
+  <mention label="YouTube" length="7" position="1263"/>
+  <mention label="Marx Brothers" length="13" position="289"/>
+  <mention label="Groucho" length="7" position="939"/>
+  <mention label="Harpo" length="5" position="948"/>
+  <mention label="Blount" length="6" position="565"/>
+  <mention label="W. Somerset Maugham" length="19" position="2215"/>
+  <mention label="Blount" length="6" position="176"/>
+  <mention label="Harpo" length="5" position="1276"/>
+  <mention label="Chico" length="5" position="958"/>
+  <mention label="Buster Keaton" length="13" position="2352"/>
+  <mention label="Roy Blount Jr." length="14" position="561"/>
+</item>

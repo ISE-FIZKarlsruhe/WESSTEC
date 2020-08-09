@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>With images of civil rights, blacks urged to voteOn the Sunday before Election Day, preachers told black churchgoers across America to get out and vote -- and defy predictions that they'll be complacent or uninterested in a year that President Barack Obama isn't on the ballot.Tying the vote to nostalgia and obligation, black pastors invoked the civil rights movement and Obama's historic 2008 victory. At Ebenezer Baptist Church in Atlanta -- the spiritual home of the Rev. Martin Luther King Jr. -- the Rev. Raphael G. Warnock warned attendees that not voting would be nothing short of a sin."Go to the polls Tuesday in the name of our ancestors," Warnock said to cheering listeners who rose to their feet. "Know that your ballot is a blood-stained ballot. This is a sacred obligation."Among those in the pews in black churches across the country were Democratic candidates hoping congregations would heed the message. Indeed, many pastors and worshippers said this election was more important than 2008, with Democrats struggling to hold on to large majorities in the House and Senate and Obama still working to put his agenda in place. Several voters said in interviews with The Associated Press that they planned to get to the polls, believing Obama needs more time to implement his plans.The black electorate, one of the Democratic Party's most loyal constituencies, voted in record numbers to help elect the country's first African-American president two years ago, and Democrats are hoping at least some of that enthusiasm hasn't faded. Obama has in recent weeks tied a midterm vote for Democrats to continued support for his agenda -- even as some candidates distance themselves from the president, who along with his policies has become less popular with the economy continuing to sputter.Polls indicate that minority voters may not turn out at the same level as they did two years ago, but analysts say a solid showing among blacks could still swing several House, Senate and gubernatorial races, especially in the South.Mike Thurmond, currently Georgia's labor commissioner, currently lags behind popular Republican incumbent Sen. Johnny Isakson. Thurmond -- hoping to become the first black senator elected in Georgia and the first elected in the South since Reconstruction in the 19th century -- attended Greater St. Stephen Full Gospel Baptist Church in Atlanta as he made his campaign rounds Sunday. Thurmond said the polls are flat wrong."This whole notion about a lack of enthusiasm was an illusion, and a propaganda scheme at worst, designed to depress turnout," he said.At the historic Dexter Avenue King Memorial Baptist Church in Montgomery, Alabama, the Rev. Michael Thurman opened his sermon Sunday by asking parishioners to vote. He said he did not endorse any candidates, but he said this election would be even more important than 2008's historic vote."This one's going to decide the direction that the nation goes in from here," Thurman said.The sea of negative political ads -- many accusing Democratic candidates of being a rubber stamp for Obama's agenda -- has quelled the enthusiasm of many black voters, said Calvin Johns, a retired medical doctor. African-Americans could be especially key to conservative Democrat Bobby Bright, who narrowly won his first term two years ago with the help of black voters."To me it seems like whatever candidate they are talking about, the negative ads are talking about President Obama," Johns said. "Most people seem disconnected to the candidates."In the small West Tennessee town of Brownsville, about 100 congregants sang and prayed at St. John Baptist Church on Sunday. Some worshippers came from as far as Jackson, Tennessee, about 30 miles away, to attend the services led by pastor Johnny Shaw.Shaw is also a state Representative, a Democrat from nearby Bolivar. During the service, he asked congregants to pray for their leaders, including the president. Later, he urged them to vote, regardless of for whom they cast a ballot.After the service, disabled veteran Stoney Springfield said he planned to vote for Democrats on Election Day but still was finalizing his decisions.Springfield said he thinks Obama has done "an excellent job," despite dealing with issues left over from the Republican administration of George W. Bush. The wars in Iraq and Afghanistan began under Bush, and the economy had started to falter before Obama took office."He inherited a lot of these problems that we're dealing with," said Springfield, 48, of Jackson, Tennessee. "He's trying to adjust everything to where we can have a better future."As did several black pastors on Sunday, the Rev. George McRae, pastor of Mount Tabor Missionary Baptist Church in Miami's tough Liberty City neighborhood, invoked the civil rights struggle."Even though thousands of our brothers and sisters had to die in the struggle that we might be able to go in a voting booth and vote for the candidate of our choice, thank you, Lord!" McRae said at the pulpit.Among the congregants in McRae's church: U.S. Rep. Kendrick Meek, Florida's Democratic nominee for Senate, and his mother, Carrie Meek, who was one of the first blacks elected to the U.S. House from Florida since Reconstruction. If he wins Tuesday -- a long shot according to most observers -- Meek would be Florida's first black senator.Some worshippers lamented that the calls of "Yes, We Can!" from two years ago have faded.At Friendship Baptist Church in Toledo, Ohio, 52-year-old Sandra Gill said she planned to take her pastor's advice and vote. However, she said, church members aren't making phone calls, wearing Obama t-shirts and buttons, and hosting voting parties like they did in 2008."There was excitement two years ago," she said. "We still have to keep the momentum going. We had a sense of pride. There was a feeling that we can do this. Maybe people feel we did what we needed to do."Then, people voted for change, said 45-year-old Camelia Matthews on her way to the late service at the Mother African Union Church in Wilmington, Delaware. Matthews, who voted for Obama, pledged to vote Tuesday."I would like to help Obama with what his office is trying to do," she said.The church was arranging transportation to the polls for people like JoeAnn Conyer, 89, who said she's anxious to vote in the U.S. Senate race for Democrat Chris Coons. Coons is leading in the polls against Republican tea party favorite Christine O'Donnell.Conyer said Obama inherited "a lot of baggage" when he took office and deserves more time to get the country back on track."He's not doing all this on his own," she said.Cheryl Moore, 61, similarly explained her duty to vote, saying Obama can be successful only if those in Congress understand what common people are going through."It's important that we make sure the balance of power remains the balance of power," said Moore, who voted for Obama in 2008."He needs more time."------Associated Press Writers Bob Johnson in Montgomery, Adrian Sainz in Brownsville, Tennessee, Jennifer Kay in Miami, John Seewer in Toledo, Ohio, and Randall Chase in Wilmington, Delaware, contributed to this report.</text>
+  <mention label="Obama" length="5" position="3072"/>
+  <mention label="Christine O'Donnell" length="19" position="6427"/>
+  <mention label="Warnock" length="7" position="522"/>
+  <mention label="Georgia" length="7" position="2058"/>
+  <mention label="Obama" length="5" position="1546"/>
+  <mention label="Carrie Meek" length="11" position="5124"/>
+  <mention label="Obama" length="5" position="6680"/>
+  <mention label="Democratic Party" length="16" position="1328"/>
+  <mention label="George McRae" length="12" position="4652"/>
+  <mention label="Bob Johnson" length="11" position="6956"/>
+  <mention label="Friendship Baptist Church" length="25" position="5431"/>
+  <mention label="Montgomery" length="10" position="6971"/>
+  <mention label="Obama" length="5" position="4404"/>
+  <mention label="Springfield" length="11" position="4154"/>
+  <mention label="House" length="5" position="1072"/>
+  <mention label="Democrats" length="9" position="1596"/>
+  <mention label="McRae" length="5" position="4659"/>
+  <mention label="Democratic" length="10" position="1328"/>
+  <mention label="Senate" length="6" position="1082"/>
+  <mention label="Obama" length="5" position="6459"/>
+  <mention label="Obama" length="5" position="1093"/>
+  <mention label="U.S." length="4" position="5184"/>
+  <mention label="Atlanta" length="7" position="2370"/>
+  <mention label="Congress" length="8" position="6721"/>
+  <mention label="U.S. House" length="10" position="5184"/>
+  <mention label="Johns" length="5" position="3151"/>
+  <mention label="Republican" length="10" position="2118"/>
+  <mention label="Matthews" length="8" position="5959"/>
+  <mention label="Obama" length="5" position="4181"/>
+  <mention label="Toledo" length="6" position="5460"/>
+  <mention label="Montgomery" length="10" position="2653"/>
+  <mention label="Florida" length="7" position="5200"/>
+  <mention label="Ohio" length="4" position="5468"/>
+  <mention label="Brownsville" length="11" position="6999"/>
+  <mention label="Democratic" length="10" position="855"/>
+  <mention label="Democrat" length="8" position="855"/>
+  <mention label="Tennessee" length="9" position="3691"/>
+  <mention label="Jackson" length="7" position="3682"/>
+  <mention label="Miami" length="5" position="4717"/>
+  <mention label="Alabama" length="7" position="2665"/>
+  <mention label="Johnny Isakson" length="14" position="2144"/>
+  <mention label="Obama" length="5" position="373"/>
+  <mention label="Liberty City" length="12" position="4731"/>
+  <mention label="Thurmond" length="8" position="2160"/>
+  <mention label="Miami" length="5" position="7039"/>
+  <mention label="America" length="7" position="124"/>
+  <mention label="Conyer" length="6" position="6266"/>
+  <mention label="Obama" length="5" position="3450"/>
+  <mention label="Ebenezer Baptist Church" length="23" position="407"/>
+  <mention label="Thurman" length="7" position="2691"/>
+  <mention label="Union Church" length="12" position="6021"/>
+  <mention label="Toledo" length="6" position="7061"/>
+  <mention label="Jackson" length="7" position="4511"/>
+  <mention label="Ohio" length="4" position="7069"/>
+  <mention label="Wilmington" length="10" position="6037"/>
+  <mention label="Tennessee" length="9" position="4520"/>
+  <mention label="Delaware" length="8" position="6049"/>
+  <mention label="Republican" length="10" position="4263"/>
+  <mention label="Associated Press" length="16" position="1184"/>
+  <mention label="Kendrick Meek" length="13" position="5052"/>
+  <mention label="Wilmington" length="10" position="7096"/>
+  <mention label="Shaw" length="4" position="3767"/>
+  <mention label="Atlanta" length="7" position="434"/>
+  <mention label="U.S." length="4" position="5042"/>
+  <mention label="House" length="5" position="1970"/>
+  <mention label="Senate" length="6" position="6321"/>
+  <mention label="Georgia" length="7" position="2224"/>
+  <mention label="Florida" length="7" position="5309"/>
+  <mention label="Bobby Bright" length="12" position="3251"/>
+  <mention label="Senate" length="6" position="1977"/>
+  <mention label="Chris Coons" length="11" position="6346"/>
+  <mention label="West Tennessee" length="14" position="3533"/>
+  <mention label="Democratic" length="10" position="3022"/>
+  <mention label="Obama" length="5" position="6083"/>
+  <mention label="Martin Luther King Jr." length="22" position="476"/>
+  <mention label="Bush" length="4" position="4302"/>
+  <mention label="George W. Bush" length="14" position="4292"/>
+  <mention label="Florida" length="7" position="5067"/>
+  <mention label="Delaware" length="8" position="7108"/>
+  <mention label="Democrats" length="9" position="1478"/>
+  <mention label="Coons" length="5" position="6352"/>
+  <mention label="Springfield" length="11" position="4049"/>
+  <mention label="Tennessee" length="9" position="3538"/>
+  <mention label="Afghanistan" length="11" position="4329"/>
+  <mention label="Iraq" length="4" position="4320"/>
+  <mention label="Moore" length="5" position="6624"/>
+  <mention label="Obama" length="5" position="1250"/>
+  <mention label="Senate" length="6" position="5100"/>
+  <mention label="Brownsville" length="11" position="3556"/>
+  <mention label="Obama" length="5" position="5622"/>
+  <mention label="Republican" length="10" position="6397"/>
+  <mention label="Barack Obama" length="12" position="244"/>
+  <mention label="Democrats" length="9" position="1013"/>
+  <mention label="Mike Thurmond" length="13" position="2033"/>
+  <mention label="Obama" length="5" position="6136"/>
+  <mention label="Thurmond" length="8" position="2038"/>
+  <mention label="Obama" length="5" position="251"/>
+</item>

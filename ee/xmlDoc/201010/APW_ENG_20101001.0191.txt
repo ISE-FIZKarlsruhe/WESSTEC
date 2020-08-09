@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Report: IMF doesn ' t see Ireland tapping fundThe head of the International Monetary Fund is quoted as saying that he doesn't expect Ireland will have to seek help from a (EURO)750 billion ($1 trillion) rescue fund for indebted eurozone countries.Ireland said Thursday it will have to pump (EURO)12 billion more into its crippled banking system. Its deficit is to rise further but markets appeared relieved the country had come clean on the extent of its troubles.Asked in Friday's edition of German business daily Handelsblatt whether the rescue fund will have to be activated for Ireland, the IMF's Dominique Strauss-Kahn replied: "We do not expect that."Strauss-Kahn was quoted as saying that "the Irish government has already taken a series of solid measures on the fiscal side and in the banking sector."</text>
+  <mention label="IMF" length="3" position="595"/>
+  <mention label="Ireland" length="7" position="247"/>
+  <mention label="Ireland" length="7" position="582"/>
+  <mention label="Ireland" length="7" position="133"/>
+  <mention label="International Monetary Fund" length="27" position="62"/>
+  <mention label="Irish" length="5" position="701"/>
+  <mention label="IMF" length="3" position="8"/>
+  <mention label="German" length="6" position="493"/>
+  <mention label="Ireland" length="7" position="26"/>
+  <mention label="Dominique Strauss-Kahn" length="22" position="601"/>
+  <mention label="Strauss-Kahn" length="12" position="611"/>
+  <mention label="Handelsblatt" length="12" position="515"/>
+</item>

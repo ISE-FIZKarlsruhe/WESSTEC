@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Tottenham interested in moving to Olympic StadiumTottenham has registered its interest in moving into London's Olympic Stadium after the 2012 Games despite announcing Friday that it has final approval from local government to redevelop its current ground.Tottenham said in a statement it has joined with American sports and entertainment company AEG to join English Premier League rival West Ham in expressing an interest. AEG runs the former Millennium Dome site near the Olympic Park as the successful O2 Arena concert venue.Haringey Council granted Tottenham permission late Thursday for a 56,250-capacity ground adjacent to its White Hart Lane stadium after the club tweaked the plans following an initial rejection in January.But Tottenham chairman Daniel Levy acknowledged that the club was looking at the Olympic Stadium despite previously asserting repeatedly that its preferred option is to replace its aging home with a new ground on the site."It is only prudent and good management that we ensure that we investigate all possible options for the club," Levy said. "We were informed by the Olympic Park Legacy Company that were we not to register an interest at this time, there would not be an opportunity at any future date."We have always maintained that we wouldn't undertake any project that could undermine the overall financial stability and future success of the club and this shall remain our guiding principle going forward and in determining our best option in the interests of the club and all its fans and stakeholders."The 80,000-seat Olympic Stadium is designed to be reduced to 25,000 seats after the games, but those plans could be changed.West Ham said Thursday it has expressed interest in moving into the stadium after the Olympics. West Ham is currently based just 3.7 kilometers (2.3 miles) from the Olympic Stadium in east London, while Tottenham is 5.5 kilometers (8.8 miles) away in north London.</text>
+  <mention label="London" length="6" position="1924"/>
+  <mention label="London" length="6" position="1856"/>
+  <mention label="Tottenham" length="9" position="1870"/>
+  <mention label="Tottenham" length="9" position="0"/>
+  <mention label="West Ham" length="8" position="387"/>
+  <mention label="West Ham" length="8" position="1667"/>
+  <mention label="Olympics" length="8" position="1753"/>
+  <mention label="Olympic Park" length="12" position="473"/>
+  <mention label="Tottenham" length="9" position="735"/>
+  <mention label="Olympic Park Legacy Company" length="27" position="1100"/>
+  <mention label="Olympic Stadium" length="15" position="1559"/>
+  <mention label="AEG" length="3" position="346"/>
+  <mention label="Haringey Council" length="16" position="527"/>
+  <mention label="Olympic Stadium" length="15" position="111"/>
+  <mention label="London" length="6" position="102"/>
+  <mention label="Tottenham" length="9" position="552"/>
+  <mention label="Olympic Stadium" length="15" position="812"/>
+  <mention label="AEG" length="3" position="423"/>
+  <mention label="Olympic Stadium" length="15" position="1832"/>
+  <mention label="West Ham" length="8" position="1763"/>
+  <mention label="Olympic Stadium" length="15" position="34"/>
+  <mention label="English Premier League" length="22" position="358"/>
+  <mention label="Tottenham" length="9" position="255"/>
+  <mention label="White Hart Lane" length="15" position="632"/>
+  <mention label="American" length="8" position="304"/>
+  <mention label="Tottenham" length="9" position="49"/>
+  <mention label="Daniel Levy" length="11" position="754"/>
+  <mention label="Levy" length="4" position="761"/>
+</item>

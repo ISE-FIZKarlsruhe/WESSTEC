@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Taliban overrun district in eastern AfghanistanThe Taliban overran a district in eastern Afghanistan, occupying government buildings and capturing police officers after an intense gunfight, an Afghan police chief and Taliban spokesman said Monday.Government offices in Ghazni province's Khogyani district were taken over, said district police chief Mohammad Yasin, who was away during the overnight attack. He did not have any information on casualties."No one (from the government) is in the district headquarters," he said.All the police guarding the district headquarters were killed or captured, Taliban spokesman Zabiullah Mujahid said."Right now we control the district," he added, saying their weapons and vehicles had been seized as well.In recent months, Ghazni has become one of the most unstable provinces in Afghanistan. Insecurity around the country shot up after NATO and Afghan troops began pushing into the Taliban heartland of the south in July.Parliamentary elections held in September did not take place in most of Ghazni because of the insurgent threat.Afghanistan has more than 350 districts. Around 10 are under direct Taliban control but they have a presence in many more.</text>
+  <mention label="Afghan" length="6" position="36"/>
+  <mention label="Taliban" length="7" position="0"/>
+  <mention label="NATO" length="4" position="877"/>
+  <mention label="Ghazni" length="6" position="269"/>
+  <mention label="Ghazni" length="6" position="1034"/>
+  <mention label="Afghanistan" length="11" position="36"/>
+  <mention label="Afghanistan" length="11" position="89"/>
+  <mention label="Taliban" length="7" position="51"/>
+  <mention label="Khogyani" length="8" position="287"/>
+  <mention label="Afghanistan" length="11" position="1073"/>
+  <mention label="Ghazni" length="6" position="764"/>
+  <mention label="Zabiullah Mujahid" length="17" position="618"/>
+  <mention label="Taliban" length="7" position="217"/>
+  <mention label="Taliban" length="7" position="600"/>
+  <mention label="Afghanistan" length="11" position="820"/>
+  <mention label="Afghan" length="6" position="89"/>
+</item>

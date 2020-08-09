@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>World stocks rise as China manufacturing gainsWorld stock markets climbed Monday, boosted by faster growth in Chinese manufacturing and expectations the U.S. central bank will pump more money into the world's largest economy to rejuvenate a sluggish recovery.Oil prices rose to near $82 a barrel following the release of surveys showing a jump in China's manufacturing for October, especially in orders for new equipment.In early European trading, Britain's FTSE 100 index rose 0.6 percent to 5,707.74. Germany's DAX was up 0.7 percent to 6,648.31 and France's CAC-40 added 0.8 percent to 3,863.11.Wall Street was set to open higher, with Dow futures up 56 points, or 0.5 percent, to 11,122.00. In currencies, the dollar rose against the yen but dropped against the euro.Chinese shares rebounded, buoyed by the surveys showing that growth in manufacturing accelerated in October as spending on infrastructure spurred orders for new equipment.The benchmark Shanghai Composite Index climbed 2.5 percent, or 75.19 points, to 3,054.02. The Shenzhen Composite Index of China's smaller, second market vaulted 2.9 percent to 1,341.84.Resources shares were among the strongest gainers in Shanghai. Shandong Gold Mining Co. gained 6.2 percent while Aluminum Corporation of China Ltd., or Chalco, advanced 3.2 percent.Hong Kong's Hang Seng index jumped 2.4 percent to 23,652.94 and South Korea's Kospi rose 1.7 percent to 1,914.74. Australia's S&amp;P/ASX 200 gained 0.8 percent to 4,698.50.Japan's benchmark Nikkei 225 stock average bucked the trend, falling 0.5 percent to close at 9,154.72.Markets in New Zealand and Indonesia also fell while Singapore, Taiwan, India, the Philippines and Malaysia posted gains.The upbeat sentiment was reinforced by expectations that the U.S. Federal Reserve will pump more money into the world's largest economy to boost its feeble recovery.Trading volume was relatively brisk as markets awaited Fed action this week, according to Jackson Wong, vice president at Tanrich Securities in Hong Kong."It looks like sentiment has changed toward positive," he said. "The market is remaining positive ahead of the Fed announcement.""Those who shorted stocks last week will try to avoid losses by trying to buy stocks today," he said.U.S. gross domestic product grew just 2 percent at an annualized pace in the three months through September, slightly faster than the previous quarter but not enough to bring down unemployment, which is hovering near 10 percent.The weak showing underlined expectations that the Fed policy meeting ending Wednesday will announce a Treasury bond buying program, known as quantative easing, to inject more liquidity into the economy.The Dow Jones industrial average on Friday rose 4.54, or 0.1 percent, to close at 11,118.49. The Standard and Poor's 500 Index fell 0.52, or 0.1 percent, to 1,183.26.Despite the soft finishes, both U.S. indexes were up over 3 percent for the month.In currencies, the dollar rose to 80.46 yen from 80.31 yen. The euro rose to $1.3957 from $1.3945.Benchmark crude for December delivery was up 41 cents at $81.84 a barrel in electronic trading on the New York Mercantile Exchange. The contract fell 75 cents to settle at $81.43 on Friday.------Associated Press researcher Ji Chen in Shanghai contributed to this report.</text>
+  <mention label="Japan" length="5" position="1477"/>
+  <mention label="DAX" length="3" position="513"/>
+  <mention label="Fed" length="3" position="1920"/>
+  <mention label="Associated Press" length="16" position="3220"/>
+  <mention label="Chinese" length="7" position="771"/>
+  <mention label="Malaysia" length="8" position="1678"/>
+  <mention label="Britain" length="7" position="448"/>
+  <mention label="Australia" length="9" position="1422"/>
+  <mention label="U.S." length="4" position="2249"/>
+  <mention label="FTSE" length="4" position="458"/>
+  <mention label="Indonesia" length="9" position="1606"/>
+  <mention label="Hong Kong" length="9" position="2009"/>
+  <mention label="China" length="5" position="21"/>
+  <mention label="Nikkei" length="6" position="1495"/>
+  <mention label="Fed" length="3" position="2130"/>
+  <mention label="Shanghai" length="8" position="1180"/>
+  <mention label="Hong Kong" length="9" position="1308"/>
+  <mention label="South Korea" length="11" position="1372"/>
+  <mention label="Treasury" length="8" position="2579"/>
+  <mention label="U.S." length="4" position="153"/>
+  <mention label="China" length="5" position="347"/>
+  <mention label="Hang Seng" length="9" position="1320"/>
+  <mention label="U.S." length="4" position="1761"/>
+  <mention label="Fed" length="3" position="1766"/>
+  <mention label="European" length="8" position="430"/>
+  <mention label="Singapore" length="9" position="1632"/>
+  <mention label="Chinese" length="7" position="110"/>
+  <mention label="New York Mercantile Exchange" length="28" position="3127"/>
+  <mention label="China" length="5" position="1064"/>
+  <mention label="Taiwan" length="6" position="1643"/>
+  <mention label="France" length="6" position="552"/>
+  <mention label="Kospi" length="5" position="1386"/>
+  <mention label="Germany" length="7" position="503"/>
+  <mention label="Dow Jones" length="9" position="2683"/>
+  <mention label="Shanghai" length="8" position="3259"/>
+  <mention label="Shanghai" length="8" position="956"/>
+  <mention label="Philippines" length="11" position="1662"/>
+  <mention label="U.S. Federal Reserve" length="20" position="1761"/>
+  <mention label="India" length="5" position="1651"/>
+  <mention label="Chalco" length="6" position="1279"/>
+  <mention label="Dow" length="3" position="639"/>
+  <mention label="New Zealand" length="11" position="1590"/>
+</item>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ponting, Watson guide Australia to 101-1 at lunchSkipper Ricky Ponting and opener Shane Watson shared an unbroken 88-run partnership to guide Australia to 101 for one at lunch Friday on the opening day of the series-opening cricket test against India.Watson went to the interval on 44, lucky to survive dropped catches when he was on one and 38, and Ponting was on 40.Ponting won the toss and elected to bat, but Australia lost an early wicket at 13 when paceman Zaheer Khan trapped Simon Katich (6) lbw.Zaheer was unlucky not to pick up an earlier wicket, with Virender Sehwag putting down a chance from Watson.India captain M.S. Dhoni failed to glove another chance off left-arm spinner Pragyan Ojha's bowling closer to the interval.</text>
+  <mention label="India" length="5" position="612"/>
+  <mention label="Zaheer Khan" length="11" position="463"/>
+  <mention label="Australia" length="9" position="142"/>
+  <mention label="Ponting" length="7" position="0"/>
+  <mention label="Zaheer" length="6" position="463"/>
+  <mention label="Simon Katich" length="12" position="483"/>
+  <mention label="Watson" length="6" position="9"/>
+  <mention label="India" length="5" position="245"/>
+  <mention label="Ricky Ponting" length="13" position="57"/>
+  <mention label="Australia" length="9" position="413"/>
+  <mention label="Ponting" length="7" position="63"/>
+  <mention label="M.S. Dhoni" length="10" position="626"/>
+  <mention label="Ponting" length="7" position="350"/>
+  <mention label="Pragyan Ojha" length="12" position="689"/>
+  <mention label="Watson" length="6" position="251"/>
+  <mention label="Virender Sehwag" length="15" position="562"/>
+  <mention label="Shane Watson" length="12" position="82"/>
+  <mention label="Watson" length="6" position="88"/>
+  <mention label="Australia" length="9" position="22"/>
+</item>

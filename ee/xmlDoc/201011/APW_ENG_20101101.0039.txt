@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Simon Elliott signs with PhoenixNew Zealand and former Fulham midfielder Simon Elliott has signed with the Wellington Phoenix in Australian football's A-League.Wellington-born Elliott, 36, has been without a club since leaving the United States side the San Jose Earthquake at the end of the 2009 season. He signed with the Phoenix on Monday as an injury replacement for Argentinian Oscar Roberto Cornejo.In a varied professional career, Elliott has also played for the Boston Bulldogs, Los Angeles Galaxy -- from 1999 to 2003 -- and for the Columbus Crew. He was with Fulham in the English Premier League from 2006 to 2008 before joining San Jose.Elliott has played 68 matches for New Zealand since 1995 and was a member of its 23-man squad at this year's World Cup in South Africa.</text>
+  <mention label="New Zealand" length="11" position="682"/>
+  <mention label="Elliott" length="7" position="6"/>
+  <mention label="Simon Elliott" length="13" position="73"/>
+  <mention label="Elliott" length="7" position="79"/>
+  <mention label="United States" length="13" position="231"/>
+  <mention label="New Zealand" length="11" position="32"/>
+  <mention label="Australian" length="10" position="129"/>
+  <mention label="Simon Elliott" length="13" position="0"/>
+  <mention label="South Africa" length="12" position="770"/>
+  <mention label="Fulham" length="6" position="55"/>
+  <mention label="Phoenix" length="7" position="118"/>
+  <mention label="English Premier League" length="22" position="583"/>
+  <mention label="Columbus Crew" length="13" position="542"/>
+  <mention label="Los Angeles Galaxy" length="18" position="487"/>
+  <mention label="San Jose" length="8" position="254"/>
+  <mention label="Elliott" length="7" position="176"/>
+  <mention label="Argentinian" length="11" position="371"/>
+  <mention label="Wellington Phoenix" length="18" position="107"/>
+  <mention label="Boston Bulldogs" length="15" position="470"/>
+  <mention label="World Cup" length="9" position="757"/>
+  <mention label="Phoenix" length="7" position="25"/>
+  <mention label="Fulham" length="6" position="569"/>
+</item>

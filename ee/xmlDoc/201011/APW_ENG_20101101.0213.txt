@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>UN leader Ban meets with Chinese President HuU.N. Secretary General Ban Ki-moon met with China's president in Beijing on Monday, amid calls for the leader of the world body to publicly speak against the continuing imprisonment of Nobel Peace Prize laureate Liu Xiaobo.Ban met with President Hu Jintao at the Great Hall of the People in the heart of Beijing, one day after attending a summit in Shanghai with Chinese Premier Wen Jiabao and other leaders."Since taking office, you have done a great deal of effective work to promote the work of the United Nations, improve the U.N.'s work, improve international cooperation, promote world peace and stability," Hu told Ban.Ban congratulated Hu on China's successful staging of the World Expo, but made no mention of Liu in brief comments before reporters were ushered from the room.No news conference is planned during Ban's visit and he appears unlikely to raise Liu's case in keeping with his low-key style and China's immense influence in the U.N. as one of five veto-wielding permanent members of the Security Council.Ban's public comments in China have been limited thus far to praise for the country's staging of the just-concluded World Expo and calls for more sustainable development.Rights advocates have urged Ban to join other world leaders and eminent figures in publicly expressing concern over Liu's imprisonment, as well as the treatment of his wife, Liu Xia, who has been under house arrest since the award was announced last month.Liu Xiaobo, a 54-year-old literary critic, is serving an 11-year sentence for subversion imposed in December after he co-authored a bold appeal known as Charter 08 calling for reforms to the country's single-party communist political system.In a letter issued at the start of Ban's four-nation trip to Asia, Human Rights Watch said his visit came at a time when China's rights advocates and their supporters are increasingly under pressure by the government.In addition to expressing concern over Liu and his wife, Ban should urge the government to "roll back its constraints on human rights defenders, including civil society groups and lawyers," said the letter, signed by the group's Asia Advocacy Director Sophie Richardson.</text>
+  <mention label="Shanghai" length="8" position="394"/>
+  <mention label="Asia" length="4" position="1798"/>
+  <mention label="China" length="5" position="1095"/>
+  <mention label="UN" length="2" position="0"/>
+  <mention label="Liu" length="3" position="257"/>
+  <mention label="China" length="5" position="961"/>
+  <mention label="Liu Xia" length="7" position="257"/>
+  <mention label="Ban" length="3" position="68"/>
+  <mention label="China" length="5" position="1858"/>
+  <mention label="Ban" length="3" position="10"/>
+  <mention label="Liu Xiaobo" length="10" position="257"/>
+  <mention label="Security Council" length="16" position="1053"/>
+  <mention label="Ban" length="3" position="268"/>
+  <mention label="Liu" length="3" position="1356"/>
+  <mention label="Ban Ki-moon" length="11" position="68"/>
+  <mention label="Liu Xiaobo" length="10" position="1496"/>
+  <mention label="Liu" length="3" position="912"/>
+  <mention label="Beijing" length="7" position="349"/>
+  <mention label="China" length="5" position="89"/>
+  <mention label="Human Rights Watch" length="18" position="1804"/>
+  <mention label="Chinese" length="7" position="25"/>
+  <mention label="Chinese" length="7" position="408"/>
+  <mention label="Wen Jiabao" length="10" position="424"/>
+  <mention label="U.N." length="4" position="994"/>
+  <mention label="Hu" length="2" position="43"/>
+  <mention label="Beijing" length="7" position="110"/>
+  <mention label="U.N." length="4" position="45"/>
+  <mention label="Hu Jintao" length="9" position="291"/>
+  <mention label="United Nations" length="14" position="547"/>
+  <mention label="China" length="5" position="695"/>
+  <mention label="Nobel Peace Prize" length="17" position="230"/>
+  <mention label="U.N." length="4" position="575"/>
+  <mention label="Liu" length="3" position="764"/>
+</item>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: ' Freakonomics '  a mixed bag of dataBaby names, sumo wrestlers, crack prices and high school grades all collide in "Freakonomics," with mixed results.Several acclaimed, award-winning documentarians take on various sections of the New York Times best-seller, which forced readers to reconsider how the world works by looking at it from new perspectives and asking different questions. University of Chicago economics professor Steven D. Levitt and journalist Stephen J. Dubner, who wrote "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything," appear throughout to explain their theories and bounce off each other with the well-honed patter of a veteran comedy team.The film as a whole, though, isn't as reliable.It starts out on a lively note with "Super Size Me" director Morgan Spurlock considering whether your name dictates your destiny. He talks to everyone from experts on race to strippers to average men and women on the street. One researcher found that by sending out copies of the exact same resume -- but saying the job applicant's name was Greg on some and Tyrone on others -- he got vastly different responses. Spurlock's segment is brisk, funny and enlightening, as is typical of his work. It'll challenge stereotypes and engage viewers regardless of whether they've faced the vexing task of naming a child themselves.Next comes Alex Gibney's investigative segment on cheating in sumo wrestling, and how the practice is so brazenly contradictory to the sport's pure, spiritual roots. Gibney, who lived in Japan for several years, reveals match-fixing and suspicious deaths. The topics of corruption and deception couldn't be more relevant, especially from the director of "Enron: The Smartest Guys in the Room" and the Jack Abramoff film "Casino Jack and the United States of Money." (Gibney also won the Academy Award for best documentary for 2007's "Taxi to the Dark Side.") His segment could have been a suspenseful look at a world most of us know nothing about; instead, it's surprisingly dry and feels like a chore to slog through.Eugene Jarecki, director of the sobering "Why We Fight," is up next with the section that will prompt the most debate: a look at whether abortion is a factor in dropping crime rates. Jarecki traces the book's theory that crime in America decreased sharply in the 1990s for several reasons, and while cities might credit community policing and changes in the price of crack cocaine, a primary cause is that babies who would have been born unwanted and doomed to a life of crime simply don't exist. These kids would have been born in the mid-1970s, but weren't because of the Supreme Court's 1973 upholding of Roe vs. Wade; further, Levitt found that women who got legal abortions were 50 percent more likely to be poor and 60 percent more likely to be single parents. A bold idea, for sure, and one that needed to be fleshed out in more time than "Freakonomics" provides; here, it feels oversimplified.Finally, "Jesus Camp" directors Rachel Grady and Heidi Ewing visit a struggling Chicago high school to find out whether bribing students inspires them to get better grades. Under the experiment that's in place there, students receive $50 for every grade they earn above a C, with a chance to win a $500 lottery and a ride home in a Hummer limousine. Grady and Ewing vividly introduce us to two ninth-graders with starkly contrasting approaches to this offer. One, a skateboarder who trades his Adderall pills for cigarettes in the parking lot, vaguely ponders studying but never really does it; the other, a charismatic fast-talker, is so wowed by the prospect of the limo ride that he promises to improve his habits immediately.That last segment is one of the film's high points, but the problem is that any of these topics could have been expanded into its own film and been more fully engaging. Trying to tackle each of them in about 20 minutes or so, though, often feels too cursory. Gibney crams so much information into his section, as he did earlier this year with "Casino Jack," it feels as if there might be a quiz afterward.In between, Seth Gordon (director of the amusing video game documentary "The King of Kong: A Fistful of Quarters") weaves transitional segments on related topics, like whether your real estate agent really has your best interest at heart (he doesn't), or whether playing Mozart for your baby in the womb will make a difference (it won't).All eye-opening stuff -- and there's simultaneously a lot of it and not enough."Freakonomics," a Magnolia Pictures release, is rated PG-13 for elements of violence, sexuality and nudity, drugs, and brief strong language. Running time: 93 minutes. Two stars out of four.</text>
+  <mention label="Wade" length="4" position="2694"/>
+  <mention label="Stephen J. Dubner" length="17" position="467"/>
+  <mention label="America" length="7" position="2308"/>
+  <mention label="Freakonomics" length="12" position="10"/>
+  <mention label="Japan" length="5" position="1547"/>
+  <mention label="Grady" length="5" position="3018"/>
+  <mention label="Tyrone" length="6" position="1097"/>
+  <mention label="Rachel Grady" length="12" position="3011"/>
+  <mention label="Alex Gibney" length="11" position="1371"/>
+  <mention label="Chicago" length="7" position="407"/>
+  <mention label="Eugene Jarecki" length="14" position="2078"/>
+  <mention label="Supreme Court" length="13" position="2652"/>
+  <mention label="Magnolia Pictures" length="17" position="4548"/>
+  <mention label="Seth Gordon" length="11" position="4125"/>
+  <mention label="University of Chicago" length="21" position="393"/>
+  <mention label="Ewing" length="5" position="3034"/>
+  <mention label="New York Times" length="14" position="239"/>
+  <mention label="Jarecki" length="7" position="2085"/>
+  <mention label="Steven D. Levitt" length="16" position="435"/>
+  <mention label="Gibney" length="6" position="1827"/>
+  <mention label="Mozart" length="6" position="4384"/>
+  <mention label="Gibney" length="6" position="1376"/>
+  <mention label="Jack Abramoff" length="13" position="1761"/>
+  <mention label="Morgan Spurlock" length="15" position="800"/>
+  <mention label="Spurlock" length="8" position="807"/>
+  <mention label="Gibney" length="6" position="1526"/>
+  <mention label="Freakonomics" length="12" position="125"/>
+  <mention label="Academy Award" length="13" position="1847"/>
+  <mention label="Levitt" length="6" position="445"/>
+  <mention label="Greg" length="4" position="1080"/>
+  <mention label="Roe" length="3" position="2686"/>
+</item>

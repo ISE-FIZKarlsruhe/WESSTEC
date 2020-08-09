@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Obama meets with freed hiker Sarah ShourdIn hail of gunfire, soldiers rescue Ecuador president from hospital besieged by angry police.</text>
+  <mention label="Ecuador" length="7" position="77"/>
+</item>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Tomas seen regaining power, pose threat to HaitiNo longer a hurricane, Tropical Storm Tomas swirled over warm Caribbean waters early Monday and forecasters warned it could regain power and pose a threat to the crowded quake refugee camps in Haiti.Tomas slipped under the threshold for a hurricane Sunday evening. The U.S. National Hurricane Center in Miami predicted more weakening before it begins to strengthen again around midweek.At that point, Tomas is expected to veer northward in the general direction of Haiti, where some 1.3 million people are living under tarps and in tents that are vulnerable to heavy rains and wind.Daniel Brown, a center forecaster, said Tomas is "likely to strengthen when it's over the central Caribbean," and Haiti could be hit by rains from outer bands in another couple of days.Early Monday, Tomas' maximum sustained winds had decreased to near 50 mph (85 kph). The storm was located about 135 miles (220 kilometers) northeast of Curacao and was moving west near 14 mph (22 kph).Brown said it was too early to say how strong Tomas could become later in the week or if Haiti might suffer a direct hit. But, he added, "there's certainly going to be the threat of heavy rainfall" in the impoverished nation, where widespread deforestation and ramshackle homes mean even moderate rains can cause devastation.Aid workers in Haiti fear the worst. Hundreds of thousands of people there have only rudimentary shelter nearly 10 months after the Jan. 12 earthquake, and a cholera epidemic has killed more than 330 and hospitalized nearly 5,000."It's just so complex and it's very serious," said Imogen Wall of the U.N. Office for the Coordination of Humanitarian Affairs. "We are so stretched already with the cholera, and we are running a daily earthquake response as well."Food and fuel were being stockpiled in southern areas expected to be most directly affected by Tomas, and emergency shelter materials were being distributed to the camps in Haiti's capital, Port-au-Prince.But with no shelters or organized evacuation plans -- and for most people, nowhere to go -- Haitians will largely be on their own.Tomas tore off roofs and toppled power lines when it swept over islands in the eastern Caribbean as a hurricane Saturday. Two deaths and a few injuries were reported.St. Lucia Prime Minister Stephenson King told a local radio station that an American tourist drowned at Cas En Bas beach in the island's north. He did not know the tourist's identity or provide any other details. A 31-year-old St. Lucian woman also died in a road accident during the storm, he said.Authorities in St. Vincent and the Grenadines said two workers were hospitalized after they were blown off a roof by high winds.St. Vincent Prime Minister Ralph Gonsalves said dozens of homes lost roofs and more than 1,000 people sought emergency shelter as the islands lost power. Widespread flooding triggered landslides that blocked as many as 30 roads."There is also serious damage to fruit trees, bananas and other infrastructure, and this is going to cost the state millions," he said.St. Lucians were deluged by 21 hours of sustained rain starting Saturday morning. On Sunday, dead animals floated in swollen rivers and people in the capital of Castries took to streets to clear fallen branches, broken glass and other debris.High winds ripped the roofs off a hospital, a school and a stadium and blew a large concrete cross from the roof of a century-old church, officials said. A landslide blocked a main highway.Tomas was the 12th hurricane of the season in the Atlantic.------Associated Press writers Jonathan M. Katz in Port-au-Prince, Haiti, Guy Ellis in Castries, St. Lucia, and Rodolphe Lamy in Fort-de-France, Martinique, contributed to this report.</text>
+  <mention label="Curacao" length="7" position="967"/>
+  <mention label="Tomas" length="5" position="3524"/>
+  <mention label="American" length="8" position="2379"/>
+  <mention label="Haiti" length="5" position="513"/>
+  <mention label="Tomas" length="5" position="449"/>
+  <mention label="Tomas" length="5" position="0"/>
+  <mention label="Port-au-Prince" length="14" position="1992"/>
+  <mention label="Haiti" length="5" position="1356"/>
+  <mention label="Ralph Gonsalves" length="15" position="2757"/>
+  <mention label="Fort-de-France" length="14" position="3712"/>
+  <mention label="Caribbean" length="9" position="728"/>
+  <mention label="Tomas" length="5" position="86"/>
+  <mention label="Haiti" length="5" position="1105"/>
+  <mention label="Associated Press" length="16" position="3589"/>
+  <mention label="Stephenson King" length="15" position="2328"/>
+  <mention label="Miami" length="5" position="351"/>
+  <mention label="Martinique" length="10" position="3728"/>
+  <mention label="Tomas" length="5" position="670"/>
+  <mention label="Tomas" length="5" position="2137"/>
+  <mention label="Castries" length="8" position="3670"/>
+  <mention label="Tomas" length="5" position="1062"/>
+  <mention label="Caribbean" length="9" position="110"/>
+  <mention label="St. Lucia" length="9" position="2530"/>
+  <mention label="Tomas" length="5" position="1897"/>
+  <mention label="Haiti" length="5" position="744"/>
+  <mention label="U.N." length="4" position="1641"/>
+  <mention label="Haiti" length="5" position="43"/>
+  <mention label="Haiti" length="5" position="1975"/>
+  <mention label="Tomas" length="5" position="247"/>
+  <mention label="Haiti" length="5" position="241"/>
+  <mention label="Haiti" length="5" position="2099"/>
+  <mention label="St. Lucia" length="9" position="2303"/>
+  <mention label="Brown" length="5" position="637"/>
+  <mention label="Tomas" length="5" position="829"/>
+  <mention label="U.S." length="4" position="317"/>
+  <mention label="Daniel Brown" length="12" position="630"/>
+  <mention label="Port-au-Prince" length="14" position="3634"/>
+  <mention label="Castries" length="8" position="3254"/>
+  <mention label="Atlantic" length="8" position="3574"/>
+</item>

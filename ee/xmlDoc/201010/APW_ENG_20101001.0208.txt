@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Massive fire hits South Korean high-riseA massive fire broke out Friday in a 38-floor apartment and office building in the southern port city of Busan, news reports and fire officials said. No deaths were reported.Flames quickly spread through the building's main stairwell but were largely contained later in the afternoon, a local fire official in Busan said. However, a local television station reported that winds were whipping up new blazes.The fire official could not say how many people remained in the building, only that residents were still being rescued, some by helicopter from the building's roof. He declined to give his name because the situation was continuing and subject to change.YTN television showed footage of fire helicopters dousing the complex and a hose shooting water at it from a neighboring building.Busan, South Korea's second-largest city and a major seaport, is located about 250 miles (400 kilometers) southeast of Seoul.The cable channel also reported that 37 residents were evacuated. It said three were taken to a hospital and that one firefighter was injured. It also said that winds from the water were reigniting fires on top of the building.Another local fire official on the scene could not confirm the report, saying only that the "situation is being wrapped up." He also declined to identify himself, as he was not authorized to comment.The fire started early Friday morning in a janitor's closet on the fourth floor of the high-rise building located in the city's plush beachside Haeundae district, Yonhap news agency said.Neither fire officials could not comment on the fire's cause.</text>
+  <mention label="Yonhap" length="6" position="1543"/>
+  <mention label="Seoul" length="5" position="948"/>
+  <mention label="Busan" length="5" position="145"/>
+  <mention label="YTN" length="3" position="699"/>
+  <mention label="Busan" length="5" position="829"/>
+  <mention label="South Korea" length="11" position="18"/>
+  <mention label="Busan" length="5" position="350"/>
+  <mention label="Haeundae" length="8" position="1524"/>
+  <mention label="South Korean" length="12" position="18"/>
+</item>

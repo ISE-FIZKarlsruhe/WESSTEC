@@ -1,0 +1,14 @@
+<!-- This configuation file defines properties for a service hub -->
+
+<wikipediaHubConfiguration>
+
+    <!-- Options requred to allow retrieval of web content via proxy -->
+    <proxy host="" port="" user="" password=""/>
+
+    <!-- language links in Wikipedia -->
+    <langlinks path="/home/rtue/workspace/gwifi/langlinks_201605/index"/>
+
+	<!-- Categories in Wikipedia used for annotation -->
+	<categories path="configs/categories.txt"/>
+
+</wikipediaHubConfiguration> 

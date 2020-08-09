@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Weather forecast for the Asia-Pacific regionA cold front will extend from the East China Sea northeastward through the Pacific Ocean just off the east coast of Japan.Because the front will lay mostly over open water, it will only produce rain over the Ryukyu Islands and south of Shanghai.A developing low pressure system will move through northern China toward the Yellow Sea. This system will carry significant moisture, producing widespread showers throughout the region from Shanghai through Beijing and the Korean peninsula. Rain is also likely through inland China.Messy weather will once again pop up in the Bay of Bengal area as widespread showers and thunderstorms continue to drench the region.Tokyo will rise into the lower 20s Celsius, while Shanghai will see temperatures in the mid-20s C. Seoul will rise into the mid-20s C.For Australia, a large high pressure system will move through the Tasman Sea and extend into the eastern portion of the country.A few showers are possible along the east coast of the country south of Brisbane to Sydney, while additional thunderstorms will develop along the northeast coast.A few showers will fall over the Cape Leeuwin, but the rest of the country will remain dry. Warm temperatures are expected in the north, while much cooler air will flood into the southeastSydney will rise into the lower 20s C, while Melbourne will see temperatures in the upper 10s C. Brisbane will rise into the lower 20s C.------Source: Weather Underground------Online: http://www.wunderground.com</text>
+  <mention label="East China Sea" length="14" position="78"/>
+  <mention label="Tasman Sea" length="10" position="904"/>
+  <mention label="Sydney" length="6" position="1316"/>
+  <mention label="Australia" length="9" position="842"/>
+  <mention label="Yellow Sea" length="10" position="366"/>
+  <mention label="Celsius" length="7" position="739"/>
+  <mention label="Cape Leeuwin" length="12" position="1161"/>
+  <mention label="Japan" length="5" position="160"/>
+  <mention label="Tokyo" length="5" position="704"/>
+  <mention label="Brisbane" length="8" position="1038"/>
+  <mention label="Seoul" length="5" position="803"/>
+  <mention label="Bay of Bengal" length="13" position="615"/>
+  <mention label="Shanghai" length="8" position="280"/>
+  <mention label="Ryukyu Islands" length="14" position="252"/>
+  <mention label="Asia-Pacific" length="12" position="25"/>
+  <mention label="China" length="5" position="83"/>
+  <mention label="Shanghai" length="8" position="479"/>
+  <mention label="Beijing" length="7" position="496"/>
+  <mention label="Melbourne" length="9" position="1361"/>
+  <mention label="China" length="5" position="349"/>
+  <mention label="Shanghai" length="8" position="754"/>
+  <mention label="Pacific Ocean" length="13" position="119"/>
+  <mention label="Sydney" length="6" position="1050"/>
+</item>

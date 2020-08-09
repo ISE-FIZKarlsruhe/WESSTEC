@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Favre knocked out; Patriots top Vikings 28-18Tom Brady outscrambled Brett Favre, then kept the ball away from Tarvaris Jackson when Favre was knocked out of the game as the New England Patriots held on to beat the Minnesota Vikings 28-18 on Sunday.Brady scrambled free to find Brandon Tate breaking free behind the defense for a 65-yard touchdown to give the Patriots the lead in the third quarter. BenJarvus Green-Ellis' first touchdown, a 13-yard run, made it 21-10.Favre drove Minnesota to the New England 3 yard-line before he was flattened by defensive lineman Myron Pryor. Jackson relieved him and threw a 1-yard touchdown pass to Naufahu Tahi on the first play, then hit Percy Harvin for the 2-point conversion that made it 21-18.Favre, who started in his 292nd straight game despite two fractures in his left ankle, was carted off the field midway in the fourth quarter with a cut to his chin that he said required eight stitches.Saints 20, Steelers 10At New Orleans, Drew Brees passed for 305 yards and two touchdowns as New Orleans downed Pittsburgh.Brees was 20 of 22 for 191 yards in the second half, breaking open a defensive struggle in which neither team scored a touchdown through the first three quarters.Brees' first TD went to Marques Colston for 16 yards and the second went for 8 yards to Lance Moore with 2:37 left.Packers 9, Jets 0At East Rutherford, New Jersey, Mason Crosby kicked three field goals for Green Bay, and that was all the Packers needed to beat the rested but sloppy Jets.Mark Sanchez and the Jets' offense couldn't get much of anything going as New York, which entered tied for the league's best record, had its five-game winning streak end. The Jets (5-2) were shut out for the first time since a 10-0 loss to Chicago on Nov. 19, 2006, at home.49ers 24, Broncos 16At Wembley, England, backup Troy Smith found his range in the fourth quarter to lead San Francisco in the NFL's fourth regular-season game in London.In his first start as a 49er, Smith had a 28-yard touchdown pass to Michael Crabtree with 7:23 left to help San Francisco (2-6) take a 17-10 lead. Frank Gore scored another with 3:47 to go, running in from the 3.Chargers 33, Titans 25At San Diego, Philip Rivers threw a go-ahead, 48-yard touchdown pass to Antonio Gates midway through the third quarter to lead San Diego over Tennessee, which lost quarterback Vince Young to another injury.San Diego (3-5) snapped a three-game losing streak and won its eighth straight game against the Titans dating to 1993.Buccaneers 38, Cardinals 35At Glendale, Arizona, Aqib Talib intercepted two passes, returning one 45 yards for a touchdown and saving the game with the other, as Tampa Bay rallied from a fourth-quarter deficit for the fourth time this season.The Bucs (5-2) won their fifth straight on the road dating to last season and moved into a tie with idle Atlanta for first in the NFC South.Raiders 33, Seahawks 3At Oakland, California, Jason Campbell threw for 310 yards and two touchdowns as Oakland's defense delivered one of its best performance in years to help the Raiders even their record at the midpoint of the season.Darren McFadden ran for 111 yards as the Raiders (4-4) reached the .500 mark this late in the season for the first time since 2002.Rams 20, Panthers 10At St. Louis, Sam Bradford threw two touchdown passes as the St. Louis defense forced four Carolina turnovers.Bradford threw a 2-yard scoring pass to Danny Amendola in the second quarter and a 23-yard touchdown pass to Daniel Fells in the fourth as the Rams -- an NFL-worst 1-15 last season -- reached the midway point at 4-4.Dolphins 22, Bengals 14At Cincinnati, Dan Carpenter kicked five field goals for the second straight game as the Miami Dolphins made them stand up in keeping its record perfect on the road.Last week, the Dolphins (4-3) lost after a disputed play. Ben Roethlisberger's touchdown was ruled a fumble on review, but the Steelers kept the ball and kicked a field goal for a 23-22 win, offsetting Carpenter's five field goals.Jaguars 35, Cowboys 17At Arlington, Texas, David Garrard and the Jaguars became the latest to take advantage of the crumbling Cowboys.Garrard tied a club record with four touchdown passes and ran for another while narrowly missing a perfect quarterback rating, leading the Jaguars to a 35-17 victory over Dallas.Chiefs 13, Bills 10 (OT)At Kansas City, Missouri, Ryan Succop kicked a 34-yard field goal as time expired in overtime to lift Kansas City over winless Buffalo.Succop had a chance to win the game with 3:38 to go in OT, but his 39-yard attempt with 3:38 to go hooked left at the last instant.Lions 37, Redskins 25At Detroit, Matthew Stafford threw four touchdown passes, including a 10-yarder to Calvin Johnson with 3:12 left, and the Lions (2-5) went on to score nine points in a 14-second span for their second win of the season.The Redskins (4-4) turned the ball over on downs after Johnson's career-high third score. Washington coach Mike Shanahan then put Rex Grossman in for an apparently healthy Donovan McNabb, and he fumbled on his first play with Ndamukong Suh returning it for a TD.</text>
+  <mention label="San Francisco" length="13" position="2061"/>
+  <mention label="San Diego" length="9" position="2314"/>
+  <mention label="St. Louis" length="9" position="3341"/>
+  <mention label="Favre" length="5" position="0"/>
+  <mention label="Broncos" length="7" position="1794"/>
+  <mention label="Raiders" length="7" position="3073"/>
+  <mention label="Kansas City" length="11" position="4364"/>
+  <mention label="Wembley" length="7" position="1807"/>
+  <mention label="Aqib Talib" length="10" position="2560"/>
+  <mention label="New Orleans" length="11" position="1030"/>
+  <mention label="Redskins" length="8" position="4870"/>
+  <mention label="Tennessee" length="9" position="2329"/>
+  <mention label="Missouri" length="8" position="4377"/>
+  <mention label="Pittsburgh" length="10" position="1049"/>
+  <mention label="Lance Moore" length="11" position="1310"/>
+  <mention label="Redskins" length="8" position="4637"/>
+  <mention label="Lions" length="5" position="4627"/>
+  <mention label="Brandon Tate" length="12" position="277"/>
+  <mention label="Dolphins" length="8" position="3606"/>
+  <mention label="Ben Roethlisberger" length="18" position="3852"/>
+  <mention label="Brees" length="5" position="1060"/>
+  <mention label="Troy Smith" length="10" position="1832"/>
+  <mention label="Carolina" length="8" position="3371"/>
+  <mention label="Matthew Stafford" length="16" position="4660"/>
+  <mention label="Bengals" length="7" position="3619"/>
+  <mention label="Tom Brady" length="9" position="45"/>
+  <mention label="Ryan Succop" length="11" position="4387"/>
+  <mention label="Smith" length="5" position="1837"/>
+  <mention label="Detroit" length="7" position="4651"/>
+  <mention label="Atlanta" length="7" position="2858"/>
+  <mention label="Succop" length="6" position="4392"/>
+  <mention label="Vince Young" length="11" position="2363"/>
+  <mention label="Cowboys" length="7" position="4151"/>
+  <mention label="Dan Carpenter" length="13" position="3644"/>
+  <mention label="Brady" length="5" position="49"/>
+  <mention label="Darren McFadden" length="15" position="3129"/>
+  <mention label="New York" length="8" position="1584"/>
+  <mention label="Cincinnati" length="10" position="3632"/>
+  <mention label="Myron Pryor" length="11" position="566"/>
+  <mention label="Packers" length="7" position="1337"/>
+  <mention label="Frank Gore" length="10" position="2100"/>
+  <mention label="Jets" length="4" position="1348"/>
+  <mention label="East Rutherford" length="15" position="1357"/>
+  <mention label="Carpenter" length="9" position="3648"/>
+  <mention label="Raiders" length="7" position="2893"/>
+  <mention label="Favre" length="5" position="74"/>
+  <mention label="Brett Favre" length="11" position="68"/>
+  <mention label="San Diego" length="9" position="2393"/>
+  <mention label="Seahawks" length="8" position="2905"/>
+  <mention label="New Jersey" length="10" position="1374"/>
+  <mention label="Washington" length="10" position="4956"/>
+  <mention label="Steelers" length="8" position="3921"/>
+  <mention label="Mike Shanahan" length="13" position="4973"/>
+  <mention label="Oakland" length="7" position="2918"/>
+  <mention label="Kansas City" length="11" position="4463"/>
+  <mention label="California" length="10" position="2927"/>
+  <mention label="Mason Crosby" length="12" position="1386"/>
+  <mention label="Danny Amendola" length="14" position="3430"/>
+  <mention label="San Francisco" length="13" position="1889"/>
+  <mention label="Jackson" length="7" position="119"/>
+  <mention label="Naufahu Tahi" length="12" position="637"/>
+  <mention label="Calvin Johnson" length="14" position="4731"/>
+  <mention label="Jason Campbell" length="14" position="2939"/>
+  <mention label="NFL" length="3" position="1910"/>
+  <mention label="Tampa Bay" length="9" position="2673"/>
+  <mention label="Tarvaris Jackson" length="16" position="110"/>
+  <mention label="Favre" length="5" position="132"/>
+  <mention label="Dolphins" length="8" position="3724"/>
+  <mention label="Johnson" length="7" position="4738"/>
+  <mention label="San Diego" length="9" position="2190"/>
+  <mention label="Miami Dolphins" length="14" position="3718"/>
+  <mention label="Rex Grossman" length="12" position="4996"/>
+  <mention label="Buffalo" length="7" position="4488"/>
+  <mention label="Philip Rivers" length="13" position="2201"/>
+  <mention label="BenJarvus Green-Ellis" length="21" position="399"/>
+  <mention label="London" length="6" position="1946"/>
+  <mention label="Green Bay" length="9" position="1428"/>
+  <mention label="Donovan McNabb" length="14" position="5038"/>
+  <mention label="New England" length="11" position="173"/>
+  <mention label="Daniel Fells" length="12" position="3499"/>
+  <mention label="Percy Harvin" length="12" position="678"/>
+  <mention label="Oakland" length="7" position="2996"/>
+  <mention label="England" length="7" position="177"/>
+  <mention label="New England Patriots" length="20" position="173"/>
+  <mention label="Steelers" length="8" position="949"/>
+  <mention label="Jaguars" length="7" position="4025"/>
+  <mention label="Cowboys" length="7" position="4037"/>
+  <mention label="Buccaneers" length="10" position="2511"/>
+  <mention label="Minnesota Vikings" length="17" position="214"/>
+  <mention label="New Orleans" length="11" position="963"/>
+  <mention label="Jaguars" length="7" position="4298"/>
+  <mention label="Panthers" length="8" position="3269"/>
+  <mention label="Brees" length="5" position="981"/>
+  <mention label="Marques Colston" length="15" position="1246"/>
+  <mention label="Chicago" length="7" position="1750"/>
+  <mention label="Favre" length="5" position="468"/>
+  <mention label="Sam Bradford" length="12" position="3294"/>
+  <mention label="Cardinals" length="9" position="2526"/>
+  <mention label="Texas" length="5" position="4061"/>
+  <mention label="St. Louis" length="9" position="3283"/>
+  <mention label="Drew Brees" length="10" position="976"/>
+  <mention label="Arlington" length="9" position="4050"/>
+  <mention label="Antonio Gates" length="13" position="2259"/>
+  <mention label="Minnesota" length="9" position="214"/>
+  <mention label="Glendale" length="8" position="2541"/>
+  <mention label="Ndamukong Suh" length="13" position="5092"/>
+  <mention label="David Garrard" length="13" position="4068"/>
+  <mention label="Bradford" length="8" position="3298"/>
+  <mention label="Mark Sanchez" length="12" position="1510"/>
+  <mention label="Dallas" length="6" position="4330"/>
+  <mention label="Garrard" length="7" position="4074"/>
+  <mention label="Arizona" length="7" position="2551"/>
+  <mention label="Michael Crabtree" length="16" position="2021"/>
+  <mention label="Jaguars" length="7" position="4090"/>
+</item>

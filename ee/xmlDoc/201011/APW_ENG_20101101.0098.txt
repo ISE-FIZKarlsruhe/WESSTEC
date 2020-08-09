@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Report of odor diverts NY-Cuba flight to BaltimoreA Vision Airlines flight from New York City to Havana, Cuba, carrying 154 passengers has been diverted to Baltimore Washington International Airport after a report of odor in the cabin.Airline spokesman Bryan Glazer says Flight RBY-6401 out of John F. Kennedy International Airport made a precautionary landing at the Baltimore airport. The flight landed about 5:20 p.m. local time Sunday. No one was hurt.Glazer says the aircraft was inspected and allowed to depart for its destination. According to Flightstats.com tracker, the flight was headed to Havana.The small airline attracted attention in July when one of its jets was chartered to transport a group of Russian sleeper agents to Vienna as part of the largest spy swap since the Cold War.</text>
+  <mention label="Baltimore" length="9" position="41"/>
+  <mention label="John F. Kennedy International Airport" length="37" position="294"/>
+  <mention label="Vienna" length="6" position="739"/>
+  <mention label="Glazer" length="6" position="259"/>
+  <mention label="Havana" length="6" position="97"/>
+  <mention label="Russian" length="7" position="713"/>
+  <mention label="Bryan Glazer" length="12" position="253"/>
+  <mention label="Baltimore" length="9" position="156"/>
+  <mention label="Baltimore Washington International Airport" length="42" position="156"/>
+  <mention label="Vision Airlines" length="15" position="52"/>
+  <mention label="Cold War" length="8" position="788"/>
+  <mention label="New York City" length="13" position="80"/>
+  <mention label="Cuba" length="4" position="26"/>
+  <mention label="Havana" length="6" position="601"/>
+</item>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Dozens of NATO oil tankers attacked in PakistanSuspected militants in southern Pakistan set ablaze at least 27 tankers carrying fuel for U.S. and NATO troops in Afghanistan on Friday, police said.The attack followed the Pakistani government's decision to shut a vital border crossing in apparent protest of a NATO incursion that killed three of its soldiers, and further underscored the risks posed to Western forces who rely heavily on land routes in Pakistan to supply their troops.The tankers likely were headed to a second crossing that has remained open, and it was not immediately clear if they had been rerouted because of the closure.The trucks were attacked shortly after midnight by some 10 gunmen, said Abdul Hamid Khoso, a senior police official.The vehicles were parked at a terminal on the edge of Shikarpur town in Sindh province when the attackers opened fire, forcing drivers and others to flee, before setting the fires. No one is believed to have been wounded or killed. The trucks were still alight several hours after the attack.Nisar Ahmed, a police official from Shukarpur, told The Associated Press that the tankers had arrived in Shikarpur from the southern port city of Karachi and were heading to Quetta, a major city in the southwest. From there, they likely would have used the Chaman border crossing.Chaman remains open, unlike the Torkham border crossing, which Pakistan ordered closed to NATO trucks on Thursday.Chaman has seen fewer attacks than Torkham, but the shutting of one point of entry to Afghanistan creates a bottleneck militants can easily exploit.Militants and ordinary criminals frequently attack NATO supply trucks as they travel across Pakistan to landlocked Afghanistan. U.S. and NATO move the vast majority of their non-lethal supplies through Pakistan, but have long insisted the attacks have had relatively little impact.Recent alleged NATO helicopter intrusions on Pakistani soil have raised tensions, however. On Thursday, Pakistan said two NATO choppers fired on one of its border posts in the northwest's Kurram tribal region, killing three Pakistani soldiers.It closed the Torkham border crossing, which connects Afghanistan to Pakistan's Khyber tribal region, soon after news of the attack emerged.NATO said its helicopters entered Pakistani airspace and hit a target only after receiving ground fire. The alliance expressed condolences to the families of the soldiers and said both nations would investigate the incident.</text>
+  <mention label="Torkham" length="7" position="1479"/>
+  <mention label="NATO" length="4" position="1729"/>
+  <mention label="Pakistan" length="8" position="79"/>
+  <mention label="NATO" length="4" position="1420"/>
+  <mention label="Pakistan" length="8" position="1794"/>
+  <mention label="Shikarpur" length="9" position="1155"/>
+  <mention label="Kurram" length="6" position="2061"/>
+  <mention label="Pakistan" length="8" position="452"/>
+  <mention label="U.S." length="4" position="137"/>
+  <mention label="NATO" length="4" position="10"/>
+  <mention label="Quetta" length="6" position="1224"/>
+  <mention label="NATO" length="4" position="1995"/>
+  <mention label="Nisar Ahmed" length="11" position="1050"/>
+  <mention label="NATO" length="4" position="2256"/>
+  <mention label="Pakistan" length="8" position="220"/>
+  <mention label="Pakistani" length="9" position="220"/>
+  <mention label="Torkham" length="7" position="1362"/>
+  <mention label="Torkham" length="7" position="2130"/>
+  <mention label="Western" length="7" position="402"/>
+  <mention label="NATO" length="4" position="146"/>
+  <mention label="The Associated Press" length="20" position="1102"/>
+  <mention label="Pakistan" length="8" position="1684"/>
+  <mention label="Chaman" length="6" position="1307"/>
+  <mention label="Afghanistan" length="11" position="1707"/>
+  <mention label="NATO" length="4" position="1888"/>
+  <mention label="Shikarpur" length="9" position="812"/>
+  <mention label="Afghanistan" length="11" position="161"/>
+  <mention label="Karachi" length="7" position="1196"/>
+  <mention label="NATO" length="4" position="1643"/>
+  <mention label="Pakistan" length="8" position="39"/>
+  <mention label="Afghanistan" length="11" position="1530"/>
+  <mention label="Afghanistan" length="11" position="2170"/>
+  <mention label="NATO" length="4" position="309"/>
+  <mention label="Chaman" length="6" position="1330"/>
+  <mention label="Pakistan" length="8" position="1918"/>
+  <mention label="Pakistani" length="9" position="1918"/>
+  <mention label="Pakistani" length="9" position="2097"/>
+  <mention label="Pakistan" length="8" position="1393"/>
+  <mention label="Pakistani" length="9" position="2290"/>
+  <mention label="Sindh" length="5" position="830"/>
+  <mention label="U.S." length="4" position="1720"/>
+</item>

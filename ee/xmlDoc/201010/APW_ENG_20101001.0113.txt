@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Asian stocks rise as China manufacturing jumpsAsian stock markets rose Friday as stronger growth in China's manufacturing suggested the world's No. 2 economy isn't slowing as sharply as feared.Wall Street, meanwhile, chalked up its best September in 71 years even after key indexes ended the month on a weak note as investors locked in profits from a multi-week rally. Oil prices extended gains to rise above $80 a barrel.Providing a lift to sentiment was news that growth in China's manufacturing industries gathered pace in September, easing fears of a significant slowdown in the world's No. 2 economy. Japan added to the optimism by reporting a fall in unemployment.Economic indicators from the U.S. were also brighter: Chicago area manufacturing jumped in September, first-time claims for unemployment benefits fell more than expected last week, and second-quarter economic growth was revised slightly higher.Japan's benchmark Nikkei 225 stock average climbed 83.79 points, or 0.9 percent, to 9,453.14.The index held firm after the government said Japan's jobless rate improved in August, falling to 5.1 percent from 5.2 percent in July and marking the second straight month of decline.South Korea's Kospi added 0.4 percent to 1,880.97. Australia's S&amp;P/ASX 200 was up 0.2 percent at 4,590.00.Elsewhere, markets in Malaysia, New Zealand, Singapore and Taiwan all advanced.Stocks markets in Hong Kong and China were closed for public holidays. Mainland Chinese markets will reopen on Oct. 8.In New York on Thursday, the Dow Jones industrial average fell 47.23 points, or 0.4 percent, to 10,788.05 as investors locked in profits.In currencies, the dollar fell to 83.49 yen from 83.51 yen late Thursday in New York. The euro rose to $1.3659 from $1.3654.Benchmark oil for November delivery rose 35 cents to $80.32 a barrel in electronic trading on the New York Mercantile Exchange. The contract rose $2.11 to settle at $79.97 a barrel on Thursday as improved U.S. economic indicators hinted at stronger demand for fuel.</text>
+  <mention label="Asian" length="5" position="0"/>
+  <mention label="China" length="5" position="1408"/>
+  <mention label="Taiwan" length="6" position="1356"/>
+  <mention label="China" length="5" position="21"/>
+  <mention label="New York" length="8" position="1497"/>
+  <mention label="Chicago" length="7" position="724"/>
+  <mention label="Australia" length="9" position="1242"/>
+  <mention label="Japan" length="5" position="914"/>
+  <mention label="Japan" length="5" position="1053"/>
+  <mention label="China" length="5" position="476"/>
+  <mention label="Japan" length="5" position="606"/>
+  <mention label="New York Mercantile Exchange" length="28" position="1853"/>
+  <mention label="China" length="5" position="100"/>
+  <mention label="Nikkei" length="6" position="932"/>
+  <mention label="New York" length="8" position="1707"/>
+  <mention label="ASX" length="3" position="1258"/>
+  <mention label="Asian" length="5" position="46"/>
+  <mention label="South Korea" length="11" position="1191"/>
+  <mention label="U.S." length="4" position="1960"/>
+  <mention label="Malaysia" length="8" position="1319"/>
+  <mention label="Kospi" length="5" position="1205"/>
+  <mention label="Singapore" length="9" position="1342"/>
+  <mention label="Chinese" length="7" position="1456"/>
+  <mention label="New Zealand" length="11" position="1329"/>
+  <mention label="Dow Jones" length="9" position="1523"/>
+  <mention label="Hong Kong" length="9" position="1394"/>
+  <mention label="U.S." length="4" position="699"/>
+</item>

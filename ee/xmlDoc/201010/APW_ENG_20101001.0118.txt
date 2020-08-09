@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>1st test: Australia wins toss, bats first vs IndiaAustralia captain Ricky Ponting has won the toss and elected to bat first in the series-opening cricket test against India.Spinner Nathan Hauritz returned from injury to replace Steve Smith in the one expected change to the Australian starting lineup on Friday.Harbhajan Singh recovered from injury to hold his spot in the lineup for top-ranked India.Lineups:India: M.S. Dhoni (captain), Virender Sehwag, Gautam Gambhir, Rahul Dravid, Sachin Tendulkar, VVS Laxman, Suresh Raina, Harbhajan Singh, Pragyan Ojha, Zaheer Khan, Ishant Sharma.Australia: Ricky Ponting (captain), Shane Watson, Simon Katich, Michael Clarke, Mike Hussey, Marcus North, Tim Paine, Nathan Hauritz, Mitchell Johnson, Ben Hilfenhaus, Doug Bollinger.</text>
+  <mention label="Mitchell Johnson" length="16" position="721"/>
+  <mention label="Australia" length="9" position="10"/>
+  <mention label="Michael Clarke" length="14" position="651"/>
+  <mention label="Ricky Ponting" length="13" position="68"/>
+  <mention label="Gautam Gambhir" length="14" position="455"/>
+  <mention label="India" length="5" position="395"/>
+  <mention label="Suresh Raina" length="12" position="515"/>
+  <mention label="Nathan Hauritz" length="14" position="705"/>
+  <mention label="Mike Hussey" length="11" position="667"/>
+  <mention label="Australian" length="10" position="274"/>
+  <mention label="Ricky Ponting" length="13" position="598"/>
+  <mention label="Rahul Dravid" length="12" position="471"/>
+  <mention label="Australia" length="9" position="274"/>
+  <mention label="India" length="5" position="409"/>
+  <mention label="Harbhajan Singh" length="15" position="529"/>
+  <mention label="India" length="5" position="167"/>
+  <mention label="Shane Watson" length="12" position="623"/>
+  <mention label="Marcus North" length="12" position="680"/>
+  <mention label="India" length="5" position="45"/>
+  <mention label="M.S. Dhoni" length="10" position="416"/>
+  <mention label="Ben Hilfenhaus" length="14" position="739"/>
+  <mention label="Pragyan Ojha" length="12" position="546"/>
+  <mention label="Steve Smith" length="11" position="228"/>
+  <mention label="Ishant Sharma" length="13" position="573"/>
+  <mention label="Simon Katich" length="12" position="637"/>
+  <mention label="Sachin Tendulkar" length="16" position="485"/>
+  <mention label="Harbhajan Singh" length="15" position="311"/>
+  <mention label="Virender Sehwag" length="15" position="438"/>
+  <mention label="Zaheer Khan" length="11" position="560"/>
+  <mention label="Nathan Hauritz" length="14" position="181"/>
+  <mention label="Australia" length="9" position="50"/>
+  <mention label="VVS Laxman" length="10" position="503"/>
+  <mention label="Doug Bollinger" length="14" position="755"/>
+  <mention label="Tim Paine" length="9" position="694"/>
+</item>

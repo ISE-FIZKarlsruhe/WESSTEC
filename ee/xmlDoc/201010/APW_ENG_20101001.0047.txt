@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Carter lands in Washington after hospital stayFormer President Jimmy Carter landed in Washington on Thursday after spending two nights in an Ohio hospital, where doctors said a viral infection likely gave him stomach problems.Carter, wearing a dark blazer, landed in a small private jet at Reagan National Airport. He walked down the steps from the plane onto the runway and stepped into an SUV that immediately drove away. An airport police car escorted his SUV and two others from the airport.Doctors advised Carter, who turns 86 on Friday, to remain at MetroHealth Medical Center after he was rushed from an airplane to the emergency room Tuesday morning with an upset stomach.He headed to the U.S. capital after hospital officials said the viral infection had cleared up. Carter was in Washington for a long-planned, private meeting, spokeswoman Deanna Congileo said.Carter became ill during a flight from Atlanta to Cleveland, causing rescue crews to rush him to the hospital after the plane landed. His medical team recommended that he stay a second night for additional monitoring, hospital spokeswoman Susan Christopher said.The hospital stay has interrupted Carter's tour to promote his new book, "White House Diary." Carter canceled book signings in Ohio, North Carolina, South Carolina and Washington.Carter, a former peanut farmer elected to the White House in 1976, has worked in recent years as an advocate for peace and human rights, efforts that won him the Nobel Peace Prize in 2002.In the new book, Carter said he pursued an overly aggressive agenda as president that may have confused voters and alienated lawmakers. But he said the tipping points that cost him the 1980 election were the Iran hostage crisis and the Democratic primary challenge by U.S. Sen. Ted Kennedy.</text>
+  <mention label="Democratic" length="10" position="1736"/>
+  <mention label="Carter" length="6" position="69"/>
+  <mention label="Carter" length="6" position="0"/>
+  <mention label="Carter" length="6" position="1167"/>
+  <mention label="Atlanta" length="7" position="910"/>
+  <mention label="Ohio" length="4" position="141"/>
+  <mention label="South Carolina" length="14" position="1282"/>
+  <mention label="Carter" length="6" position="1227"/>
+  <mention label="Carter" length="6" position="776"/>
+  <mention label="Cleveland" length="9" position="921"/>
+  <mention label="Nobel Peace Prize" length="17" position="1474"/>
+  <mention label="Washington" length="10" position="16"/>
+  <mention label="Washington" length="10" position="86"/>
+  <mention label="Washington" length="10" position="790"/>
+  <mention label="Washington" length="10" position="1301"/>
+  <mention label="Carter" length="6" position="871"/>
+  <mention label="Carter" length="6" position="226"/>
+  <mention label="Carter" length="6" position="1312"/>
+  <mention label="Iran" length="4" position="1708"/>
+  <mention label="Ohio" length="4" position="1260"/>
+  <mention label="U.S." length="4" position="1768"/>
+  <mention label="Jimmy Carter" length="12" position="63"/>
+  <mention label="MetroHealth Medical Center" length="26" position="556"/>
+  <mention label="Ted Kennedy" length="11" position="1778"/>
+  <mention label="Carter" length="6" position="511"/>
+  <mention label="North Carolina" length="14" position="1266"/>
+  <mention label="White House" length="11" position="1207"/>
+  <mention label="U.S." length="4" position="697"/>
+</item>

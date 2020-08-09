@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Emirates airline 1st-half profit soars to $925MEmirates, the Mideast's biggest airline, more than quadrupled its fiscal first-half profit to $925 million as it packed more passengers and cargo into fuller planes.The Dubai state-run carrier, an increasingly potent player in long-haul international travel, said Monday the gains reflect a "positive shift" in an airline industry that has struggled with weak demand amid the economic downturn.Emirates said it carried 15.5 million passengers in the six months through September. While some of the growth came as the fast-growing airline added planes and routes, Emirates also filled more seats, averaging occupancy of 81.2 percent -- a first-half record.Its chairman and CEO, Sheik Ahmed bin Saeed Al Maktoum, called the results "incredibly robust." He said Emirates is committed to growing further and has the resources to do so."Our healthy financial position enables us to successfully meet all of our financial commitments and raise financing for future aircraft deliveries," Sheik Ahmed said in a statement. "Our strong position today is reflective of our ability to adapt, returning us to a vigorous period of growth."Emirates posted a 19.4 percent jump in passenger traffic during the first half, based on the standard industry metric of revenue passenger kilometers flown.The carrier ranks as the world's busiest hauler of international passengers according to that measure, just ahead of German carrier Lufthansa.Emirates continued to incorporate new planes into its fleet, taking delivery of five double-decker Airbus A380s and one Boeing 777 during the half, increasing capacity by 13.9 percent.More planes are on the way. Emirates expects to receive two more by the end of March, and added 62 additional aircraft to its already weighty order book in the first part of this year. It operates more 777s than any other airline, and has the world's largest order -- a whopping 90 planes -- for the A380.Cargo operations also increased during the first half, jumping 23.7 percent to 897,000 metric tonnes (989,000 tons).Emirates earned $205 million in the first half of last year.The carrier benefits from Dubai's location as a hub between Europe, Africa and Asia. Its critics accuse it of receiving unfair subsidies from the government -- charges its management repeatedly deny.The airline did not make executives available for interview Monday.Its earnings were released just days after a parcel bomb shipped from Yemen and bound for the U.S. was discovered at Dubai's main airport, Emirates' home base. That package, part of a FedEx shipment, arrived in Dubai after traveling on two passenger planes operated by its Gulf rival Qatar Airways.</text>
+  <mention label="Asia" length="4" position="2214"/>
+  <mention label="Yemen" length="5" position="2471"/>
+  <mention label="German" length="6" position="1445"/>
+  <mention label="Boeing" length="6" position="1590"/>
+  <mention label="Qatar Airways" length="13" position="2685"/>
+  <mention label="Dubai" length="5" position="2612"/>
+  <mention label="Dubai" length="5" position="2518"/>
+  <mention label="Dubai" length="5" position="2161"/>
+  <mention label="Europe" length="6" position="2195"/>
+  <mention label="Mideast" length="7" position="61"/>
+  <mention label="U.S." length="4" position="2495"/>
+  <mention label="Lufthansa" length="9" position="1460"/>
+  <mention label="Africa" length="6" position="2203"/>
+  <mention label="Dubai" length="5" position="216"/>
+</item>

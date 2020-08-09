@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Hamas leader: Arafat urged attacks on IsraelIt has been 10 years since Palestinians began an uprising that swept away peace talks, triggered a ferocious reaction by the Jewish state and left thousands dead on both sides.Exactly why it happened just as Palestinian statehood seemed attainable is a mystery, fed by conspiracy theories and competing narratives from across the political spectrum.This week comes an intriguing twist: One of the leading figures in Hamas seems to confirm that Yasser Arafat was playing a double game -- encouraging Islamic militants to attack inside Israel while publicly insisting he was trying to stop the violence.Some suggest Hamas strongman Mahmoud Zahar may be exaggerating, but his comments could help shape the legacy of the Palestinian leader. To many in Israel and elsewhere, the late Arafat remains an arch-terrorist who fooled the world into considering him a peacemaker. Others lionize him as an iconic -- if flawed -- visionary who dedicated his life to forging demoralized Palestinians into a determined, proud nation.As head of the Palestine Liberation Organization, Arafat struck a historic deal with Israeli Premier Yitzhak Rabin and then-Foreign Minister Shimon Peres in 1993, under which the Palestinians received autonomous control over parts of the West Bank and Gaza, territories Israel captured in the 1967 war. The three shared the Nobel Peace Prize in 1994.The so-called Oslo accords were an interim arrangement, and seven years later another Israeli leader, Ehud Barak, was offering Arafat statehood on the majority of the two territories. But Barak's proposed borders -- and especially his formula for sharing Jerusalem and refusal to allow Palestinian refugees to return to Israel -- fell short of Palestinian expectations.Now, Zahar has been quoted by Hamas-affiliated newspapers as telling Gaza City students that when Arafat realized negotiations were failing, he "recommended to Hamas to carry out a number of military operations in the heart of the Hebrew state."A student leader confirmed the reports of the closed-door session published Thursday in the Al Risala and Felesteen newspapers.Zahar could not be reached for comment by The Associated Press, but he appeared to publicly confirm the statement in an interview with a Hamas TV station broadcast Thursday.Arafat "realized that negotiations without claws will produce nothing," Zahar said. "Arafat sensed the importance of resistance on the negotiation table, and that it's one of the tools to face occupation. Therefore, he worked to use it to his advantage."Other Hamas leaders refused to discuss the statements on the record, and several privately expressed displeasure but did not deny them.It was not clear when Arafat's supposed urgings took place. But Zahar's statements to the students were made Tuesday -- the 10th anniversary of the Sept. 28, 2000, eruption of violence that became known as the second intifada. The first intifada broke out in December 1987, when the West Bank and Gaza were under full military occupation.On the surface, this second uprising grew out of Palestinian protests against a visit to a contested Jerusalem shrine by Israeli nationalist Ariel Sharon. Known to Muslims as Haram as-Sharif and to Jews as the Temple Mount, the hilltop compound is a flash point in the Israeli-Palestinian conflict. Home to the Al Aqsa Mosque and gold-capped Dome of the Rock, it is Islam's third holiest shrine. Jews revere it as the location of the two biblical Jewish temples, making it Judaism's holiest site.According to this version, it was Israel's deadly overreaction to those protests -- six Palestinians were killed on the first day along with an Israeli officer -- that led to a spiral of violence neither Arafat nor Barak, who lost elections to Sharon a few months later, could tame.Like many Israelis, Sharon's longtime spokesman Raanan Gissin believes the Palestinians used the Sharon visit as a pretext to launch a revolt and said Israeli intelligence at the time confirmed Zahar's statement."What Zahar said is true," Gissin told The Associated Press.Israeli "intelligence knew that Arafat wanted to initiate violence because talks failed over Jerusalem," he said. "Everything was in place for Arafat (and even) if Sharon wouldn't have gone there, something else would have triggered it."Veteran Arafat aide and peace negotiator Nabil Shaath rejected Zahar's assertions."Arafat refused to surrender to the Israeli and American positions, but only supported nonviolent resistance," he said. "I witnessed many instances in which he tried to stop military confrontations."Others say reality was not clear-cut, and use careful, oblique terms.In a 2007 memoir, Arafat aide Marwan Kanafani wrote: "After the start of the intifada, (Arafat) provided assistance for all the organizations that participated in the uprising, including Hamas."Within days of the start of fighting, Arafat's Fatah formed a violent offshoot, the Al Aqsa Martyrs' Brigades, whose gunmen carried out scores of shooting attacks on Israelis, mainly in the West Bank. Militants later said they were indirectly bankrolled by Arafat, but did not receive orders from him.Hamas, Arafat's main political rival, launched the first of what would be scores of intifada suicide bombings on the first day of 2001.Arafat and his aides usually distanced themselves from attacks in public, occasionally issuing condemnations which were received with increasing skepticism by Israelis.Some suspect Zahar may be exaggerating, perhaps trying to suggest there was consensus about a strategy that many Palestinians now believe to have backfired."From what I knew of Yasser Arafat, he was basically a terrorist, but he was careful not to give direct orders, because he knew we were on his tail," said Uzi Dayan, a former general and national security adviser to two Israeli premiers during the uprising.Avi Issacharov, an Israeli journalist who co-authored a book about the uprising, went further: "Arafat wasn't in favor of suicide attacks. He didn't demand, he didn't order, he didn't recommend" them.Either way, by the end of 2006, more than 4,200 Palestinians and more than 1,100 Israelis, most victims of suicide attacks, were dead.The intifada waned after Arafat's death in November 2004, and the election of Mahmoud Abbas, an outspoken opponent of violence, as his successor.------Perry reported from Tel Aviv. Associated Press writers Ibrahim Barzak in Gaza City, Diaa Hadid and Ian Deitch in Jerusalem, and Mohammed Daraghmeh in Ramallah contributed to this report.</text>
+  <mention label="Israeli" length="7" position="4102"/>
+  <mention label="Arafat" length="6" position="1538"/>
+  <mention label="Hamas" length="5" position="0"/>
+  <mention label="Israeli" length="7" position="3840"/>
+  <mention label="Palestinians" length="12" position="6148"/>
+  <mention label="Arafat" length="6" position="14"/>
+  <mention label="Israelis" length="8" position="3840"/>
+  <mention label="Hamas" length="5" position="4876"/>
+  <mention label="Sharon" length="6" position="3850"/>
+  <mention label="Tel Aviv" length="8" position="6405"/>
+  <mention label="Nabil Shaath" length="12" position="4380"/>
+  <mention label="Arafat" length="6" position="5140"/>
+  <mention label="Arafat" length="6" position="2325"/>
+  <mention label="Hamas" length="5" position="1810"/>
+  <mention label="Islamic" length="7" position="543"/>
+  <mention label="West Bank" length="9" position="1299"/>
+  <mention label="Hamas" length="5" position="2585"/>
+  <mention label="Israel" length="6" position="792"/>
+  <mention label="Associated Press" length="16" position="6415"/>
+  <mention label="Arafat" length="6" position="4134"/>
+  <mention label="Israel" length="6" position="38"/>
+  <mention label="Arafat" length="6" position="5671"/>
+  <mention label="Gaza" length="4" position="1313"/>
+  <mention label="Raanan Gissin" length="13" position="3878"/>
+  <mention label="Gissin" length="6" position="3885"/>
+  <mention label="Al Aqsa Mosque" length="14" position="3363"/>
+  <mention label="Yasser Arafat" length="13" position="5664"/>
+  <mention label="Israelis" length="8" position="6181"/>
+  <mention label="Gaza City" length="9" position="1849"/>
+  <mention label="Arafat" length="6" position="823"/>
+  <mention label="Gaza City" length="9" position="6458"/>
+  <mention label="Israel" length="6" position="1331"/>
+  <mention label="Zahar" length="5" position="4402"/>
+  <mention label="Palestinians" length="12" position="3636"/>
+  <mention label="Barak" length="5" position="1599"/>
+  <mention label="Gaza" length="4" position="1849"/>
+  <mention label="Arafat" length="6" position="4921"/>
+  <mention label="Arafat" length="6" position="4422"/>
+  <mention label="Arafat" length="6" position="5191"/>
+  <mention label="Israel" length="6" position="578"/>
+  <mention label="Fatah" length="5" position="4930"/>
+  <mention label="Palestinians" length="12" position="71"/>
+  <mention label="Palestinian" length="11" position="71"/>
+  <mention label="Palestinians" length="12" position="3905"/>
+  <mention label="Arafat" length="6" position="1878"/>
+  <mention label="Sharon" length="6" position="3927"/>
+  <mention label="Arafat" length="6" position="1111"/>
+  <mention label="Zahar" length="5" position="2397"/>
+  <mention label="Jerusalem" length="9" position="3153"/>
+  <mention label="Israeli" length="7" position="3173"/>
+  <mention label="Arafat" length="6" position="4707"/>
+  <mention label="Jerusalem" length="9" position="4195"/>
+  <mention label="Israeli" length="7" position="3692"/>
+  <mention label="Jerusalem" length="9" position="6498"/>
+  <mention label="Arafat" length="6" position="2410"/>
+  <mention label="Zahar" length="5" position="2152"/>
+  <mention label="Israeli" length="7" position="4457"/>
+  <mention label="Israelis" length="8" position="5478"/>
+  <mention label="Ariel Sharon" length="12" position="3193"/>
+  <mention label="Nobel Peace Prize" length="17" position="1385"/>
+  <mention label="Sharon" length="6" position="3199"/>
+  <mention label="Jews" length="4" position="3448"/>
+  <mention label="Israel" length="6" position="1146"/>
+  <mention label="American" length="8" position="4469"/>
+  <mention label="Israeli" length="7" position="1146"/>
+  <mention label="Associated Press" length="16" position="2198"/>
+  <mention label="Yitzhak Rabin" length="13" position="1162"/>
+  <mention label="Israeli" length="7" position="3981"/>
+  <mention label="Jerusalem" length="9" position="1666"/>
+  <mention label="Ramallah" length="8" position="6535"/>
+  <mention label="Hamas" length="5" position="1940"/>
+  <mention label="Arafat" length="6" position="4245"/>
+  <mention label="Oslo" length="4" position="1425"/>
+  <mention label="Hamas" length="5" position="658"/>
+  <mention label="Muslims" length="7" position="3216"/>
+  <mention label="Mahmoud Abbas" length="13" position="6312"/>
+  <mention label="Jewish" length="6" position="3499"/>
+  <mention label="Arafat" length="6" position="3752"/>
+  <mention label="Jewish" length="6" position="169"/>
+  <mention label="Zahar" length="5" position="682"/>
+  <mention label="Mahmoud Zahar" length="13" position="674"/>
+  <mention label="Uzi Dayan" length="9" position="5798"/>
+  <mention label="Arafat" length="6" position="4777"/>
+  <mention label="Israelis" length="8" position="5049"/>
+  <mention label="Temple Mount" length="12" position="3262"/>
+  <mention label="Jews" length="4" position="3250"/>
+  <mention label="Arafat" length="6" position="2736"/>
+  <mention label="West Bank" length="9" position="2997"/>
+  <mention label="Zahar" length="5" position="4024"/>
+  <mention label="Shimon Peres" length="12" position="1202"/>
+  <mention label="Arafat" length="6" position="5319"/>
+  <mention label="Hamas" length="5" position="460"/>
+  <mention label="Palestinian" length="11" position="1240"/>
+  <mention label="Palestinians" length="12" position="1240"/>
+  <mention label="Zahar" length="5" position="4048"/>
+  <mention label="Sharon" length="6" position="3792"/>
+  <mention label="West Bank" length="9" position="5073"/>
+  <mention label="Hebrew" length="6" position="2011"/>
+  <mention label="Israeli" length="7" position="1497"/>
+  <mention label="Zahar" length="5" position="2778"/>
+  <mention label="Israel" length="6" position="1497"/>
+  <mention label="Ehud Barak" length="10" position="1513"/>
+  <mention label="Associated Press" length="16" position="4085"/>
+  <mention label="Yasser Arafat" length="13" position="488"/>
+  <mention label="Arafat" length="6" position="495"/>
+  <mention label="Barak" length="5" position="1518"/>
+  <mention label="Palestinians" length="12" position="5600"/>
+  <mention label="Palestinian" length="11" position="761"/>
+  <mention label="Palestinian" length="11" position="1016"/>
+  <mention label="Hamas" length="5" position="2289"/>
+  <mention label="Perry" length="5" position="6385"/>
+  <mention label="Palestinians" length="12" position="1016"/>
+  <mention label="Palestinian" length="11" position="252"/>
+  <mention label="Zahar" length="5" position="1785"/>
+  <mention label="Arafat" length="6" position="4347"/>
+  <mention label="Israeli" length="7" position="3321"/>
+</item>

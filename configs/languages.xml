@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<WikipediaLanguageList>
+
+
+	<Language code="en" name="English" localName="English">
+
+		<RootCategory>Fundamental categories</RootCategory>
+
+		<DisambiguationCategory>Disambiguation</DisambiguationCategory>
+
+		<DisambiguationTemplate>disambiguation</DisambiguationTemplate>
+		<DisambiguationTemplate>disambig</DisambiguationTemplate>
+		<DisambiguationTemplate>geodis</DisambiguationTemplate>
+		<DisambiguationTemplate>hndis</DisambiguationTemplate>
+		<DisambiguationTemplate>hospitaldis</DisambiguationTemplate>
+		<DisambiguationTemplate>mathdab</DisambiguationTemplate>
+		<DisambiguationTemplate>mountianindex</DisambiguationTemplate>
+		<DisambiguationTemplate>numberdis</DisambiguationTemplate>
+		<DisambiguationTemplate>roaddis</DisambiguationTemplate>
+		<DisambiguationTemplate>schooldis</DisambiguationTemplate>
+		<DisambiguationTemplate>shipindex</DisambiguationTemplate>
+		<DisambiguationTemplate>SIA</DisambiguationTemplate>
+
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+	</Language>
+
+	<Language code="zh" name="Chinese" localName="中文">
+
+		<RootCategory>總類</RootCategory>
+
+		<DisambiguationCategory>消歧义</DisambiguationCategory>
+
+		<DisambiguationTemplate>消歧义</DisambiguationTemplate>
+		<DisambiguationTemplate>分歧页</DisambiguationTemplate>
+		<DisambiguationTemplate>分歧义</DisambiguationTemplate>
+		<DisambiguationTemplate>分歧</DisambiguationTemplate>
+		<DisambiguationTemplate>disambiguation</DisambiguationTemplate>
+		<DisambiguationTemplate>disambig</DisambiguationTemplate>
+
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+		<RedirectIdentifier>重定向</RedirectIdentifier>
+
+	</Language>
+
+	<Language code="simple" name="Simple English" localName="Simple English">
+
+		<RootCategory>articles</RootCategory>
+
+		<DisambiguationCategory>disambiguation</DisambiguationCategory>
+
+		<DisambiguationTemplate>disambiguation</DisambiguationTemplate>
+		<DisambiguationTemplate>disambig</DisambiguationTemplate>
+		<DisambiguationTemplate>2CC</DisambiguationTemplate>
+		<DisambiguationTemplate>3CC</DisambiguationTemplate>
+		<DisambiguationTemplate>hndis</DisambiguationTemplate>
+
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+
+	</Language>
+
+	<Language code="de" name="German" localName="Deutsch">
+
+		<RootCategory>!Hauptkategorie</RootCategory>
+
+		<DisambiguationCategory>Begriffsklärung</DisambiguationCategory>
+
+		<DisambiguationTemplate>Begriffsklärung</DisambiguationTemplate>
+
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+		<RedirectIdentifier>WEITERLEITUNG</RedirectIdentifier>
+
+	</Language>
+
+	<Language code="es" name="Spanish" localName="Español">
+
+		<RootCategory>Artículos</RootCategory>
+
+		<DisambiguationCategory>Wikipedia:Desambiguación
+		</DisambiguationCategory>
+
+		<DisambiguationTemplate>desambiguación</DisambiguationTemplate>
+		<DisambiguationTemplate>des</DisambiguationTemplate>
+		<DisambiguationTemplate>desambiguacion</DisambiguationTemplate>
+		<DisambiguationTemplate>disambig</DisambiguationTemplate>
+		<DisambiguationTemplate>desambig</DisambiguationTemplate>
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+		<RedirectIdentifier>des</RedirectIdentifier>
+		<RedirectIdentifier>otros usos</RedirectIdentifier>
+		<RedirectIdentifier>redirige aquí</RedirectIdentifier>
+		<RedirectIdentifier>ico-des</RedirectIdentifier>
+
+	</Language>
+
+	<!-- <Language code="es" name="Spanish" localName="Español"> <RootCategory>Artículos</RootCategory> 
+		<DisambiguationCategory>Wikipedia:Desambiguación</DisambiguationCategory> 
+		<DisambiguationTemplate>Desambiguación</DisambiguationTemplate> <RedirectIdentifier>REDIRECT</RedirectIdentifier> 
+		<RedirectIdentifier>REDIRECCIÓN</RedirectIdentifier> </Language> <Language 
+		code="es" name="Spanish" localName="Español"> <RootCategory>Artículos</RootCategory> 
+		<DisambiguationCategory>Wikipedia:Desambiguación</DisambiguationCategory> 
+		<DisambiguationTemplate>desambiguación</DisambiguationTemplate> <DisambiguationTemplate>des</DisambiguationTemplate> 
+		<DisambiguationTemplate>desambiguacion</DisambiguationTemplate> <DisambiguationTemplate>disambig</DisambiguationTemplate> 
+		<DisambiguationTemplate>desambig</DisambiguationTemplate> <RedirectIdentifier>des</RedirectIdentifier> 
+		<RedirectIdentifier>otros usos</RedirectIdentifier> <RedirectIdentifier>redirige 
+		aquí</RedirectIdentifier> <RedirectIdentifier>ico-des</RedirectIdentifier> 
+		</Language> <Language code="es" name="Spanish" localName="Español"> <RootCategory>Índice 
+		de categorías</RootCategory> <DisambiguationCategory>desambiguación</DisambiguationCategory> 
+		<DisambiguationTemplate>desambiguación</DisambiguationTemplate> <RedirectIdentifier>REDIRECT</RedirectIdentifier> 
+		<RedirectIdentifier>REDIRECCIÓN</RedirectIdentifier> </Language> <Language 
+		code="es" name="Spanish" localName="Español"> <RootCategory>Categorías</RootCategory> 
+		<DisambiguationCategory>desambiguación</DisambiguationCategory> <DisambiguationTemplate>desambiguación</DisambiguationTemplate> 
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier> <RedirectIdentifier>REDIRECCIÓN</RedirectIdentifier> 
+		</Language> -->
+
+	<Language code="sl" name="Slovene" localName="Slovenščina">
+
+		<RootCategory>Temeljna</RootCategory>
+
+		<DisambiguationCategory>Razločitev</DisambiguationCategory>
+
+		<DisambiguationTemplate>razločitev</DisambiguationTemplate>
+
+		<RedirectIdentifier>REDIRECT</RedirectIdentifier>
+		<RedirectIdentifier>PREUSMERITEV</RedirectIdentifier>
+
+	</Language>
+
+</WikipediaLanguageList>

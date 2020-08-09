@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Trainer Bart Cummings goes for 13th Melbourne CupSo You Think, Australia's hottest horse, will be the odds-on favorite Tuesday when the country's biggest and richest race is held at Flemington.The 150th running of the 3,200-meter (2-mile) Melbourne Cup will spotlight the New Zealand-bred four-year-old, winner of five Group 1 races at this year's spring racing carnival in Melbourne.The stallion is trained by 82-year-old Bart Cummings, who was released from hospital after a respiratory infection on the weekend and is expected to take place at the track for what could be his 13th Melbourne Cup victory.The biggest question over So You Think is questions over the distance -- he's never run beyond 2,040 meters. His backers say he can run the race if given the chance with jockey Steven Arnold.So You Think's owner Dato Tan Chin Nam, a retired Malaysian industrialist, said "I am very confident he will run a big race" on Tuesday after the horse's win in Saturday's Mackinnon Stakes.Shocking, which won last year's Melbourne Cup, is second favorite Tuesday but drew barrier No. 24, considered a negative.There will be at least seven overseas entries in the 24-horse field led by French stayer Americain, which has won over 2,900 meters and twice over 3,000 meters in France this year. Trained by Alain de Royer Dupre and ridden by Gerald Mosse, Americain won the 2,400-meter Geelong Cup on Oct. 20 in his Australian debut.Tokai Trick will be the first Japanese stayer to run in the Cup since 2006. The nine-year-old finished 12th in the Caulfield Cup two weeks ago.Mr. Medici is from Hong Kong but raced in Britain and Ireland. England-based trainer Luca Cumani has two horses -- Bauer and Manighar -- while Holberg, to be ridden by veteran jockey Frankie Dettori, and Campanologist, represent the Godolphin syndicate of Dubai ruler Shiekh Mohammed al Maktoum.The race, first held at Flemington in 1861, is scheduled to start at 3 p.m. Tuesday (0400 GMT).</text>
+  <mention label="Steven Arnold" length="13" position="783"/>
+  <mention label="Melbourne Cup" length="13" position="584"/>
+  <mention label="Bart Cummings" length="13" position="8"/>
+  <mention label="Malaysian" length="9" position="847"/>
+  <mention label="Caulfield Cup" length="13" position="1540"/>
+  <mention label="Australian" length="10" position="1408"/>
+  <mention label="Britain" length="7" position="1610"/>
+  <mention label="Ireland" length="7" position="1622"/>
+  <mention label="Flemington" length="10" position="1887"/>
+  <mention label="Bauer" length="5" position="1683"/>
+  <mention label="French" length="6" position="1182"/>
+  <mention label="Frankie Dettori" length="15" position="1751"/>
+  <mention label="Medici" length="6" position="1572"/>
+  <mention label="Melbourne Cup" length="13" position="239"/>
+  <mention label="GMT" length="3" position="1953"/>
+  <mention label="Dato Tan Chin Nam" length="17" position="818"/>
+  <mention label="Dubai" length="5" position="1824"/>
+  <mention label="Melbourne" length="9" position="239"/>
+  <mention label="Japanese" length="8" position="1455"/>
+  <mention label="Holberg" length="7" position="1711"/>
+  <mention label="Geelong Cup" length="11" position="1378"/>
+  <mention label="Melbourne Cup" length="13" position="36"/>
+  <mention label="Bart Cummings" length="13" position="423"/>
+  <mention label="Melbourne" length="9" position="36"/>
+  <mention label="Cup" length="3" position="46"/>
+  <mention label="France" length="6" position="1270"/>
+  <mention label="Australia" length="9" position="63"/>
+  <mention label="Hong Kong" length="9" position="1587"/>
+  <mention label="Gerald Mosse" length="12" position="1334"/>
+  <mention label="Flemington" length="10" position="182"/>
+  <mention label="Luca Cumani" length="11" position="1653"/>
+</item>

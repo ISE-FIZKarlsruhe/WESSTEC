@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Testaments of the Heart: music from the HolocaustSome songs are slow, emotional, almost weepy symphonies. Others are driving and angry pub songs. A few are sarcastic jazz numbers.Others are shockingly upbeat -- happy almost -- as if the music lifted the composers out of the Nazi prison camps where they lived, saved them for just a moment from their horrific, torturous existence.A handful of the countless songs written by victims of the Holocaust and other World War II prisoners made their world premiere at Emory University in Atlanta on Tuesday during "Testaments of the Heart," a program to help raise money to collect and preserve more of the music produced by captives of Germany and other countries, including Japan, from 1933 to 1945.Already thousands of the songs have been collected by Italian pianist and conductor Francesco Lotoro -- who was in Atlanta to play in the concert -- in a 20-year effort to ensure the music is preserved for generations to come. And he plans to house that collection at Emory once he raises the money to transfer it to the private university's library."We as the world are the ones who have all been denied this wealth," Lotoro said through a translator. "There is a gaping hole in the musical history and culture of the world. This work has to continue to fill that hole and be the foundation for current and future musical culture."With musicians from the Atlanta area, Lotoro presented -- sometimes for the first time ever -- pieces that were scribbled in diaries, carved into wood and even written on toilet paper. The music ranges from short songs to full operas and symphonies.The group played the last piece ever written by Austrian musician and conductor Viktor Ullmann, who studied under Arnold Schoenberg and who died at Auschwitz in 1944. The haunting piano melody is set to a poem by Rainer Maria Rilke about a warrior from the 17th century.Another piece was by British pianist William Hilsley, who was prolific during his time in various German camps for British nationals and wrote sarcastically about his prison life. Before he died in 2003, he published his diary from his time in captivity as a book."Numbers, that's what we are now," goes one song by Hilsley. "Not for thieving, nor deceiving, not for cheating nor wife beating are we locked in here."Another piece called "Banner in the Sky" was written by an American prisoner of war, Gordon Sage, in the Mukden prison camp in Manchuria, a soldier who survived the death march to Bhutan. It featured a full band and chorus and has strains of the National Anthem running through it.Another song is by Emile Goue, a French composer who died in 1946 from health problems developed while he was in a German POW camp. His dark string quartet piece was accompanied by a slideshow of family photographs of Holocaust victims before they were imprisoned, images found by photographer Ann Weiss at Auschwitz in the 1980s.Weiss' photos are on exhibit at Emory until Nov. 12 with dozens of the images scattered in buildings across the campus.The music of the prisoners was preserved in many ways: passed on from person to person in camps until it was smuggled out, given to family members who were safe from the Nazis or simply found after the camps were liberated.Many of the songs were written in Theresienstadt, a Czech town used as a Nazi propaganda tool where prisoners could stage operas, concerts and cabaret shows. The camp saw many Jewish leaders and prominent artists from all over Europe. But some songs are from prisoners who had never before written music but felt the urge to create something beautiful among their horrific surroundings.Lotoro has slowly been recording all the music on a set of 24 albums whenever he can cobble together the money and the musicians. Ultimately, he hopes to record all the 4,000 pieces he's found so far and estimates there are likely only another 1,500 in existence -- which he says pales in comparison to the music lost during the war.Lotoro began collecting the music in 1991 during a trip to Prague, where he went with one bag where he could store the music but had to buy a bigger one because he had found hundreds of manuscripts and photocopies.Alfred Schneider, a Holocaust survivor at Tuesday's concert, said it's "moving" that Lotoro would spend decades collecting these songs to be preserved."I find it electrifying," said Schneider, 83, a retired Georgia Tech professor who was spared from the German death camps by the mayor of his Austrian hometown, Czernowitz, which is now part of Ukraine.Lotoro's ultimate goal has been to present the music the way the composers originally intended, which can be an odd combination of sounds. Many of the writers had few instruments available to them, so some music is written for a guitar, two flutes and a clarinet or a trombone, an alto sax and a clarinet."What you really want as a person and as an artist -- even when you are gone -- is that your dreams, your essence, your purpose, your meaning does live on. A lot of these people, their lives were taken but we have this part of them," said Honora Foah, an Atlanta artist who, along with her husband Dahlan Robert Foah, helped Lotoro put together the concert. "To have the opportunity to connect with what was essential in these people, the most beautiful part of them, and to be able to bring that back out into the world is an extraordinary privilege."--------Online:Emory University: http://www.emory.edu</text>
+  <mention label="Lotoro" length="6" position="1415"/>
+  <mention label="Austrian" length="8" position="1674"/>
+  <mention label="Austrian" length="8" position="4491"/>
+  <mention label="Emory" length="5" position="512"/>
+  <mention label="Nazi" length="4" position="3212"/>
+  <mention label="Nazis" length="5" position="3212"/>
+  <mention label="Lotoro" length="6" position="1164"/>
+  <mention label="Emory University" length="16" position="512"/>
+  <mention label="German" length="6" position="2708"/>
+  <mention label="Atlanta" length="7" position="532"/>
+  <mention label="Czernowitz" length="10" position="4510"/>
+  <mention label="Lotoro" length="6" position="3984"/>
+  <mention label="Nazi" length="4" position="275"/>
+  <mention label="Italian" length="7" position="799"/>
+  <mention label="Holocaust" length="9" position="40"/>
+  <mention label="Europe" length="6" position="3492"/>
+  <mention label="Viktor Ullmann" length="14" position="1706"/>
+  <mention label="Francesco Lotoro" length="16" position="829"/>
+  <mention label="Germany" length="7" position="681"/>
+  <mention label="German" length="6" position="681"/>
+  <mention label="Ukraine" length="7" position="4543"/>
+  <mention label="Georgia Tech" length="12" position="4405"/>
+  <mention label="Bhutan" length="6" position="2492"/>
+  <mention label="Rainer Maria Rilke" length="18" position="1839"/>
+  <mention label="Lotoro" length="6" position="4283"/>
+  <mention label="Emory University" length="16" position="5423"/>
+  <mention label="World War II" length="12" position="460"/>
+  <mention label="Lotoro" length="6" position="839"/>
+  <mention label="Lotoro" length="6" position="4551"/>
+  <mention label="French" length="6" position="2626"/>
+  <mention label="Lotoro" length="6" position="3651"/>
+  <mention label="American" length="8" position="2371"/>
+  <mention label="German" length="6" position="1994"/>
+  <mention label="Prague" length="6" position="4043"/>
+  <mention label="Weiss" length="5" position="2891"/>
+  <mention label="Japan" length="5" position="720"/>
+  <mention label="Atlanta" length="7" position="860"/>
+  <mention label="British" length="7" position="2011"/>
+  <mention label="Auschwitz" length="9" position="2900"/>
+  <mention label="Arnold Schoenberg" length="17" position="1740"/>
+  <mention label="Schneider" length="9" position="4205"/>
+  <mention label="Auschwitz" length="9" position="1774"/>
+  <mention label="Theresienstadt" length="14" position="3299"/>
+  <mention label="Emory" length="5" position="1013"/>
+  <mention label="Atlanta" length="7" position="5111"/>
+  <mention label="Czech" length="5" position="3317"/>
+  <mention label="National Anthem" length="15" position="2558"/>
+  <mention label="Mukden" length="6" position="2417"/>
+  <mention label="Jewish" length="6" position="3441"/>
+  <mention label="British" length="7" position="1917"/>
+  <mention label="Atlanta" length="7" position="1401"/>
+</item>

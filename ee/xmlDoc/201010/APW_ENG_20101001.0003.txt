@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>AP Interview: Interpol head warns of Somali threatSomalia and other African nations could soon pose more of a terrorist threat than Afghanistan, Interpol's secretary general has warned.In an exclusive interview with The Associated Press on Thursday, Ronald K. Noble said many Somali militants had received training in Afghanistan and Pakistan and were using their homeland now as a base to seed terror. Somalia has been without a functioning government for about two decades, allowing Islamic militants to flourish.Al-Shabab, an al-Qaida-linked movement which claimed responsibility for attacks in Uganda's capital that killed 76 people during the World Cup final, has been at the heart of the Islamist insurgency in Somalia."For us, we believe that 'the Afghanistan' in the next five to 10 years will be Somalia and those parts of Africa (countries in the north and west)," the New Jersey native told the AP at a security conference in Brussels.Noble's comments came as more details emerged Thursday of terror plot against Europe -- one that Pakistani officials said involved eight Germans and two British brothers and one that prompted a surge in CIA drone missile strikes against suspected al-Qaida hideouts in Pakistan. One of the Britons allegedly died in one of the strikes earlier this month.Pakistan, Britain and Germany are now tracking the suspects and intercepting their phone calls, a Pakistani official told the AP on condition of anonymity because he was not authorized to release the information to the media.The official is part of an intelligence team that has been tracking the two British brothers of Pakistani origin for nearly a year and the Germans for more than six months.He said the suspects are hiding in North Waziristan, a Pakistani tribal region where militancy is rife and where the U.S. has focused many of its drone-fired missile strikes. British officials have said the plot is still active."They have been making calls to Germany and London," the Pakistani official said. "They have been talking about and looking for facilitators and logistics they need there to carry out terror strikes."Noble declined to comment on Interpol's role in tracking down potential suspects in the plot, saying the investigation was ongoing. He did, however, say one the biggest challenges for law enforcement officials was having countries check passenger passport details against national and Interpol databases.Out of the nearly 1 billion passengers who traveled through airports last year, some 600 million were never checked against the Interpol database -- a gap that could have allowed terrorists to enter multiple countries, he said.Many countries simply lack the political will or resources to join databases, he said.Noble said Al-Qaida in the Islamic Maghreb, or AQIM, also was of growing concern.The group on Thursday released its first video of a group of hostages that was seized two weeks ago in Niger.The terrorist group has invaded large swaths of the desert region spanning portions of Mauritania, Mali, Niger and Algeria. Famous tourists spots like Timbuktu, in Mali, are now on the no-go list of several embassies, including the U.S. and France.In Europe and the United States, meanwhile, an increase in homegrown militants and suspects who had never appeared on the radar as potential threats were "unsettling and dangerous" new trends, Noble said.Still, he said he believed it was right to warn citizens of potential or thwarted terror plots."You know, there has been a long-standing debate within the intelligence community and the anti-terrorist community about how informed the citizens really should be about potential terrorist attacks or foiled terrorist attacks," he said."I'm on the side of getting the public informed, keeping the public informed and trusting that the public by and large wants to help us prevent terrorist activities, not support terrorist activity."Interpol is an organization that links law enforcement agencies in 188 countries to help cross-border policing and efforts to tackle major crime.</text>
+  <mention label="Noble" length="5" position="260"/>
+  <mention label="World Cup" length="9" position="648"/>
+  <mention label="Timbuktu" length="8" position="3082"/>
+  <mention label="Interpol" length="8" position="14"/>
+  <mention label="Europe" length="6" position="1024"/>
+  <mention label="Al-Shabab" length="9" position="515"/>
+  <mention label="Afghanistan" length="11" position="132"/>
+  <mention label="U.S." length="4" position="1813"/>
+  <mention label="Mali" length="4" position="3095"/>
+  <mention label="Somalia" length="7" position="403"/>
+  <mention label="Interpol" length="8" position="145"/>
+  <mention label="al-Qaida" length="8" position="529"/>
+  <mention label="Britain" length="7" position="1309"/>
+  <mention label="Pakistani" length="9" position="1043"/>
+  <mention label="Pakistan" length="8" position="1043"/>
+  <mention label="Brussels" length="8" position="937"/>
+  <mention label="Somalia" length="7" position="805"/>
+  <mention label="Somali" length="6" position="37"/>
+  <mention label="Germany" length="7" position="1956"/>
+  <mention label="Germany" length="7" position="1321"/>
+  <mention label="Pakistani" length="9" position="1981"/>
+  <mention label="Somali" length="6" position="50"/>
+  <mention label="Afghanistan" length="11" position="318"/>
+  <mention label="Somalia" length="7" position="50"/>
+  <mention label="Pakistan" length="8" position="1214"/>
+  <mention label="London" length="6" position="1968"/>
+  <mention label="Germans" length="7" position="1083"/>
+  <mention label="Islamist" length="8" position="694"/>
+  <mention label="Mauritania" length="10" position="3018"/>
+  <mention label="Interpol" length="8" position="3913"/>
+  <mention label="Africa" length="6" position="68"/>
+  <mention label="African" length="7" position="68"/>
+  <mention label="Pakistan" length="8" position="334"/>
+  <mention label="British" length="7" position="1600"/>
+  <mention label="Al-Qaida" length="8" position="2752"/>
+  <mention label="British" length="7" position="1871"/>
+  <mention label="Somalia" length="7" position="717"/>
+  <mention label="British" length="7" position="1099"/>
+  <mention label="Associated Press" length="16" position="220"/>
+  <mention label="Uganda" length="6" position="598"/>
+  <mention label="Mali" length="4" position="3030"/>
+  <mention label="North Waziristan" length="16" position="1731"/>
+  <mention label="Britons" length="7" position="1235"/>
+  <mention label="Niger" length="5" position="3036"/>
+  <mention label="Pakistani" length="9" position="1620"/>
+  <mention label="Pakistani" length="9" position="1751"/>
+  <mention label="U.S." length="4" position="3163"/>
+  <mention label="Islamic Maghreb" length="15" position="2768"/>
+  <mention label="Interpol" length="8" position="2153"/>
+  <mention label="Interpol" length="8" position="2409"/>
+  <mention label="Algeria" length="7" position="3046"/>
+  <mention label="France" length="6" position="3172"/>
+  <mention label="Islamic" length="7" position="485"/>
+  <mention label="New Jersey" length="10" position="879"/>
+  <mention label="Niger" length="5" position="2925"/>
+  <mention label="Europe" length="6" position="3182"/>
+  <mention label="United States" length="13" position="3197"/>
+  <mention label="Interpol" length="8" position="2556"/>
+  <mention label="Ronald K. Noble" length="15" position="250"/>
+  <mention label="Afghanistan" length="11" position="755"/>
+  <mention label="Germans" length="7" position="1663"/>
+  <mention label="Pakistani" length="9" position="1397"/>
+  <mention label="CIA" length="3" position="1149"/>
+</item>

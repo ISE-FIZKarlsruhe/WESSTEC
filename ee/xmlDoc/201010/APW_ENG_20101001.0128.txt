@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Giants sweep Arizona, clinch tie for NL West titlePablo Sandoval hit a splash shot into McCovey Cove, while Andres Torres and Buster Posey also connected as the NL West-leading San Francisco Giants beat Arizona 4-1 Thursday for a three-game sweep.The win, coupled with San Diego's 1-0 loss to Chicago, means the Giants have clinched at least a share of the division title.Even if the Giants are swept in this weekend's three-game series with visiting San Diego, they will finish level. The Giants' last division title and playoff berth was in 2003.Torres' go-ahead, solo homer in the fifth inning helped rookie Madison Bumgarner (7-6) earn his first home victory in eight tries. Posey hit a two-run homer in the sixth, the rookie's seventh shot in September.Cubs 1, Padres 0At San Diego, Brad Snyder hit an RBI single off Heath Bell with one out in the ninth inning to lead the Chicago over San Diego, pushing the Padres to the cusp of elimination from the playoff race.The loss reduced San Francisco's magic number for clinching the NL West to one and idle Atlanta's magic number for clinching the NL wild card to two.San Diego has lost 22 of 34 games since Aug. 25, when it had 6 1/2-game lead over the Giants.Aramis Ramirez started the Cubs' ninth with a broken-bat single to right-center off Bell (6-1) and was replaced by pinch-runner Darwin Barney. Xavier Nady laid down a sacrifice bunt and Barney scored on Snyder's single to left.San Diego had only three hits. It was the second time in the four-game series that San Diego lost 1-0.Sean Marshall (7-5) got two outs in the eighth for the win. Carlos Marmol pitched a perfect ninth for his 37th save in 42 chances.Reds 9, Astros 1At Cincinnati, Drew Stubbs homered and drove in four runs to help the Reds stay in the race for home-field advantage in the first round of the playoffs.Brandon Phillips and Jonny Gomes homered for the NL Central champions and Bronson Arroyo (17-10) pitched seven solid innings in his playoff tuneup. The Reds are two games behind San Francisco in the race to finish with the league's second-best record behind Philadelphia.Cardinals 6, Rockies 1At St. Louis, Chris Carpenter threw his first complete game of the season as the Cardinals beat the Colorado Rockies.Carpenter (16-9) ended a four-game losing streak -- during which he posted a 7.17 ERA -- with a four-hitter.The Rockies, who were eliminated from the postseason on Tuesday, have lost 10 of 11.Carpenter, who threw just 100 pitches, retired the last 10 batters in making his major league-leading and career-best 35th start. He walked two and struck out four in the 29th complete game of his career.Cole Hammel (10-9) went just three innings, allowing five runs and eight hits.Brewers 9, Mets 2At New York, Casey McGehee got to 100 RBIs in the ninth inning on one of several sloppy plays by the Mets and Corey Hart reached 100 RBIs two batters later as the Milwaukee Brewers beat New York.Chris Narveson (12-9) matched a season high with nine strikeouts and Lorenzo Cain hit a two-run double after All-Star shortstop Jose Reyes dropped a routine popup, helping the Brewers win for the seventh time in nine games.The loss ensured the Mets will finish with a second straight losing season. New York (77-82) struck out 13 times in dropping its third in a row to the Brewers.Marlins 11, Pirates 9At Miami, Mike Stanton homered and drove in five runs as the Marlins held off the Pittsburgh Pirates.Pedro Alvarez hit a three-run homer off Jose Veras in the ninth. Leo Nunez came in and struck out the final two batters to record his 30th save in 38 opportunities.Alvarez went 4 for 5 with five RBIs.Wes Helms drove in two runs in the Marlins' four-run first inning and starter Chris Volstad (12-9) pitched six innings, allowing two runs.Rookies Stanton, Logan Morrison, Gaby Sanchez and Ozzie Martinez accounted for 10 of the Marlins' 13 hits.Stanton had an RBI single in the first, a three-run homer off Zach Duke (8-15) to deep center field in the fourth, and another RBI single in the sixth.</text>
+  <mention label="San Diego" length="9" position="777"/>
+  <mention label="San Diego" length="9" position="269"/>
+  <mention label="Pirates" length="7" position="3329"/>
+  <mention label="Giants" length="6" position="0"/>
+  <mention label="Sean Marshall" length="13" position="1541"/>
+  <mention label="Miami" length="5" position="3341"/>
+  <mention label="Arizona" length="7" position="13"/>
+  <mention label="Mike Stanton" length="12" position="3348"/>
+  <mention label="ERA" length="3" position="2331"/>
+  <mention label="Mets" length="4" position="2841"/>
+  <mention label="Marlins" length="7" position="3866"/>
+  <mention label="Stanton" length="7" position="3353"/>
+  <mention label="Snyder" length="6" position="793"/>
+  <mention label="Brad Snyder" length="11" position="788"/>
+  <mention label="NL West" length="7" position="37"/>
+  <mention label="Chicago" length="7" position="293"/>
+  <mention label="RBI" length="3" position="807"/>
+  <mention label="Atlanta" length="7" position="1058"/>
+  <mention label="Corey Hart" length="10" position="2850"/>
+  <mention label="Darwin Barney" length="13" position="1340"/>
+  <mention label="Cardinals" length="9" position="2110"/>
+  <mention label="Bell" length="4" position="828"/>
+  <mention label="RBI" length="3" position="2873"/>
+  <mention label="Pablo Sandoval" length="14" position="50"/>
+  <mention label="Heath Bell" length="10" position="822"/>
+  <mention label="Philadelphia" length="12" position="2097"/>
+  <mention label="Giants" length="6" position="312"/>
+  <mention label="Wes Helms" length="9" position="3639"/>
+  <mention label="Brandon Phillips" length="16" position="1839"/>
+  <mention label="Xavier Nady" length="11" position="1355"/>
+  <mention label="Marlins" length="7" position="3399"/>
+  <mention label="Barney" length="6" position="1347"/>
+  <mention label="Milwaukee Brewers" length="17" position="2903"/>
+  <mention label="Carlos Marmol" length="13" position="1601"/>
+  <mention label="Rockies" length="7" position="2123"/>
+  <mention label="Pittsburgh Pirates" length="18" position="3420"/>
+  <mention label="Jonny Gomes" length="11" position="1860"/>
+  <mention label="McCovey Cove" length="12" position="88"/>
+  <mention label="San Diego" length="9" position="1119"/>
+  <mention label="Marlins" length="7" position="3674"/>
+  <mention label="St. Louis" length="9" position="2135"/>
+  <mention label="Zach Duke" length="9" position="3945"/>
+  <mention label="Andres Torres" length="13" position="108"/>
+  <mention label="Carpenter" length="9" position="2152"/>
+  <mention label="Pedro Alvarez" length="13" position="3439"/>
+  <mention label="Brewers" length="7" position="2913"/>
+  <mention label="New York" length="8" position="2926"/>
+  <mention label="Chicago" length="7" position="878"/>
+  <mention label="NL Central" length="10" position="1888"/>
+  <mention label="Chris Carpenter" length="15" position="2146"/>
+  <mention label="Mets" length="4" position="3179"/>
+  <mention label="San Diego" length="9" position="891"/>
+  <mention label="Buster Posey" length="12" position="126"/>
+  <mention label="Madison Bumgarner" length="17" position="611"/>
+  <mention label="Alvarez" length="7" position="3445"/>
+  <mention label="Torres" length="6" position="115"/>
+  <mention label="Bronson Arroyo" length="14" position="1913"/>
+  <mention label="Chris Narveson" length="14" position="2935"/>
+  <mention label="Posey" length="5" position="133"/>
+  <mention label="Reds" length="4" position="1671"/>
+  <mention label="Giants" length="6" position="384"/>
+  <mention label="Chris Volstad" length="13" position="3717"/>
+  <mention label="Astros" length="6" position="1679"/>
+  <mention label="Cincinnati" length="10" position="1690"/>
+  <mention label="Padres" length="6" position="914"/>
+  <mention label="San Diego" length="9" position="1439"/>
+  <mention label="Jose Veras" length="10" position="3479"/>
+  <mention label="Brewers" length="7" position="2723"/>
+  <mention label="San Francisco Giants" length="20" position="177"/>
+  <mention label="NL West" length="7" position="161"/>
+  <mention label="Colorado Rockies" length="16" position="2232"/>
+  <mention label="Mets" length="4" position="2734"/>
+  <mention label="New York" length="8" position="3234"/>
+  <mention label="Cardinals" length="9" position="2213"/>
+  <mention label="Drew Stubbs" length="11" position="1702"/>
+  <mention label="Lorenzo Cain" length="12" position="3004"/>
+  <mention label="Aramis Ramirez" length="14" position="1212"/>
+  <mention label="Leo Nunez" length="9" position="3504"/>
+  <mention label="Giants" length="6" position="191"/>
+  <mention label="San Francisco" length="13" position="177"/>
+  <mention label="New York" length="8" position="2743"/>
+  <mention label="Carpenter" length="9" position="2249"/>
+  <mention label="Reds" length="4" position="1991"/>
+  <mention label="Rockies" length="7" position="2241"/>
+  <mention label="San Diego" length="9" position="451"/>
+  <mention label="Arizona" length="7" position="203"/>
+  <mention label="Casey McGehee" length="13" position="2753"/>
+  <mention label="Stanton" length="7" position="3785"/>
+  <mention label="Cubs" length="4" position="1239"/>
+  <mention label="San Francisco" length="13" position="987"/>
+  <mention label="Reds" length="4" position="1757"/>
+  <mention label="RBI" length="3" position="2778"/>
+  <mention label="Logan Morrison" length="14" position="3794"/>
+  <mention label="All-Star" length="8" position="3044"/>
+  <mention label="Giants" length="6" position="490"/>
+  <mention label="Gaby Sanchez" length="12" position="3810"/>
+  <mention label="Cubs" length="4" position="758"/>
+  <mention label="Marlins" length="7" position="3317"/>
+  <mention label="Padres" length="6" position="766"/>
+  <mention label="San Diego" length="9" position="1522"/>
+  <mention label="Jose Reyes" length="10" position="3063"/>
+</item>

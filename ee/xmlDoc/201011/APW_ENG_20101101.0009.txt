@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Chavez orders takeover of Venezuelan steel makerPresident Hugo Chavez ordered the expropriation of Venezuela's largest privately owned steel producer Sunday, the latest in a series of takeovers that has raised concerns among business leaders.The president said the seizure of Siderurgica del Turbio SA, or Sidetur, is part of his strategy to transform Venezuela into a socialist state."I'm announcing the expropriation of Sidetur," Chavez said during his weekly television and radio program, "Hello, President."He ordered soldiers to guard the company's seven plants and urged employees to cooperate with officials rather than protest the takeover.Sidetur, a subsidiary of Siderurgica de Venezuela SA, or Sivensa, produces 40 percent of the rebar used for construction in the country.Founded in 1948, it produces 835,000 metric tons of steel a year, including beams, angles and flats that are sold domestically and exported to nations in Latin America, Africa, Asia and Europe.Telephone calls to Sidetur's offices in Caracas went unanswered late Sunday.Chavez has expropriated dozens of privately owned companies since he took office in 1999.Last week, he ordered the takeover of the Venezuelan subsidiary of U.S.-based glass container manufacturer Owens-Illinois Inc. Earlier this month, he announced plans to expropriate Agroislena CA, a leading farm supply business.Business leaders say the seizures are scaring off investors and could keep Venezuela from emerging from a lingering recession that began last year."The only investment here is for maintenance: Businessmen investing so their businesses stay afloat, not for expansion," said Jose Guerra, a former Central Bank official who now teaches economics at the Central University of Venezuela in Caracas.Venezuela's gross domestic product shrank 3.5 percent in the first half of this year after contracting 3.3 percent for all of 2009.Chavez has said the government will pay fair compensation for the businesses.</text>
+  <mention label="Jose Guerra" length="11" position="1642"/>
+  <mention label="Asia" length="4" position="961"/>
+  <mention label="Chavez" length="6" position="0"/>
+  <mention label="Sivensa" length="7" position="705"/>
+  <mention label="Latin America" length="13" position="938"/>
+  <mention label="Central University of Venezuela" length="31" position="1719"/>
+  <mention label="Venezuela" length="9" position="352"/>
+  <mention label="Venezuelan" length="10" position="1184"/>
+  <mention label="Venezuela" length="9" position="99"/>
+  <mention label="Europe" length="6" position="970"/>
+  <mention label="Central Bank" length="12" position="1664"/>
+  <mention label="Venezuelan" length="10" position="26"/>
+  <mention label="Hugo Chavez" length="11" position="58"/>
+  <mention label="Venezuela" length="9" position="26"/>
+  <mention label="Owens-Illinois Inc" length="18" position="1249"/>
+  <mention label="Sidetur" length="7" position="306"/>
+  <mention label="Chavez" length="6" position="432"/>
+  <mention label="Venezuela" length="9" position="688"/>
+  <mention label="Chavez" length="6" position="63"/>
+  <mention label="Chavez" length="6" position="1053"/>
+  <mention label="Caracas" length="7" position="1754"/>
+  <mention label="Caracas" length="7" position="1017"/>
+  <mention label="Africa" length="6" position="953"/>
+</item>

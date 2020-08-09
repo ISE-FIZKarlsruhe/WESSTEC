@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Wozniacki reaches finals at Pan Pacific OpenCaroline Wozniacki beat Victoria Azarenka 6-2, 6-7 (3), 6-4 on Friday to reach the final of the Pan Pacific Open.Wozniacki raced to a 5-0 lead in the third set before the eighth-seeded Azarenka won the next four games to close the gap to 5-4. The top-seeded Danish player held serve and won the match when Azarenka's return went long.Wozniacki will meet the winner of the other semifinal between French Open champion Francesca Schiavone and Russia's Elena Dementieva in Saturday's final at Ariake Colosseum.Wozniacki could overtake Serena Williams as No. 1 in the world rankings if she lifts the trophy here and reaches the quarterfinals or better in Beijing next week.</text>
+  <mention label="Russia" length="6" position="485"/>
+  <mention label="Azarenka" length="8" position="77"/>
+  <mention label="Danish" length="6" position="302"/>
+  <mention label="Wozniacki" length="9" position="0"/>
+  <mention label="Pan Pacific Open" length="16" position="28"/>
+  <mention label="Azarenka" length="8" position="229"/>
+  <mention label="Serena Williams" length="15" position="576"/>
+  <mention label="Beijing" length="7" position="695"/>
+  <mention label="French Open" length="11" position="440"/>
+  <mention label="Wozniacki" length="9" position="378"/>
+  <mention label="Wozniacki" length="9" position="157"/>
+  <mention label="Victoria Azarenka" length="17" position="68"/>
+  <mention label="Wozniacki" length="9" position="53"/>
+  <mention label="Pan Pacific Open" length="16" position="140"/>
+  <mention label="Elena Dementieva" length="16" position="494"/>
+  <mention label="Francesca Schiavone" length="19" position="461"/>
+  <mention label="Caroline Wozniacki" length="18" position="44"/>
+</item>

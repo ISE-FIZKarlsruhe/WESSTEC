@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ecuador troops rescue president from rebel copsEcuador was under a state of siege Friday, with the military in charge of public order, after soldiers rescued President Rafael Correa from a hospital where he'd been surrounded by police who also roughed him up and tear-gassed him.Correa and his ministers called Thursday's revolt -- in which insurgents also paralyzed the nation with airport shutdowns and highway blockades -- an attempt to overthrow him and not just a simple insurrection over a new law that would cut benefits for public servants.At least three people -- two police officers and a soldier -- were killed and dozens injured, said Irina Cabezas. the vice president of congress. Dozens were injured.At least five soldiers were wounded -- two critically -- in the firefight at the hospital before Correa was removed at top speed in an SUV, according to the military and Red Cross.Correa, 47, speaking from the balcony of the Carondelet palace after his rescue, told hundreds of cheering backers that Thursday "was the saddest day of my life." He said 27 of his special forces bodyguards had been injured.Correa thanked the supporters who converged on the hospital Thursday "ready to die to defend democracy" -- his loyalists had hurled stones at police who repelled them with tear gas.He said the uprising was not just a pay dispute."There were lots of infiltrators, dressed as civilians, and we know where they were from," the U.S.-trained leftist economist shouted.In a post-midnight news conference, Correa added: "They wanted deaths, they wanted blood." He sat in a ceremonial chair and wore the yellow, blue and red presidential sash.He had blamed his political foes all day, but without naming anyone specifically. His foreign minister, Ricardo Patino, however, pointed the finger at former President Lucio Gutierrez, who co-led the 2000 coup that ousted Jamil Mahuad. In a TV interview, Gutierrez called that accusation "totally false."Dramatic images of the rescue broadcast by TV stations showed one helmeted soldier dressed in black and wearing a flak jacket, apparently struck by a bullet. He tumbled down a small embankment outside the hospital. The Red Cross said at least one civilian was also wounded.Correa was trapped for more than 12 hours in the hospital, where he being treated for the tear-gassing that nearly asphyxiated him when he tried to reason with angry police officers at a capital barracks. The officers also roughed him up and pelted him with water.At the hospital, Correa had vowed to defend his dignity and leave either "as president or as a corpse." He also negotiated with some of the insurrectionists, but whether any were placated was unclear.The hospital's director, Cesar Carrion, disputed Correa's claim to have been "practically captive" in the building. He said that the president had his security detail at his side and that no armed police were ever let inside.After the troops intervened, Correa was rushed out wearing a gas mask and a helmet. He was in a wheelchair -- he had surgery on his right knee last week.It was unclear early Friday how soon Quito's Mariscal Sucre airport and the airfields in Guayaquil and Manta, which were shut to international traffic Thursday by soldiers, would reopen.Thursday's nationwide action prompted businesses and schools to close early as police abandoned streets and took over barracks in Quito, Guayaquil and other cities. Some police set up roadblocks of burning tires, cutting off highway access to the capital.Looting was reported in the capital -- where at least two banks were sacked -- and in the coastal city of Guayaquil. That city's main newspaper, El Universo, reported attacks on supermarkets and robberies due to the absence of police.The government declared a state of siege, putting the military in charge of public order, suspending civil liberties and allowing warrantless searches. Peru and Colombia closed their countries' borders with Ecuador in solidarity with Correa.Along with the rest of the region's leaders and the United States, they expressed firm support for Correa. Bolivia's leftist president, Evo Morales, summoned South America's presidents to an emergency meeting set for Friday in Buenos Aires of the continent's fledgling UNASUR defense union.The U.S. Embassy issued a message warning U.S. citizens to "stay in their homes or current location, if safe."Hours before Correa's rescue, the armed forces chief, Gen. Ernesto Gonzalez, declared the military's loyalty to the president. He called for "a re-establishment of dialogue, which is the only way Ecuadoreans can resolve our differences."But he also called for the law that provoked the unrest to be "reviewed or not placed into effect so public servants, soldiers and police don't see their rights affected."The law, approved Wednesday by a Congress dominated by Correa loyalists, has not taken effect because it must first be published.This poor Andean nation of 14 million people had a history of political instability before Correa, cycling through eight presidents in a decade before he first won election in December 2006. Three of those presidents were driven from office by street protests that plagued the country, which is a member of OPEC.Like his leftist ally President Hugo Chavez of Venezuela, Correa has drastically cut royalties to multinational oil companies in favor of his people, discouraging direct foreign investment while courting such nations as Iran and Russia.In April 2009, after voters approved a new constitution he championed, Correa became Ecuador's first president to win election without a runoff. That success has led him at times to act with overconfidence.------Associated Press writers Luis Alonso Lugo Washington, Frank Bajak in Bogota, Colombia, Michael Warren in Buenos Aires, Fabiola Sanchez in Caracas, Venezuela, and Carla Salazar in Lima, Peru, contributed to this report.</text>
+  <mention label="Correa" length="6" position="2948"/>
+  <mention label="Michael Warren" length="14" position="5772"/>
+  <mention label="Ecuador" length="7" position="0"/>
+  <mention label="Red Cross" length="9" position="2176"/>
+  <mention label="Colombia" length="8" position="5762"/>
+  <mention label="Correa" length="6" position="3981"/>
+  <mention label="Correa" length="6" position="279"/>
+  <mention label="Buenos Aires" length="12" position="5790"/>
+  <mention label="Lucio Gutierrez" length="15" position="1821"/>
+  <mention label="Evo Morales" length="11" position="4124"/>
+  <mention label="Hugo Chavez" length="11" position="5269"/>
+  <mention label="Correa" length="6" position="5016"/>
+  <mention label="Quito" length="5" position="3109"/>
+  <mention label="Carondelet" length="10" position="939"/>
+  <mention label="Rafael Correa" length="13" position="168"/>
+  <mention label="Associated Press" length="16" position="5685"/>
+  <mention label="U.S." length="4" position="1442"/>
+  <mention label="Ecuador" length="7" position="47"/>
+  <mention label="Correa" length="6" position="175"/>
+  <mention label="Correa" length="6" position="5295"/>
+  <mention label="Guayaquil" length="9" position="3619"/>
+  <mention label="Gutierrez" length="9" position="1827"/>
+  <mention label="Correa" length="6" position="811"/>
+  <mention label="Venezuela" length="9" position="5284"/>
+  <mention label="Correa" length="6" position="2230"/>
+  <mention label="Correa" length="6" position="2743"/>
+  <mention label="U.S. Embassy" length="12" position="4282"/>
+  <mention label="Correa" length="6" position="4401"/>
+  <mention label="Caracas" length="7" position="5823"/>
+  <mention label="Quito" length="5" position="3388"/>
+  <mention label="South America" length="13" position="4146"/>
+  <mention label="Peru" length="4" position="3899"/>
+  <mention label="El Universo" length="11" position="3658"/>
+  <mention label="Andean" length="6" position="4935"/>
+  <mention label="Venezuela" length="9" position="5832"/>
+  <mention label="United States" length="13" position="4040"/>
+  <mention label="Correa" length="6" position="2511"/>
+  <mention label="Guayaquil" length="9" position="3395"/>
+  <mention label="Colombia" length="8" position="3908"/>
+  <mention label="Guayaquil" length="9" position="3161"/>
+  <mention label="Ricardo Patino" length="14" position="1757"/>
+  <mention label="Iran" length="4" position="5457"/>
+  <mention label="Correa" length="6" position="1118"/>
+  <mention label="Russia" length="6" position="5466"/>
+  <mention label="Jamil Mahuad" length="12" position="1875"/>
+  <mention label="Manta" length="5" position="3175"/>
+  <mention label="Peru" length="4" position="5870"/>
+  <mention label="Correa" length="6" position="1517"/>
+  <mention label="Lima" length="4" position="5864"/>
+  <mention label="Ecuador" length="7" position="4584"/>
+  <mention label="Correa" length="6" position="4087"/>
+  <mention label="OPEC" length="4" position="5232"/>
+  <mention label="Correa" length="6" position="4851"/>
+  <mention label="Ecuador" length="7" position="3954"/>
+  <mention label="Bolivia" length="7" position="4095"/>
+  <mention label="Correa" length="6" position="894"/>
+  <mention label="Buenos Aires" length="12" position="4215"/>
+  <mention label="Bogota" length="6" position="5754"/>
+  <mention label="Red Cross" length="9" position="884"/>
+</item>

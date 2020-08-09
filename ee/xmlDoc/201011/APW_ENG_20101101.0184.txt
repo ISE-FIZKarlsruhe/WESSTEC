@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Emirates airline 1st-half profit soars to $925MEmirates airline says its profit more than quadrupled to $925 million in the first half of the year as it packed more passengers and cargo into fuller planes.The Dubai-based carrier said Monday it filled more seats with paying passengers during the six months through September than it ever has in the fiscal first half.It said the increase reflects a "positive shift" in an airline industry that has struggled with weak demand amid the economic downturn.Emirates says passenger traffic jumped 19.4 percent, while capacity rose 13.9 percent.The carrier's seat factor, measuring how full flights are, was a first-half record 81.2 percent.Emirates earned $205 million in the first half last year.</text>
+  <mention label="Emirates" length="8" position="47"/>
+  <mention label="Emirates" length="8" position="0"/>
+</item>

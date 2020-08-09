@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Kenya: 3 suspected poachers, 5 elephants killedThe Kenya Wildlife Service says three suspected poachers have been killed after the poaching deaths of five elephants in two national parks over the last week.The wildlife service said Monday that rangers gunned down a suspected bandit in a "fierce" exchange of fire on the outskirts of Meru National Park late Sunday. Officials are searching for other suspects.The suspects had shot and killed an elephant and were removing its ivory tusks when rangers ambushed them. One ranger was wounded in the shootout.That exchange follows the killings of two suspected poachers last week in Tsavo National Park. Four elephants were killed in Tsavo.Poachers target elephants for their ivory tusks, which are commonly smuggled to Asia.</text>
+  <mention label="Tsavo" length="5" position="629"/>
+  <mention label="Kenya Wildlife Service" length="22" position="51"/>
+  <mention label="Kenya" length="5" position="0"/>
+  <mention label="Tsavo National Park" length="19" position="629"/>
+  <mention label="Asia" length="4" position="766"/>
+</item>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Fresh floods kill 6 in central VietnamSix people are dead and one is missing in central Vietnam following the latest round of flooding.Disaster officials said Monday the victims include a 10-month-old baby who drowned in her yard and a 53-year-old man who was electrocuted in his flooded home in Khanh Hoa province.Up to 20 inches (50 centimeters) of rain has pounded the region over the past three days, forcing the evacuation of more than 10,000 people.However, flood waters have largely receded.More rain is forecast for the region, but it is not expected to cause major flooding.Central Vietnam has recently been hit by two other rounds of severe flooding, which killed 141 people.</text>
+  <mention label="Khanh Hoa" length="9" position="296"/>
+  <mention label="Vietnam" length="7" position="31"/>
+  <mention label="Vietnam" length="7" position="591"/>
+  <mention label="Vietnam" length="7" position="88"/>
+</item>

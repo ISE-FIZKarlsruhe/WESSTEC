@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Asian stocks up but gains limited ahead of US dataAsian stock markets rose in early trading Friday, but their gains were modest as investors traded with caution ahead of the release of key U.S. manufacturing data.Japan's benchmark Nikkei 225 stock average climbed 37.00 points, or 0.4 percent, to 9,406.35, bucking an overnight fall on Wall Street. The index held firm after the government said Friday that Japan's jobless rate improved in August.South Korea's Kospi added 2.06 points, or 0.1 percent to 1,874.87. Australia's S&amp;P/ASX 200 was up 0.5 percent at 4,659.20.In New York on Thursday, the Dow Jones industrial average fell 47.23 points, or 0.4 percent, to 10,788.05 as investors locked in profits.Investors shrugged off an upward revision of U.S. economic growth in the April-June quarter, instead focusing on Friday's release of manufacturing data. Manufacturing has been a bright spot in a weak U.S. economic recovery.The Institute for Supply Management, an industry trade group, will release a September report on U.S. manufacturing activity.</text>
+  <mention label="Nikkei" length="6" position="231"/>
+  <mention label="Asian" length="5" position="0"/>
+  <mention label="U.S." length="4" position="1026"/>
+  <mention label="Kospi" length="5" position="461"/>
+  <mention label="U.S." length="4" position="751"/>
+  <mention label="Australia" length="9" position="514"/>
+  <mention label="U.S." length="4" position="906"/>
+  <mention label="Japan" length="5" position="213"/>
+  <mention label="ASX" length="3" position="530"/>
+  <mention label="Japan" length="5" position="407"/>
+  <mention label="New York" length="8" position="572"/>
+  <mention label="South Korea" length="11" position="447"/>
+  <mention label="Asian" length="5" position="50"/>
+  <mention label="U.S." length="4" position="189"/>
+  <mention label="Institute for Supply Management" length="31" position="933"/>
+  <mention label="Dow Jones" length="9" position="598"/>
+</item>

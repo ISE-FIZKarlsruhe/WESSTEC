@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Mexican football resultsResults after weekend matches in Mexican Apertura first-division football:15th roundCruz Azul 1, Puebla 0Queretaro 2, Pumas 1Santos 1, Chivas 1Tigres 0, Jaguares 0Atlas 1, Pachuca 2Morelia 0, Monterrey 2Toluca 1, San Luis 2America 4, Estudiantes 1Necaxa 1, Atlante 2</text>
+  <mention label="Tigres" length="6" position="167"/>
+  <mention label="Pachuca" length="7" position="196"/>
+  <mention label="Toluca" length="6" position="227"/>
+  <mention label="Cruz Azul" length="9" position="108"/>
+  <mention label="San Luis" length="8" position="237"/>
+  <mention label="Mexican" length="7" position="0"/>
+  <mention label="Queretaro" length="9" position="129"/>
+  <mention label="Necaxa" length="6" position="271"/>
+  <mention label="Estudiantes" length="11" position="258"/>
+  <mention label="Morelia" length="7" position="205"/>
+  <mention label="Pumas" length="5" position="142"/>
+  <mention label="America" length="7" position="247"/>
+  <mention label="Monterrey" length="9" position="216"/>
+  <mention label="Santos" length="6" position="149"/>
+  <mention label="Jaguares" length="8" position="177"/>
+  <mention label="Chivas" length="6" position="159"/>
+  <mention label="Atlas" length="5" position="187"/>
+  <mention label="Atlante" length="7" position="281"/>
+  <mention label="Puebla" length="6" position="121"/>
+</item>

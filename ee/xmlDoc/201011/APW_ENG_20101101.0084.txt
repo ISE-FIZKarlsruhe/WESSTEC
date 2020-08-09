@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>2010 World Series GlanceWORLD SERIESWednesday, Oct. 27San Francisco 11, Texas 7Thursday, Oct. 28San Francisco 9, Texas 0Saturday, Oct. 30Texas 4, San Francisco 2Sunday, Oct. 31San Francisco 4, Texas 0, San Francisco leads series 3-1Monday, Nov. 1San Francisco (Lincecum 16-10) at Texas (Lee 12-9)Wednesday, Nov. 3Texas (Wilson 15-8) at San Francisco (Cain 13-11), if necessary.Thursday, Nov. 4Texas at San Francisco, if necessary.</text>
+  <mention label="Texas" length="5" position="193"/>
+  <mention label="Wilson" length="6" position="320"/>
+  <mention label="San Francisco" length="13" position="202"/>
+  <mention label="Texas" length="5" position="137"/>
+  <mention label="Texas" length="5" position="393"/>
+  <mention label="San Francisco" length="13" position="96"/>
+  <mention label="Texas" length="5" position="72"/>
+  <mention label="Lincecum" length="8" position="261"/>
+  <mention label="Texas" length="5" position="113"/>
+  <mention label="San Francisco" length="13" position="54"/>
+  <mention label="San Francisco" length="13" position="246"/>
+  <mention label="Texas" length="5" position="313"/>
+  <mention label="San Francisco" length="13" position="176"/>
+  <mention label="San Francisco" length="13" position="336"/>
+  <mention label="Texas" length="5" position="280"/>
+  <mention label="San Francisco" length="13" position="146"/>
+</item>

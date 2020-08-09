@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Buddle ' s goal lifts Galaxy past SoundersIndonesia's deadly volcano unleashes new powerful eruption, spewing clouds of gray ash.</text>
+  <mention label="Indonesia" length="9" position="42"/>
+</item>

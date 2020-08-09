@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>On a rainy morning, the Ryder Cup beginsSending out Phil Mickelson and Dustin Johnson for the first match, the United States has opened its defense of the Ryder Cup on a rainy morning in Wales.More than 2,000 fans were chanting "Ole! Ole! Ole!" as the first two pairs walked into the amphitheater-like setting around the first tee Friday. Mickelson and Johnson, two of the biggest hitters on the U.S. team, were taking on Lee Westwood and Martin Kaymer of Europe in the opening best-ball match.Johnson hit the first shot of the biennial event, driving it into the thick rough right of the green. Westwood was given the honor of hitting the first shot for Europe, and he put it right in the fairway. Mickelson and Kaymer also drove it into the fairway.</text>
+  <mention label="United States" length="13" position="111"/>
+  <mention label="Westwood" length="8" position="426"/>
+  <mention label="Johnson" length="7" position="353"/>
+  <mention label="U.S." length="4" position="396"/>
+  <mention label="Johnson" length="7" position="78"/>
+  <mention label="Europe" length="6" position="655"/>
+  <mention label="Dustin Johnson" length="14" position="71"/>
+  <mention label="Lee Westwood" length="12" position="422"/>
+  <mention label="Europe" length="6" position="456"/>
+  <mention label="Mickelson" length="9" position="57"/>
+  <mention label="Ryder Cup" length="9" position="24"/>
+  <mention label="Ryder Cup" length="9" position="155"/>
+  <mention label="Kaymer" length="6" position="446"/>
+  <mention label="Phil Mickelson" length="14" position="52"/>
+  <mention label="Martin Kaymer" length="13" position="439"/>
+  <mention label="Mickelson" length="9" position="339"/>
+  <mention label="Wales" length="5" position="187"/>
+</item>

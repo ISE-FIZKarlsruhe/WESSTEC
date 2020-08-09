@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>THURSDAY ' S MAJOR LEAGUE LEADERSAMERICAN LEAGUEBATTING--JHamilton, Texas, .361; MiCabrera, Detroit, .328; Mauer, Minnesota, .328; ABeltre, Boston, .321; Butler, Kansas City, .318; ISuzuki, Seattle, .315; Cano, New York, .314.RUNS--MiCabrera, Detroit, 111; Teixeira, New York, 111; Jeter, New York, 110; JBautista, Toronto, 109; Crawford, Tampa Bay, 107; AJackson, Detroit, 102; Cano, New York, 101.RBI--MiCabrera, Detroit, 126; JBautista, Toronto, 124; ARodriguez, New York, 123; Guerrero, Texas, 114; Konerko, Chicago, 111; DelmYoung, Minnesota, 110; Teixeira, New York, 107.HITS--ISuzuki, Seattle, 210; Cano, New York, 193; ABeltre, Boston, 189; Butler, Kansas City, 185; JHamilton, Texas, 183; MYoung, Texas, 183; Crawford, Tampa Bay, 181; AJackson, Detroit, 181.DOUBLES--ABeltre, Boston, 49; Longoria, Tampa Bay, 46; MiCabrera, Detroit, 45; Markakis, Baltimore, 45; DelmYoung, Minnesota, 45; Butler, Kansas City, 43; Mauer, Minnesota, 42; VWells, Toronto, 42.TRIPLES--Crawford, Tampa Bay, 13; AJackson, Detroit, 10; Span, Minnesota, 10; Pennington, Oakland, 8; Gardner, New York, 7; Granderson, New York, 6; Maier, Kansas City, 6; Podsednik, Kansas City, 6.HOME RUNS--JBautista, Toronto, 54; Konerko, Chicago, 39; MiCabrera, Detroit, 38; Teixeira, New York, 33; DOrtiz, Boston, 32; JHamilton, Texas, 31; VWells, Toronto, 31.STOLEN BASES--Pierre, Chicago, 66; RDavis, Oakland, 48; Crawford, Tampa Bay, 46; Figgins, Seattle, 42; Gardner, New York, 42; BUpton, Tampa Bay, 42; ISuzuki, Seattle, 41.PITCHING--Sabathia, New York, 21-7; Price, Tampa Bay, 19-6; Lester, Boston, 19-9; Verlander, Detroit, 18-9; CBuchholz, Boston, 17-7; Cahill, Oakland, 17-8; PHughes, New York, 17-8; ESantana, Los Angeles, 17-9; Pavano, Minnesota, 17-11.STRIKEOUTS--FHernandez, Seattle, 232; JerWeaver, Los Angeles, 229; Lester, Boston, 225; Verlander, Detroit, 219; Liriano, Minnesota, 201; Sabathia, New York, 197; CLewis, Texas, 192.SAVES--RSoriano, Tampa Bay, 44; Soria, Kansas City, 43; NFeliz, Texas, 39; Papelbon, Boston, 37; Gregg, Toronto, 36; MaRivera, New York, 32; Aardsma, Seattle, 31.</text>
+  <mention label="MAJOR LEAGUE" length="12" position="13"/>
+  <mention label="New York" length="8" position="267"/>
+  <mention label="Chicago" length="7" position="512"/>
+  <mention label="Teixeira" length="8" position="257"/>
+  <mention label="Minnesota" length="9" position="1027"/>
+  <mention label="Aardsma" length="7" position="2057"/>
+  <mention label="Lester" length="6" position="1801"/>
+  <mention label="Tampa Bay" length="9" position="1542"/>
+  <mention label="Minnesota" length="9" position="537"/>
+  <mention label="Lester" length="6" position="1559"/>
+  <mention label="Longoria" length="8" position="797"/>
+  <mention label="Seattle" length="7" position="2066"/>
+  <mention label="Boston" length="6" position="785"/>
+  <mention label="Boston" length="6" position="1809"/>
+  <mention label="Verlander" length="9" position="1822"/>
+  <mention label="Texas" length="5" position="1298"/>
+  <mention label="Pennington" length="10" position="1042"/>
+  <mention label="Oakland" length="7" position="1054"/>
+  <mention label="Boston" length="6" position="1567"/>
+  <mention label="Jeter" length="5" position="282"/>
+  <mention label="Teixeira" length="8" position="553"/>
+  <mention label="Toronto" length="7" position="1317"/>
+  <mention label="Verlander" length="9" position="1581"/>
+  <mention label="New York" length="8" position="289"/>
+  <mention label="Gardner" length="7" position="1066"/>
+  <mention label="Detroit" length="7" position="1833"/>
+  <mention label="Tampa Bay" length="9" position="807"/>
+  <mention label="Liriano" length="7" position="1847"/>
+  <mention label="Pierre" length="6" position="1343"/>
+  <mention label="New York" length="8" position="563"/>
+  <mention label="New York" length="8" position="1075"/>
+  <mention label="Toronto" length="7" position="315"/>
+  <mention label="Detroit" length="7" position="1592"/>
+  <mention label="Chicago" length="7" position="1351"/>
+  <mention label="Texas" length="5" position="68"/>
+  <mention label="Crawford" length="8" position="329"/>
+  <mention label="New York" length="8" position="1100"/>
+  <mention label="Detroit" length="7" position="833"/>
+  <mention label="Markakis" length="8" position="846"/>
+  <mention label="Minnesota" length="9" position="1856"/>
+  <mention label="Granderson" length="10" position="1088"/>
+  <mention label="Baltimore" length="9" position="856"/>
+  <mention label="New York" length="8" position="1882"/>
+  <mention label="Boston" length="6" position="1618"/>
+  <mention label="Seattle" length="7" position="592"/>
+  <mention label="Sabathia" length="8" position="1872"/>
+  <mention label="Tampa Bay" length="9" position="339"/>
+  <mention label="Detroit" length="7" position="92"/>
+  <mention label="Oakland" length="7" position="1372"/>
+  <mention label="Maier" length="5" position="1113"/>
+  <mention label="Crawford" length="8" position="1385"/>
+  <mention label="Cahill" length="6" position="1632"/>
+  <mention label="Detroit" length="7" position="365"/>
+  <mention label="Kansas City" length="11" position="1120"/>
+  <mention label="New York" length="8" position="612"/>
+  <mention label="Mauer" length="5" position="107"/>
+  <mention label="Oakland" length="7" position="1640"/>
+  <mention label="Kansas City" length="11" position="1147"/>
+  <mention label="Texas" length="5" position="1905"/>
+  <mention label="Podsednik" length="9" position="1136"/>
+  <mention label="Tampa Bay" length="9" position="1395"/>
+  <mention label="Boston" length="6" position="636"/>
+  <mention label="Minnesota" length="9" position="114"/>
+  <mention label="Minnesota" length="9" position="882"/>
+  <mention label="Soria" length="5" position="1924"/>
+  <mention label="Kansas City" length="11" position="905"/>
+  <mention label="Tampa Bay" length="9" position="1933"/>
+  <mention label="Butler" length="6" position="897"/>
+  <mention label="New York" length="8" position="1664"/>
+  <mention label="New York" length="8" position="385"/>
+  <mention label="Boston" length="6" position="140"/>
+  <mention label="RBI" length="3" position="399"/>
+  <mention label="Seattle" length="7" position="1419"/>
+  <mention label="Butler" length="6" position="649"/>
+  <mention label="Los Angeles" length="11" position="1690"/>
+  <mention label="Detroit" length="7" position="415"/>
+  <mention label="Kansas City" length="11" position="657"/>
+  <mention label="Butler" length="6" position="154"/>
+  <mention label="Mauer" length="5" position="922"/>
+  <mention label="Gardner" length="7" position="1432"/>
+  <mention label="Toronto" length="7" position="1184"/>
+  <mention label="Kansas City" length="11" position="1955"/>
+  <mention label="Minnesota" length="9" position="929"/>
+  <mention label="Kansas City" length="11" position="162"/>
+  <mention label="New York" length="8" position="1441"/>
+  <mention label="Konerko" length="7" position="1197"/>
+  <mention label="Pavano" length="6" position="1709"/>
+  <mention label="Texas" length="5" position="686"/>
+  <mention label="Chicago" length="7" position="1206"/>
+  <mention label="Seattle" length="7" position="190"/>
+  <mention label="Texas" length="5" position="1980"/>
+  <mention label="Minnesota" length="9" position="1717"/>
+  <mention label="Tampa Bay" length="9" position="1463"/>
+  <mention label="Toronto" length="7" position="440"/>
+  <mention label="Toronto" length="7" position="952"/>
+  <mention label="Crawford" length="8" position="973"/>
+  <mention label="Crawford" length="8" position="718"/>
+  <mention label="Texas" length="5" position="706"/>
+  <mention label="Seattle" length="7" position="1487"/>
+  <mention label="Detroit" length="7" position="1230"/>
+  <mention label="Papelbon" length="8" position="1991"/>
+  <mention label="Tampa Bay" length="9" position="728"/>
+  <mention label="Teixeira" length="8" position="1243"/>
+  <mention label="Boston" length="6" position="2001"/>
+  <mention label="Gregg" length="5" position="2013"/>
+  <mention label="Seattle" length="7" position="1758"/>
+  <mention label="New York" length="8" position="466"/>
+  <mention label="New York" length="8" position="211"/>
+  <mention label="Tampa Bay" length="9" position="983"/>
+  <mention label="Toronto" length="7" position="2020"/>
+  <mention label="New York" length="8" position="1519"/>
+  <mention label="Guerrero" length="8" position="481"/>
+  <mention label="New York" length="8" position="1253"/>
+  <mention label="Sabathia" length="8" position="1509"/>
+  <mention label="Texas" length="5" position="491"/>
+  <mention label="Konerko" length="7" position="503"/>
+  <mention label="New York" length="8" position="2043"/>
+  <mention label="Detroit" length="7" position="243"/>
+  <mention label="Detroit" length="7" position="754"/>
+  <mention label="Detroit" length="7" position="1008"/>
+  <mention label="Los Angeles" length="11" position="1783"/>
+  <mention label="Boston" length="6" position="1275"/>
+</item>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Kyrgyz opposition party wins parliamentary voteKygryzstan has finally released the official results of Oct. 10 parliamentary elections, confirming victory for a nationalist party loyal to the deposed president.Preliminary results handed victory to Ata-Zhurt, whose leader was a minister under former President Kurmbanbek Bakiyev. Bakiyev was overthrown in a bloody revolt earlier this year and a referendum approved the creation of a parliamentary republic in the Central Asian country, which hosts a U.S. air base vital to the Afghan war effort.Monday's official results were released three weeks late because officials had to investigate fraud allegations.Ata-Zhurt will form a coalition government with one of the four other parties that passed the 5 percent barrier to enter the legislature.</text>
+  <mention label="U.S." length="4" position="501"/>
+  <mention label="Ata-Zhurt" length="9" position="248"/>
+  <mention label="Bakiyev" length="7" position="321"/>
+  <mention label="Afghan" length="6" position="528"/>
+  <mention label="Kyrgyz" length="6" position="0"/>
+  <mention label="Ata-Zhurt" length="9" position="658"/>
+  <mention label="Central Asian" length="13" position="464"/>
+</item>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Argentina gives asylum to alleged Chilean assassinArgentina granted asylum Thursday to a former leftist guerrilla charged in his native Chile with assassinating a senator and kidnapping a businessman, a decision sure to sour relations between the neighboring countries.Chile's government had been urging Argentina to extradite Galvarino Apablaza Guerra to face trial for the murder of right-wing Sen. Jaime Guzman and the kidnapping of businessman Christian Edwards del Rio.But an official in the Argentine interior ministry said Apablaza was granted political asylum."The decision has to be communicated first to his lawyer and the judge, but unofficially the asylum was granted," the official told The Associated Press, speaking on condition of anonymity because he was not authorized to release information about the case.Argentina's Supreme Court had approved a Chilean request for Apablaza's extradition. And Chilean President Sebastian Pinera had urged his Argentine counterpart, Cristina Fernandez, to follow through on the extradition."I think a person who has committed such a grave crime, that cost the life of a senator, and that was committed in Chile, should be tried in Chilean courts," Pinera said.But Fernandez rebuffed the pressure and said the last word would go to Argentina's national refugee commission, which is part of the interior ministry and includes a member of the United Nations refugee commission on its board.Argentina's human rights groups also lobbied against the extradition because Apablaza would be tried under Chile's dictatorship-era anti-terrorism law, which allows for secret witnesses, pretrial detention, military courts and other legal mechanisms they said would violate his rights to a fair trial.The anti-terrorism law is controversial even within Chile, where Mapuche Indians accused of attacking buses and torching farms are on an extended hunger strike demanding to be tried in civilian courts under less draconian conditions.But some Chileans accused Argentina of tarnishing its human rights legacy by defending a man accused of assassinating a sitting senator during a democratic government. Both crimes occurred in 1991, after the end of the 1973-1990 dictatorship of Gen. Augusto Pinochet.Apablaza, who requested asylum in 2004, was an ideological leader of a branch of Chile's Communist Party that took up arms against Pinochet. After democracy returned to Chile, Apablaza's faction refused to put down its weapons.------Associated Press Writer Debora Rey contributed to this story.</text>
+  <mention label="Mapuche Indians" length="15" position="1806"/>
+  <mention label="Chile" length="5" position="1158"/>
+  <mention label="Cristina Fernandez" length="18" position="986"/>
+  <mention label="Supreme Court" length="13" position="837"/>
+  <mention label="Chile" length="5" position="269"/>
+  <mention label="Argentina" length="9" position="0"/>
+  <mention label="Apablaza" length="8" position="2241"/>
+  <mention label="Argentine" length="9" position="963"/>
+  <mention label="Argentina" length="9" position="1284"/>
+  <mention label="Chile" length="5" position="136"/>
+  <mention label="Associated Press" length="16" position="704"/>
+  <mention label="Chilean" length="7" position="914"/>
+  <mention label="Communist Party" length="15" position="2330"/>
+  <mention label="Chile" length="5" position="914"/>
+  <mention label="Argentina" length="9" position="2000"/>
+  <mention label="Apablaza" length="8" position="337"/>
+  <mention label="Apablaza" length="8" position="530"/>
+  <mention label="Jaime Guzman" length="12" position="401"/>
+  <mention label="Augusto Pinochet" length="16" position="2224"/>
+  <mention label="Apablaza" length="8" position="1517"/>
+  <mention label="Chilean" length="7" position="34"/>
+  <mention label="Chilean" length="7" position="866"/>
+  <mention label="Chile" length="5" position="1184"/>
+  <mention label="Chilean" length="7" position="1184"/>
+  <mention label="Chile" length="5" position="34"/>
+  <mention label="Chile" length="5" position="866"/>
+  <mention label="Pinera" length="6" position="942"/>
+  <mention label="The Associated Press" length="20" position="700"/>
+  <mention label="Argentina" length="9" position="1440"/>
+  <mention label="Fernandez" length="9" position="995"/>
+  <mention label="Argentina" length="9" position="825"/>
+  <mention label="Pinochet" length="8" position="2232"/>
+  <mention label="Sebastian Pinera" length="16" position="932"/>
+  <mention label="Chileans" length="8" position="1983"/>
+  <mention label="Argentine" length="9" position="497"/>
+  <mention label="Argentina" length="9" position="304"/>
+  <mention label="Argentina" length="9" position="50"/>
+  <mention label="Apablaza" length="8" position="886"/>
+  <mention label="United Nations" length="14" position="1393"/>
+</item>

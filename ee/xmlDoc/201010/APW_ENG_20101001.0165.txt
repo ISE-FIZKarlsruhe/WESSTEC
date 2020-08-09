@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan PM warns on China as 3 freed Japanese returnJapan's prime minister has raised concerns about China's widening maritime activity across Asia, including waters near disputed islands where a ship collision ignited a bitter diplomatic feud.Prime Minister Naoto Kan's comments came in a major policy speech Friday before parliament as three Japanese held by China for allegedly entering a restricted military zone returned home after being released by Beijing.Relations plunged to their lowest level in several years in recent weeks following a collision between Japanese and Chinese boats near a string of islands claimed by both countries.The move by China to free the men was a sign that tension was easing.Kan also stressed the need for Japan to adopt a more "active" diplomacy and defense policy.</text>
+  <mention label="Beijing" length="7" position="453"/>
+  <mention label="China" length="5" position="359"/>
+  <mention label="Kan" length="3" position="263"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="Japan" length="5" position="35"/>
+  <mention label="China" length="5" position="99"/>
+  <mention label="Chinese" length="7" position="577"/>
+  <mention label="Naoto Kan" length="9" position="257"/>
+  <mention label="Asia" length="4" position="141"/>
+  <mention label="China" length="5" position="654"/>
+  <mention label="Japanese" length="8" position="35"/>
+  <mention label="Japan" length="5" position="50"/>
+  <mention label="China" length="5" position="18"/>
+  <mention label="Japanese" length="8" position="564"/>
+  <mention label="Japanese" length="8" position="342"/>
+</item>

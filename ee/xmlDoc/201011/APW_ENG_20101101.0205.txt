@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>White House weighs response to mail bomb plotA team of U.S. investigators is headed to Yemen to help search for suspects in the mail bomb plot.The White House's top counterterrorism official, deputy national security adviser John Brennan, told Yemen's president on Sunday that his country has the lead in responding to the terrorists, according to a top Yemeni official.The brief phone conversation between Brennan and Yemeni President Ali Abdullah Saleh came as Brennan led a team of national security and intelligence officials in a second day of meetings assessing the best options in striking back at the al-Qaida offshoot suspected of trying to mail explosive-laden cargo to the United States. Officials say the powerful bombs containing industrial grade explosives may have been aimed at bringing down the planes.The Yemeni official spoke on condition of anonymity to discuss high-level conversations between the U.S. and Yemen that have taken place since the bombs, hidden in packed computer printers, were found Friday on planes.The Yemen-based al-Qaida in the Arabian Peninsula has been linked to the bomb plot because of the use of the explosive PETN, which was used by the group in last Christmas Day's bombing attempt of a Detroit-bound airliner. U.S. authorities also had intelligence that Yemeni al-Qaida was planning this operation, according to a U.S. official who spoke on condition of anonymity to discuss matters of intelligence.While the close calls with the package bombs expose another weakness in international security that could endanger the U.S., the incident also presents an opportunity for the White House to persuade Yemen to widen its war on terror by allowing the Americans a more active role.Yemen's government has worked closely with U.S. counterterrorist advisers from military special operations units, and Yemen's president acknowledged Saturday that his government is working with the CIA, according to a translation of his remarks by Yemen's embassy in Washington.But Saleh has been reluctant to allow expanded use of armed drones or regular raids by U.S. special operations units on Yemeni soil, for fear of being accused of being labeled an American stooge, by the militants or his own people.The mail bomb plot could pressure him to reconsider, according to Chris Boucek, a Yemen expert with the Carnegie Endowment for International Peace."The next attack, if something actually blows up, the U.S. won't be able to be so restrained," he said.The danger, Boucek added, is that the U.S. might overreact and push Yemen to accept participation so overt that it undercuts Yemen's perceived legitimacy.The Obama administration launched a clandestine war against Yemen's al-Qaida branch just months after President Barack Obama took office, and stepped up the tempo in the aftermath of the Christmas attack and AQAP's growing role in other plots against the U.S. That war has been waged mostly in secret, at the demand of Saleh's government.Yemeni government ministers did, however, acknowledge publicly that the U.S. carried out cruise missile strikes last December against al-Qaida targets.And while Yemeni officials have complained bitterly about collateral damage from some of the attacks, U.S. administration officials insist the Yemeni government signs off on those missions at the highest level, as part of combined counterterrorist operations.Those operations are coordinated from an intelligence command center the U.S. runs with the Yemenis, where it shares intelligence gathered by satellite, manned aircraft and unmanned drones -- some of which were observed last week, as reported in the Yemeni press.Building on that, the White House could push for more unilateral clandestine missions on Yemeni soil as well as an increased operational tempo against the militants -- as the U.S. has done against Taliban and al-Qaida targets in Afghanistan and Pakistan.The administration could also ask to fly Predator and Reaper drones from inside Yemen, something Yemeni officials say they have already requested. Currently, drones and other observation platforms must be based off U.S. ships or fly from other U.S. air bases in the region, limiting the amount of fuel they have left by the time they reach a target or observation point. Some of those drones are overseen by the Pentagon's special operating units, others by the CIA, depending on the given mission.Boucek said the hard part will be finding targets to hit. Over the past several months, Yemeni forces swept through many of the areas where al-Qaida holds sway, but Boucek said the operations netted only a few viable suspects.White House officials are quick to point out that the counterterrorist operations only comprise one part of their aid to Yemen. The U.S. has expanded military and economic aid to augment the counterterrorist program, in what it calls a "whole of government" approach. Senior administration officials said the economic aid, along with working with the Yemeni government to improve its human rights record and provide better services to its people, is designed to dry up the roots of the conflict.The officials spoke on condition of anonymity to discuss classified programs.The U.S. will provide some $300 million in military, humanitarian and development aid to Yemen this year, according to State Department counterterrorism coordinator Daniel Benjamin. About half of that is for military equipment and training, including some 50 special-operations trainers for Yemeni counterterror teams.</text>
+  <mention label="PETN" length="4" position="1156"/>
+  <mention label="CIA" length="3" position="1923"/>
+  <mention label="Taliban" length="7" position="3846"/>
+  <mention label="Boucek" length="6" position="2306"/>
+  <mention label="U.S." length="4" position="2435"/>
+  <mention label="U.S." length="4" position="3459"/>
+  <mention label="Carnegie Endowment for International Peace" length="42" position="2338"/>
+  <mention label="Yemen" length="5" position="2316"/>
+  <mention label="CIA" length="3" position="4365"/>
+  <mention label="Yemeni" length="6" position="4489"/>
+  <mention label="Brennan" length="7" position="407"/>
+  <mention label="Yemeni" length="6" position="3478"/>
+  <mention label="Yemeni" length="6" position="1303"/>
+  <mention label="U.S." length="4" position="4118"/>
+  <mention label="Yemen" length="5" position="1303"/>
+  <mention label="U.S." length="4" position="919"/>
+  <mention label="U.S." length="4" position="4759"/>
+  <mention label="Yemen" length="5" position="1041"/>
+  <mention label="al-Qaida" length="8" position="1053"/>
+  <mention label="al-Qaida" length="8" position="1310"/>
+  <mention label="U.S." length="4" position="3229"/>
+  <mention label="AQAP" length="4" position="2846"/>
+  <mention label="al-Qaida" length="8" position="2706"/>
+  <mention label="U.S." length="4" position="1567"/>
+  <mention label="Yemeni" length="6" position="3738"/>
+  <mention label="United States" length="13" position="684"/>
+  <mention label="Yemeni" length="6" position="419"/>
+  <mention label="Yemen" length="5" position="928"/>
+  <mention label="Yemeni" length="6" position="2976"/>
+  <mention label="Yemeni" length="6" position="4000"/>
+  <mention label="Ali Abdullah Saleh" length="18" position="436"/>
+  <mention label="Yemen" length="5" position="419"/>
+  <mention label="American" length="8" position="1696"/>
+  <mention label="Americans" length="9" position="1696"/>
+  <mention label="Afghanistan" length="11" position="3878"/>
+  <mention label="U.S." length="4" position="2090"/>
+  <mention label="al-Qaida" length="8" position="3110"/>
+  <mention label="Yemen" length="5" position="1973"/>
+  <mention label="Yemeni" length="6" position="823"/>
+  <mention label="Yemeni" length="6" position="3636"/>
+  <mention label="Barack Obama" length="12" position="2750"/>
+  <mention label="Yemen" length="5" position="823"/>
+  <mention label="U.S." length="4" position="55"/>
+  <mention label="U.S" length="3" position="55"/>
+  <mention label="Yemen" length="5" position="1843"/>
+  <mention label="U.S." length="4" position="4147"/>
+  <mention label="Boucek" length="6" position="4401"/>
+  <mention label="Yemen" length="5" position="1725"/>
+  <mention label="Arabian Peninsula" length="17" position="1069"/>
+  <mention label="Pakistan" length="8" position="3894"/>
+  <mention label="Yemeni" length="6" position="3270"/>
+  <mention label="Washington" length="10" position="1992"/>
+  <mention label="Saleh" length="5" position="449"/>
+  <mention label="Boucek" length="6" position="2496"/>
+  <mention label="Yemeni" length="6" position="3137"/>
+  <mention label="U.S." length="4" position="2893"/>
+  <mention label="Yemeni" length="6" position="2123"/>
+  <mention label="Yemen" length="5" position="2123"/>
+  <mention label="Saleh" length="5" position="2007"/>
+  <mention label="Yemen" length="5" position="87"/>
+  <mention label="Pentagon" length="8" position="4315"/>
+  <mention label="State Department" length="16" position="5318"/>
+  <mention label="U.S." length="4" position="1363"/>
+  <mention label="Obama" length="5" position="2642"/>
+  <mention label="U.S." length="4" position="2522"/>
+  <mention label="Brennan" length="7" position="230"/>
+  <mention label="Yemeni" length="6" position="354"/>
+  <mention label="Yemen" length="5" position="354"/>
+  <mention label="al-Qaida" length="8" position="609"/>
+  <mention label="Yemen" length="5" position="1647"/>
+  <mention label="U.S." length="4" position="1768"/>
+  <mention label="U.S." length="4" position="3048"/>
+  <mention label="John Brennan" length="12" position="225"/>
+  <mention label="U.S." length="4" position="1259"/>
+  <mention label="Yemen" length="5" position="244"/>
+  <mention label="U.S." length="4" position="3824"/>
+  <mention label="Yemeni" length="6" position="4978"/>
+  <mention label="Daniel Benjamin" length="15" position="5364"/>
+</item>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan MPs review collision behind row with ChinaMembers of Japan's parliament reviewed a video Monday showing a collision between a Chinese fishing boat and Japanese patrol vessels off disputed islands that has flared up into an emotional row between the two countries.The video, taken by the coast guard vessels involved, was shown to about 30 members of the lower house Budget Committee. It was reportedly about six minutes long. The video has not been made available to the public or other members of parliament.Japan's coast guard claims the captain of the Chinese ship refused to stop for an inspection and collided with its vessels. The captain was arrested and prosecutors considered pressing charges, but he was later released and sent back to China. The 14 crew members were released earlier.The screening of the video, considered as evidence in possible further legal action against the captain, has raised concerns that it could rekindle emotions over the incident. Prime Minister Naoto Kan has seen it, government officials said, but his ruling party is against opposition demands that it be made more widely available.The Sept. 7 incident sparked a high-level tiff with Beijing because it occurred in waters near a group of islands claimed by Japan and China in the East China Sea. Anger over the incident has generated several large anti-Japanese demonstrations across China.Called Diaoyu or Diaoyutai in Chinese and Senkaku in Japanese, the islands are controlled by Japan but also claimed by China. Located 120 miles (190 kilometers) east of Taiwan, the islands are surrounded by rich fishing grounds and are regularly occupied by nationalists from both sides.After the collision, China demanded an apology and compensation, but Tokyo countered by demanding that Beijing pay for damage to the patrol boats.Beijing cut off ministerial-level contacts with Japan, repeatedly called in Tokyo's ambassador to complain, and postponed talks on the joint development of undersea natural gas fields.China also detained four Japanese employees of a construction company suspected of entering a military zone without authorization, and quietly halted exports to Japan of rare earth elements, which are essential for making high-tech products.Bilateral relations are still uneasy.The two countries' prime ministers had an informal chat on the sidelines of a regional summit in Vietnam at the weekend, but stopped short of holding formal talks as planned.</text>
+  <mention label="Japanese" length="8" position="1352"/>
+  <mention label="China" length="5" position="1284"/>
+  <mention label="Chinese" length="7" position="132"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="Japan" length="5" position="515"/>
+  <mention label="Vietnam" length="7" position="2381"/>
+  <mention label="Chinese" length="7" position="1419"/>
+  <mention label="Japan" length="5" position="1352"/>
+  <mention label="Taiwan" length="6" position="1558"/>
+  <mention label="Tokyo" length="5" position="1745"/>
+  <mention label="Japanese" length="8" position="157"/>
+  <mention label="Beijing" length="7" position="1183"/>
+  <mention label="Japan" length="5" position="157"/>
+  <mention label="Beijing" length="7" position="1822"/>
+  <mention label="China" length="5" position="1508"/>
+  <mention label="China" length="5" position="1383"/>
+  <mention label="Budget Committee" length="16" position="372"/>
+  <mention label="China" length="5" position="1697"/>
+  <mention label="Japan" length="5" position="1442"/>
+  <mention label="Naoto Kan" length="9" position="992"/>
+  <mention label="Japanese" length="8" position="1442"/>
+  <mention label="Japan" length="5" position="1256"/>
+  <mention label="China" length="5" position="43"/>
+  <mention label="Tokyo" length="5" position="1898"/>
+  <mention label="East China Sea" length="14" position="1279"/>
+  <mention label="Beijing" length="7" position="1779"/>
+  <mention label="China" length="5" position="752"/>
+  <mention label="Chinese" length="7" position="561"/>
+  <mention label="Diaoyutai" length="9" position="1406"/>
+  <mention label="China" length="5" position="1266"/>
+  <mention label="Japan" length="5" position="59"/>
+</item>

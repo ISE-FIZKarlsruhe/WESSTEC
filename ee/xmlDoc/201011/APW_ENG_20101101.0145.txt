@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>China environmentalist Liang Congjie diesPioneering Chinese activist Liang Congjie, who helped found the country's first environmental organization, died last week at age 78.According to Friends of Nature, the group he helped founded, Liang passed away Oct. 28. Services for him will be held Tuesday at Beijing Shitian Hospital.Considered the first environmental nongovernmental organization to be legally recognized in China, Friends of Nature was created in 1994 by Liang and colleagues to raise public awareness about the country's vast array of environmental problems.Liang, a historian who worked and taught at the Academy for Chinese Culture, decided to set up the organization after hearing about the activities of international environmental groups like Greenpeace and realizing that China had no domestic equivalent.Friends of Nature has focused on the plight of endangered species like the Tibetan antelope and threatened forest lands, while working to raise environmental awareness at public schools and nurturing other environmental groups."Though we have achieved some important victories for nature, possibly FON's greatest achievement is helping to foster a growing network of grassroots environmental NGOs throughout China," the group said on its website.The group said Tuesday's ceremony for Liang will be "simple and plain." It said that flower arrangements will not be accepted. Mourners planning to attend services were told: "Please first consider taking public transport."------Friends of Nature: http://www.fon.org.cn</text>
+  <mention label="FON" length="3" position="1123"/>
+  <mention label="Liang" length="5" position="69"/>
+  <mention label="China" length="5" position="420"/>
+  <mention label="Tibetan" length="7" position="900"/>
+  <mention label="China" length="5" position="0"/>
+  <mention label="Beijing" length="7" position="303"/>
+  <mention label="Friends of Nature" length="17" position="187"/>
+  <mention label="Liang" length="5" position="235"/>
+  <mention label="Greenpeace" length="10" position="762"/>
+  <mention label="Liang" length="5" position="468"/>
+  <mention label="Liang" length="5" position="23"/>
+  <mention label="Chinese" length="7" position="52"/>
+  <mention label="China" length="5" position="1233"/>
+  <mention label="Friends of Nature" length="17" position="427"/>
+  <mention label="China" length="5" position="792"/>
+</item>

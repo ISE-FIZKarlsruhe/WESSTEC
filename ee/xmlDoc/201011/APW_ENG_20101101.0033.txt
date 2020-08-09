@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Former presidents throw out ceremonial 1st pitchFather and son George H.W. Bush and George W. Bush threw out the ceremonial first pitch Sunday in what Major League Baseball said was the first time two former presidents attended a World Series game.George W. Bush, the 43rd president, threw the pitch with his father, the 41st president, at his side. The elder Bush held a cane in his left hand and walked haltingly.The younger Bush is a familiar face at Rangers Ballpark, where he became controlling owner in April 1989 and relinquished the baseball position when he took over as Texas governor in 1995. His group owned the team until selling to Tom Hicks in 1998.</text>
+  <mention label="Texas" length="5" position="580"/>
+  <mention label="Major League Baseball" length="21" position="151"/>
+  <mention label="George W. Bush" length="14" position="248"/>
+  <mention label="Rangers Ballpark" length="16" position="454"/>
+  <mention label="George W. Bush" length="14" position="84"/>
+  <mention label="Bush" length="4" position="94"/>
+  <mention label="World Series" length="12" position="230"/>
+  <mention label="Bush" length="4" position="75"/>
+  <mention label="George H.W. Bush" length="16" position="63"/>
+  <mention label="Tom Hicks" length="9" position="646"/>
+</item>

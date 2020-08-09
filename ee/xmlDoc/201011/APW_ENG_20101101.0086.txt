@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Bumgarner pitches Giants to brink of Series crownMadison Bumgarner allowed three hits over eight innings, and Aubrey Huff and Buster Posey homered as San Francisco beat the Texas Rangers 4-0 on Sunday to move within one win of the Giants' first World Series title since 1954.Bumgarner, San Francisco's 21-year-old No. 4 starter, didn't allow a runner past second base as the Giants took a 3-1 lead in the best of seven series.The 21-year-old Bumgarner and closer Brian Wilson helped the Giants become the first team to post two shutouts in a World Series since Baltimore threw three straight to close out the Dodgers in 1966.Huff's two-run homer in the third inning gave Bumgarner all the support he needed. Posey added a solo shot in the eighth -- Bumgarner and Posey became the first rookie pair to start in the World Series since Spec Shea and Yogi Berra for the Yankees in 1947.Ace Tim Lincecum will try Monday to deliver the Giants' first championship since they moved to San Francisco in 1958. Now it's up to Cliff Lee to save the Rangers' season in Game 5.</text>
+  <mention label="Posey" length="5" position="133"/>
+  <mention label="Posey" length="5" position="708"/>
+  <mention label="Brian Wilson" length="12" position="463"/>
+  <mention label="Yogi Berra" length="10" position="847"/>
+  <mention label="Bumgarner" length="9" position="0"/>
+  <mention label="World Series" length="12" position="542"/>
+  <mention label="San Francisco" length="13" position="286"/>
+  <mention label="Giants" length="6" position="18"/>
+  <mention label="Bumgarner" length="9" position="671"/>
+  <mention label="Bumgarner" length="9" position="275"/>
+  <mention label="San Francisco" length="13" position="150"/>
+  <mention label="San Francisco" length="13" position="977"/>
+  <mention label="Madison Bumgarner" length="17" position="49"/>
+  <mention label="Texas Rangers" length="13" position="173"/>
+  <mention label="Giants" length="6" position="231"/>
+  <mention label="Giants" length="6" position="487"/>
+  <mention label="World Series" length="12" position="814"/>
+  <mention label="Giants" length="6" position="930"/>
+  <mention label="Aubrey Huff" length="11" position="110"/>
+  <mention label="Yankees" length="7" position="866"/>
+  <mention label="Dodgers" length="7" position="609"/>
+  <mention label="Bumgarner" length="9" position="57"/>
+  <mention label="Huff" length="4" position="117"/>
+  <mention label="Giants" length="6" position="375"/>
+  <mention label="Buster Posey" length="12" position="126"/>
+  <mention label="Bumgarner" length="9" position="442"/>
+  <mention label="Rangers" length="7" position="179"/>
+  <mention label="Baltimore" length="9" position="561"/>
+  <mention label="World Series" length="12" position="245"/>
+  <mention label="Tim Lincecum" length="12" position="886"/>
+  <mention label="Cliff Lee" length="9" position="1015"/>
+</item>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Nauru elects president after 8-month deadlockThe tiny Pacific island nation of Nauru re-elected its president Monday and lifted a state of emergency that was imposed to keep government services operating during months of political deadlock.Parliament re-elected Marcus Stephen as president, defeating opposition lawmaker Milton Dube 11 to 6 in a secret ballot.The vote also ended the state of emergency that has allowed the government to continue in office since late June, after two general elections earlier produced the same result -- a parliament deadlocked with nine seats for both government and opposition.Stephen said it was a great day for Nauru now that both Parliament and government "could function properly."Nauru, an island republic of 12,000 people and just 4,400 voters, has fallen on hard times. Previous governments' mismanagement lost the hundreds of millions of dollars in compensation paid by former colonial powers Britain, Australia and New Zealand for stripping the island of its phosphate deposits, used for fertilizer.The political deadlock began eight months ago when three former government lawmakers sided with the opposition and tried to pass a no-confidence motion against the Stephen government, which failed and led to the indecisive general elections.Two weeks ago the nation's Supreme Court ruled in favor of Stephen and his government after an opposition challenge to the legality of the state of emergency.Government spokesman Rod Henshaw said the court's decision had been one of the keys to resolving the deadlock as it "took the wind out of the sails of the opposition."</text>
+  <mention label="Stephen" length="7" position="613"/>
+  <mention label="Nauru" length="5" position="0"/>
+  <mention label="Marcus Stephen" length="14" position="262"/>
+  <mention label="Nauru" length="5" position="79"/>
+  <mention label="Milton Dube" length="11" position="321"/>
+  <mention label="Stephen" length="7" position="269"/>
+  <mention label="New Zealand" length="11" position="960"/>
+  <mention label="Nauru" length="5" position="649"/>
+  <mention label="Supreme Court" length="13" position="1312"/>
+  <mention label="Britain" length="7" position="937"/>
+  <mention label="Pacific" length="7" position="54"/>
+  <mention label="Nauru" length="5" position="721"/>
+  <mention label="Parliament" length="10" position="240"/>
+  <mention label="Australia" length="9" position="946"/>
+  <mention label="Stephen" length="7" position="1208"/>
+</item>

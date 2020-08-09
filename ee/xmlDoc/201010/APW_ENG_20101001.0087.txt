@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Simon Pegg, Michael Fassbender among ' Fable '  castPeter Molyneux is upgrading the star power of his next "Fable."The creative director of Microsoft Game Studios Europe has tapped Simon Pegg, Michael Fassbender, John Cleese and other actors to lend their accents to "Fable III," the third chapter of Lionhead Studios' role-playing saga set in the fictional realm of Albion. Pegg, who played Scotty in "Star Trek," will voice an attention-seeking soldier named Benn Finn."These people have really never come together before in any medium," Molyneux said. "For a lot of them, this is their first computer game they've ever done. Heading the cast is John Cleese, one of the founding fathers of 'Monty Python.' He's made fantastic films like 'Life of Brian' and the TV series 'Fawlty Towers.' He's just a brilliant and incredible actor."Cleese plays Jasper, a persnickety butler who guides the player along their journey to dethrone a tyrannical ruler named Logan, voiced by "Inglourious Basterds" actor Fassbender. Other voices will include Bernard Hill as the player's faithful mentor, Nicholas Hoult as a potential love interest and Naomie Harris as the leader of a rebel movement.Zoe Wanamaker and Stephen Fry will also reprise their "Fable II" roles.------Online:</text>
+  <mention label="Naomie Harris" length="13" position="1133"/>
+  <mention label="Pegg" length="4" position="6"/>
+  <mention label="Bernard Hill" length="12" position="1039"/>
+  <mention label="John Cleese" length="11" position="648"/>
+  <mention label="Stephen Fry" length="11" position="1199"/>
+  <mention label="Jasper" length="6" position="847"/>
+  <mention label="Albion" length="6" position="367"/>
+  <mention label="Simon Pegg" length="10" position="0"/>
+  <mention label="Scotty" length="6" position="392"/>
+  <mention label="Zoe Wanamaker" length="13" position="1181"/>
+  <mention label="Molyneux" length="8" position="58"/>
+  <mention label="Michael Fassbender" length="18" position="193"/>
+  <mention label="Nicholas Hoult" length="14" position="1085"/>
+  <mention label="Inglourious Basterds" length="20" position="973"/>
+  <mention label="Peter Molyneux" length="14" position="52"/>
+  <mention label="Cleese" length="6" position="218"/>
+  <mention label="Lionhead Studios" length="16" position="301"/>
+  <mention label="Michael Fassbender" length="18" position="12"/>
+  <mention label="John Cleese" length="11" position="213"/>
+  <mention label="Logan" length="5" position="955"/>
+  <mention label="Fassbender" length="10" position="20"/>
+  <mention label="Simon Pegg" length="10" position="181"/>
+</item>

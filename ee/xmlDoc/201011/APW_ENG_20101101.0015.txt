@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Democrats see hope for gaining Alaska Senate seatDemocrats believe they can secure their first all-Democratic Senate delegation from Alaska in 40 years, with their once-overlooked nominee making a late charge and claiming the momentum is in his favor in a heated three-way contest.One major show of faith: The Democratic Senatorial Campaign Committee has poured more than $160,000 into the race, most of that late as candidate Scott McAdams has worked to convince independents and on-the-fence Democrats that he can beat U.S. Sen. Lisa Murkowski, and Republican primary winner Joe Miller, a favorite of the ultraconservative tea party movement who is backed by former Alaska Gov. Sarah Palin. Murkowski is running as an independent write-in candidate."We believe that Scott McAdams actually has a real chance of winning this race. Mr. Miller has obviously plummeted because it's about ideology versus about Alaska," New Jersey Sen. Robert Menendez, chairman of the DSCC, said Sunday on ABC television.Former President Bill Clinton also recorded a robocall for McAdams, which went out Sunday.Part of what's turned more Democrats into believers is the dynamics of the hotly contested race that analysts and staffers for the campaigns see as capable of going to any of the three major contenders. Part, too, lies with McAdams proving he's more than the token candidate that even some of the party faithful took him for when he won the nomination in August.His campaign says it has all the resources it needs to win. But can he peak in time to pull off a victory Tuesday?Republicans -- Murkowski included -- say no."The idea the Democratic senatorial candidate would have a real chance at winning is laughable," said state Republican spokesman Casey Reynolds. He points to early voting and absentee numbers that show Republicans "absolutely blowing the Democrats away." The Republican Party is backing Miller, whose defeat of Murkowski in the primary prompted her write-in run.Murkowski likewise dismissed McAdams' talk of momentum, calling it too little, too late.McAdams believes he holds an advantage over Murkowski in that his name will be on the ballot and not subject to the potential challenges that write-in votes may be."I think Monday will be a big tipping point," state Democratic party chair Patti Higgins said.McAdams became the candidate after the Democrats failed to put up a nominee to run against Murkowski at their state convention in May. McAdams, who was leading the convention in his hometown of Sitka, where he was mayor, impressed so many there that they encouraged him to run. He filed his papers on June 1, the last day of qualifying.His shoestring campaign raised less than $17,000 and barely drew interest during the primary, which was overshadowed by the fight between Miller and Murkowski.The two Republicans have exchanged barbs in a tit-for-tat during much of the race. McAdams has tried to keep out of the fray and quietly go about building a grassroots network, taking his message directly to the people and running at-times cheeky ads to help introduce him to a statewide audience and show how he's different than his opponents.McAdams has filled town halls and raised more than $1 million, all while touting support for Democratic positions that some candidates this cycle have run from, including the federal stimulus plan and efforts to overhaul health, abortion rights, and equal rights for gays and lesbians."Scott's not preaching, he's just honest" about his positions, said spokeswoman Heather Handyside, who described his town halls and meet-and-greets as "game changers" for some who attend.Democratic U.S. Sen. Mark Begich, who's headlined fundraisers for McAdams and lent staff to his campaign, said there's no "phoney baloney stuff" with McAdams. "I've become a believer, far beyond, he's just a Democrat."McAdams' campaign believes it's done everything it could have -- avoided major stumbles, fared well in debates and raised enough money to stay on the airwaves in the race's waning days.Murkowski argues that Alaska would have the most junior delegation in the Senate if either McAdams or Miller wins. But Begich, who won election in 2008, believes the state could benefit from having two Democratic voices lobbying a Democratic White House -- and fellow lawmakers -- for Alaska interests, such as the opening of the Arctic National Wildlife Refuge for oil development."It's all about relationships," he said, noting that seniority is helpful for things like office and parking spaces and getting exclusive invitations to events. "It's about getting in there, being engaged and showing you are willing to work overtime."Alaska hasn't had two Democrats in the Senate since the late 1960s, when there was Ernest Gruening and Bob Bartlett. Nationally, Democrats are also hoping for pickups in at least two other states, Kentucky and Missouri, but polls show their candidates trailing.Alaska polls have been all over the place, in part, because of the challenges in polling for a write-in candidate. But there have been momentum shifts, too. Miller, considered early the one to beat, has had to acknowledge he and his family received the types of government benefits he's raised questions about as a limited-government advocate, and this past week, records released from his time as a borough attorney showed he admitted to lying about improperly using government computers in 2008.There's the question, too, of whether people will vote for strategic reasons -- to guard against, say, either Miller or Murkowski winning -- or based on their values.Marie McMillan, 41, of Juneau, said she's gone from seeing McAdams as a candidate picked to "fill space" to one she now sees after having heard him speak as representing her values, willing to protect Social Security and work to build up Alaska's infrastructure.</text>
+  <mention label="McAdams" length="7" position="774"/>
+  <mention label="Ernest Gruening" length="15" position="4749"/>
+  <mention label="Alaska" length="6" position="133"/>
+  <mention label="Missouri" length="8" position="4876"/>
+  <mention label="Democrat" length="8" position="0"/>
+  <mention label="McAdams" length="7" position="2319"/>
+  <mention label="Democrats" length="9" position="0"/>
+  <mention label="McAdams" length="7" position="2061"/>
+  <mention label="Murkowski" length="9" position="1922"/>
+  <mention label="U.S." length="4" position="521"/>
+  <mention label="Republicans" length="11" position="2822"/>
+  <mention label="Alaska" length="6" position="907"/>
+  <mention label="Senate" length="6" position="4107"/>
+  <mention label="Scott McAdams" length="13" position="768"/>
+  <mention label="McAdams" length="7" position="3848"/>
+  <mention label="McAdams" length="7" position="2454"/>
+  <mention label="Murkowski" length="9" position="536"/>
+  <mention label="Republicans" length="11" position="1567"/>
+  <mention label="Republican" length="10" position="1567"/>
+  <mention label="Alaska" length="6" position="31"/>
+  <mention label="Alaska" length="6" position="668"/>
+  <mention label="Lisa Murkowski" length="14" position="531"/>
+  <mention label="Democratic Senatorial Campaign Committee" length="40" position="310"/>
+  <mention label="Republicans" length="11" position="1813"/>
+  <mention label="New Jersey" length="10" position="916"/>
+  <mention label="Senate" length="6" position="38"/>
+  <mention label="Miller" length="6" position="4135"/>
+  <mention label="Sarah Palin" length="11" position="680"/>
+  <mention label="McAdams" length="7" position="1060"/>
+  <mention label="McAdams" length="7" position="1315"/>
+  <mention label="Scott McAdams" length="13" position="427"/>
+  <mention label="Murkowski" length="9" position="1582"/>
+  <mention label="Robert Menendez" length="15" position="932"/>
+  <mention label="Republican" length="10" position="551"/>
+  <mention label="Bob Bartlett" length="12" position="4769"/>
+  <mention label="Murkowski" length="9" position="2105"/>
+  <mention label="Democrats" length="9" position="1849"/>
+  <mention label="McAdams" length="7" position="433"/>
+  <mention label="Democrats" length="9" position="49"/>
+  <mention label="Alaska" length="6" position="4927"/>
+  <mention label="Alaska" length="6" position="4666"/>
+  <mention label="Democratic" length="10" position="310"/>
+  <mention label="Murkowski" length="9" position="693"/>
+  <mention label="Murkowski" length="9" position="1973"/>
+  <mention label="U.S." length="4" position="3641"/>
+  <mention label="Democrats" length="9" position="2358"/>
+  <mention label="DSCC" length="4" position="965"/>
+  <mention label="McAdams" length="7" position="3780"/>
+  <mention label="Miller" length="6" position="581"/>
+  <mention label="Miller" length="6" position="835"/>
+  <mention label="Mark Begich" length="11" position="3651"/>
+  <mention label="Murkowski" length="9" position="4033"/>
+  <mention label="Joe Miller" length="10" position="577"/>
+  <mention label="Begich" length="6" position="3656"/>
+  <mention label="Alaska" length="6" position="4055"/>
+  <mention label="McAdams" length="7" position="3158"/>
+  <mention label="Democratic" length="10" position="1625"/>
+  <mention label="Sitka" length="5" position="2513"/>
+  <mention label="McAdams" length="7" position="2002"/>
+  <mention label="McAdams" length="7" position="2897"/>
+  <mention label="Democrats" length="9" position="1118"/>
+  <mention label="Alaska" length="6" position="4318"/>
+  <mention label="ABC" length="3" position="986"/>
+  <mention label="Democrats" length="9" position="4688"/>
+  <mention label="Miller" length="6" position="5084"/>
+  <mention label="Republican Party" length="16" position="1870"/>
+  <mention label="Murkowski" length="9" position="2410"/>
+  <mention label="Democrats" length="9" position="494"/>
+  <mention label="Senate" length="6" position="110"/>
+  <mention label="Democratic" length="10" position="99"/>
+  <mention label="Juneau" length="6" position="5613"/>
+  <mention label="Miller" length="6" position="1898"/>
+  <mention label="Democratic" length="10" position="2277"/>
+  <mention label="Miller" length="6" position="2793"/>
+  <mention label="Democratic party" length="16" position="2277"/>
+  <mention label="Bill Clinton" length="12" position="1018"/>
+  <mention label="McAdams" length="7" position="3696"/>
+  <mention label="Kentucky" length="8" position="4863"/>
+  <mention label="Murkowski" length="9" position="2804"/>
+</item>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Police block sex abuse survivors near VaticanItalian paramilitary police have blocked a boulevard leading to the Vatican to prevent a march by some 100 survivors of clergy sex abuse from reaching St. Peter's Square, but later allowed two protesters to leave letters from the abused at the Holy See's doorstep.The two also left a dozen stones near the obelisk in St. Peter's square Sunday to mark a symbolic path so other survivors might know they have company in their suffering.The candlelit protest was the first significant demonstration in the shadow of the Vatican by people who had been raped and molested by priests as children, and organizers said it would be repeated until the Holy See takes decisive action to ensure children are safe."Today what began as quiet whispers are whispers no more," organizer Gary Bergeron told the crowd, which included about 55 deaf Italians from a notorious Catholic institute for the deaf in Verona where dozens of students say they were sodomized by priests.Organizers had tried to stage the march on Vatican soil but were forced to hold it nearby after the Holy See denied permission. It is standard Vatican practice to ban non-Vatican-sponsored events from St. Peter's Square.Sunday's protest kicked off with the unexpected arrival of the Vatican spokesman, the Rev. Federico Lombardi, who said he had wanted to greet the organizers and had prepared a statement he hoped to read. He beat a hasty retreat to his office after a protester shouted "Shame, shame" in Italian.Lombardi said later he left when he saw "it wasn't going to be easy" to meet with the organizers.Bergeron met with Lombardi later inside his Vatican office and told him that abuse survivors had been "waiting a lifetime to be able to stand up and speak out."After the demonstration, Bergeron accompanied several other survivors to speak with Lombardi and tell them their stories. They said they asked Lombardi to pass along their request to speak with other Vatican officials; Lombardi said he listened to their concerns and reasons for gathering.The event, which aimed to show survivors worldwide that they are not alone, was organized by Bergeron and Bernie McDaid, who were abused by the same Boston priest starting when they were in the sixth grade. The two became some of the most prominent victims to speak out in the United States after the clerical abuse scandal erupted in their native Boston in 2002.McDaid was the first victim to meet with Pope Benedict XVI when the pontiff visited the United States in 2008.Bergeron and McDaid organized the rally after the scandal erupted anew on a global scale earlier this year, with revelations of thousands of victims in Europe and beyond, of bishops who covered up for pedophile priests and of Vatican officials who turned a blind eye to the crimes. They are seeking to have the United Nations designate systematic sexual abuse of children as a crime against humanity.About 100 survivors from a dozen countries -- Italy, Britain, the United States, Ireland, the Netherlands and Australia among others -- took part in Sunday's protest, although they seemed outnumbered by journalists and police.After Bergeron and McDaid spoke, large torches were handed out to the other survivors, many of whom wore T-shirts that read "Enough!" in English, Italian and German. The crowd, some toting signs that read "Hands off children," approached a line of carabinieri police, who blocked them from marching toward St. Peter's.Eventually, Bergeron and another protester were escorted by police as they carried thick candles to the edge of the square. Vatican security guards accompanied them to the foot of the staircase leading to the Apostolic Palace's bronze entrance doors.According to Bergeron's account, the two deposited the sealed letters from survivors addressed to the pope at the foot of the stairs, and after their passports were examined they were accompanied to the obelisk in the middle of the square. There they left a dozen stones in a pile -- in the same way hikers leave piles of stones along mountain paths to show others that someone has been there before."The journey of a survivor is one step at a time. This is one step," Bergeron said after he had deposited the letters. "Today was very powerful for many survivors. This is the first time that a group of survivors this large has come together, and people have listened in Italy. In Italy! That's success to me."At a briefing before the march, participants stood up one by one to tell how their lives had been destroyed by the abuse they suffered as children. Many recounted years of drug and alcohol addiction, eating disorders and other psychological and emotional problems."For 50 years I thought I was the only person in the entire world that had been abused by a Catholic priest," said Sue Cox, 63, from Warwickshire, Britain. She clarified herself: "Raped by a Catholic priest, not abused, because what he did was rape me and rape is different.""It's taken 50 years for me to find my voice. But now I've found it, I want to continue to speak on behalf of people who maybe aren't able to speak or have not yet been able to face the fear and the guilt and shame that survivors feel."Cox said she was raped in her bedroom when she was 13 by a priest who had been filling in for her parish priest and had been staying at her parents' home. Her mother discovered what had happened immediately -- her nightgown was torn, she was bleeding -- but did nothing, and instead told Cox to pray for the priest."I felt sacrificial," she said. "I wanted to die."By 15 she was an alcoholic, by 17 she had entered into a violent marriage. By 30 she was clean, and now at 63 is confronting what she calls the final piece of her recovery -- "the hardest bit" -- speaking out about her abuse.The pope has admitted the church failed to take sufficient measures to stop the abuse and has apologized to victims during several foreign trips. He has said victims were the church's top priority, although the Holy See itself has not initiated any wide outreach programs.Lombardi, the Vatican spokesman, said in the statement he had intended to read to the protesters that, while he didn't share all of their positions, there were points for consensus. He said he hoped the demonstrators could see in the church an ally in the broader fight to end child sexual abuse wherever it occurs."Of course, we must continue to do more. And your cry today is an encouragement to do more," he said. "But a large part of the church is already on the good path. The major part of the crimes belongs to times bygone. Today's reality and that of tomorrow are more beckoning. Let us help one another to journey together in the right direction," he said.</text>
+  <mention label="Vatican" length="7" position="1285"/>
+  <mention label="Catholic" length="8" position="900"/>
+  <mention label="Bergeron" length="8" position="1798"/>
+  <mention label="United Nations" length="14" position="2846"/>
+  <mention label="Vatican" length="7" position="1045"/>
+  <mention label="Vatican" length="7" position="1173"/>
+  <mention label="Bergeron" length="8" position="3742"/>
+  <mention label="Catholic" length="8" position="4894"/>
+  <mention label="Italy" length="5" position="2981"/>
+  <mention label="Vatican" length="7" position="38"/>
+  <mention label="Verona" length="6" position="935"/>
+  <mention label="Lombardi" length="8" position="1322"/>
+  <mention label="Boston" length="6" position="2211"/>
+  <mention label="Italian" length="7" position="45"/>
+  <mention label="Bergeron" length="8" position="3491"/>
+  <mention label="Britain" length="7" position="2988"/>
+  <mention label="United States" length="13" position="2339"/>
+  <mention label="Federico Lombardi" length="17" position="1313"/>
+  <mention label="Vatican" length="7" position="1973"/>
+  <mention label="Catholic" length="8" position="4795"/>
+  <mention label="Pope Benedict XVI" length="17" position="2466"/>
+  <mention label="United States" length="13" position="3001"/>
+  <mention label="Vatican" length="7" position="562"/>
+  <mention label="Italy" length="5" position="4400"/>
+  <mention label="Bergeron" length="8" position="820"/>
+  <mention label="Italy" length="5" position="4410"/>
+  <mention label="Lombardi" length="8" position="1992"/>
+  <mention label="Bergeron" length="8" position="1613"/>
+  <mention label="Lombardi" length="8" position="1857"/>
+  <mention label="St. Peter" length="9" position="196"/>
+  <mention label="Ireland" length="7" position="3016"/>
+  <mention label="Cox" length="3" position="4822"/>
+  <mention label="Bergeron" length="8" position="3167"/>
+  <mention label="Lombardi" length="8" position="1631"/>
+  <mention label="United States" length="13" position="2513"/>
+  <mention label="Cox" length="3" position="5214"/>
+  <mention label="Netherlands" length="11" position="3029"/>
+  <mention label="Italians" length="8" position="874"/>
+  <mention label="Italian" length="7" position="1508"/>
+  <mention label="Bergeron" length="8" position="2155"/>
+  <mention label="St. Peter" length="9" position="362"/>
+  <mention label="Lombardi" length="8" position="1516"/>
+  <mention label="English" length="7" position="3298"/>
+  <mention label="Warwickshire" length="12" position="4836"/>
+  <mention label="Australia" length="9" position="3045"/>
+  <mention label="Boston" length="6" position="2410"/>
+  <mention label="Italian" length="7" position="874"/>
+  <mention label="Bergeron" length="8" position="2535"/>
+  <mention label="German" length="6" position="3319"/>
+  <mention label="McDaid" length="6" position="2548"/>
+  <mention label="Lombardi" length="8" position="1916"/>
+  <mention label="Britain" length="7" position="4850"/>
+  <mention label="Vatican" length="7" position="113"/>
+  <mention label="Europe" length="6" position="2687"/>
+  <mention label="McDaid" length="6" position="2175"/>
+  <mention label="Vatican" length="7" position="1145"/>
+  <mention label="Vatican" length="7" position="1657"/>
+  <mention label="McDaid" length="6" position="2425"/>
+</item>

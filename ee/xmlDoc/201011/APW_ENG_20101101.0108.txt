@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Donna Murphy plans a Broadway return in AprilDonna Murphy will star in a new Broadway musical next year written by the best-selling author of "Beaches."Two-time Tony Award winner Murphy will play two roles in "The People in the Picture," a young woman in pre-World War II Poland and a grandmother 40 years later.The story and lyrics are by Iris Rainer Dart, whose "Beaches" became a movie starring Bette Midler. The show's music is by Mike Stoller who did the same for "Smokey Joe's Cafe," and Artie Butler, who has worked with Barbra Streisand and Dionne Warwick.The Roundabout Theatre Company will produce the new musical. Previews begin April 1 at the American Airlines Theatre, with the official opening set for April 28.Murphy won Tonys for "Passion" and "The King and I."</text>
+  <mention label="Murphy" length="6" position="6"/>
+  <mention label="Donna Murphy" length="12" position="45"/>
+  <mention label="Bette Midler" length="12" position="398"/>
+  <mention label="Iris Rainer Dart" length="16" position="340"/>
+  <mention label="Murphy" length="6" position="51"/>
+  <mention label="Poland" length="6" position="272"/>
+  <mention label="Dionne Warwick" length="14" position="549"/>
+  <mention label="Donna Murphy" length="12" position="0"/>
+</item>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Dailey &amp;  Vincent win entertainer of the yearDailey &amp; Vincent won entertainer of the year for the third straight time at the International Bluegrass Music Association Awards on Thursday night.Propelled by the success of two albums, including "Vincent &amp; Dailey Sing The Statler Brothers," the group won five awards at Ryman Auditorium.Jamie Dailey told the crowd that before every performance he and Darrin Vincent gather their players at the front of the bus and remind them of the mission."A lot of people might have cancer, might be sick, might have financial trouble, marital trouble, any kind of trouble you can imagine, so we tell the guys it is our jobs to go in there for that hour and a half, hour and 45 minutes and make their troubles go away," Vincent said.The group was the leading nominee with 10 and joins nine-time entertainer of the year winner The Del McCoury Band as the only recipients of more than two of the IBMA's top award. Michael Cleveland &amp; Flamekeeper won three awards, and The Gibson Brothers and Adam Steffey won two each.Dailey &amp; Vincent also won vocal group of the year for the third straight time, album of the year and graphic design for "The Statler Brothers," and recorded event of the year for "Give This Message To Your Heart."They performed their nominated song, "Elizabeth," with its songwriter, Jimmy Flowers of The Statler Brothers. Dailey told the crowd later in the show how it was that song that started him on a path to the Ryman stage."I remember the first time I heard Jimmy Flowers sing 'Elizabeth' and I knew that's what I wanted to do," he said.Russell Moore, who was nominated for six awards with his band IIIrd Tyme Out, won male vocalist for the third time in his career and the first time since 1997."I want to thank you for voting for me," Moore said. "Shoot, I'll even thank the ones who didn't vote for me."It's also been a long time for female vocalist winner Claire Lynch."I haven't won one of these since the 1900s," the 1997 winner joked.Cleveland and his band kept a couple of impressive streaks rolling. Cleveland won fiddle player of the year for the eighth time, tying Stuart Duncan's record, and the fifth time in a row. And the group as a whole won instrumental group of the year for the fourth straight time. The band added a third trophy when Marshall Wilborn won bass player of the year for the second time.The Gibson Brothers won two awards for "Ring The Bell" -- song of the year and gospel recorded performance of the year.Adam Steffey, the solo performer and mandolin player in The Dan Tyminski Band, also won two awards -- instrumental recorded performance for "Durang's Hornpipe" and mandolin player of the year for the sixth time.Other players who took home trophies included Rob Ickes, who added to his record as the most honored instrumentalist with his 12th dobro player of the year award; Kristen Scott Benson, banjo player of the year winner for the third straight time; and Josh Williams, guitar player of the year for the third consecutive year.This year's IBMA Hall of Fame inductees were honored as well -- the late John Hartford, a singer-songwriter and banjo and fiddle player, and the late Louise Scruggs, the pioneering business manager and wife of Earl Scruggs.The show included performances by Dierks Bentley and an all-star band, who opened the show with his new song, "Fiddlin' Around." And Bentley joined Scruggs and his sons, Gary and Randy, on stage to play The Carter Family's, "You Are My Flower.""We asked Dierks to be here because his first name is real bluegrass-y," Gary Scruggs said.Alison Krauss, Dan Tyminski, The Whites and others saluted the 10th anniversary of the "O Brother, Where Art Thou?" soundtrack with a medley of songs that helped bring new attention to bluegrass and roots music. Krauss sang "Down To The River To Pray," The Whites played "Keep On The Sunny Side" and Tyminski sang "I Am A Man Of Constant Sorrow," the movie's show-stopper, to some of the loudest cheers of the night.------Online:</text>
+  <mention label="Josh Williams" length="13" position="2957"/>
+  <mention label="Cleveland" length="9" position="1999"/>
+  <mention label="Moore" length="5" position="1603"/>
+  <mention label="Dailey" length="6" position="0"/>
+  <mention label="Tyminski" length="8" position="2560"/>
+  <mention label="Rob Ickes" length="9" position="2753"/>
+  <mention label="Durang" length="6" position="2637"/>
+  <mention label="Krauss" length="6" position="3594"/>
+  <mention label="Vincent" length="7" position="10"/>
+  <mention label="Alison Krauss" length="13" position="3587"/>
+  <mention label="Dierks" length="6" position="3286"/>
+  <mention label="John Hartford" length="13" position="3102"/>
+  <mention label="Dierks Bentley" length="14" position="3286"/>
+  <mention label="Gary" length="4" position="3422"/>
+  <mention label="Bentley" length="7" position="3293"/>
+  <mention label="Stuart Duncan" length="13" position="2134"/>
+  <mention label="The Statler Brothers" length="20" position="265"/>
+  <mention label="Statler Brothers" length="16" position="269"/>
+  <mention label="Elizabeth" length="9" position="1302"/>
+  <mention label="Gibson Brothers" length="15" position="1005"/>
+  <mention label="Randy" length="5" position="3431"/>
+  <mention label="Earl Scruggs" length="12" position="3239"/>
+  <mention label="Dan Tyminski" length="12" position="2556"/>
+  <mention label="Cleveland" length="9" position="955"/>
+  <mention label="Claire Lynch" length="12" position="1918"/>
+  <mention label="Scruggs" length="7" position="3186"/>
+  <mention label="Russell Moore" length="13" position="1595"/>
+  <mention label="Ryman" length="5" position="317"/>
+  <mention label="The Gibson Brothers" length="19" position="1001"/>
+</item>

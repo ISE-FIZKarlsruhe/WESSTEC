@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>3 C ' s for Paris cars: Clean, Cheap and ChinaAt the Paris auto show, the car market's fortunes appear to come down to three C's: clean, cheap and China.The world's most-visited and oldest car show offered a sneak peak to the media on Thursday, with automakers presenting their new product aimed at tapping a badly awaited rebound after two years of global recession doused their industry.With things tight for many consumers, companies are pushing smaller, less expensive cars.But economics hasn't been all: Environmental concerns have become paramount too. Many countries are demanding cleaner cars, and automakers have to balance that obligation with consumer tastes and cost constraints.Hybrids and other fuel-efficient, lower-emission vehicles took front seat as CEOs and other top executives strolled out onto well-lit stages to trumpet their engineering innovations and long-term strategies.Hope springs eternal at auto shows, and some say the market is finally looking up."Certainly it is more optimistic because we've had a couple of terrible years with the global recession," said market analyst Rebecca Lindland, of IHS Automotive. "We are seeing a lot of pent-up demand being created as the recession continues."While other economies lagged, China has displayed an imperturbably booming economy, pulling ahead of the United States as the world's biggest car market -- "and they are not going to get off that title anytime soon," Lindland said. She estimated that about 10 percent of Chinese have driver's licenses, meaning the upside market potential remains huge.Ian Robertson, BMW's sales and marketing chief, said the German company expects to top its forecast to sell 120,000 cars in China this year. Peugeot will make a third of its new 508 sedans in China, with targeted sales in its first year of 200,000, said PSA Peugeot-Citroen CEO Philippe Varin. Ferrari sold 250 cars in China and aims to increase sales to 500, chairman Luca Cordero de Montezemolo said.Others struggled to contain their glee about China."In China, we are all growing in high double digits -- in our case triple digits," Daimler CEO Dieter Zetsche said. "In some segments, competition is extremely fierce in pricing. It's amazing."The two-week show brings together 306 companies -- including manufacturers, suppliers and other industry participants -- from 20 nations. Notably, high-potential markets like China and India aren't among them.One novelty at this Paris show compared to the last one in 2008 is so-called so-called "micro-cars" -- two-seater city vehicles that are all the rage in Asia, said Sarwant Singh, a automotive market analyst at Frost &amp; Sullivan.Peugeot's BB1 concept, Nissan's Land Glider and the Renault Twizy are among these half-car/half-motorcycle contraptions on the forefront of the trend, Singh said."They're basically smaller Smarts," Singh said, referring to Daimler's get-around-town vehicle. The trend is being driven by urbanization, and it's moving from Asia to Europe. Frost &amp; Sullivan forecasts sales of these micro-cars to grow to up to 500,000 by 2016, up from only 30,000 last year.On the green front, the agency also predicts that "alternative fuel" cars, which includes electrics, hybrids and others, will grow to up to 30 percent of the overall car market by 2020, up from under 10 percent today. Electrics will account for 7 percent of the market by 2020, its forecasters say.Show organizers say about one-third of the 100 or so new models presented in Paris this year are either hybrids or electrics.Even Ferrari is showing more environmental conscience. It has finetuned its California model, to cut carbon emissions by 10 percent from levels when it was launched two years ago in Paris. Of course, it is a sports car -- so the emissions are still 270 grams of carbon dioxide per kilometer -- and Ferrari says its priority is not compromising performance.Peugeot is preparing to launch its 3008 diesel hybrid and begin selling its iOn electric car. Other ready-to-roll green cars on show include Mitsubishi's i-MiEV and the Nissan Leaf.CEO Carlos Ghosn presented Renault's Zoe electric concept car, which is planned to go on sale -- in some form -- in 2012. He said it should account for two-thirds of Renault's expected 500,000 electric sales per year by 2020.In the gee-whiz category, the Zoe will come free of door handles: its doors open with a touch of the hand or finger: think a computer's or mobile-phone's touch screen.Renault also showed off the three electric cars it will launch next year, the Fluence ZE, the Kangoo ZE and the Twizy, a two-seater that looks like a cross between a Smart and a large motorcycle.Ghosn said reducing the dependence on gasoline was "the big challenge" that can be met only if many customers are drawn to electric cars -- and if the infrastructure to charge them up is in place."It's our wish to create an electric car, a product that's simple to use, simple to charge. A dependable product. And it must especially be affordable for everyone," he said.Other automakers are putting cost efficiencies -- through economies of scale -- atop their list of announced priorities.Ford is making the Focus its world car, hoping to make some 2 million vehicles off the same platform a year to reap economies of scale. Before, the U.S. giant had a strategy of regionalized versions of the car."I feel really good about where we are and where we are going and I'm so pleased that we chose to invest during the harshest of times," Ford's CEO Alan Mulally said.Mulally said Ford has restructured, is operating profitably despite the lower demand and "actually accelerated" the development of its new vehicles "so we are right here, right now for the consumers as we come back."Global car production fell 17 percent over 2008 and 2009, dropping to 57 million vehicles last year. "Cash-for-clunkers" schemes introduced after the economic crisis helped support European car makers and their suppliers, but now that they're being withdrawn growth is stalling in the region.Some companies are also thinking alliances to save costs in the increasingly competitive and globalized industry. Daimler's Zetsche said the company may share a small-car platform with Infiniti, Nissan's luxury brand.Daimler is already in a 6-month-old alliance with Renault and Nissan, and Zetsche said the partnership will help the German manufactuter expand its small car lineup. The two automakers are working on a common platform for the Smart and the Twingo.Car sales in Europe will drop to 17.7 million this year from 18.2 million in 2009, according to J.D. Power Automotive Forecasting, which expects sales to stagnate around that level next year as well.Production will rebound to its pre-crisis level of 69 million vehicles this year, PricewaterhouseCooper's Autofacts consultancy predicts, but nearly all that growth will come from China and North America.By 2020, electric vehicle production is likely to hit only 1.5 million units, Autofacts said, as the infrastructure to recharge the cars' batteries, as well as the batteries' costs and limits to their autonomy hold back wider adoption of the cars by consumers.------Eds: Associated Press Writer Jamey Keaten contributed to this report.</text>
+  <mention label="Renault" length="7" position="4100"/>
+  <mention label="Paris" length="5" position="3718"/>
+  <mention label="Daimler" length="7" position="6147"/>
+  <mention label="Renault" length="7" position="4239"/>
+  <mention label="Paris" length="5" position="12"/>
+  <mention label="Zetsche" length="7" position="6157"/>
+  <mention label="Zoe" length="3" position="4110"/>
+  <mention label="Alan Mulally" length="12" position="5507"/>
+  <mention label="Mulally" length="7" position="5512"/>
+  <mention label="Renault" length="7" position="2710"/>
+  <mention label="Associated Press" length="16" position="7171"/>
+  <mention label="China" length="5" position="147"/>
+  <mention label="California" length="10" position="3612"/>
+  <mention label="Paris" length="5" position="2451"/>
+  <mention label="Ford" length="4" position="5150"/>
+  <mention label="Asia" length="4" position="2584"/>
+  <mention label="Asia" length="4" position="2980"/>
+  <mention label="China" length="5" position="1700"/>
+  <mention label="Europe" length="6" position="5922"/>
+  <mention label="Ian Robertson" length="13" position="1576"/>
+  <mention label="Paris" length="5" position="3488"/>
+  <mention label="Ford" length="4" position="5538"/>
+  <mention label="Europe" length="6" position="2988"/>
+  <mention label="European" length="8" position="5922"/>
+  <mention label="China" length="5" position="41"/>
+  <mention label="Peugeot" length="7" position="1834"/>
+  <mention label="Singh" length="5" position="2603"/>
+  <mention label="Paris" length="5" position="53"/>
+  <mention label="Peugeot" length="7" position="1717"/>
+  <mention label="BMW" length="3" position="1591"/>
+  <mention label="PSA Peugeot-Citroen" length="19" position="1830"/>
+  <mention label="U.S." length="4" position="5298"/>
+  <mention label="United States" length="13" position="1329"/>
+  <mention label="Dieter Zetsche" length="14" position="2124"/>
+  <mention label="Daimler" length="7" position="2881"/>
+  <mention label="Daimler" length="7" position="2112"/>
+  <mention label="Ferrari" length="7" position="1870"/>
+  <mention label="Mitsubishi" length="10" position="4033"/>
+  <mention label="Chinese" length="7" position="1495"/>
+  <mention label="Lindland" length="8" position="1114"/>
+  <mention label="Ferrari" length="7" position="3541"/>
+  <mention label="Nissan" length="6" position="6228"/>
+  <mention label="Zetsche" length="7" position="2131"/>
+  <mention label="China" length="5" position="2397"/>
+  <mention label="German" length="6" position="6367"/>
+  <mention label="China" length="5" position="6876"/>
+  <mention label="Nissan" length="6" position="4061"/>
+  <mention label="Carlos Ghosn" length="12" position="4077"/>
+  <mention label="China" length="5" position="1895"/>
+  <mention label="China" length="5" position="2023"/>
+  <mention label="India" length="5" position="2407"/>
+  <mention label="China" length="5" position="1254"/>
+  <mention label="IHS" length="3" position="1127"/>
+  <mention label="Peugeot" length="7" position="2658"/>
+  <mention label="German" length="6" position="1633"/>
+  <mention label="North America" length="13" position="6886"/>
+  <mention label="Zoe" length="3" position="4328"/>
+  <mention label="Daimler" length="7" position="6250"/>
+  <mention label="China" length="5" position="1768"/>
+  <mention label="Ghosn" length="5" position="4084"/>
+  <mention label="China" length="5" position="2033"/>
+  <mention label="Renault" length="7" position="4465"/>
+  <mention label="Singh" length="5" position="2809"/>
+  <mention label="Ford" length="4" position="5496"/>
+  <mention label="Nissan" length="6" position="2681"/>
+</item>

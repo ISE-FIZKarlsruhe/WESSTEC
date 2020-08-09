@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Obama meets with freed hiker Sarah ShourdPresident Barack Obama has met at the White House with Sarah Shourd, the hiker recently freed by Iran, and with her mother and the mothers of the other two American hikers still held by the Iranians.The White House said Obama told them his administration will continue to do everything it can to secure the release of Shane Bauer and Josh Fattal. They've been held in Iran for more than a year.The White House says the president wanted to personally welcome Sarah Shourd home. But Obama told the visitors Thursday the occasion "remains bittersweet" because Bauer and Fattal are still being held in Iran.A White House statement said the U.S. "remains hopeful that Iran will demonstrate renewed compassion" and release the two Americans.</text>
+  <mention label="Obama" length="5" position="261"/>
+  <mention label="U.S." length="4" position="677"/>
+  <mention label="Iran" length="4" position="231"/>
+  <mention label="White House" length="11" position="79"/>
+  <mention label="Obama" length="5" position="0"/>
+  <mention label="Bauer" length="5" position="365"/>
+  <mention label="Sarah Shourd" length="12" position="96"/>
+  <mention label="Shane Bauer" length="11" position="359"/>
+  <mention label="American" length="8" position="197"/>
+  <mention label="Iran" length="4" position="138"/>
+  <mention label="Iranians" length="8" position="231"/>
+  <mention label="Sarah Shourd" length="12" position="29"/>
+  <mention label="Americans" length="9" position="766"/>
+  <mention label="Fattal" length="6" position="380"/>
+  <mention label="Iran" length="4" position="639"/>
+  <mention label="Iran" length="4" position="409"/>
+  <mention label="Barack Obama" length="12" position="51"/>
+  <mention label="Obama" length="5" position="58"/>
+  <mention label="Sarah Shourd" length="12" position="499"/>
+</item>

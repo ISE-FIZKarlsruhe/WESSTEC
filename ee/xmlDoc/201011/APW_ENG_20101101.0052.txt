@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan MPs review collision behind spat with ChinaMembers of Japan's parliament have reviewed a video showing a collision between a Chinese fishing boat and Japanese patrol vessels off disputed islands that has flared up into an emotional row between the two countries.The video, taken by the Coast Guard vessels involved, was shown Monday to about 30 members of the lower house Budget Committee. It was reportedly about 6 minutes long. The video has not been made available to the public or other members of parliament.Japan's coast guard claims the captain of the Chinese ship refused to stop for an inspection and collided with its vessels. The captain was arrested as prosecutors considered pressing charges, but he was later released and sent back to China.</text>
+  <mention label="Chinese" length="7" position="565"/>
+  <mention label="Chinese" length="7" position="131"/>
+  <mention label="Japanese" length="8" position="156"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="China" length="5" position="755"/>
+  <mention label="Japan" length="5" position="60"/>
+  <mention label="Japan" length="5" position="156"/>
+  <mention label="China" length="5" position="44"/>
+  <mention label="Budget Committee" length="16" position="378"/>
+  <mention label="Coast Guard" length="11" position="292"/>
+</item>

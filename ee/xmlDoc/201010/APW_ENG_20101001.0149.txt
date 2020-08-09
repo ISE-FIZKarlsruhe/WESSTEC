@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>HP board ' s selection of new CEO raises new doubtsHewlett-Packard Co.'s board upset many investors when it forced out Mark Hurd as CEO nearly two months ago. Now, those directors appear to have baffled Wall Street with its selection of HP's new leader -- Leo Apotheker, who lost his job running German business software maker SAP earlier this year after he didn't live up to expectations.Thursday's announcement caught almost everyone off guard, causing HP's shares to slip back into a funk that began in early August after the board ousted the well-regarded Hurd amid allegations of sexual harassment and deceptive expense reports.Most analysts had expected HP to hire from within, or tap an outsider with a more impressive resume than Apotheker's."I thought it would be difficult for HP to hire an outsider and have its stock to go down, but this board seems to have found a way," Gleacher &amp; Co. analyst Brian Marshall said.HP shares fell $1.21, or 2.9 percent, in Thursday's extended trading. Before Apotheker's hiring was announced, the stock closed the regular session at $42.07, down 46 cents.The market value of the world's largest technology company has been sagging since Hurd was shown the door, intensifying the pressure on HP's board to find a CEO who would restore investor confidence.Apotheker, a 57-year-old German, spent most of his career at SAP AG before being promoted to CEO in April 2008. He lasted less than two years in the position. SAP decided not to renew his contract when it expired nearly eight months ago, largely because SAP's financial performance faltered after Apotheker raised the fees that the company's customers paid to maintain and upgrade software."SAP's customer relationships suffered badly and so did employee morale while (Apotheker) was there, so this is a bit of an odd choice by HP," said software analyst Paul Hamerman of Forrester Research.But HP's board is confident it found the right man for the job."Leo is a strategic thinker with a passion for technology, wide-reaching global experience and proven operational discipline -- exactly what we were looking for in a CEO," said Robert Ryan, the lead independent director on HP's board.HP also named Ray Lane, another candidate for the CEO position, as its non-executive chairman.Lane, 63, is currently a partner at renowned venture capital firm, Kleiner Perkins Caufield &amp; Byers, but he is best known in Silicon Valley as the former chief operating officer at SAP rival Oracle Corp.Although he was hailed for helping Oracle recover from an accounting scandal, Lane was dumped by the company's mercurial CEO, Larry Ellison, a decade ago.In an ironic twist, Ellison hired Hurd as his top lieutenant after publicly blasting HP's board for forcing him out of his job."This looks like a mixed bag," Marshall said. "On one hand, Ray Lane is the real deal and should do wonders for that board. But on the other end, there is no getting around the fact that SAP pretty much fired (Apotheker)."The decision to give Apotheker another shot at being a CEO may renew questions about the competency of HP's board, predicted Stephen Diamond, a Santa Clara University associate professor of law specializing in corporate governance. Besides its decision to jettison Hurd, HP's board had previously come under fire for spying on the phone records of journalists and other directors."It looks like the board almost punted this decision," Diamond said. "This doesn't look like a very stable, long-term solution for the company."Since leaving SAP, Apotheker said he has been enjoying some time off and consulting with companies. He is scheduled to take over HP's helm Nov. 1.Although it's a large company, SAP's emphasis on business software means it has a much narrower focus than HP. Carrying out a strategy crafted by Hurd, HP is trying to build upon its leadership in personal computers and printers by expanding into technology services, data storage and security.In a Thursday interview, Apotheker said he would start off with a "listening tour" and rely heavily on HP's current management team to help him get a better handle on a company that employees more than 300,000 people."HP has such a broad portfolio of products that I don't think there is a single human being on the planet that would know them all and be an expert in all of them," Apotheker said.While he was at SAP, Apotheker concentrated on the sales side of the business instead of the engineering that went into the company's products, according to analysts."He is good at sales execution, but he never had a real clear road map on innovation," Hamerman, the Forrester analyst, said. "This may signal that HP is interested in making more software acquisitions."SAP also is based in Germany, creating the potential for some cultural adjustments as Apotheker tries to adapt to HP ways that have been shaped during a 71-year history in the freewheeling Silicon Valley.That's where Lane could help: He has been in Silicon Valley for the past two decades. In an interview, Lane said he has known Apotheker for 20 years and intends to ensure the new CEO has the "support system" he needs to succeed.Lane also said he doesn't get any special satisfaction from chairing the board of a company that is increasingly competing against Oracle."It's irrelevant," Lane said. "Oracle is a partner and a competitor, just like IBM, just like SAP. I think we are going to have the same relationship with have with Oracle as we have with everyone else."Todd Bradley, who oversees HP's personal computer decision, had been widely considered to be HP's top internal candidate. Although Bradley is bound to be disappointed about being passed over, Marshall expects him to remain at HP.Wall Street probably would have been happier if Hurd had remained as CEO, given that the company's market value nearly doubled during his five-year reign. But HP said he violated the company's ethics policies -- the very guidelines he helped tighten after the telephone surveillance scandal broke four years ago.Hurd was found to have submitted inaccurate expense reports for his dinners with HP marketing contractor, Jodie Fisher. She accused Hurd of sexual harassment, which kick-started an investigation by HP that uncovered the expense reports. Hurd insists he didn't prepare his own reports, and that Fisher's name wasn't intentionally left off.Fisher and Hurd settled out of court for an undisclosed sum. Hurd, 53, is now in line to make more than $10 million in salary and bonuses during the first year of his new job at Oracle.</text>
+  <mention label="Apotheker" length="9" position="3976"/>
+  <mention label="Ray Lane" length="8" position="2825"/>
+  <mention label="Leo" length="3" position="256"/>
+  <mention label="Hurd" length="4" position="5767"/>
+  <mention label="Brian Marshall" length="14" position="907"/>
+  <mention label="Germany" length="7" position="4738"/>
+  <mention label="Lane" length="4" position="2562"/>
+  <mention label="Lane" length="4" position="2829"/>
+  <mention label="SAP" length="3" position="2952"/>
+  <mention label="Hurd" length="4" position="6031"/>
+  <mention label="Apotheker" length="9" position="260"/>
+  <mention label="Leo Apotheker" length="13" position="256"/>
+  <mention label="SAP" length="3" position="4364"/>
+  <mention label="Ray Lane" length="8" position="2201"/>
+  <mention label="SAP" length="3" position="1553"/>
+  <mention label="Apotheker" length="9" position="2975"/>
+  <mention label="Hurd" length="4" position="6163"/>
+  <mention label="Apotheker" length="9" position="4369"/>
+  <mention label="SAP" length="3" position="1690"/>
+  <mention label="Lane" length="4" position="2205"/>
+  <mention label="Marshall" length="8" position="913"/>
+  <mention label="Apotheker" length="9" position="1299"/>
+  <mention label="Hurd" length="4" position="1182"/>
+  <mention label="SAP" length="3" position="2462"/>
+  <mention label="Hewlett-Packard Co." length="19" position="51"/>
+  <mention label="Oracle Corp" length="11" position="2472"/>
+  <mention label="Silicon Valley" length="14" position="4906"/>
+  <mention label="Lane" length="4" position="5024"/>
+  <mention label="Stephen Diamond" length="15" position="3112"/>
+  <mention label="German" length="6" position="1324"/>
+  <mention label="Santa Clara University" length="22" position="3131"/>
+  <mention label="German" length="6" position="296"/>
+  <mention label="Hurd" length="4" position="3252"/>
+  <mention label="SAP" length="3" position="1458"/>
+  <mention label="Fisher" length="6" position="6325"/>
+  <mention label="Hurd" length="4" position="560"/>
+  <mention label="Apotheker" length="9" position="1596"/>
+  <mention label="Diamond" length="7" position="3120"/>
+  <mention label="Larry Ellison" length="13" position="2610"/>
+  <mention label="Ellison" length="7" position="2616"/>
+  <mention label="Lane" length="4" position="4934"/>
+  <mention label="Apotheker" length="9" position="3530"/>
+  <mention label="SAP" length="3" position="327"/>
+  <mention label="SAP" length="3" position="3525"/>
+  <mention label="Apotheker" length="9" position="3008"/>
+  <mention label="SAP" length="3" position="1360"/>
+  <mention label="SAP AG" length="6" position="1360"/>
+  <mention label="Robert Ryan" length="11" position="2130"/>
+  <mention label="Forrester Research" length="18" position="1871"/>
+  <mention label="Hurd" length="4" position="3803"/>
+  <mention label="Apotheker" length="9" position="1768"/>
+  <mention label="Apotheker" length="9" position="4333"/>
+  <mention label="Marshall" length="8" position="2796"/>
+  <mention label="Apotheker" length="9" position="1004"/>
+  <mention label="Silicon Valley" length="14" position="2406"/>
+  <mention label="Silicon Valley" length="14" position="4966"/>
+  <mention label="Hurd" length="4" position="6380"/>
+  <mention label="SAP" length="3" position="3688"/>
+  <mention label="Apotheker" length="9" position="738"/>
+  <mention label="Lane" length="4" position="2281"/>
+  <mention label="SAP" length="3" position="4717"/>
+  <mention label="Bradley" length="7" position="5495"/>
+  <mention label="Hurd" length="4" position="2672"/>
+  <mention label="IBM" length="3" position="5366"/>
+  <mention label="Jodie Fisher" length="12" position="6137"/>
+  <mention label="Hurd" length="4" position="124"/>
+  <mention label="Hurd" length="4" position="6268"/>
+  <mention label="Fisher" length="6" position="6143"/>
+  <mention label="Mark Hurd" length="9" position="119"/>
+</item>

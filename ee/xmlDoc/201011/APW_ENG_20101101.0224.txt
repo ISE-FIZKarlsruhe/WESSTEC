@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Polish tall ship arrives at UK harbor after stormCoast guards say that a group of teenage sailors from Poland have arrived safely in the U.K. after their tall ship was battered by a storm.The Fryderyk Chopin lost both its masts when it was hit by gale-force winds about 100 miles (160 kilometers) southwest of the English coast on Friday. With the 182-foot (56-meter) -long vessel immobilized, nearby ships rushed in to tow it to safety.The boat is a sail training vessel and its crew of 47 is mostly made up of 14-year-old sailors. The teens have spent an uncomfortable weekend at sea, but the Maritime and Coastguard Agency said Monday that the ship was now secured to a buoy in southwest England's Falmouth harbor.The agency says the teens are now being taken off the ship.</text>
+  <mention label="Poland" length="6" position="103"/>
+  <mention label="England" length="7" position="691"/>
+  <mention label="Falmouth" length="8" position="701"/>
+  <mention label="Polish" length="6" position="0"/>
+  <mention label="English" length="7" position="314"/>
+  <mention label="U.K." length="4" position="137"/>
+  <mention label="UK" length="2" position="28"/>
+  <mention label="Fryderyk Chopin" length="15" position="192"/>
+</item>

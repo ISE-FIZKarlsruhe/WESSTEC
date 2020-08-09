@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ryanair 1H profits rise 17 pct as fares rise 12 pcRyanair says its first-half net profit has risen 17 percent to (EURO)451.9 million ($628 million) as the budget airline raises its average ticket prices and grows its business along the Mediterranean.The airline said Monday its average fare rose 12 percent to (EURO)44 ($61) versus the same April-September period a year ago as increased operations in Spain, Portugal and Malta paid off. The fare figure excludes Ryanair's industry-leading practice of adding hefty extra charges for luggage and credit-card use.Sales rose 23 percent to (EURO)2.18 billion ($3 billion), the number of passengers rose 10 percent to 40.1 million, and Ryanair's cash reserves rose 7.5 percent to (EURO)3.03 billion ($4.2 billion).</text>
+  <mention label="Mediterranean" length="13" position="236"/>
+  <mention label="Portugal" length="8" position="409"/>
+  <mention label="Malta" length="5" position="422"/>
+  <mention label="Ryanair" length="7" position="50"/>
+  <mention label="Ryanair" length="7" position="0"/>
+  <mention label="Spain" length="5" position="402"/>
+  <mention label="Ryanair" length="7" position="463"/>
+</item>

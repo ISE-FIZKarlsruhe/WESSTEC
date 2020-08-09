@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Landis prominent in New Zealand tourDisgraced cyclist Floyd Landis has finished fourth after the second stage of New Zealand's Tour of Southland to sit fourth on general classification after the first day of the six-day race.Landis' Orca Velo Merino team finished well back in the tour-opening 8.42-kilometer (5.3-mile) teams' time trial, but the American was more at home in the afternoon's hilly 81.6-kilometer (51-mile) second stage Monday.He raced prominently on the leg between Invercargill -- New Zealand's southernmost city -- and the port of Bluff, finishing 1 minute, 2 seconds behind stage winner Jeremy Yates of New Zealand.Landis won the 2006 Tour de France but was later disqualified when doping tests showed an abnormally high level of testosterone. He admitted his drug use earlier this year and has since become an outspoken critic of doping in sport.Yates wore the tour-leader's yellow jersey at the end of the first day, leading compatriots Jack Bauer and Olympic silver medalist Hayden Roulston.Landis was more than a minute off Yates' lead, but still in a challenging positions with seven stages remaining in the nine-stage tour. He finished 40th on general classification when he contested the race for the first time last year.</text>
+  <mention label="Tour de France" length="14" position="655"/>
+  <mention label="Yates" length="5" position="614"/>
+  <mention label="New Zealand" length="11" position="623"/>
+  <mention label="Yates" length="5" position="867"/>
+  <mention label="Landis" length="6" position="0"/>
+  <mention label="Landis" length="6" position="225"/>
+  <mention label="Hayden Roulston" length="15" position="998"/>
+  <mention label="Olympic" length="7" position="974"/>
+  <mention label="Tour of Southland" length="17" position="127"/>
+  <mention label="Invercargill" length="12" position="483"/>
+  <mention label="American" length="8" position="347"/>
+  <mention label="Jeremy Yates" length="12" position="607"/>
+  <mention label="Jack Bauer" length="10" position="959"/>
+  <mention label="New Zealand" length="11" position="499"/>
+  <mention label="New Zealand" length="11" position="113"/>
+  <mention label="Floyd Landis" length="12" position="54"/>
+  <mention label="Landis" length="6" position="60"/>
+  <mention label="Landis" length="6" position="635"/>
+  <mention label="New Zealand" length="11" position="20"/>
+</item>

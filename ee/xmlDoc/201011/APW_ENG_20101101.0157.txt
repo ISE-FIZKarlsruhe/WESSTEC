@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Death toll from Iraqi church siege rises to 39Iraqi officials say the death toll from a bloody siege of a Baghdad church has risen to 39 dead and dozens injured.Officials said at least one priest and nine policemen were among the dead. Many of the wounded were women.The information came from police and officials at hospitals where the dead and wounded were taken. They spoke on condition of anonymity because they were not authorized to speak to the media.Attackers stormed the Baghdad church Sunday evening during a church service, taking about 120 people hostage. They were later freed by Iraqi forces who stormed the building after a four-hour standoff.</text>
+  <mention label="Iraqi" length="5" position="593"/>
+  <mention label="Iraqi" length="5" position="16"/>
+  <mention label="Baghdad" length="7" position="480"/>
+  <mention label="Iraqi" length="5" position="46"/>
+  <mention label="Baghdad" length="7" position="106"/>
+</item>

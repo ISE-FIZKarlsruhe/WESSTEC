@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Swann injures thumb in 1st training sessionEngland spinner Graeme Swann suffered an injury to his right thumb while batting during the team's first full training session in Australia ahead of the Ashes series.Swann applied strapping to his thumb Monday but an England spokesman said the injury wasn't serious and the 31-year-old Swann remained available for the match against Western Australia state starting Friday.England paceman Stuart Broad also dismissed any concerns surrounding the injury, saying "it's just a bit of precautionary strapping, I don't think he's in any trouble at all."The first of five Ashes tests begins Nov. 25 in Brisbane. England won the last series 2-1 in England last year but has not won a series Down Under since 1986-87.</text>
+  <mention label="England" length="7" position="260"/>
+  <mention label="Australia" length="9" position="173"/>
+  <mention label="Swann" length="5" position="0"/>
+  <mention label="Swann" length="5" position="66"/>
+  <mention label="England" length="7" position="416"/>
+  <mention label="Western Australia" length="17" position="376"/>
+  <mention label="England" length="7" position="684"/>
+  <mention label="England" length="7" position="43"/>
+  <mention label="England" length="7" position="649"/>
+  <mention label="Swann" length="5" position="209"/>
+  <mention label="Brisbane" length="8" position="639"/>
+  <mention label="Graeme Swann" length="12" position="59"/>
+  <mention label="Stuart Broad" length="12" position="432"/>
+</item>

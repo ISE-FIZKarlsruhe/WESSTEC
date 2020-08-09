@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Obscenity, whale snot take top honors at Ig NobelsNext time you crush your thumb with a hammer and you're in extreme pain, go ahead, let fly with every filthy obscenity you know.It really does help.At least according to Richard Stephens and his students, who earned a 2010 Ig Nobel prize, the award handed out by the Annals of Improbable Research magazine for silly sounding scientific discoveries that often have surprisingly practical applications.This year's winners include scientists who developed a way to collect whale snot using a remote-control helicopter; doctors from New Zealand who found that wearing socks on the outside of your shoes reduces the chances of slipping on ice; and researchers from China and the U.K. who examined the sex life of fruit bats.The 20th anniversary edition of the Ig Nobel awards ceremony was being held Thursday night at Harvard University.The theme this year was bacteria. There was the world premiere of "The Bacterial Opera," about bacteria that live on a woman's front tooth, and door prizes for all 1,200 attendees: bacteria (it was on the tickets).As usual, real Nobel laureates were on hand to give out the prizes.Stephens, a lecturer in psychology at Keele University in the United Kingdom, was inspired by some painful experiences suffered by his own family. A few years ago, after smacking his hand with a hammer and blurting out a choice expletive, he felt much better.About the same time, his wife gave birth to their daughter.During a particularly long and difficult labor, she let loose with a few words that would have made a sailor blush.She later apologized, but the midwife waved off the blue language."She said 'We hear that all the time,'" Stephens said.However, Stephens didn't whack his subjects with a hammer."We had to find a stimulus that was painful but not harmful," he said.The test subjects dunked their hands in a bucket of ice cold water to see how long they could hold it there. People with potty mouth were able to hold their hands in the water longer."What we think is when you swear you produce an emotional reaction in yourself, you arouse your nervous system and you set off the fight or flight response," Stephens said. "It gets the heart rate up, gets the adrenaline flowing."Dr. Lianne Parkin and her colleagues found a way to avoid pain in the first place -- wear socks over your shoes to prevent slipping on ice.As a family physician, Parkin has seen some nasty injuries caused by falls. She also lives in Dunedin, New Zealand, where steep streets can turn treacherous in the winter. The Dunedin area is home to Baldwin Street, known as "The Steepest Street in the World."Parkin, now a senior lecturer in epidemiology at the University of Otago, decided over tea with colleagues to conduct the study after discussing friends who wore socks over their shoes.They gathered a group of their students, had some don external socks and walk down icy streets. Sure enough, those wearing socks on the outside got better traction."Obviously our research was lighthearted, albeit related to an underlying important public health issue -- falls, so we think (winning an Ig Nobel) is fun," Parkin said via e-mail.So for, however, the research has not sparked a winter fashion revolution.Karina Acevedo-Whitehouse, Agnes Rocha-Gosselin and Diane Gendron won the engineering Ig Nobel for their novel way of gathering whale snot.They used a small remote-control helicopter with petri dishes attached to the landing skids to catch "exhaled breath condensate" -- that stuff that sprays out of a marine mammal's blow hole. The bacteria found in the blow can give clues about the whale's health.Dutch researchers Simon Rietveld and Ilja van Beest won for investigating how rollercoaster rides affect asthma sufferers. They found that stress, such as at the start of a rollercoaster ride, can cause asthmatics to think they are suffering symptoms even if they are not.As usual, most winners of the dubious award were more than happy to be the butt of a little fun at the expense of their serious scientific work. And as usual, there were some holdouts.This year's economics Ig Nobel went to executives and directors at Goldman Sachs, AIG, Lehman Brothers, Bear Stearns et al for their creative investment techniques that brought the global economy to its knees.Annals of Improbable Research editor Marc Abrahams tried to invite representatives from the companies to the ceremony (those that still exist at least) and hit a brick wall."We made a few attempts but soon realized it probably would not be possible," he said. "They never responded, not even with a 'No thank you.'"</text>
+  <mention label="Stephens" length="8" position="1163"/>
+  <mention label="China" length="5" position="710"/>
+  <mention label="University of Otago" length="19" position="2709"/>
+  <mention label="United Kingdom" length="14" position="1225"/>
+  <mention label="Marc Abrahams" length="13" position="4362"/>
+  <mention label="New Zealand" length="11" position="579"/>
+  <mention label="New Zealand" length="11" position="2499"/>
+  <mention label="Dutch" length="5" position="3660"/>
+  <mention label="Dunedin" length="7" position="2572"/>
+  <mention label="Richard Stephens" length="16" position="220"/>
+  <mention label="Harvard University" length="18" position="863"/>
+  <mention label="U.K." length="4" position="724"/>
+  <mention label="Nobel" length="5" position="276"/>
+  <mention label="Improbable Research" length="19" position="327"/>
+  <mention label="Ig Nobel" length="8" position="273"/>
+  <mention label="Goldman Sachs" length="13" position="4183"/>
+  <mention label="Parkin" length="6" position="2268"/>
+  <mention label="Ig Nobels" length="9" position="41"/>
+  <mention label="Keele University" length="16" position="1201"/>
+  <mention label="Ig Nobel" length="8" position="41"/>
+  <mention label="Lehman Brothers" length="15" position="4203"/>
+  <mention label="AIG" length="3" position="4198"/>
+  <mention label="Parkin" length="6" position="2656"/>
+  <mention label="Nobel" length="5" position="44"/>
+  <mention label="Baldwin Street" length="14" position="2596"/>
+  <mention label="Stephens" length="8" position="228"/>
+  <mention label="Ig Nobel" length="8" position="805"/>
+  <mention label="Nobel" length="5" position="808"/>
+  <mention label="Stephens" length="8" position="1702"/>
+  <mention label="Bear Stearns" length="12" position="4220"/>
+  <mention label="Stephens" length="8" position="1725"/>
+  <mention label="Parkin" length="6" position="2419"/>
+  <mention label="Dunedin" length="7" position="2490"/>
+</item>

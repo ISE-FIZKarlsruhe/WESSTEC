@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>UN chopper crash lands in Pakistan; 3 hurtOfficials say a U.N. helicopter has crash-landed in southern Pakistan while delivering food for flood victims.Three people of the 13 on board suffered minor injuries.The forced landing occurred Friday morning when the chopper, which was loaded with high-energy biscuts from the U.N.'s World Food Program, got off balance as it tried to settle on the ground in the Dadu area of Sindh province.WFP spokesman Amjad Jamal says those on board included Pakistanis and foreigners. The wounded are being taken to Karachi via a rescue helicopter.The U.N. has ramped up its aid program in Pakistan following this summer's floods, which have left at least 1.8 million homeless. Many affected areas are hard to reach.</text>
+  <mention label="WFP" length="3" position="434"/>
+  <mention label="Pakistan" length="8" position="489"/>
+  <mention label="Pakistan" length="8" position="26"/>
+  <mention label="UN" length="2" position="0"/>
+  <mention label="Dadu" length="4" position="406"/>
+  <mention label="U.N." length="4" position="583"/>
+  <mention label="Karachi" length="7" position="547"/>
+  <mention label="U.N." length="4" position="320"/>
+  <mention label="Sindh" length="5" position="419"/>
+  <mention label="U.N." length="4" position="58"/>
+  <mention label="Pakistan" length="8" position="103"/>
+</item>

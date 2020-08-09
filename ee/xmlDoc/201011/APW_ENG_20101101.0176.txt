@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Indian police bust elephant smuggling ringIndian police busted an elephant smuggling ring in the northeastern state of Assam, arresting five people and seizing three wild elephants, two of them calves, authorities said Monday.Documents seized during the operation Sunday night showed the gang had been engaged in the illegal elephant trade for years, smuggling at least 92 elephants from the state to other parts of India over the past five years, said P. K. Dutta, superintendent of police in Kokrajhar, a district in the west of Assam.Selling elephants is barred under Indian law and even getting permission to move domesticated elephants between states is a lengthy and complicated procedure.Regardless, authorities say there remains a thriving trade in elephants, with many wealthy landowners in the states of Bihar and Uttar Pradesh buying the elephants as status symbols.Authorities say the elephants are usually transported by truck. The smugglers are suspected of colluding with forestry officials, who have checkpoints along the major roads to prevent this type of smuggling.The police investigated the ring after a local conservation group, the Green Heart Nature Club, filed a written complaint last week, Dutta said.After a three-day operation, authorities arrested five people and took custody of the three wild elephants, which did not have the identifying microchip implants required of all domesticated elephants, he said.The group planned to smuggle as many as 10 elephants out in its latest operation, Dutta said.The smugglers regularly captured wild elephants from the forests of Assam, trained them for a year or two, and then claimed they were the offspring of the state's many domestic elephants, Dutta said.Wildlife authorities in Assam, home to more than 5,000 wild Asiatic elephants, denied the existence of the illegal elephant trade."We are examining the matter, but I can say there is no smuggling of elephants out of Assam," said Suresh Chand, the state's chief wildlife warden.</text>
+  <mention label="Dutta" length="5" position="1217"/>
+  <mention label="India" length="5" position="0"/>
+  <mention label="Indian" length="6" position="0"/>
+  <mention label="Kokrajhar" length="9" position="494"/>
+  <mention label="Bihar" length="5" position="814"/>
+  <mention label="Indian" length="6" position="42"/>
+  <mention label="Dutta" length="5" position="459"/>
+  <mention label="Assam" length="5" position="119"/>
+  <mention label="Dutta" length="5" position="1520"/>
+  <mention label="Uttar Pradesh" length="13" position="824"/>
+  <mention label="Assam" length="5" position="531"/>
+  <mention label="Asiatic" length="7" position="1790"/>
+  <mention label="Assam" length="5" position="1599"/>
+  <mention label="Indian" length="6" position="571"/>
+  <mention label="Assam" length="5" position="1754"/>
+  <mention label="Assam" length="5" position="1946"/>
+</item>

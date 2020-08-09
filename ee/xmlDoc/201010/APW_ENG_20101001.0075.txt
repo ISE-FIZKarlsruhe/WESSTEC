@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>`Fall of Giants '  grand in scope, scale and story"Fall of Giants: Book One of The Century Trilogy" (Dutton, $36), by Ken Follett: First -- and perhaps most important -- Ken Follett's latest historical novel, "Fall of Giants," is big. At nearly 1,000 pages, it sweeps grandly across continents -- from Russia and Germany, England and America; eight families; and more than a decade in time.Like his 1989 novel, "The Pillars of the Earth," and its 2007 sequel, "World Without End," Follett's latest work is epic in scale, meticulously researched and deftly weaves together historical fact, fictional characters and engrossing storytelling.It begins in South Wales on Billy Williams' 13th birthday -- his first day following his father into the coal mines where he begins his life as an apprentice collier. And it ends with a sort of reversal of fortune as Billy proclaims: "Fellow workers ... We are the future!"In the hundreds of pages in between, Follett takes readers on an intricate journey through World War I, the Russian Revolution and women's struggle for voting rights.The best part of the novel is its characters. Follett creates realistic and empathetic -- if not entirely beloved -- men and women. He draws them in ways that are compelling and thought-provoking, and somehow, despite their number, easily remembered. It's a delight to see their world through their eyes -- whether they're American politicians, Austrian diplomats or Welsh union organizers.The book's primary shortcoming is the vast amount of words and pages devoted to the intricacies of the battles of World War I. Somewhere approaching midway through, Follett overindulges in well-worn battlefield scenes: "The ground was littered with corpses in khaki, some of them horribly mangled, some lying peacefully as if asleep, some intertwined like lovers." For several hundred pages, he loses his razor-sharp focus on the story and his multidimensional characters and gives in to filling pages with the ugliness of war.Follett proclaims on the cover that "Fall of Giants" is "Book One of The Century Trilogy," and, despite its girth, this fat on an otherwise lean novel made it feel like he had pages to fill.------Online:</text>
+  <mention label="South Wales" length="11" position="651"/>
+  <mention label="Welsh" length="5" position="1444"/>
+  <mention label="Ken Follett" length="11" position="170"/>
+  <mention label="Dutton" length="6" position="101"/>
+  <mention label="Follett" length="7" position="1123"/>
+  <mention label="England" length="7" position="322"/>
+  <mention label="Austrian" length="8" position="1422"/>
+  <mention label="Follett" length="7" position="481"/>
+  <mention label="Russia" length="6" position="302"/>
+  <mention label="Russian Revolution" length="18" position="1019"/>
+  <mention label="America" length="7" position="334"/>
+  <mention label="Follett" length="7" position="174"/>
+  <mention label="American" length="8" position="1400"/>
+  <mention label="Follett" length="7" position="948"/>
+  <mention label="Billy Williams" length="14" position="666"/>
+  <mention label="World Without End" length="17" position="461"/>
+  <mention label="Ken Follett" length="11" position="118"/>
+  <mention label="Follett" length="7" position="122"/>
+  <mention label="Germany" length="7" position="313"/>
+  <mention label="Billy" length="5" position="666"/>
+</item>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Islamic militant killed in southern RussiaPolice say an Islamic militant has been killed in a shootout in Russia's volatile southern province of Dagestan.Regional Interior Ministry spokesman Vyacheslav Gasanov said police shot the militant dead Friday after he holed up in a house in Dagestan's capital, Makhachkala.The Itar Tass news agency reported that the militant was identified as a 21-year-old man suspected of killing military and police officers.The predominantly Muslim and ethnically diverse province has been plagued with violence stemming from two separatist wars in neighboring Chechnya.Human rights groups and opposition blame federal forces and police for extrajudicial killings, arrests and torture that fuel the violence.</text>
+  <mention label="Russia" length="6" position="36"/>
+  <mention label="Dagestan" length="8" position="284"/>
+  <mention label="Islamic" length="7" position="0"/>
+  <mention label="Chechnya" length="8" position="592"/>
+  <mention label="Dagestan" length="8" position="145"/>
+  <mention label="Makhachkala" length="11" position="304"/>
+  <mention label="Russia" length="6" position="106"/>
+  <mention label="Islamic" length="7" position="56"/>
+  <mention label="Muslim" length="6" position="473"/>
+</item>

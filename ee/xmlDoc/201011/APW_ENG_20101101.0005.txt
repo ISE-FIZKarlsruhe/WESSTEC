@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>At least 32 wounded in Istanbul suicide bombingA suicide bomber has blown himself up beside a police vehicle in a major Istanbul square near tourist hotels and a bus terminal, wounding 32 people, including 15 policemen.The attack Sunday in Taksim Square, which was followed by police gunfire and sent hundreds of panicked people racing for cover, coincided with the possible end of a unilateral cease-fire by Kurdish rebels, but there was no immediate claim of responsibility. Turkey, a NATO ally that has deployed troops in a noncombat role in Afghanistan, is also home to cells of radical leftists and Islamic militants.Istanbul police chief Huseyin Capkin said the bomber tried but failed to get into a parked police van and detonated the bomb just outside the vehicle, blowing himself to pieces. Riot police are routinely stationed at Taksim, a popular spot for street demonstrations that abuts a major pedestrian walkway whose shops and restaurants are usually packed.At least 32 people, including 15 police officers, were injured, at least two of them seriously, Istanbul Gov. Huseyin Avni Mutlu said.After the blast, he said, investigators at the scene found and defused a package of plastic explosives that could have been detonated with the push of a button."It was a terrifying, very loud explosion," said Mehmet Toz, a coffee stall owner who was in the square at the time of the blast. "Everyone started to run around, people fell on the ground. There was panic."Another witness, Muammer Ulutas, said a policeman fired four rounds at the body of the suicide bomber after the explosion. He glimpsed the remains of the assailant, who appeared to be in his early 20s.The attack occurred as Istanbul was preparing to hold Republic Day parades to mark the 1923 founding of Turkey. The celebrations were originally planned for Friday, but were delayed due to heavy rain. Taksim Square, a transport hub that is a major stop on the city's underground train network and close to the Hyatt, Ritz-Carlton and other major hotels, was festooned with red and white Turkish flags.Two suicide attacks in Taksim in 1999 and 2001 killed two police officers and wounded a total of 13 people. The first was carried out by a female Kurdish militant, and leftist extremists claimed responsibility for the second.Kurdish rebels are fighting for autonomy in Turkey's mainly Kurdish southeast and their unilateral cease-fire was scheduled to expire at the end of October. The state has held secretive talks with the jailed leader of the rebel Kurdistan Workers' Party, or PKK, in an effort to end the conflict, But an ongoing trial of more than 150 Kurds, including a dozen elected mayors, on charges of rebel links is a sign of the deep reserves of mistrust between authorities and the ethnic minority.Interior Minister Besir Atalay, speaking to Turkish journalists on a visit to China, said "certain suspicions, certain evidence" indicated who was behind the attack, but said the government would not rush to announce its theories.Prime Minister Recep Tayyip Erdogan, who was inaugurating a hamlet for villagers whose homes are to be flooded by a new dam in southeastern Turkey, said the suicide attack was aimed at "obstructing Turkey's development.""We will not show any tolerance toward those who to want cause turmoil," Erdogan said.President Abdullah Gul said the assailants would "fail in their aim to replace friendship, brotherhood and peace with violence in the face of the people's will for unity to live as brothers."Turkey frequently accuses the PKK of carrying out attacks to prevent the economic and social progress of Turkey, which has made big strides as a regional power in recent years despite conflict between its Islamic-leaning government and secular elites linked to the military and judiciary. An alleged anti-government network that includes military officers faces charges of seeking to foment chaos that would topple Erdogan's government; secular critics say the trials are a government effort to silence dissent.Last week, the PKK's military chief told Turkey's Radikal newspaper that the rebel group was "watching and waiting" for any peace gestures from the government and would assess whether to extend its cease-fire."If there is an action in the cities, or wherever, our basic principle is that no civilian should be harmed," Murat Karayilan said in the interview, which was held at the main PKK base in northern Iraq. "In the past it happened, but it won't from now on."Some rebel cells in Turkish cities, however, are believed to operate with considerable autonomy from their leadership, whose camps at Qandil mountain in Iraq, which borders Turkey, have periodically been bombed by the Turkish air force.At Taksim, police sealed off roads with yellow tape and forensic teams in blue coveralls combed the area for debris and other evidence. One walked around the ledge of a monument to Turkish independence in the center of the square. Hours later, some areas were reopened.The Kurdistan Freedom Falcons, a militant group linked to the PKK, claimed responsibility for a June bombing in Istanbul that killed four soldiers and an officer's 17-year-old daughter. Authorities suspected Kurdish rebels in a 2008 bombing in Istanbul that killed 17 people, though the PKK denied involvement.According to the government, the last suicide bombing by the PKK was in 2008, when an assailant blew himself up at a police checkpoint in the Mediterranean city of Mersin and injured 13 police officers. In May 2007, a Kurdish rebel blew himself up in the capital, Ankara, killing seven.Homegrown Islamic militants tied to al-Qaida carried out suicide bombings in Istanbul, killing 58, in 2003. The targets were the British consulate, a British bank and two synagogues. In 2008, an attack blamed on al-Qaida-affiliated militants outside the U.S. Consulate in Istanbul left three assailants and three policemen dead.On Oct. 22, Turkish police said they detained five people, including three university students, suspected of providing financial and technical support to the al-Qaida network in Afghanistan. The raids were carried out in the Aegean coastal city of Izmir and several other cities.------Associated Press writer Suzan Fraser contributed to this report from Ankara, Turkey.</text>
+  <mention label="Ankara" length="6" position="6274"/>
+  <mention label="Aegean" length="6" position="6145"/>
+  <mention label="Turkish" length="7" position="2062"/>
+  <mention label="Islamic" length="7" position="3721"/>
+  <mention label="Kurdistan Freedom Falcons" length="25" position="5000"/>
+  <mention label="Kurdish" length="7" position="5524"/>
+  <mention label="Turkish" length="7" position="2833"/>
+  <mention label="Turkey" length="6" position="3217"/>
+  <mention label="Turkish" length="7" position="4511"/>
+  <mention label="Kurdish" length="7" position="409"/>
+  <mention label="Istanbul" length="8" position="23"/>
+  <mention label="Iraq" length="4" position="4644"/>
+  <mention label="PKK" length="3" position="5283"/>
+  <mention label="Turkey" length="6" position="3621"/>
+  <mention label="al-Qaida" length="8" position="5804"/>
+  <mention label="Istanbul" length="8" position="1069"/>
+  <mention label="Kurdish" length="7" position="2222"/>
+  <mention label="Afghanistan" length="11" position="545"/>
+  <mention label="Istanbul" length="8" position="1698"/>
+  <mention label="Turkish" length="7" position="4908"/>
+  <mention label="Istanbul" length="8" position="5669"/>
+  <mention label="Turkey" length="6" position="2345"/>
+  <mention label="China" length="5" position="2867"/>
+  <mention label="Turkey" length="6" position="3516"/>
+  <mention label="Kurdish" length="7" position="2361"/>
+  <mention label="PKK" length="3" position="4412"/>
+  <mention label="PKK" length="3" position="5058"/>
+  <mention label="Taksim" length="6" position="839"/>
+  <mention label="Ankara" length="6" position="5570"/>
+  <mention label="Mediterranean" length="13" position="5448"/>
+  <mention label="PKK" length="3" position="4042"/>
+  <mention label="Kurds" length="5" position="2635"/>
+  <mention label="Turkey" length="6" position="3159"/>
+  <mention label="U.S." length="4" position="5846"/>
+  <mention label="Taksim" length="6" position="1876"/>
+  <mention label="Kurdish" length="7" position="5204"/>
+  <mention label="Iraq" length="4" position="4433"/>
+  <mention label="Mersin" length="6" position="5470"/>
+  <mention label="Afghanistan" length="11" position="6098"/>
+  <mention label="PKK" length="3" position="3546"/>
+  <mention label="Islamic" length="7" position="604"/>
+  <mention label="Turkey" length="6" position="477"/>
+  <mention label="British" length="7" position="5721"/>
+  <mention label="Istanbul" length="8" position="5864"/>
+  <mention label="Turkish" length="7" position="4709"/>
+  <mention label="Turkey" length="6" position="4068"/>
+  <mention label="NATO" length="4" position="487"/>
+  <mention label="Istanbul" length="8" position="622"/>
+  <mention label="British" length="7" position="5742"/>
+  <mention label="Radikal" length="7" position="4077"/>
+  <mention label="Istanbul" length="8" position="120"/>
+  <mention label="Istanbul" length="8" position="5240"/>
+  <mention label="al-Qaida" length="8" position="5628"/>
+  <mention label="Murat Karayilan" length="15" position="4346"/>
+  <mention label="Turkey" length="6" position="1779"/>
+  <mention label="Taksim" length="6" position="240"/>
+  <mention label="Kurdish" length="7" position="2301"/>
+  <mention label="Istanbul" length="8" position="5108"/>
+  <mention label="Taksim Square" length="13" position="240"/>
+  <mention label="PKK" length="3" position="2558"/>
+</item>

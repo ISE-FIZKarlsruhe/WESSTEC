@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>China environmentalist Liang Congjie diesPioneering Chinese activist Liang Congjie, who helped found the country's first environmental organization, died last week at age 78.According to Friends of Nature, the group he helped founded, Liang passed away Oct. 28. Services for him will be held Tuesday at Beijing Shitian Hospital.Considered the first environmental non-governmental organization to be legally recognized in China, Friends of Nature was created in 1994 by Liang and colleagues to raise public awareness about the country's vast array of environmental problems.Liang, a historian who worked and taught at the Academy for Chinese Culture, decided to set up the organization after hearing about the activities of international environmental groups like Greenpeace and realizing that China had no domestic equivalent."We knew from television about Greenpeace. But there wasn't anything like that in China," he said in an Asiaweek interview in 2000. "My friends and I began wondering, why not here? We decided to try."Friends of Nature has focused on the plight of endangered species like the Tibetan antelope and threatened forest lands, while working to raise environmental awareness at public schools and nurturing other environmental groups.The group often eschewed an aggressive approach to activism, choosing to urge the government to enforce existing environmental laws. But it was also recognized for high-profile actions to promote environmental protection.During the 1990s, the group produced a surreptitious videotape of officials collaborating to illegally cut down virgin forest. Broadcast nationally, the tape prompted then-Prime Minister Zhu Rongji to order a ban on logging virgin forests."Though we have achieved some important victories for nature, possibly FON's greatest achievement is helping to foster a growing network of grass roots environmental NGOs throughout China," the group said on its website.In accepting a major U.N. award for his environmental work in 2005, Liang said he focused much of his work on raising public awareness and educating the younger generation in the hopes that they can band together for change."The environmental awareness levels of Chinese is still low, but except (for) us Chinese, nobody can solve the environmental problems in China," he said at the time. "We believe that only the youth of China with 'green' hearts can ensure that China has a green future."Liang was born into a family with a reformist bent. His grandfather was a famed Qing dynasty reformer who was exiled for suggesting the imperial throne make way for a constitutional monarchy. His father was a prominent architect who campaigned unsuccessfully to save the historic city walls of old Beijing.Friends of Nature said Tuesday's ceremony for Liang will be "simple and plain." It said that flower arrangements will not be accepted. In a nod to his own modest lifestyle, mourners planning to attend services were told: "Please first consider taking public transport."------Friends of Nature: http://www.fon.org.cn</text>
+  <mention label="Liang" length="5" position="69"/>
+  <mention label="China" length="5" position="0"/>
+  <mention label="Liang Congjie" length="13" position="69"/>
+  <mention label="China" length="5" position="908"/>
+  <mention label="Tibetan" length="7" position="1101"/>
+  <mention label="Qing" length="4" position="2506"/>
+  <mention label="Liang" length="5" position="469"/>
+  <mention label="Liang" length="5" position="23"/>
+  <mention label="Chinese" length="7" position="2196"/>
+  <mention label="Greenpeace" length="10" position="857"/>
+  <mention label="Liang" length="5" position="2001"/>
+  <mention label="Liang Congjie" length="13" position="23"/>
+  <mention label="China" length="5" position="793"/>
+  <mention label="China" length="5" position="421"/>
+  <mention label="China" length="5" position="1895"/>
+  <mention label="Beijing" length="7" position="2724"/>
+  <mention label="China" length="5" position="2400"/>
+  <mention label="U.N." length="4" position="1954"/>
+  <mention label="Beijing" length="7" position="303"/>
+  <mention label="Asiaweek" length="8" position="930"/>
+  <mention label="Friends of Nature" length="17" position="187"/>
+  <mention label="Liang" length="5" position="235"/>
+  <mention label="Greenpeace" length="10" position="763"/>
+  <mention label="China" length="5" position="2294"/>
+  <mention label="China" length="5" position="2358"/>
+  <mention label="Chinese" length="7" position="52"/>
+  <mention label="Zhu Rongji" length="10" position="1661"/>
+  <mention label="Liang" length="5" position="573"/>
+  <mention label="FON" length="3" position="1784"/>
+  <mention label="Friends of Nature" length="17" position="428"/>
+  <mention label="Chinese" length="7" position="633"/>
+</item>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Defiance, resilience marked career of Tony CurtisTony Curtis truly was a defiant one. He overcame early typecasting as a lightweight pretty boy to become a serious actor in such films as "Sweet Smell of Success," "Spartacus" and "The Defiant Ones," the latter earning him an Academy Award nomination.He resisted obsolescence, continually reshaping himself and taking lesser roles to find steady work in a business that prizes youth. He subdued alcohol and drug addictions, lived through six marriages and five divorces, and found peace with a new art as a painter.Curtis, whose wildly undefinable cast of characters ranged from a Roman slave leading the rebellious cry of "I'm Spartacus" to a jazz age musician wooing Marilyn Monroe while disguised as a woman in "Some Like It Hot," died Wednesday night.The 85-year-old actor suffered cardiac arrest at his home in Henderson, Nevada, near Las Vegas, the coroner said Thursday."My father leaves behind a legacy of great performances in movies and in his paintings and assemblages," Jamie Lee Curtis -- his daughter with first wife Janet Leigh, co-star of "Psycho" -- said in a statement. "He leaves behind children and their families who loved him and respected him and a wife and in-laws who were devoted to him. He also leaves behind fans all over the world."Starting his career in the late 1940s and early 1950s with bit parts as a juvenile delinquent or in such forgettable movies as the talking-mule comedy "Francis," Curtis rose to stardom as a swashbuckling heartthrob, mixing in somewhat heftier work such as the boxing drama "Flesh and Fury" and the title role in the film biography "Houdini."Hindered early on by a Bronx accent that drew laughs in Westerns and other period adventures, Curtis smoothed out his rough edges and silenced detractors with 1957's "Sweet Smell of Success," in which he played a sleazy press agent who becomes the fawning pawn of a ruthless newspaper columnist (Burt Lancaster)."Curtis grew up into an actor and gave the best performance of his career," critic Pauline Kael wrote in her book "Kiss Kiss Bang Bang."Yet it was sheer stardom, not critical acclaim, that drove Curtis, said his sixth wife, Jill Curtis."All Tony ever wanted to be was a movie star. He didn't want to be the most dramatic actor," Jill Curtis said. "He wanted to be a movie star, ever since he was a little kid."A year after "Sweet Smell of Success," Curtis was nominated for a best-actor Oscar in "The Defiant Ones" as a white escaped prisoner forced to set aside his racism to work with the black inmate (Sidney Poitier) to whom he is handcuffed."He's one of those actors who in the '50s was a beautiful, charismatic leading man, who became sort of iconic as a sex symbol. Not somebody who you originally thought had a lot of depth. He was just charming and funny and yet he revealed himself to be quite complex and gave some great performances," said actor and director Tony Goldwyn, son of film producer Samuel Goldwyn Jr.In 1959, Curtis teamed with Monroe and Jack Lemmon for a screwball landmark, Billy Wilder's "Some Like It Hot," which ranks No. 1 on the American Film Institute's list of 100 best U.S. comedies.Curtis and Lemmon starred as 1920s musicians who disguise themselves as women in an all-girl band to hide out from mobsters after they witness the St. Valentine's Day Massacre.It was a masterful comic performance by Curtis, whose character pursues the band's singer (Monroe) both in drag and in another charade as a Shell Oil heir who talks like Cary Grant, with whom Curtis co-starred later that year in the Navy farce "Operation Petticoat."In Stanley Kubrick's "Spartacus," Curtis played star Kirk Douglas' loyal follower, leading a chorus of captured slaves shouting "I'm Spartacus!" to confound Roman oppressors seeking the ringleader of a rebellion.His other credits included "Captain Newman, M.D.," "The Vikings," "Kings Go Forth," "Sex and the Single Girl" and "The Boston Strangler." He also did a wryly self-deprecating cartoon gig, providing the voice of his prehistoric lookalike, Stony Curtis, in a television episode of "The Flintstones.""The guy was such a sweetheart. Beautifully neurotic, in a very endearing kind of Woody Allen way," said Sam Rockwell, who co-starred with Curtis in the 1998 movie "Louis and Frank."Curtis and Lemmon collaborated again on 1965's "The Great Race." And more than 40 years after "Some Like It Hot," Curtis co-starred in a stage version, playing the role originated by Joe E. Brown in the film as a millionaire smitten by Lemmon's female alter-ego.To mark his 80th birthday in 2005, Curtis posed nude in Vanity Fair alongside his dogs, Josephine and Daphne, named after his and Lemmon's "Some Like It Hot" characters.By then, his shiny-black hair had turned silver, he had long since kicked booze and drugs, and painting his Matisse-like still-lifes filled much of the creative space left as his acting career waned.Curtis had six children from his marriages. He was estranged for a long period from daughter Jamie Lee Curtis, whose credits include "Perfect," "Halloween," "True Lies" and last week's comedy release "You Again."He and his daughter eventually reconciled, and Curtis took great pride in her Hollywood success.Curtis had married her mother, Janet Leigh, in 1951, when both were rising young stars. They divorced in 1963.Curtis was born Bernard Schwartz in the Bronx in 1925, the son of Hungarian Jews who had emigrated to the United States after World War I. His father, Manny Schwartz, had yearned to be an actor, but work was hard to find with his heavy accent. He settled for tailoring jobs, moving the family repeatedly as he sought work.After serving on a submarine during World War II, he enrolled in drama school on the G.I. Bill and was doing theater work when an agent lined up an audition with Universal, where he signed a seven-year contract starting at $100 a week at age 23.The studio gave him a new name: Anthony Curtis, taken from his favorite novel, "Anthony Adverse," and the Anglicized name of a favorite uncle. He later shortened it to Tony Curtis.Jill Curtis said her husband had been hospitalized several times in recent weeks for lung problems she blamed on smoking 30 years ago. He recently returned home, where he died in his sleep, she said.------Associated Press writers Bob Thomas in Los Angeles, Ken Ritter and Oskar Garcia in Las Vegas, AP entertainment editor Michael Weinfeld in Washington, and AP video producer Nicole Evatt in New York contributed to this report.</text>
+  <mention label="Sam Rockwell" length="12" position="4237"/>
+  <mention label="Navy" length="4" position="3590"/>
+  <mention label="Sidney Poitier" length="14" position="2568"/>
+  <mention label="Manny Schwartz" length="14" position="5513"/>
+  <mention label="Samuel Goldwyn Jr" length="17" position="2969"/>
+  <mention label="Bronx" length="5" position="1674"/>
+  <mention label="Bernard Schwartz" length="16" position="5378"/>
+  <mention label="Burt Lancaster" length="14" position="1947"/>
+  <mention label="Curtis" length="6" position="2192"/>
+  <mention label="Curtis" length="6" position="1041"/>
+  <mention label="Jamie Lee Curtis" length="16" position="1031"/>
+  <mention label="Anglicized" length="10" position="6035"/>
+  <mention label="Joe E. Brown" length="12" position="4497"/>
+  <mention label="Academy Award" length="13" position="275"/>
+  <mention label="Bronx" length="5" position="5402"/>
+  <mention label="Shell Oil" length="9" position="3497"/>
+  <mention label="Tony" length="4" position="38"/>
+  <mention label="American Film Institute" length="23" position="3124"/>
+  <mention label="Westerns" length="8" position="1707"/>
+  <mention label="Stanley Kubrick" length="15" position="3626"/>
+  <mention label="Janet Leigh" length="11" position="5283"/>
+  <mention label="Curtis" length="6" position="4271"/>
+  <mention label="Curtis" length="6" position="1964"/>
+  <mention label="Tony Curtis" length="11" position="38"/>
+  <mention label="Curtis" length="6" position="43"/>
+  <mention label="Curtis" length="6" position="54"/>
+  <mention label="Josephine" length="9" position="4664"/>
+  <mention label="Curtis" length="6" position="564"/>
+  <mention label="Curtis" length="6" position="2996"/>
+  <mention label="Janet Leigh" length="11" position="1080"/>
+  <mention label="Tony Curtis" length="11" position="49"/>
+  <mention label="Associated Press" length="16" position="6314"/>
+  <mention label="Jamie Lee Curtis" length="16" position="5037"/>
+  <mention label="Washington" length="10" position="6452"/>
+  <mention label="Marilyn Monroe" length="14" position="718"/>
+  <mention label="Daphne" length="6" position="4678"/>
+  <mention label="Lemmon" length="6" position="4550"/>
+  <mention label="Monroe" length="6" position="3015"/>
+  <mention label="Roman" length="5" position="3780"/>
+  <mention label="Curtis" length="6" position="3397"/>
+  <mention label="Curtis" length="6" position="1472"/>
+  <mention label="Anthony Curtis" length="14" position="5961"/>
+  <mention label="Bob Thomas" length="10" position="6339"/>
+  <mention label="Cary Grant" length="10" position="3527"/>
+  <mention label="Curtis" length="6" position="3657"/>
+  <mention label="Kirk Douglas" length="12" position="3676"/>
+  <mention label="Monroe" length="6" position="726"/>
+  <mention label="United States" length="13" position="5468"/>
+  <mention label="Lemmon" length="6" position="3031"/>
+  <mention label="World War II" length="12" position="5720"/>
+  <mention label="Curtis" length="6" position="1745"/>
+  <mention label="Jack Lemmon" length="11" position="3026"/>
+  <mention label="Tony Curtis" length="11" position="6097"/>
+  <mention label="Los Angeles" length="11" position="6353"/>
+  <mention label="Curtis" length="6" position="3549"/>
+  <mention label="U.S." length="4" position="3167"/>
+  <mention label="Curtis" length="6" position="4314"/>
+  <mention label="Lemmon" length="6" position="4325"/>
+  <mention label="Stony Curtis" length="12" position="4073"/>
+  <mention label="Curtis" length="6" position="2158"/>
+  <mention label="Henderson" length="9" position="865"/>
+  <mention label="Curtis" length="6" position="4079"/>
+  <mention label="Curtis" length="6" position="2412"/>
+  <mention label="Nevada" length="6" position="876"/>
+  <mention label="Curtis" length="6" position="3181"/>
+  <mention label="Houdini" length="7" position="1642"/>
+  <mention label="New York" length="8" position="6502"/>
+  <mention label="Las Vegas" length="9" position="889"/>
+  <mention label="Pauline Kael" length="12" position="2046"/>
+  <mention label="Roman" length="5" position="630"/>
+  <mention label="Billy Wilder" length="12" position="3064"/>
+  <mention label="Las Vegas" length="9" position="6397"/>
+  <mention label="Anthony Adverse" length="15" position="6009"/>
+  <mention label="Tony Goldwyn" length="12" position="2934"/>
+  <mention label="Woody Allen" length="11" position="4214"/>
+  <mention label="Lemmon" length="6" position="3192"/>
+  <mention label="Curtis" length="6" position="2297"/>
+</item>

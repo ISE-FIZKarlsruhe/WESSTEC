@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Vampire tale ' Let Me In '  a faithful remakeWhen the Swedish horror film "Let the Right One In" debuted a couple of years ago, it was deservedly hailed as one of the most original vampire tales to come along in a while -- no small feat, given the bloodsuckers' ubiquity both on the big screen and television.Now, it's been remade as the American thriller "Let Me In" -- but rest assured, much of what made the first film so special remains intact.Aside from making a few structural tweaks, writer-director Matt Reeves ("Cloverfield") has stayed extremely faithful in his adaptation, right down to chunks of dialogue, details like the Rubik's Cube the kids play with, and the jungle gym in their courtyard -- even some camera angles. Reeves also smartly recreated the sense of tension that built in the original film's stillness, and similarly, the quiet moments that allowed the two young characters to forge their bond.On the surface, both films (based on the book by John Ajvide Lindqvist) are about a bullied boy and the 12-year-old vampire girl who comes to his rescue. But really, they're about a couple of lonely misfits who are drawn together -- the sweetness in the way they strengthen each other, and the sadness of the realization that their friendship can't last -- and Reeves gets that right, too."Let Me In" is also gory, startling and intense, as you'd expect from any worthwhile vampire story, and the score from Michael Giacchino ("Up") adds to the chilling vibe. Reeves makes the violence more explicit, which wasn't terribly necessary -- what's merely implied can be even more frightening -- and the special effects when our hungry young heroine is in full-on attack mode make her movements look jumpy and jerky, which detracts from the film's otherwise realistic approach.Still, the relationship at the film's core always works, with excellent casting choices in Kodi Smit-McPhee as Owen and Chloe Grace Moretz as Abby. Smit-McPhee, who played Viggo Mortensen's son in "The Road," has an innocence about him that makes him a believable underdog; with his wide eyes, lanky frame and slightly eerie disposition, he resembles a young Billy Bob Thornton. And the engaging Moretz, who was such a scene-stealer earlier this year as Hit Girl in "Kick-Ass," shows a different side of her talent here. She brings a sense of regret and melancholy to the character, who's been 12 "for a long time," as she puts it. If it's possible, "Let Me In" actually makes Moretz look less than cute.As in the original, the two meet at night (of course) in the center of their shabby, snow-covered apartment complex. (The action's been moved to Los Alamos, New Mexico, but it still takes place in the early '80s.) By day, Owen gets beaten up by the tough kids at school while his new neighbor Abby slumbers in her makeshift bathtub tomb. When the sun goes down, they shyly get to know each other the way any awkward preteens would.Meanwhile, Abby's guardian -- played movingly by Richard Jenkins, as if he were capable of any other kind of performance -- seeks out sustenance for her, but it's getting harder to find, and with each killing he comes closer to getting caught.A car crash during one such outing that's been added to the remake is harrowing and expertly staged; alas, Reeves omitted the Swedish film's gnarly cat attack. Still "Let Me In" lands beautifully on its own two feet."Let Me In," an Overture Films release, is rated R for strong, bloody violence, language, and a brief sexual situation. Running time: 116 minutes. Three stars out of four.</text>
+  <mention label="Reeves" length="6" position="742"/>
+  <mention label="Owen" length="4" position="2726"/>
+  <mention label="Smit-McPhee" length="11" position="1896"/>
+  <mention label="Abby" length="4" position="2946"/>
+  <mention label="Richard Jenkins" length="15" position="2984"/>
+  <mention label="John Ajvide Lindqvist" length="21" position="978"/>
+  <mention label="Matt Reeves" length="11" position="515"/>
+  <mention label="Abby" length="4" position="2797"/>
+  <mention label="Michael Giacchino" length="17" position="1437"/>
+  <mention label="Reeves" length="6" position="1290"/>
+  <mention label="Reeves" length="6" position="520"/>
+  <mention label="Swedish" length="7" position="3304"/>
+  <mention label="New Mexico" length="10" position="2661"/>
+  <mention label="American" length="8" position="346"/>
+  <mention label="Abby" length="4" position="1942"/>
+  <mention label="Kodi Smit-McPhee" length="16" position="1891"/>
+  <mention label="Owen" length="4" position="1911"/>
+  <mention label="Los Alamos" length="10" position="2649"/>
+  <mention label="Reeves" length="6" position="1489"/>
+  <mention label="Swedish" length="7" position="62"/>
+  <mention label="Viggo Mortensen" length="15" position="1972"/>
+  <mention label="Billy Bob Thornton" length="18" position="2159"/>
+</item>

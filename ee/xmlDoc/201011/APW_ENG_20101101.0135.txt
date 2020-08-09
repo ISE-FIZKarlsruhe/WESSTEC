@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Asia stocks rise as China manufacturing gains paceAsian stock markets climbed Monday, boosted by faster growth in Chinese manufacturing and expectations the U.S. central bank will pump more money into the world's largest economy to rejuvenate a sluggish recovery.Oil prices rose to near $82 a barrel following the release in Shanghai of a survey that showed a jump in China's manufacturing activity for October, especially in orders for new equipment. In currencies, the dollar rose against the yen but dropped against the euro.Hong Kong's Hang Seng index was up 1.9 percent at 23,543.60 and South Korea's Kospi rose 1.3 percent to 1,907.63. Australia's S&amp;P/ASX 200 gained 0.9 percent to 4,704.00 and China's Shanghai Composite Index added 2.1 percent to 3,041.73.Japan's benchmark Nikkei 225 stock average bucked the trend, falling 0.2 percent to 9,186.01.Markets in New Zealand and Indonesia were also down while Singapore, Taiwan, the Philippines and Malaysia posted gains.The state-affiliated China Federation of Logistics and Purchasing said its purchasing managers index rose to 54.7 in October from 53.8 September. Monthly PMI readings have stayed above 50, the benchmark for expansion, for 20 straight months.The upbeat sentiment was reinforced by expectations that the U.S. Federal Reserve will pump more money into the world's largest economy to boost its feeble recovery.Trading volume was relatively brisk as markets awaited Fed action this week, according to Jackson Wong, vice president at Tanrich Securities in Hong Kong."It looks like sentiment has changed toward positive," he said. "The market is remaining positive ahead of the Fed announcement.""Those who shorted stocks last week will try to avoid losses by trying to buy stocks today," he said.U.S. gross domestic product grew just 2 percent at an annualized pace in the three months through September, slightly faster than the previous quarter but not enough to bring down unemployment, which is hovering near 10 percent.The weak showing underlined expectations that the Fed policy meeting ending Wednesday will announce a Treasury bond buying program, known as quantative easing, to inject more liquidity into the economy.The Dow Jones industrial average on Friday rose 4.54, or 0.1 percent, to close at 11,118.49. The Standard and Poor's 500 Index fell 0.52, or 0.1 percent, to 1,183.26.Despite the soft finishes, both U.S. indexes were up over 3 percent for the month.In currencies, the dollar rose to 80.47 yen from 80.31 yen. The euro rose to $1.3991 from $1.3945.Benchmark crude for December delivery was up 39 cents at $81.82 a barrel in electronic trading on the New York Mercantile Exchange. The contract fell 75 cents to settle at $81.43 on Friday.</text>
+  <mention label="Fed" length="3" position="1283"/>
+  <mention label="Asia" length="4" position="0"/>
+  <mention label="Nikkei" length="6" position="782"/>
+  <mention label="New York Mercantile Exchange" length="28" position="2644"/>
+  <mention label="Australia" length="9" position="642"/>
+  <mention label="Shanghai" length="8" position="325"/>
+  <mention label="Dow Jones" length="9" position="2200"/>
+  <mention label="China" length="5" position="20"/>
+  <mention label="Hang Seng" length="9" position="540"/>
+  <mention label="Taiwan" length="6" position="926"/>
+  <mention label="Hong Kong" length="9" position="528"/>
+  <mention label="U.S." length="4" position="157"/>
+  <mention label="Singapore" length="9" position="915"/>
+  <mention label="South Korea" length="11" position="592"/>
+  <mention label="Kospi" length="5" position="606"/>
+  <mention label="Shanghai Composite Index" length="24" position="709"/>
+  <mention label="Fed" length="3" position="1437"/>
+  <mention label="Philippines" length="11" position="938"/>
+  <mention label="U.S." length="4" position="1766"/>
+  <mention label="Fed" length="3" position="1003"/>
+  <mention label="U.S. Federal Reserve" length="20" position="1278"/>
+  <mention label="New Zealand" length="11" position="868"/>
+  <mention label="Malaysia" length="8" position="954"/>
+  <mention label="China" length="5" position="368"/>
+  <mention label="Chinese" length="7" position="114"/>
+  <mention label="Asian" length="5" position="50"/>
+  <mention label="China" length="5" position="701"/>
+  <mention label="Treasury" length="8" position="2096"/>
+  <mention label="Japan" length="5" position="764"/>
+  <mention label="U.S." length="4" position="1278"/>
+  <mention label="Indonesia" length="9" position="884"/>
+  <mention label="Hong Kong" length="9" position="1526"/>
+</item>

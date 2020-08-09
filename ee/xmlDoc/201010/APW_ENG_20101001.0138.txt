@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Dozens of NATO oil tankers attacked in PakistanPolice say at least 27 tankers carrying fuel for NATO troops in Afghanistan have been attacked in southern Pakistan.The attack took place on the edge of Shikarpur town in Sindh province early Friday, the same day Pakistan closed a major border crossing to protest a NATO incursion into its territory that killed three Pakistani soldiers.No one is believed to have been killed or wounded in Friday's attack.Police official Mir Ahmed Chandio says the tankers were parked at a terminal when gunmen opened fire, forcing people to flee before setting the vehicles on fire. An Associated Press photographer at the scene said the trucks were still alight several hours after the attack.</text>
+  <mention label="Shikarpur" length="9" position="200"/>
+  <mention label="Pakistan" length="8" position="154"/>
+  <mention label="Afghanistan" length="11" position="111"/>
+  <mention label="NATO" length="4" position="96"/>
+  <mention label="Pakistani" length="9" position="365"/>
+  <mention label="Associated Press" length="16" position="618"/>
+  <mention label="Pakistan" length="8" position="260"/>
+  <mention label="NATO" length="4" position="313"/>
+  <mention label="NATO" length="4" position="10"/>
+  <mention label="Pakistan" length="8" position="39"/>
+  <mention label="Sindh" length="5" position="218"/>
+</item>

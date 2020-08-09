@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>`Bloody Crimes '  is compelling story of Civil War"Bloody Crimes: The Chase for Jefferson Davis and the Death Pageant for Lincoln's Corpse" (William Morrow, $27.99), by James Swanson: Spring 1865: The Civil War appears to be almost over, and President Abraham Lincoln has been assassinated. Jefferson Davis flees the Confederate capital in Richmond, Virginia, while the Union mourns in "Bloody Crimes," the latest page-turning history from James Swanson.Davis, president of the Confederacy and separated from his family, flees south to regroup and plot the next steps in the war. He sees Gen. Robert E. Lee's surrender at Appomattox as a minor setback. He doesn't know that Lincoln has been murdered while watching a play.Lincoln's funeral is a major spectacle, and after the official ceremony in Washington, the government decides to create a special train to transport his body to its final resting place in Springfield, Illinois.The preparations include a set timetable and route, several men to ensure Lincoln's body is both secure and slow to decay, and guards to control the guaranteed crowds at every stop. As the train makes its way north toward Baltimore, its first destination, the wanted posters start appearing for the capture of Davis for his part in the plot to kill Lincoln.Swanson, author of "Manhunt," the classic book on the quest to capture John Wilkes Booth, again creates page-turning suspense out of historical events. The reader follows the train along its over 1,500-mile (2,415-kilometer) journey and mourns with the people observing the open casket and Lincoln's body.When Lincoln's corpse starts the trip, he is a fallen president, but when the body arrives in Springfield, he is an icon. That journey and the capture of Davis propel the narrative of this gripping book.History can sometimes be dry and dull to read, but Swanson has the gift to make it compelling.------Jeff Ayers is the author of "Voyages of Imagination: The Star Trek Fiction Companion" (Pocket Books, 2006).</text>
+  <mention label="Civil War" length="9" position="201"/>
+  <mention label="John Wilkes Booth" length="17" position="1360"/>
+  <mention label="Davis" length="5" position="454"/>
+  <mention label="William Morrow" length="14" position="141"/>
+  <mention label="Lincoln" length="7" position="260"/>
+  <mention label="Springfield" length="11" position="910"/>
+  <mention label="Lincoln" length="7" position="1281"/>
+  <mention label="Baltimore" length="9" position="1154"/>
+  <mention label="Springfield" length="11" position="1688"/>
+  <mention label="Illinois" length="8" position="923"/>
+  <mention label="Lincoln" length="7" position="722"/>
+  <mention label="Virginia" length="8" position="350"/>
+  <mention label="Washington" length="10" position="797"/>
+  <mention label="Robert E. Lee" length="13" position="593"/>
+  <mention label="Richmond" length="8" position="340"/>
+  <mention label="Jefferson Davis" length="15" position="80"/>
+  <mention label="Davis" length="5" position="90"/>
+  <mention label="Civil War" length="9" position="41"/>
+  <mention label="Appomattox" length="10" position="622"/>
+  <mention label="Lincoln" length="7" position="674"/>
+  <mention label="Swanson" length="7" position="175"/>
+  <mention label="Davis" length="5" position="301"/>
+  <mention label="Lincoln" length="7" position="1006"/>
+  <mention label="Jefferson Davis" length="15" position="291"/>
+  <mention label="Lincoln" length="7" position="1579"/>
+  <mention label="Abraham Lincoln" length="15" position="252"/>
+  <mention label="Confederate" length="11" position="317"/>
+  <mention label="Swanson" length="7" position="446"/>
+  <mention label="Lincoln" length="7" position="122"/>
+</item>

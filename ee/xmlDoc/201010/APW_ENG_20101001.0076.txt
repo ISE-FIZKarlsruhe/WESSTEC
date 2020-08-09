@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>NKorea prints photos of heir apparent Kim Jong UnNorth Korea introduced its heir apparent to the world Thursday, a chubby-faced young man with a serious expression, combed back hair cut high and tight on the sides and wearing a communist-style black suit.State media published the first official images of Kim Jong Un, the youngest son of leader Kim Jong Il who appears destined to inherit control of the impoverished, nuclear-armed state.North Korean television broadcast video of a meeting of North Korea's ruling Workers' Party held Tuesday, including images of Kim Jong Un, who was positioned in the front row during a speech and shown standing and vigorously clapping with other delegates in the cavernous venue.North Korean authorities confirmed to TV news agency APTN in Pyongyang that the man shown in the footage is Kim Jong Un.A photo of senior Workers' Party officials also appeared on the front page Thursday of the authoritarian regime's main Rodong Sinmun newspaper, two days after the party concluded its biggest political gathering in 30 years to elect new leaders.An article listed the names of those in the picture, which was taken outside the Kumsusan Memorial Palace, where the embalmed body of the country's founder Kim Il Sung lies in state.The still and video images confirmed what many analysts suspected for the past two years: that Kim Jong Un, believed to be in his 20s, has been anointed to succeed his father and carry the family's rule into a third generation.Cheong Seong-chang, an expert on North Korean politics at the Sejong Institute think tank near Seoul, said the photo signals a significant change in how the regime will be run."Now Kim Jong Un will manage all domestic affairs and Kim Jong Il will handle the bigger issues ... and just provide guidance on the rest," he said. "From now on we'll see and hear more and more about Kim Jong Un than we will about Kim Jong Il."In a sign that relations with South Korea are likely to remain rocky, the North and South ended their first working-level military talks in two years Thursday with no progress as negotiators stumbled over the deadly sinking of a South Korean warship blamed on Pyongyang, Seoul's Defense Ministry said.The meeting came hours after North Korean Vice Minister of Foreign Affairs Pak Kil Yon vowed at the United Nations that the North would strengthen its nuclear capability in response to what he described as hostile moves by the United States.In the new photos, Kim Jong Un bears a resemblance to both his father and grandfather, Kim Il Sung.The 68-year-old Kim Jong Il, who reportedly suffered a stroke in August 2008 following other earlier ailments, was also shown in the images. Limping slightly, he entered the hall to thunderous applause and shouting by delegates and was shown at one point smiling and waving his hand in a gesture apparently urging them to stop.He was expressive and appeared more vigorous than in other recent photos, though he exhibited a prominent unexplained dark spot on the right side of his face.The release of the photos and video of Kim Jong Un comes after he was handed top military and party posts at the Workers' Party conference earlier this week.Lee Jong-joo, a spokeswoman at South Korea's Unification Ministry, which handles relations with North Korea, said no official photos of Kim Jong Un have been published before.The official Korean Central News Agency announced Tuesday that Kim Jong Un had been promoted to a four-star general in the Korean People's Army -- the first mention of his name in the country's tightly controlled state media. State media have yet to offer any description or biographical information about Kim Jong Un, or even to refer to him as the leader's son. The younger Kim has two older brothers, Kim Jong Nam and Kim Jong Chol, who appear to have lost out in the succession scenario.Kim Jong Un was also mentioned in several dispatches Wednesday announcing the names of people who were given posts at the rare meeting of the party held the day before. In addition to his military title, he was made a member of the organization's governing central committee and was also named to its military commission.Several purported photos of the younger Kim have circulated for some time, mostly obtained and published by Japanese media.Kim Jong Il took over as North Korea's leader in 1994 when his father died of heart failure in what became the first hereditary succession in the communist world. Questions regarding his health have spurred worries about possible political instability in the country -- which has active nuclear and missile programs -- should he die without a clear successor.Kim Jong Il, who visited key ally China in August, was reportedly accompanied on the trip by Kim Jong Un, though that has not been confirmed. The trip spurred speculation the elder Kim may have been introducing his son to Chinese officials to win their understanding on the succession.------Associated Press writers Kwang-tae Kim and Sangwon Yoon contributed to this report.</text>
+  <mention label="North Korean" length="12" position="717"/>
+  <mention label="Kim Jong Il" length="11" position="2568"/>
+  <mention label="Seoul" length="5" position="2182"/>
+  <mention label="Pyongyang" length="9" position="778"/>
+  <mention label="Kim Jong Chol" length="13" position="3790"/>
+  <mention label="United Nations" length="14" position="2312"/>
+  <mention label="North Korea" length="11" position="717"/>
+  <mention label="APTN" length="4" position="770"/>
+  <mention label="Japanese" length="8" position="4289"/>
+  <mention label="United States" length="13" position="2439"/>
+  <mention label="Associated Press" length="16" position="4954"/>
+  <mention label="North Korean" length="12" position="2241"/>
+  <mention label="South" length="5" position="1941"/>
+  <mention label="South Korean" length="12" position="2140"/>
+  <mention label="Kim Jong Il" length="11" position="346"/>
+  <mention label="Chinese" length="7" position="4885"/>
+  <mention label="South Korea" length="11" position="2140"/>
+  <mention label="Kim" length="3" position="346"/>
+  <mention label="Kim Jong Il" length="11" position="4304"/>
+  <mention label="China" length="5" position="4697"/>
+  <mention label="Kim Il Sung" length="11" position="1237"/>
+  <mention label="Defense Ministry" length="16" position="2190"/>
+  <mention label="South Korea" length="11" position="1941"/>
+  <mention label="Kim Jong Il" length="11" position="1898"/>
+  <mention label="North Korea" length="11" position="495"/>
+  <mention label="Kim" length="3" position="38"/>
+  <mention label="Kim Il Sung" length="11" position="2540"/>
+  <mention label="Korean Central News Agency" length="26" position="3382"/>
+  <mention label="Korean People's Army" length="20" position="3492"/>
+  <mention label="Kim" length="3" position="306"/>
+  <mention label="Kim Jong Nam" length="12" position="3773"/>
+  <mention label="Rodong Sinmun" length="13" position="956"/>
+  <mention label="Pyongyang" length="9" position="2171"/>
+  <mention label="Kim Jong Il" length="11" position="1720"/>
+  <mention label="Seoul" length="5" position="1585"/>
+  <mention label="North" length="5" position="49"/>
+  <mention label="North Korea" length="11" position="49"/>
+  <mention label="North Korean" length="12" position="439"/>
+  <mention label="Kim Jong Il" length="11" position="4663"/>
+  <mention label="North Korea" length="11" position="439"/>
+  <mention label="North Korean" length="12" position="1523"/>
+</item>

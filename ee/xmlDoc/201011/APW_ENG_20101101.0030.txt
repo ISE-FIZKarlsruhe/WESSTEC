@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>' The Scottsboro Boys '  is powerful, provocativeJohn Kander and Fred Ebb have managed to turn some of the darkest themes into brilliant musicals: Nazis ("Cabaret"); Latin America repression ("Kiss of the Spider Woman"); and the dancing murderers of the Cook County jail ("Chicago").Now Kander and Ebb have transformed another horrific tale into a powerful and provocative musical with "The Scottsboro Boys," based on the real story of nine black teenagers charged with raping two white girls and wrongfully put on death row.Designed to push the audience's level of discomfort to a breaking point, the musical has a song about rape sung by men pretending to be women, a tap-dancing number about electrocution and a menacing tune about "Jew money." It has black men playing cartoonish stereotypes of white racists, and even has black performers singing in blackface.As confounding as this all sounds, what has emerged is an absolute marvel. The creators -- including director and choreographer Susan Stroman and book writer David Thompson -- walk a fine line between satire and alienation, but emerge with what surely must be the edgiest play on Broadway."The Scottsboro Boys," which opened Sunday night on Broadway at the Lyceum Theatre, frames the story as a minstrel show -- that deeply racist storytelling device performed by whites -- and then immediately subverts it by having an all-black cast, except for the master of ceremonies, John Cullum.The show starts with typical over-the-top happy energy as a minstrel show takes the stage and the emcee decides to tell the story of nine innocent men pulled off a train in 1931 in Scottsboro, Ala.One of the men asks: "This time can we tell it like it really happened? This time can we tell the truth?" That's when the minstrel show's performers become the nine accused men, even playing the two white women who falsely accuse the group of rape.Two stock, buffoonish minstrel characters -- Mr. Bones (Colman Domingo) and Mr. Tambo (Forrest McClendon) -- help the action along, but not in typical fashion. Originally designed by whites to ridicule blacks, Mr. Bones and Mr. Tambo here gleefully portray white racist police, jailers and lawyers."We's gonna give you the Dixie justice you deserve," Mr. Bones says as the sheriff.Once this inversion is established, the musical hits a head of steam as it details the nine men's struggle through years of trials. The show tries to give each of the nine men, usually lumped together as "the Scottsboro Nine," what history did not: a unique personality. That's a tall order for nine men, but the musical generally succeeds. Even so, Joshua Henry as Haywood Patterson, the de facto leader of the group, stands out with a great voice and a fearless, intense style.Of the rest of the cast, Cullum is honey-warm as the emcee, but also dark as the governor of Alabama. And McClendon and Domingo are marvelous in their multiple roles as thuggish cops and slimy lawyers.Kander and Ebb seem to thrive on having their characters behind bars and poorly represented by legal counsel. A hint that the nine defendants here have been railroaded is established by all the action happening beneath a set of three enormous crooked frames.The dancing is high energy and the songs are strong, with melodies that linger. The standouts are the poignant "Go Back Home," the wink-and-a-nod "Southern Days," the funny "Make Friends With the Truth" and the satire of Northern self-righteousness "That's Not the Way We Do Things." It sadly marks the final Kander and Ebb collaboration; Ebb died in 2004.Stroman, often known for her over-the-top productions such as "Young Frankenstein" and "The Producers," has toned it down here and the work hasn't suffered. Together with set designer Beowulf Boritt, she has used little scenery, choosing instead a collection of silver chairs that interlock to create everything from a train to a jail to a courtroom to a bus. The fact that the nine accused men construct each adds to the irony.The musical, which had its world premiere earlier this year at the Vineyard Theatre and was further developed this summer at the Guthrie Theater in Minneapolis, is as tightly put together as those chairs. Every movement, it seems, is well designed and there are complicated scenes -- such as a Kara Walker-inspired shadow play and a dream sequence with an electric chair -- that come off effortlessly.The lighting by Ken Billington and sound design by Peter Hylenski are minimalist but powerful -- the heavy use of spotlights serves to highlight each man and a slow drum beat at key moments leave an ominous impression.Speaking of ominous, a ghostly woman wanders in and out of the action throughout the show, a wordless observer. It only becomes clear who she is at the end. And that's when the audience realizes the creative team has struck a final, brilliant blow.------Online: http://scottsboromusical.com</text>
+  <mention label="Haywood Patterson" length="17" position="2642"/>
+  <mention label="Fred Ebb" length="8" position="65"/>
+  <mention label="Scottsboro Boys" length="15" position="6"/>
+  <mention label="Kander" length="6" position="2956"/>
+  <mention label="Scottsboro" length="10" position="6"/>
+  <mention label="Tambo" length="5" position="2123"/>
+  <mention label="Bones" length="5" position="2250"/>
+  <mention label="McClendon" length="9" position="1990"/>
+  <mention label="Colman Domingo" length="14" position="1951"/>
+  <mention label="John Cullum" length="11" position="1438"/>
+  <mention label="Nazis" length="5" position="147"/>
+  <mention label="Chicago" length="7" position="273"/>
+  <mention label="Kander" length="6" position="287"/>
+  <mention label="Bones" length="5" position="1944"/>
+  <mention label="Stroman" length="7" position="999"/>
+  <mention label="Domingo" length="7" position="1958"/>
+  <mention label="Northern" length="8" position="3435"/>
+  <mention label="Cullum" length="6" position="1443"/>
+  <mention label="Alabama" length="7" position="2848"/>
+  <mention label="Ala" length="3" position="1643"/>
+  <mention label="Latin America" length="13" position="166"/>
+  <mention label="Susan Stroman" length="13" position="993"/>
+  <mention label="Dixie" length="5" position="2218"/>
+  <mention label="Kander" length="6" position="54"/>
+  <mention label="David Thompson" length="14" position="1023"/>
+  <mention label="Ken Billington" length="14" position="4415"/>
+  <mention label="Tambo" length="5" position="1975"/>
+  <mention label="Cook County" length="11" position="254"/>
+  <mention label="Bones" length="5" position="2109"/>
+  <mention label="Minneapolis" length="11" position="4146"/>
+  <mention label="John Kander" length="11" position="49"/>
+</item>

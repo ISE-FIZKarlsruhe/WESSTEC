@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Russia president visits isle also claimed by JapanRussia's president visited an island in the Pacific Ocean claimed by both Russia and Japan on Monday, triggering immediate protests from Tokyo and risking another flare-up over territorial disputes in Asian waters.Japan's Foreign Ministry said President Dmitry Medvedev landed on Kunashiri Island, just off Japan's northern coast. The island is part of a group of four claimed by both countries that Japan calls the Northern Territories and Russia calls the southern Kurils."We have never changed our position that the Northern Territories are a part of our territory and the visit is very regrettable," Prime Minister Naoto Kan told a session of Parliament on Monday.Part of a larger chain of Russian-held islands, the disputed islands are surrounded by rich fishing waters and are believed to have promising offshore oil and natural gas reserves, plus gold and silver deposits. The islands -- which have been under Russian control since the waning days of World War II -- have suffered neglect and the population has plummeted since the fall of the Soviet Union.Medvedev's visit comes amid a high-level dispute between Japan and China over another set of islands in the East China Sea. Japan's coast guard detained the captain of a Chinese fishing boat that collided with its patrol vessels near the islands more than a month ago, sparking the diplomatic spat and setting off protests across China even after the captain was released.China also has competing claims with several other Asian neighbors over islands in the region.Medvedev said in September that he planned to visit the disputed islands in the Pacific, which are just six miles (10 kilometers) from Japan's Hokkaido island but are also near undisputed Russian territory. Japan criticized his plan, with Kan saying he didn't think the visit would actually take place.Medvedev at the time described the islands as "a very important region in our country."Japan also protested when Russian Foreign Minister Sergey Lavrov visited the islands in 2007. Two years earlier, Moscow hinted it would cede two of the four disputed islands if Japan gave up its claim to the other two, an idea Japan rejected.The dispute has prevented Tokyo and Moscow from signing a peace treaty to formally end hostilities from World War II.</text>
+  <mention label="Russian" length="7" position="967"/>
+  <mention label="Foreign Ministry" length="16" position="272"/>
+  <mention label="Soviet Union" length="12" position="1101"/>
+  <mention label="Japan" length="5" position="135"/>
+  <mention label="Kurils" length="6" position="517"/>
+  <mention label="Chinese" length="7" position="1284"/>
+  <mention label="Asian" length="5" position="1537"/>
+  <mention label="Russia" length="6" position="0"/>
+  <mention label="Japan" length="5" position="450"/>
+  <mention label="World War II" length="12" position="2315"/>
+  <mention label="East China Sea" length="14" position="1222"/>
+  <mention label="Japan" length="5" position="264"/>
+  <mention label="China" length="5" position="1227"/>
+  <mention label="Japan" length="5" position="2196"/>
+  <mention label="Medvedev" length="8" position="1114"/>
+  <mention label="Japan" length="5" position="1238"/>
+  <mention label="Pacific Ocean" length="13" position="94"/>
+  <mention label="Naoto Kan" length="9" position="669"/>
+  <mention label="Japan" length="5" position="1171"/>
+  <mention label="China" length="5" position="1181"/>
+  <mention label="Pacific" length="7" position="94"/>
+  <mention label="Kunashiri Island" length="16" position="330"/>
+  <mention label="Japan" length="5" position="357"/>
+  <mention label="Kan" length="3" position="675"/>
+  <mention label="China" length="5" position="1444"/>
+  <mention label="Moscow" length="6" position="2082"/>
+  <mention label="Medvedev" length="8" position="1580"/>
+  <mention label="Japan" length="5" position="2146"/>
+  <mention label="Japan" length="5" position="45"/>
+  <mention label="Sergey Lavrov" length="13" position="2020"/>
+  <mention label="Russia" length="6" position="491"/>
+  <mention label="Russian" length="7" position="744"/>
+  <mention label="Russian" length="7" position="1768"/>
+  <mention label="Parliament" length="10" position="697"/>
+  <mention label="Japan" length="5" position="1969"/>
+  <mention label="Russia" length="6" position="50"/>
+  <mention label="Japan" length="5" position="1715"/>
+  <mention label="Tokyo" length="5" position="2237"/>
+  <mention label="Russia" length="6" position="124"/>
+  <mention label="World War II" length="12" position="1008"/>
+  <mention label="Japan" length="5" position="1787"/>
+  <mention label="Asian" length="5" position="251"/>
+  <mention label="Tokyo" length="5" position="187"/>
+  <mention label="Dmitry Medvedev" length="15" position="304"/>
+  <mention label="Medvedev" length="8" position="311"/>
+</item>

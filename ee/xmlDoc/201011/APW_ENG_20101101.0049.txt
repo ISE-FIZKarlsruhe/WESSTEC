@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Russia president visits isle also claimed by JapanJapan's Foreign Ministry says Russian President Dmitry Medvedev has visited an island claimed by both Russia and Japan.The ministry said Medvedev on Monday visited an island off Japan's northern coast, which is part of what Russia calls the southern Kurils and Japan calls the Northern Territories.Tokyo immediately protested the visit.The Russian president said in September that he planned to make the visit, triggering criticism from Japan.The islands have been under Russian control since the waning days of World War II. The dispute has prevented the two nations from signing a peace treaty to formally end their hostilities.</text>
+  <mention label="Russian" length="7" position="390"/>
+  <mention label="Japan" length="5" position="228"/>
+  <mention label="Medvedev" length="8" position="105"/>
+  <mention label="Japan" length="5" position="487"/>
+  <mention label="Japan" length="5" position="163"/>
+  <mention label="Russia" length="6" position="0"/>
+  <mention label="Japan" length="5" position="45"/>
+  <mention label="Foreign Ministry" length="16" position="58"/>
+  <mention label="Kurils" length="6" position="300"/>
+  <mention label="Dmitry Medvedev" length="15" position="98"/>
+  <mention label="Russian" length="7" position="521"/>
+  <mention label="Japan" length="5" position="311"/>
+  <mention label="Russia" length="6" position="80"/>
+  <mention label="Russian" length="7" position="80"/>
+  <mention label="Japan" length="5" position="50"/>
+  <mention label="Tokyo" length="5" position="348"/>
+  <mention label="Russia" length="6" position="152"/>
+  <mention label="World War II" length="12" position="562"/>
+</item>

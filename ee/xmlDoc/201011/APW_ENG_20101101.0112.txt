@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Chinese manufacturing gains speed in OctoberGrowth in Chinese manufacturing accelerated in October, spurred by a surge in new orders especially for new equipment, a survey showed Monday.The state-affiliated China Federation of Logistics and Purchasing said its purchasing managers index, or PMI, rose to 54.7 in October from 53.8 September and 51.7 in August. Monthly readings have stayed above 50, the benchmark for expansion, for 20 straight months, it said.China's economic growth slowed to 9.6 percent in July-September over a year earlier, down from the previous quarter's 10.3 percent.But the survey, an indicator of future trends, suggests the economy is on track for continued stable growth, the federation said in a notice on its website.It said the relatively strong reading for October reflected strong growth in new orders, particularly for transportation systems and other types of equipment.</text>
+  <mention label="Chinese" length="7" position="54"/>
+  <mention label="Chinese" length="7" position="0"/>
+  <mention label="China" length="5" position="207"/>
+</item>

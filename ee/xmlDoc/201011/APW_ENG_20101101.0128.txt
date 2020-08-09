@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Taliban overrun district in eastern AfghanistanAn Afghan police chief and Taliban spokesman say the militant group has overrun a district in eastern Afghanistan, occupying government buildings and capturing police officers after an intense gunfight.Khogyani district police head Mohammad Yasin was away during the overnight attack but confirmed government offices had been taken over. He did not have any information on casualties.Taliban spokesman Zabiullah Mujahid said Monday insurgents are in control of the district headquarters and all the police guarding it have been killed or captured.In recent months, Ghazni has become of the most unstable provinces in Afghanistan. The country has more than 350 districts. Around 10 are under direct Taliban control but they have a presence in many more.</text>
+  <mention label="Zabiullah Mujahid" length="17" position="449"/>
+  <mention label="Khogyani" length="8" position="249"/>
+  <mention label="Ghazni" length="6" position="612"/>
+  <mention label="Afghan" length="6" position="36"/>
+  <mention label="Afghanistan" length="11" position="664"/>
+  <mention label="Taliban" length="7" position="0"/>
+  <mention label="Taliban" length="7" position="74"/>
+  <mention label="Afghanistan" length="11" position="149"/>
+  <mention label="Afghanistan" length="11" position="36"/>
+</item>

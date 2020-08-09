@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Philippine actor playing gunman killed by watchmanA village watchman in the central Philippines allegedly mistook an actor playing a masked gunman in a British film for a real assassin and fatally shot him, police said Monday.Watchman Eddie Cuizon tried to accost Filipino actor Kirk Abella late Saturday then shot him as the actor was directed to speed away on a motorcycle with a masked driver, said community police chief Alexis Relado of central Cebu city's Parian district.Cuizon, 52, told police he was sleeping and was woken up by a concerned citizen who reported the presence of armed men in his community.He told police he saw two masked men on a motorcycle and approached them but they sped away and he stumbled as he tried to stop them, injuring his knee. He fired at Abella when the actor pulled out a gun, which turned out to be made of plastic, Relado said.Many street killings in the Philippines, including those of political activists and journalists, have been perpetrated by motorcycle-riding gunmen.Abella, 32, was acting in "Going Somewhere," being filmed by British theater and film director Alan Lyddiard in Cebu, Relado said.It was supposed to be the final take of a scene where Abella's character was to be involved in a drive-by shooting, the police chief said.Abella died later in a hospital and Cuizon immediately surrendered to the police after he realized what happened, police said.Volunteer watchmen in communities around the country help police keep the peace, patrol the streets and implement curfews. They are normally armed only with batons and are not supposed to carry firearms.Cuizon told police he just borrowed the pistol he used but refused to identify from whom, Relado said. Cuizon will be charged with homicide and for violation of a gun ban, Relado said.Lyddiard's website says the movie is about a fictional documentary filmmaker's travails in Cebu, where he plans to make a movie about the first circumnavigation of the world by Ferdinand Magellan, whose voyage to the Philippines led to its colonization by Spain. Magellan was killed by a native chief on Mactan island near Cebu in 1521.Lyddiard and members of his crew, including a Filipino woman who had arranged for police assistance with traffic and crowd control in Parian, could not be reached for comment.------Online:</text>
+  <mention label="Filipino" length="8" position="264"/>
+  <mention label="Spain" length="5" position="2055"/>
+  <mention label="Cebu" length="4" position="450"/>
+  <mention label="Parian" length="6" position="462"/>
+  <mention label="Philippines" length="11" position="899"/>
+  <mention label="Cuizon" length="6" position="1615"/>
+  <mention label="Magellan" length="8" position="1986"/>
+  <mention label="Philippine" length="10" position="0"/>
+  <mention label="Abella" length="6" position="779"/>
+  <mention label="Cebu" length="4" position="2122"/>
+  <mention label="Lyddiard" length="8" position="1799"/>
+  <mention label="Alan Lyddiard" length="13" position="1113"/>
+  <mention label="Lyddiard" length="8" position="1118"/>
+  <mention label="Cuizon" length="6" position="478"/>
+  <mention label="Abella" length="6" position="284"/>
+  <mention label="British" length="7" position="152"/>
+  <mention label="Philippines" length="11" position="84"/>
+  <mention label="Cebu" length="4" position="1890"/>
+  <mention label="Ferdinand Magellan" length="18" position="1976"/>
+  <mention label="Philippines" length="11" position="2016"/>
+  <mention label="Cuizon" length="6" position="1322"/>
+  <mention label="Cebu" length="4" position="1130"/>
+  <mention label="British" length="7" position="1079"/>
+  <mention label="Mactan" length="6" position="2103"/>
+  <mention label="Abella" length="6" position="1202"/>
+  <mention label="Cuizon" length="6" position="241"/>
+  <mention label="Abella" length="6" position="1018"/>
+</item>

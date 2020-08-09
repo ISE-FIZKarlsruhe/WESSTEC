@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>3 Japanese freed by China arrive back homeThe employer of three Japanese held by China for allegedly entering a restricted military zone says the men have arrived back in Japan.Their release reflects easing tensions between the two Asian nations that flared over a territorial dispute. They landed in Tokyo on Friday afternoon.But Tokyo is pressing for the release of a fourth citizen still in Chinese custody.The men were detained outside a northern Chinese city on Sept. 21 following the collision between a Chinese fishing trawler and two Japanese patrol boats near disputed islands in the East China Sea.</text>
+  <mention label="Chinese" length="7" position="451"/>
+  <mention label="Japan" length="5" position="2"/>
+  <mention label="Tokyo" length="5" position="301"/>
+  <mention label="Japanese" length="8" position="64"/>
+  <mention label="Japanese" length="8" position="2"/>
+  <mention label="Chinese" length="7" position="394"/>
+  <mention label="Asian" length="5" position="232"/>
+  <mention label="Tokyo" length="5" position="331"/>
+  <mention label="China" length="5" position="20"/>
+  <mention label="China" length="5" position="81"/>
+  <mention label="Japanese" length="8" position="542"/>
+  <mention label="Chinese" length="7" position="510"/>
+  <mention label="East China Sea" length="14" position="593"/>
+</item>

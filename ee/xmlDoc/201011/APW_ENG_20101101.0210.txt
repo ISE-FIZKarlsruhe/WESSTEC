@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Turkey investigates suicide bombingTurkish authorities are investigating a suicide bombing in Istanbul that wounded 32 people, half of them police, but have not announced theories about who was responsible for the attack in a crowded square.Kurdish rebels, Islamic militants and leftist extremists have all carried out attacks in Turkey.The United States and Germany were among NATO allies that condemned the bombing Sunday, and Turkey's military said the attack would only strengthen its resolve to fight terrorism.Without citing a source, Turkey's Milliyet newspaper reported Monday that the bomber used plastic explosives of a type often used by Kurdish rebels who have been fighting the state since 1984. A unilateral cease-fire declared by the rebel Kurdistan Workers' Party had been set to expire at the end of October, and it was unclear whether the group planned to renew it.</text>
+  <mention label="Germany" length="7" position="359"/>
+  <mention label="Turkish" length="7" position="35"/>
+  <mention label="Turkey" length="6" position="0"/>
+  <mention label="Islamic" length="7" position="257"/>
+  <mention label="Turkey" length="6" position="429"/>
+  <mention label="Turkey" length="6" position="330"/>
+  <mention label="Milliyet" length="8" position="550"/>
+  <mention label="Kurdish" length="7" position="649"/>
+  <mention label="Istanbul" length="8" position="94"/>
+  <mention label="Kurdish" length="7" position="241"/>
+  <mention label="United States" length="13" position="341"/>
+  <mention label="Turkey" length="6" position="541"/>
+  <mention label="NATO" length="4" position="378"/>
+</item>

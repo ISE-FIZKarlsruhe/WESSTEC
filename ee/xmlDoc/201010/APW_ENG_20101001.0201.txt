@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Koreas meet to discuss family reunionsRed Cross officials from the two Koreas tried to work out differences Friday on holding reunions for families separated by civil war, a day after the North hinted it might fire artillery on activists who disperse anti-North leaflets.The reunions, which have not been held for a year, could help restore calm between North and South Korea, which have been especially tense since the March sinking of a South Korean warship that killed 46 sailors. An international investigation blamed the attack on North Korea, but Pyongyang denied involvement.North Korea in early September proposed a resumption in the reunions, but the two sides have not agreed on details of the venue as well as their scale, and two previous rounds of talks last month failed to resolve the dispute.The difficulty of broadly reducing tensions between the sides was underscored Thursday when their first working-level military talks in two years ended without progress, with the meeting stumbling over the warship sinking.At the meeting, held in the inter-Korean border village of Panmunjom, the North also called on the South to rein in activists who spread anti-North Korean leaflets. The North warned that its artillery units were "getting fully ready to strike the spotted centers for scattering leaflets," North Korea's official Korean Central News Agency reported late Thursday.North Korean defectors and South Korean activists regularly float leaflets across the heavily fortified border in a campaign to urge North Koreans to rise up against leader Kim Jong Il.The North regularly threatens military retaliation against the South, though the threat to fire artillery at the leaflet launch sites appeared to be a first. Seoul's Defense Ministry said it had no comment.Kim Yong-hyun, a North Korea expert at Seoul's Dongguk University, dismissed the talk as typical North Korean rhetoric, and said it was unlikly to risk worsening inter-Korean ties by carrying it out. "It is an empty threat," Kim said.Park Sang-hak, a North Korean defector in Seoul who is a key organizer of a campaign to send leaflets, also brushed off the threat and said his group will send them on Oct. 10, the 65th anniversary of the founding of the North's Workers Party."I don't care about the North's threats and blackmail at all," Park said, noting that the leaflets will be critical of Kim's recent move to hand over power to his youngest son.Kim earlier this week promoted his youngest son, Kim Jong Un, to four-star general and gave him key political posts aimed at an eventual succession in what would became the country's second hereditary power transition. The elder Kim took over the authoritarian country in 1994 after the death of his father, national founder Kim Il Sung.South Korea has proposed holding the family meetings in a reunion center at the North's scenic Diamond Mountain resort. The North also has suggested the resort, but the two sides have not agreed on an exact location within it."I will try to resolve the issue of a venue for reunions of separated families and discuss details on the schedule," Kim Eyi-do, the South Korean side's chief delegate, told reporters Friday before crossing the border into the North Korean city of Kaesong.The dispute over the venue stems from South Korea's suspension of tourist trips there, which had provided the impoverished North with much-needed hard currency for a decade. Seoul took the action in 2008 when a South Korean tourist was fatally shot after allegedly entering a restricted military area next to the facility.Pyongyang, which has repeatedly called for the tours to resume, appeared likely to take advantage of the reunions as leverage to reopen the tourist trips. South Korea has refused to restart them until its demands for a joint investigation into the shooting are carried out.------Associated Press writer Sangwon Yoon in Seoul contributed to this report.</text>
+  <mention label="South Korea" length="11" position="1419"/>
+  <mention label="Associated Press" length="16" position="3856"/>
+  <mention label="Kim Il Sung" length="11" position="2761"/>
+  <mention label="Seoul" length="5" position="1735"/>
+  <mention label="Koreas" length="6" position="0"/>
+  <mention label="South Korean" length="12" position="3466"/>
+  <mention label="South Korean" length="12" position="1419"/>
+  <mention label="Kim" length="3" position="2379"/>
+  <mention label="Panmunjom" length="9" position="1089"/>
+  <mention label="Workers Party" length="13" position="2246"/>
+  <mention label="North Korea" length="11" position="582"/>
+  <mention label="Seoul" length="5" position="2059"/>
+  <mention label="North Korea" length="11" position="536"/>
+  <mention label="North Korean" length="12" position="1880"/>
+  <mention label="Kim Jong Il" length="11" position="1565"/>
+  <mention label="North Korean" length="12" position="1172"/>
+  <mention label="Kim" length="3" position="2008"/>
+  <mention label="Seoul" length="5" position="1822"/>
+  <mention label="Kim" length="3" position="1565"/>
+  <mention label="South Korea" length="11" position="2773"/>
+  <mention label="Defense Ministry" length="16" position="1743"/>
+  <mention label="North Korea" length="11" position="1172"/>
+  <mention label="Seoul" length="5" position="3429"/>
+  <mention label="Pyongyang" length="9" position="553"/>
+  <mention label="Korean Central News Agency" length="26" position="1342"/>
+  <mention label="Park" length="4" position="2017"/>
+  <mention label="South Korea" length="11" position="364"/>
+  <mention label="Kaesong" length="7" position="3247"/>
+  <mention label="South" length="5" position="364"/>
+  <mention label="North Korea" length="11" position="1319"/>
+  <mention label="South Korean" length="12" position="3132"/>
+  <mention label="Pyongyang" length="9" position="3577"/>
+  <mention label="South" length="5" position="439"/>
+  <mention label="Kim" length="3" position="1783"/>
+  <mention label="Dongguk University" length="18" position="1830"/>
+  <mention label="North Koreans" length="13" position="1525"/>
+  <mention label="North Korean" length="12" position="1525"/>
+  <mention label="North" length="5" position="188"/>
+  <mention label="Kim Yong-hyun" length="13" position="1783"/>
+  <mention label="South Korean" length="12" position="439"/>
+  <mention label="North Korean" length="12" position="1392"/>
+  <mention label="South Korea" length="11" position="439"/>
+  <mention label="Seoul" length="5" position="3896"/>
+  <mention label="Kim Jong Un" length="11" position="2485"/>
+</item>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Asian stocks gain amid Fed easing expectationsAsian stock markets were higher Monday as lackluster U.S. growth figures reinforced expectations the Federal Reserve will pump more money into the world's biggest economy.American gross domestic product grew just 2 percent at an annualized pace in the three months through September, slightly faster than the previous quarter but not enough to bring down unemployment, which is hovering near 10 percent.The weak showing underlined expectations that the Fed policy meeting ending Wednesday will announce a Treasury bond buying program, known as quantative easing, to inject more liquidity into the economy.Hong Kong's Hang Seng index was up 1.8 percent at 23,520.75, South Korea's Kospi rose 1 percent to 1,901.81, and Australia's S&amp;P/ASX 200 gained 1 percent to 4,701.50.China's Shanghai Composite Index added 1.7 percent to 3,029.33.Japan's benchmark Nikkei 225 stock average bucked the trend, falling 0.2 percent at 9,186.30.Markets in Singapore, Taiwan and Indonesia were higher.The Dow Jones industrial average on Friday rose 4.54, or 0.1 percent, to close at 11,118.49. The Standard and Poor's 500 Index fell 0.52, or 0.1 percent, to 1,183.26.Despite the soft finishes, both U.S. indexes were up over 3 percent for the month.In currencies, the dollar rose to 80.66 yen from 80.31 yen. The euro rose versus the dollar to $1.3981 from $1.3945.Benchmark crude for December delivery was up 40 cents at $81.81 a barrel in electronic trading on the New York Mercantile Exchange. The contract fell 75 cents to settle at $81.43 on Friday.</text>
+  <mention label="Dow Jones" length="9" position="1032"/>
+  <mention label="Shanghai Composite Index" length="24" position="825"/>
+  <mention label="Hong Kong" length="9" position="651"/>
+  <mention label="South Korea" length="11" position="712"/>
+  <mention label="Nikkei" length="6" position="898"/>
+  <mention label="Asian" length="5" position="0"/>
+  <mention label="Taiwan" length="6" position="995"/>
+  <mention label="U.S." length="4" position="99"/>
+  <mention label="Indonesia" length="9" position="1006"/>
+  <mention label="New York Mercantile Exchange" length="28" position="1494"/>
+  <mention label="Asian" length="5" position="46"/>
+  <mention label="U.S." length="4" position="1226"/>
+  <mention label="ASX" length="3" position="780"/>
+  <mention label="Treasury" length="8" position="551"/>
+  <mention label="Fed" length="3" position="147"/>
+  <mention label="Singapore" length="9" position="984"/>
+  <mention label="American" length="8" position="217"/>
+  <mention label="Kospi" length="5" position="726"/>
+  <mention label="Fed" length="3" position="23"/>
+  <mention label="China" length="5" position="817"/>
+  <mention label="Japan" length="5" position="880"/>
+  <mention label="Australia" length="9" position="764"/>
+  <mention label="Federal Reserve" length="15" position="147"/>
+  <mention label="Hang Seng" length="9" position="663"/>
+</item>

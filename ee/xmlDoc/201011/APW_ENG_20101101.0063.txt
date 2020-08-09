@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Major League Soccer Playoffs GlanceEASTERN CONFERENCESemifinalsNew York vs. San JoseSaturday, Oct. 30: New York 1, San Jose 0Thursday, Nov. 4: New York vs San Jose.Columbus vs. ColoradoThursday, Oct. 28: Colorado 1, Columbus 0Saturday, Nov. 6: Columbus vs. Colorado.WESTERN CONFERENCESemifinalsReal Salt Lake vs. DallasSaturday, Oct. 30: FC Dallas 2, Real Salt Lake 1Saturday, Nov. 6: Real Salt Lake vs. Dallas.Los Angeles vs. SeattleSunday, Oct. 31: Los Angeles 1, Seattle 0Sunday, Nov. 7: Los Angeles vs. Seattle.</text>
+  <mention label="Los Angeles" length="11" position="491"/>
+  <mention label="Colorado" length="8" position="204"/>
+  <mention label="San Jose" length="8" position="76"/>
+  <mention label="New York" length="8" position="143"/>
+  <mention label="Real Salt Lake" length="14" position="294"/>
+  <mention label="Los Angeles" length="11" position="451"/>
+  <mention label="Colorado" length="8" position="257"/>
+  <mention label="Seattle" length="7" position="427"/>
+  <mention label="Columbus" length="8" position="164"/>
+  <mention label="New York" length="8" position="103"/>
+  <mention label="Columbus" length="8" position="216"/>
+  <mention label="Los Angeles" length="11" position="411"/>
+  <mention label="Real Salt Lake" length="14" position="351"/>
+  <mention label="Dallas" length="6" position="341"/>
+  <mention label="San Jose" length="8" position="155"/>
+  <mention label="Seattle" length="7" position="466"/>
+  <mention label="New York" length="8" position="63"/>
+  <mention label="Colorado" length="8" position="177"/>
+  <mention label="FC Dallas" length="9" position="338"/>
+  <mention label="San Jose" length="8" position="115"/>
+  <mention label="Seattle" length="7" position="507"/>
+  <mention label="Columbus" length="8" position="244"/>
+  <mention label="Dallas" length="6" position="313"/>
+</item>

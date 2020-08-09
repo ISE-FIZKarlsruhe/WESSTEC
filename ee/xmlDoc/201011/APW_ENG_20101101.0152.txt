@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Big task ahead for Brazil new leader RousseffFrom three years in a dictatorship's jail cell to just two months away from the presidential palace, the journey has been long for Brazil's newly elected leader Dilma Rousseff, who will be the first woman to direct Latin America's biggest nation.She is a career civil servant who has never held elected office, but Rousseff easily won Sunday's presidential runoff election. That was thanks to the wholehearted backing of outgoing President Luiz Inacio Lula da Silva, who for decades has been a presence on Brazil's political scene and will leave office as its most popular leader.Now, the difficult part begins. Rousseff must make good on her campaign promises to continue Silva's programs that have led Brazil to new international economic and political heights. She acknowledged the challenge in her victory speech late Sunday after overcoming centrist rival Jose Serra by winning 56 percent of the vote against his 44 percent."It's a challenging and difficult task to succeed him, but I will know how to honor his legacy," she said of Silva. "I will know how to advance and consolidate his work."This is exactly what her supporters and most of the base of the governing Workers Party expect."Now we are certain that the country will continue in the right direction," 26-year-old teacher Hobert dos Santos said while waving Rousseff campaign flags at a celebration on a main avenue in Sao Paulo. "Dilma will be able to continue working for the people, to continue improving many of the things that Lula started and didn't have time to finish."A former Marxist guerrilla who was jailed and tortured for three years in the early 1970s for fighting against Brazil's dictatorship, Rousseff is known as a demanding and skilled manager. She first served as Silva's energy minister and from 2005 until earlier this year was his chief of staff, running the day-to-day operations of the administration.Despite her tough exterior, she betrayed emotion when speaking about Silva after the election results were announced."The joy I feel with this victory today is mixed with the emotion of his farewell. I know that a leader like Lula will never be away from his people," she said, her eyes welling with tears and voice cracking. "I will always be able to knock on his door and I'm sure that it will always will be open."In his concession speech, Serra said he respected the voters' decision and wished the president-elect good luck.Beginning Jan. 1, Rousseff, 62, will lead a nation on the rise, a country that will host the 2014 World Cup and that is expected to be the globe's fifth-largest economy by the time it hosts the 2016 Summer Olympics. It has also recently discovered huge oil reserves off its coast.Silva used his 80 percent approval ratings to campaign incessantly for Rousseff, who lacks the charisma that transformed Silva from a one-time shoeshine boy into one of the globe's most popular leaders.Barred by the constitution from running for a third consecutive four-year term, Silva has batted down chatter in Brazil's media that he plans a new run at the presidency in 2014, which would be allowed under the law.Many Brazilians don't want "Lula," as he is popularly known, to go away."If Lula ran for president 10 times, I would vote for him 10 times," said Marisa Santos, a 43-year-old selling her homemade jewelry on a Sao Paulo street. "I'm voting for Dilma, of course, but the truth is it will still be Lula who will lead us."Silva, 65, entered office with a background as a leftist labor leader, but he governed from a moderate perspective. Under his leadership, the economy grew strongly and Brazil weathered the global financial crisis better than most nations.He is loved within Brazil by the legions of poor, who consider the nation's first working-class president one of their own. His social programs and orthodox economic policies have helped lift 20 million people out of poverty and thrust another 29 million into the middle class."I voted for Dilma because she is a fighter," said Estevam Sanches, a 43-year-old pizza parlor owner in Sao Paulo. "What we need is a fighter in the presidency to continue, as she says she will, with Lula's efforts to eradicate poverty and strengthen the economy."Rousseff is the daughter of a Bulgarian immigrant father, a lawyer who died when she was 14, and a Brazilian mother who was a schoolteacher. Her past points to an early political awakening.In 1967, as a 19-year-old economics student, she joined a militant political group opposing the dictatorship. For three years she helped lead guerrilla organizations, instructed comrades on Marxist theory and wrote for an underground newspaper.Rousseff denies carrying out any acts of violence during this period, says she opposed such action and notes she was never accused by the military regime of violent acts.After three years underground, Rousseff was captured in 1970 by Brazil's military police and was considered a big enough catch that a military prosecutor labeled her the "Joan of Arc" of the guerrilla movement.It's that image of a strong woman that Rousseff projected Sunday, saying that her first promise as president elect was "to honor the women" of Brazil, adding that she hoped her win would allow "fathers and mothers to look their daughters in the eyes and say, 'Yes, a woman can.'"------Associated Press reporters Stan Lehman and Tales Azzoni in Sao Paulo and Marco Sibaja in Brasilia contributed to this story.</text>
+  <mention label="Jose Serra" length="10" position="906"/>
+  <mention label="Sao Paulo" length="9" position="4104"/>
+  <mention label="Lula" length="4" position="3462"/>
+  <mention label="Silva" length="5" position="1798"/>
+  <mention label="Latin America" length="13" position="260"/>
+  <mention label="Serra" length="5" position="911"/>
+  <mention label="Rousseff" length="8" position="2820"/>
+  <mention label="Brazil" length="6" position="4363"/>
+  <mention label="Lula" length="4" position="1545"/>
+  <mention label="World Cup" length="9" position="2567"/>
+  <mention label="Sao Paulo" length="9" position="1432"/>
+  <mention label="Brazil" length="6" position="19"/>
+  <mention label="Brazil" length="6" position="3742"/>
+  <mention label="Rousseff" length="8" position="657"/>
+  <mention label="Rousseff" length="8" position="4264"/>
+  <mention label="Dilma" length="5" position="1444"/>
+  <mention label="Brazil" length="6" position="551"/>
+  <mention label="Brazil" length="6" position="1701"/>
+  <mention label="Sao Paulo" length="9" position="5421"/>
+  <mention label="Marxist" length="7" position="4643"/>
+  <mention label="Rousseff" length="8" position="4898"/>
+  <mention label="Rousseff" length="8" position="37"/>
+  <mention label="Lula" length="4" position="3243"/>
+  <mention label="Silva" length="5" position="2870"/>
+  <mention label="Rousseff" length="8" position="1724"/>
+  <mention label="Brazil" length="6" position="176"/>
+  <mention label="Silva" length="5" position="2749"/>
+  <mention label="Marxist" length="7" position="1599"/>
+  <mention label="Sao Paulo" length="9" position="3376"/>
+  <mention label="Silva" length="5" position="1083"/>
+  <mention label="Rousseff" length="8" position="2487"/>
+  <mention label="Dilma Rousseff" length="14" position="206"/>
+  <mention label="Brasilia" length="8" position="5451"/>
+  <mention label="Brazil" length="6" position="3653"/>
+  <mention label="Silva" length="5" position="718"/>
+  <mention label="Dilma" length="5" position="206"/>
+  <mention label="Workers Party" length="13" position="1218"/>
+  <mention label="Bulgarian" length="9" position="4294"/>
+  <mention label="Rousseff" length="8" position="4697"/>
+  <mention label="Silva" length="5" position="3031"/>
+  <mention label="Rousseff" length="8" position="1371"/>
+  <mention label="Dilma" length="5" position="3410"/>
+  <mention label="Silva" length="5" position="2009"/>
+  <mention label="Rousseff" length="8" position="212"/>
+  <mention label="Rousseff" length="8" position="360"/>
+  <mention label="Associated Press" length="16" position="5362"/>
+  <mention label="Brazil" length="6" position="3172"/>
+  <mention label="Brazil" length="6" position="749"/>
+  <mention label="Brazilian" length="9" position="3172"/>
+  <mention label="Brazilians" length="10" position="3172"/>
+  <mention label="Lula" length="4" position="2166"/>
+  <mention label="Lula" length="4" position="497"/>
+  <mention label="Olympics" length="8" position="2675"/>
+  <mention label="Silva" length="5" position="505"/>
+  <mention label="Luiz Inacio Lula da Silva" length="25" position="485"/>
+  <mention label="Brazil" length="6" position="3064"/>
+  <mention label="Lula" length="4" position="3195"/>
+</item>

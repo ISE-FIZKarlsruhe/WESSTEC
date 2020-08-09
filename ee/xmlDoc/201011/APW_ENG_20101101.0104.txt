@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Bumgarner pitches Giants to brink of Series crownMadison Bumgarner allowed three hits over eight innings, and Aubrey Huff and Buster Posey homered as San Francisco beat the Texas Rangers 4-0 on Sunday to move within one win of the Giants' first World Series title since 1954.Bumgarner, San Francisco's 21-year-old No. 4 starter, didn't allow a runner past second base as the Giants took a 3-1 lead in the best of seven series."I can't say enough about what he did," Giants manager Bruce Bochy said.The 21-year-old Bumgarner and closer Brian Wilson helped the Giants become the first team to post two shutouts in a World Series since Baltimore threw three straight to close out the Dodgers in 1966."It's certainly been pitching as advertised," Texas manager Ron Washington said. "They've got good stuff. They've got velocity. They can spin the baseball. They can change speeds and they keep their defense engaged."Huff's two-run homer in the third inning gave Bumgarner all the support he needed. Posey added a solo shot in the eighth -- Bumgarner and Posey became the first rookie pair to start in the World Series since Spec Shea and Yogi Berra for the Yankees in 1947.Ace Tim Lincecum will try Monday to deliver the Giants' first championship since they moved to San Francisco in 1958. Now it's up to Cliff Lee to save the Rangers' season in Game 5."With a win, I usually sleep pretty good in the playoffs, with a loss pretty shaky. Hopefully we sleep good tonight. We've got a big challenge tomorrow with Cliff Lee," Huff said. "We got him last game, but you know he's going to come out and really want to get us."Even though Bumgarner got relief help, it was a complete game for the Giants.  Andres Torres doubled twice, singled and drove in a run and Edgar Renteria also got three hits.Left fielder Cody Ross came up with a shoestring catch, second baseman Freddy Sanchez made a leaping grab and Posey threw out Josh Hamilton trying to steal. Bumgarner helped himself, too, knocking down Hamilton's scorcher up the middle.Coming off a 4-2 win Saturday night, the Rangers and their fans were ready to level this Series. Earlier in the day at nearby Cowboys Stadium, two little boys held up signs at the Cowboys NFL game that read: "Hurry Up Cowboys ... I Have a Rangers Game to go to."The father-and-son team of George H.W. Bush and George W. Bush threw out the ceremonial first ball in what Major League Baseball said was the first time two former presidents attended a World Series game.Bumgarner didn't permit a runner past first base until the seventh. Facing his only jam, he retired Ian Kinsler on a fly ball to strand two runners and preserve a 3-0 lead.Bumgarner struck out Vladimir Guerrero three times, the first time the star Texas designated hitter had done that this season.The Giants' fourth starter, Bumgarner went 7-6 in 18 starts this season. He began this game with a four-pitch walk to Elvis Andrus and ran into little trouble after that. He struck six, walked two and improved to 2-0 in three postseason starts."I try to tell myself all the time just to relax and take deep breaths, control the breathing. It helps me relax and stay calm and act like it's not a big deal. Obviously it is, it's the World Series. Just tried to go out there and relax, and it's worked out," he said.Wilson closed with a hitless ninth.The Giants tweaked their lineup, benching Pat Burrell and making Huff the designated hitter for the first time this season. Bochy put Nate Schierholtz in right field and Travis Ishikawa at first base -- fine fielders, not great hitters. That's more the NL way, where spare bats rarely grow on the bench.Washington came off his bench twice to discuss calls with first base umpire Jeff Kellogg. Replays seemed to show both were misses that went against the Rangers.Thwarted early, the Giants took a 2-0 lead in the third on Huff's homer. Torres led off with a grounder that hit the first-base bag, kicked up and rolled into the corner for a double. Sanchez failed to advance him and was still shouting at himself down in the dugout tunnel when Huff hit a long drive to right.Huff homered on the 62nd pitch overall from Hunter, who tossed strikes but couldn't throw the ball past anyone. Alexi Ogando began warming up in the Texas bullpen in the third and replaced Hunter in the fifth.Ogando set down five straight batters, then bounced a breaking ball to the sixth and immediately grabbed his left side. A trainer went to the mound, Ogando came out and Darren Oliver relieved.The Giants took an aggressive approach from the get-go. After Torres led off the game with an infield single, Bochy ordered up a bunt, hit-and-run and a steal -- all with Sanchez at the plate.Hamilton kept things scoreless in the Giants second. The All-Star center fielder charged hard to make a diving, backhanded catch on a blooper by Schierholtz that stranded runners at the corners.</text>
+  <mention label="Ogando" length="6" position="4230"/>
+  <mention label="Posey" length="5" position="133"/>
+  <mention label="Nate Schierholtz" length="16" position="3473"/>
+  <mention label="Giants" length="6" position="4743"/>
+  <mention label="Bochy" length="5" position="3463"/>
+  <mention label="Bumgarner" length="9" position="1037"/>
+  <mention label="Cody Ross" length="9" position="1804"/>
+  <mention label="Yankees" length="7" position="1154"/>
+  <mention label="Darren Oliver" length="13" position="4490"/>
+  <mention label="Giants" length="6" position="3343"/>
+  <mention label="Bumgarner" length="9" position="0"/>
+  <mention label="Hamilton" length="8" position="1922"/>
+  <mention label="Jeff Kellogg" length="12" position="3718"/>
+  <mention label="Bumgarner" length="9" position="514"/>
+  <mention label="Alexi Ogando" length="12" position="4224"/>
+  <mention label="Huff" length="4" position="3861"/>
+  <mention label="Giants" length="6" position="1687"/>
+  <mention label="Rangers" length="7" position="2068"/>
+  <mention label="San Francisco" length="13" position="286"/>
+  <mention label="Giants" length="6" position="18"/>
+  <mention label="Huff" length="4" position="913"/>
+  <mention label="Bumgarner" length="9" position="1948"/>
+  <mention label="Sanchez" length="7" position="3986"/>
+  <mention label="Bumgarner" length="9" position="275"/>
+  <mention label="Tim Lincecum" length="12" position="1174"/>
+  <mention label="World Series" length="12" position="3222"/>
+  <mention label="Wilson" length="6" position="541"/>
+  <mention label="San Francisco" length="13" position="150"/>
+  <mention label="Brian Wilson" length="12" position="535"/>
+  <mention label="George H.W. Bush" length="16" position="2316"/>
+  <mention label="Schierholtz" length="11" position="3478"/>
+  <mention label="Cliff Lee" length="9" position="1303"/>
+  <mention label="Posey" length="5" position="1051"/>
+  <mention label="Madison Bumgarner" length="17" position="49"/>
+  <mention label="Texas Rangers" length="13" position="173"/>
+  <mention label="Torres" length="6" position="1703"/>
+  <mention label="Giants" length="6" position="4517"/>
+  <mention label="Torres" length="6" position="3875"/>
+  <mention label="World Series" length="12" position="2475"/>
+  <mention label="Texas" length="5" position="173"/>
+  <mention label="Giants" length="6" position="559"/>
+  <mention label="Rangers" length="7" position="1325"/>
+  <mention label="Ian Kinsler" length="11" position="2593"/>
+  <mention label="Andres Torres" length="13" position="1696"/>
+  <mention label="Dodgers" length="7" position="681"/>
+  <mention label="George W. Bush" length="14" position="2337"/>
+  <mention label="Texas" length="5" position="2741"/>
+  <mention label="Bumgarner" length="9" position="57"/>
+  <mention label="Rangers" length="7" position="179"/>
+  <mention label="Bumgarner" length="9" position="2493"/>
+  <mention label="Bumgarner" length="9" position="959"/>
+  <mention label="Travis Ishikawa" length="15" position="3509"/>
+  <mention label="Hunter" length="6" position="4156"/>
+  <mention label="Pat Burrell" length="11" position="3381"/>
+  <mention label="Hamilton" length="8" position="1993"/>
+  <mention label="World Series" length="12" position="1102"/>
+  <mention label="Giants" length="6" position="1218"/>
+  <mention label="Huff" length="4" position="3404"/>
+  <mention label="Freddy Sanchez" length="14" position="1862"/>
+  <mention label="Major League Baseball" length="21" position="2396"/>
+  <mention label="Sanchez" length="7" position="1869"/>
+  <mention label="Hunter" length="6" position="4301"/>
+  <mention label="Elvis Andrus" length="12" position="2909"/>
+  <mention label="Edgar Renteria" length="14" position="1756"/>
+  <mention label="Giants" length="6" position="466"/>
+  <mention label="Bumgarner" length="9" position="1629"/>
+  <mention label="Bumgarner" length="9" position="2665"/>
+  <mention label="Giants" length="6" position="231"/>
+  <mention label="Posey" length="5" position="996"/>
+  <mention label="Bochy" length="5" position="487"/>
+  <mention label="Texas" length="5" position="743"/>
+  <mention label="Aubrey Huff" length="11" position="110"/>
+  <mention label="Yogi Berra" length="10" position="1135"/>
+  <mention label="Ogando" length="6" position="4321"/>
+  <mention label="Giants" length="6" position="3822"/>
+  <mention label="Bruce Bochy" length="11" position="481"/>
+  <mention label="World Series" length="12" position="614"/>
+  <mention label="Cliff Lee" length="9" position="1508"/>
+  <mention label="Giants" length="6" position="2795"/>
+  <mention label="Vladimir Guerrero" length="17" position="2686"/>
+  <mention label="Josh Hamilton" length="13" position="1917"/>
+  <mention label="Baltimore" length="9" position="633"/>
+  <mention label="Huff" length="4" position="117"/>
+  <mention label="Giants" length="6" position="375"/>
+  <mention label="Buster Posey" length="12" position="126"/>
+  <mention label="Washington" length="10" position="761"/>
+  <mention label="Huff" length="4" position="1520"/>
+  <mention label="Huff" length="4" position="4081"/>
+  <mention label="World Series" length="12" position="245"/>
+  <mention label="Ron Washington" length="14" position="757"/>
+  <mention label="San Francisco" length="13" position="1265"/>
+</item>

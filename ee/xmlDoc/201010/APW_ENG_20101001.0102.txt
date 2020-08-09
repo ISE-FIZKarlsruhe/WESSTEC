@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ecuador troops clash with rebellious policeSoldiers firing concussion grenades and automatic weapons have rescued Ecuador's president from a hospital where he had been trapped by rebellious police for more than 12 hours.President Rafael Correa appeared on the balcony of the presidential palace shortly afterward and addressed an adoring crowd.He had been trapped in the hospital where he was treated after being tear-gassed earlier Thursday in a confrontation with hundreds of police angry over a law that would cut their benefits.In the rescue mission, at least one soldier was seen hit by gunfire and tumbled down a small embankment.Correa appeared to have been removed in a vehicle by soldiers.</text>
+  <mention label="Ecuador" length="7" position="114"/>
+  <mention label="Ecuador" length="7" position="0"/>
+  <mention label="Rafael Correa" length="13" position="230"/>
+  <mention label="Correa" length="6" position="237"/>
+</item>

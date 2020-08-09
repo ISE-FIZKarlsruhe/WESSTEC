@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Wife: Writing notes helped missing hiker surviveA 64-year-old man survived six days without food or water in the desolate Joshua Tree National Park by staying still and writing messages to his family on his hat, telling them what kind of funeral he wanted, who they could trust and how much he loved them, his wife said.Edward Rosenthal, was on a day hike when he made a wrong turn trying to get back to his car on Sept. 24, Nicole Kaplan told The Associated Press by telephone just hours after her husband was rescued by a San Bernardino County sheriff's helicopter crew. He then strayed 13 miles (21 kilometers) before stopping and waiting for help."He realized he was lost and could not go any further, so he lied low and wrote on his hat," Kaplan said.Temperatures in the area nudged toward 100 degrees (38 Celsius) during the week, a park spokesman said.On the hat, Rosenthal told Kaplan he wanted Persian food served if they had a wake or party to celebrate his life. He has many clients as a real estate broker."He had certain poems he wanted read. A vacation that we had planned, who I should take in his place, that I should still go on the vacation. Some of his clients that he wanted me to thank. It was very heartfelt," she said.He told her that if she ever got down to "just think about him and how much he loved me and there is always hope." He also wrote messages of love to their daughter.Rosenthal was weak and severely dehydrated when rescuers found him but was lucid and remembered each day of his ordeal, his wife of 21 years said. He was admitted to the intensive care unit at High Desert Medical Center, where he was listed in stable condition.Rosenthal is known around Los Angeles for writing short, humorous poems and reading them aloud at public events. So he naturally had a pen with him, Kaplan said. But he had no paper, so he used the hat. It got crowded and he used a lot of abbreviations, but it was legible, and the pen never ran out of ink, Kaplan said."We will probably frame the hat, along with the map the ranger gave us showing exactly where he was found," Kaplan said.Rosenthal was being given only water and juice Thursday, but when he regains his strength, he'll get that Persian food he craved on the hiking trail. And he won't have to wait until he dies for that party with friends either, Kaplan said.</text>
+  <mention label="Persian" length="7" position="903"/>
+  <mention label="Persian" length="7" position="2212"/>
+  <mention label="The Associated Press" length="20" position="444"/>
+  <mention label="Kaplan" length="6" position="2094"/>
+  <mention label="Rosenthal" length="9" position="1666"/>
+  <mention label="Celsius" length="7" position="811"/>
+  <mention label="Rosenthal" length="9" position="327"/>
+  <mention label="Rosenthal" length="9" position="871"/>
+  <mention label="Kaplan" length="6" position="744"/>
+  <mention label="Kaplan" length="6" position="886"/>
+  <mention label="Kaplan" length="6" position="1974"/>
+  <mention label="Kaplan" length="6" position="1815"/>
+  <mention label="Rosenthal" length="9" position="1405"/>
+  <mention label="Kaplan" length="6" position="432"/>
+  <mention label="Los Angeles" length="11" position="1692"/>
+  <mention label="San Bernardino County" length="21" position="524"/>
+</item>

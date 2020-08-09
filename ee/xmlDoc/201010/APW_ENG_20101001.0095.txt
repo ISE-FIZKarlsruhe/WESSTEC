@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Wife: Writing notes helped missing hiker surviveSoldiers rush into hospital where Ecuador's president has been surrounded by rebellious police.</text>
+  <mention label="Ecuador" length="7" position="82"/>
+</item>

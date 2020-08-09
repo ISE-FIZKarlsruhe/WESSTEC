@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Woods not surprised by drop in rankingsTiger Woods says it was no surprise to lose golf's No. 1 ranking to England's Lee Westwood after struggling through a disappointing year.Westwood assumed the top ranking Sunday to end a record run by Woods, who had been the world's No. 1 golfer for 281 weeks."As far as the world ranking is concerned, yes, I'm not ranked No. 1 in the world," Woods said Monday. "In order to do that you have to win and I didn't win this year."Woods played an exhibition at Yokohama Country Club on Monday against Japanese teenager Ryo Ishikawa. He was on the way to the HSBC Championship in Shanghai which starts Thursday at Sheshan International.Woods had been No. 1 since the week before the 2005 U.S. Open, where he was runner-up. He won the British Open a month later and his ranking was rarely threatened since.That changed this year when Woods struggled through his worst season on and off the course. He took a five-month break from golf to cope with confessions of extramarital affairs, which ultimately led to divorce, and his game has not been the same.Woods said he was doing his best to adjust to no longer being No. 1."As far as the emotions go, it is what it is," Woods said. "To become No. 1 you have to win and win a lot to maintain it. That's the way it goes."Westwood is followed in the rankings by Woods, PGA champion Martin Kaymer, Phil Mickelson and Steve Stricker.With three more events this year, Woods said he was hopeful of turning things around."I've got three more events this year and, hopefully, I can end on a good note," Woods said. "I'm really looking forward to these events and hopefully they will spearhead into a better 2011."Westwood took the top ranking after PGA champion Kaymer failed to finish among the top two at the Andalucia Masters in Spain. He is the first European since Nick Faldo in 1994 to be No. 1, and the 13th player to be No. 1 since the ranking system began in 1986.The Englishman's reign could be short lived.The HSBC Champions has assembled such a strong field that Westwood, Woods, Kaymer or Mickelson could all be No. 1 by the end of the week. The tournament starts Thursday at Sheshan International where Mickelson is defending champion.</text>
+  <mention label="PGA" length="3" position="1347"/>
+  <mention label="Woods" length="5" position="0"/>
+  <mention label="Spain" length="5" position="1804"/>
+  <mention label="British Open" length="12" position="768"/>
+  <mention label="Japanese" length="8" position="536"/>
+  <mention label="Phil Mickelson" length="14" position="1375"/>
+  <mention label="Kaymer" length="6" position="1367"/>
+  <mention label="Mickelson" length="9" position="2074"/>
+  <mention label="Woods" length="5" position="466"/>
+  <mention label="U.S. Open" length="9" position="722"/>
+  <mention label="Woods" length="5" position="670"/>
+  <mention label="Martin Kaymer" length="13" position="1360"/>
+  <mention label="Woods" length="5" position="1575"/>
+  <mention label="Woods" length="5" position="867"/>
+  <mention label="Woods" length="5" position="1443"/>
+  <mention label="Ryo Ishikawa" length="12" position="554"/>
+  <mention label="Woods" length="5" position="45"/>
+  <mention label="Woods" length="5" position="239"/>
+  <mention label="European" length="8" position="1827"/>
+  <mention label="England" length="7" position="107"/>
+  <mention label="Tiger Woods" length="11" position="39"/>
+  <mention label="Mickelson" length="9" position="1380"/>
+  <mention label="Shanghai" length="8" position="614"/>
+  <mention label="Westwood" length="8" position="121"/>
+  <mention label="Woods" length="5" position="1201"/>
+  <mention label="Westwood" length="8" position="176"/>
+  <mention label="Nick Faldo" length="10" position="1842"/>
+  <mention label="Lee Westwood" length="12" position="117"/>
+  <mention label="Woods" length="5" position="1340"/>
+  <mention label="Woods" length="5" position="382"/>
+  <mention label="Woods" length="5" position="1086"/>
+  <mention label="Steve Stricker" length="14" position="1394"/>
+</item>

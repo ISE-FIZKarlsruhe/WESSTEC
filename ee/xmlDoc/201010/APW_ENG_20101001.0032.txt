@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>NC Patrol: 4 people killed in wreck on wet roadFour people, including two children, were killed when the sport utility vehicle they were traveling in skidded off a rain-slicked highway and tumbled into a ditch filled with water, troopers said.State Highway Patrol Trooper Gary Edwards said troopers Thursday initially reported five people were killed because two children, 3-year-old twins, did not have a pulse when emergency workers arrived on scene.However, rescuers were able to revive them and they were taken to a hospital alive. One of the twins later died, a news release from the patrol said.Edwards said the family of five from Atlanta was traveling westbound on U.S. 64 east of Creswell around 12:20 p.m. local time when their Jeep Cherokee hit a patch of standing water, hydroplaned and skidded off the highway into the ditch.Creswell is approximately 145 miles (233 kilometers) east of Raleigh.The four killed were identified as the driver, Daniel Alvarez, 25; his wife, Natalie Owens, 26; Zacharia Alvarez, 3; and Ariela Alvarez, 1. Zacharia's twin, Ezekiel, was taken to a hospital.The worst of the rain fell in North Carolina, where Jacksonville picked up 12 inches (30 centimeters) -- nearly a quarter of its typical annual rainfall -- in the six hours between 3:30 and 9:30 a.m.The rain was part of a system moving ahead of the remnants of Tropical Storm Nicole, which dissipated over the Straits of Florida on Wednesday. Much of the Mid-Atlantic and Northeast were starting to move into a drought after the dry summer, and the fall storm provided several inches of much-needed rain.</text>
+  <mention label="Mid-Atlantic" length="12" position="1452"/>
+  <mention label="Zacharia" length="8" position="1003"/>
+  <mention label="Raleigh" length="7" position="899"/>
+  <mention label="U.S." length="4" position="673"/>
+  <mention label="North Carolina" length="14" position="1127"/>
+  <mention label="Florida" length="7" position="1418"/>
+  <mention label="Creswell" length="8" position="838"/>
+  <mention label="Jeep Cherokee" length="13" position="738"/>
+  <mention label="Ezekiel" length="7" position="1064"/>
+  <mention label="Jacksonville" length="12" position="1149"/>
+  <mention label="Edwards" length="7" position="277"/>
+  <mention label="Daniel Alvarez" length="14" position="954"/>
+  <mention label="Northeast" length="9" position="1469"/>
+  <mention label="Creswell" length="8" position="689"/>
+  <mention label="Atlanta" length="7" position="638"/>
+  <mention label="Gary Edwards" length="12" position="272"/>
+</item>

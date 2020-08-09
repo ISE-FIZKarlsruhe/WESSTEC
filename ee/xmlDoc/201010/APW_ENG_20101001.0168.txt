@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Lawmaker says CGF must explain Comm Games failingsCommonwealth Games Federation chief executive Michael Hooper must share some blame over flawed planning for the New Delhi games but burning effigies of him "doesn't help" anyone, New Zealand's sports minister Murray McCully said Friday.Indian nationalists burned effigies of Hooper in street protests on Wednesday, claiming his criticisms of games organizers were racist.McCully said such protests were "extremely unfortunate," adding that the games should be allowed to run their course before faults in planning and preparation are examined and the role of Hooper, a New Zealander, is explored.He said if faults are found in planning and organization, the CGF will have to answer for its role and not expect all blame to fall on the Indian organizers."The Commonwealth Games Association and its senior officers clearly need to answer some questions at the right time. This is not the right time, and personalizing it and burning effigies just doesn't help," McCully told the New Zealand Press Association."It's not rocket science to work out that if Commonwealth Games (Federation) has had its chief executive based (in Delhi) for some years to oversee the preparations, and the preparations are not up to scratch, then they can't wash their hands of any responsibility. They clearly have a shared responsibility with the hosts."McCully said considerable progress had been made ahead of Sunday's opening ceremony, particularly in lifting the hygiene standard of the athletes' village which last week had been described as "uninhabitable". He said the focus needed to remain on the games themselves before questions were asked around planning failures.Hooper moved to New Delhi in 2008 to oversee preparations for the games after initial concerns were raised over construction and other delays.He has been severely criticized in the Indian media both for living what appears to be a lavish lifestyle in the Indian capital and for appearing to place all blame for games failings on the organizing committee.</text>
+  <mention label="Indian" length="6" position="1958"/>
+  <mention label="McCully" length="7" position="421"/>
+  <mention label="Delhi" length="5" position="166"/>
+  <mention label="Hooper" length="6" position="325"/>
+  <mention label="New Zealander" length="13" position="619"/>
+  <mention label="CGF" length="3" position="708"/>
+  <mention label="Hooper" length="6" position="609"/>
+  <mention label="New Delhi" length="9" position="162"/>
+  <mention label="Murray McCully" length="14" position="259"/>
+  <mention label="CGF" length="3" position="14"/>
+  <mention label="McCully" length="7" position="266"/>
+  <mention label="New Zealand" length="11" position="229"/>
+  <mention label="Michael Hooper" length="14" position="96"/>
+  <mention label="Hooper" length="6" position="104"/>
+  <mention label="Commonwealth Games Federation" length="29" position="50"/>
+  <mention label="McCully" length="7" position="1010"/>
+  <mention label="Commonwealth Games Association" length="30" position="808"/>
+  <mention label="Indian" length="6" position="785"/>
+  <mention label="Indian" length="6" position="286"/>
+  <mention label="Indian" length="6" position="1884"/>
+  <mention label="New Zealand Press Association" length="29" position="1027"/>
+  <mention label="New Delhi" length="9" position="1719"/>
+</item>

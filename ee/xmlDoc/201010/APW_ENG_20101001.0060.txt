@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Students: Actor Danza succeeded as English teacherWhen former television comedy star Tony Danza began teaching English at a Philadelphia high school, no one really knew what to expect. Not even Tony Danza.Certainly school officials were holding their breath after the district approved "Teach," an A&amp;E reality show premiering in the United States on Friday that chronicles Danza's year at the head of a class.Danza, with no teaching experience, was enthusiastic but overwhelmed when filming began last fall at Northeast High School. His students seemed excited but puzzled; some had no idea who he was. ("Wasn't he in, like, 'Cheers'?" one teen asks in the first episode. Um, no.)While critics contended that education was being sacrificed to benefit the actor best known for "Taxi" and "Who's the Boss?", students and administrators say "Mr. D" ended up making the grade."You're hoping that all the new teachers grow the same way he did," Assistant Principal Sharon McCloskey said."Teach" comes at a time when education reform is a huge topic in public policy and popular culture, from President Barack Obama's Race to the Top grant program to major film documentaries like "Waiting for `Superman'" and "Race to Nowhere."Danza underwent weeks of prep and new-teacher orientation before starting at Northeast, a diverse 3,400-student public high school in a working-class neighborhood. His class of 26 sophomores ran the gamut from jocks and divas to brains and immigrants.Initially, it was rough going for the boss of Room 230. Danza talks too much and gets corrected by a student in front of the class. He deals with cheating and violence, meets with parents of obstinate students, and tries to balance discipline with empathy, all the while teaching "Of Mice and Men" and other books to teens with varying academic abilities.It is overwhelming. Danza cries several times in the first few episodes."I can't help it," Danza told The Associated Press. "You see yourself in them. You want them to learn from your mistakes and you can't get it through to them."Danza also threw himself into civic life and extracurricular activities. He helped coach Northeast's football team, organized a student variety show, sang the national anthem at a Phillies baseball game, and participated in a citywide cleanup and a poetry slam."He embraced the city," said Mayor Michael Nutter, who had urged the district to approve the reality show. "It wasn't just a gig that he was doing with A&amp;E network. He became a part of whatever else was going on."At the end of the year, students issued their own report cards on Danza. They largely praised him, citing everything from his lessons on "To Kill a Mockingbird" to his caring attitude and positive outlook on life."He brought a lot of joy to our class and the whole school," said Ileana Morris, 17.Stephanie Pyle, 16, described the class as a family and Danza as the dad. Eric Lopez, 16, called Danza a "really good guy" who went above and beyond to help students with their academics and personal lives.After watching the first episode, Northeast High officials are cautiously optimistic that "Teach" will portray honestly the joys, frustrations and challenges of urban education. In many ways, the series tells the story of any first-year instructor."You know they say a picture can be worth a thousand words?" said Principal Linda Carroll. "A TV show can be worth a lot more."Danza, who is planning a book about the experience, said he never could have made it through the year without instructional coach David Cohn. Because Danza is not certified to teach -- he holds only a bachelor's degree in history -- Cohn sat in on every class. He also met regularly with Danza to offer feedback and advice.If educators nationwide take nothing else from the show, Danza said, they should realize the importance of mentors for rookie teachers."I can't imagine they would have thrown me in without that guy there," he said.Cohn had kind words for Danza, too. Noting TV crews were absent from class for several weeks, Cohn said Danza had the same intensity regardless of whether the cameras were rolling.And though critics may carp that Danza had to manage only a single 90-minute class, Cohn said teaching provided the actor with the most challenging roles he will ever play: father figure, counselor, coach and role model."It's exhausting from the moment you wake up until the moment you go to sleep," Cohn said. "I hope it starts a lot of dinner table conversations around teaching and what a noble profession it is. We need good, passionate educators."------Online:</text>
+  <mention label="United States" length="13" position="333"/>
+  <mention label="Danza" length="5" position="3972"/>
+  <mention label="Danza" length="5" position="199"/>
+  <mention label="Danza" length="5" position="1222"/>
+  <mention label="Danza" length="5" position="2886"/>
+  <mention label="Barack Obama" length="12" position="1097"/>
+  <mention label="Tony Danza" length="10" position="194"/>
+  <mention label="Danza" length="5" position="3791"/>
+  <mention label="Cohn" length="4" position="4042"/>
+  <mention label="Danza" length="5" position="2059"/>
+  <mention label="Danza" length="5" position="16"/>
+  <mention label="Danza" length="5" position="3411"/>
+  <mention label="Northeast" length="9" position="1299"/>
+  <mention label="Danza" length="5" position="409"/>
+  <mention label="Associated Press" length="16" position="1934"/>
+  <mention label="Tony Danza" length="10" position="85"/>
+  <mention label="Cohn" length="4" position="3547"/>
+  <mention label="Danza" length="5" position="90"/>
+  <mention label="Danza" length="5" position="2599"/>
+  <mention label="English" length="7" position="35"/>
+  <mention label="English" length="7" position="111"/>
+  <mention label="Cohn" length="4" position="3948"/>
+  <mention label="Danza" length="5" position="2927"/>
+  <mention label="Northeast High School" length="21" position="510"/>
+  <mention label="Danza" length="5" position="3561"/>
+  <mention label="Linda Carroll" length="13" position="3360"/>
+  <mention label="Northeast High" length="14" position="510"/>
+  <mention label="Cohn" length="4" position="4212"/>
+  <mention label="Danza" length="5" position="373"/>
+  <mention label="Philadelphia" length="12" position="124"/>
+  <mention label="Danza" length="5" position="3699"/>
+  <mention label="Phillies" length="8" position="2239"/>
+  <mention label="Northeast" length="9" position="510"/>
+  <mention label="Cohn" length="4" position="3644"/>
+  <mention label="Danza" length="5" position="1919"/>
+  <mention label="Danza" length="5" position="1529"/>
+  <mention label="Michael Nutter" length="14" position="2355"/>
+  <mention label="Danza" length="5" position="1848"/>
+</item>

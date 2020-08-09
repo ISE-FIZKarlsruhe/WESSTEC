@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Chesney returns to familiar themes on CDKenny Chesney, "Hemingway's Whiskey" (BNA)Kenny Chesney chose a contemplative Guy Clark song, "Hemingway's Whiskey," as the title of his new album, which might goad some to believe that the country star is extending the introspective mood prevalent on recent albums.That's not wholly true. After taking a year off, Chesney returns by focusing on familiar themes: nostalgia, small town life, beachfront getaways and tequila. He occasionally uses those topics to meditate on life's bigger questions, as on the heart-tugging "The Boys Of Fall," the album's first hit. But the East Tennessee native also gets back to rocking out and kicking his feet through the surf."Live A Little" opens with a 1970s-rock guitar coda before Chensey declares that he needs to readjust his priorities and remember to enjoy himself. "Reality" makes the same point to a similar rousing beat, while "Round And Round" is a Skynyrd-style Southern blues number about the futility of getting rundown by common frustrations.Chesney occasionally revisits subjects without capturing the power of earlier hits. "Coastal," for example, makes a disconcerting pun on "going postal," suggesting that a trip to the ocean would be a better way to blow off steam. But at its best, "Hemingway's Whiskey" finds the veteran star integrating his newly developed strength at looking inward into his outward-bound knack for getting a crowd on its feet.CHECK OUT THIS TRACK: Chesney turns a cover of Deana Carter's "You And Tequila" into a surprisingly soulful duet with Vermont rocker Grace Potter.</text>
+  <mention label="Chesney" length="7" position="54"/>
+  <mention label="Vermont" length="7" position="1573"/>
+  <mention label="Deana Carter" length="12" position="1502"/>
+  <mention label="East Tennessee" length="14" position="621"/>
+  <mention label="Chesney" length="7" position="96"/>
+  <mention label="Kenny Chesney" length="13" position="90"/>
+  <mention label="Guy Clark" length="9" position="126"/>
+  <mention label="Hemingway" length="9" position="64"/>
+  <mention label="Chesney" length="7" position="363"/>
+  <mention label="Kenny Chesney" length="13" position="48"/>
+  <mention label="Chesney" length="7" position="8"/>
+</item>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Myanmar junta blames blast on anti-election groupsMyanmar's military government said a bomb explosion damaged a local municipal office and blamed "political opportunists" of stepping up violence to disrupt next month's elections, state media reported Friday.The state-controlled Myanma Ahlin newspaper said the blast occurred Wednesday evening in Bago, 50 miles (80 kilometers) north of Yangon. The device was described as a time-bomb made of TNT that blew a hole in a fence-like wall outside the local council office and shattered two office windows. No one was hurt.The report blamed two other recent attempted attacks -- the discovery of a bomb near a Yangon tourist market and mines at a power grid outside the city -- on a wide variety of anti-government groups.It accused "insurgents, destructive elements and political opportunists who are trying to ramp up instigation and destructive acts with the aim of disrupting the upcoming multiparty democracy election."Myanmar's first election in two decades will take place on Nov. 7. Critics say the polls are a sham designed to cement military rule. The country has been ruled by military governments since 1962.Reports in Myanmar newspapers are viewed as reflections of the junta's views.Wednesday's explosion occurred a day after Myanmar's prime minister warned citizens to protect the country's image during November elections and to prevent anyone from derailing the vote.The junta's biggest perceived threat is the popularity of detained pro-democracy leader Aung San Suu Kyi, even though she remains under house arrest and her opposition party is boycotting elections.Suu Kyi has been in jail or under house detention for 15 of the past 21 years. Her latest term of house arrest expires Nov. 13, just days after the vote.</text>
+  <mention label="Suu Kyi" length="7" position="1526"/>
+  <mention label="Myanmar" length="7" position="1285"/>
+  <mention label="Myanmar" length="7" position="50"/>
+  <mention label="Yangon" length="6" position="387"/>
+  <mention label="Myanmar" length="7" position="0"/>
+  <mention label="TNT" length="3" position="443"/>
+  <mention label="Yangon" length="6" position="655"/>
+  <mention label="Myanma Ahlin" length="12" position="279"/>
+  <mention label="Aung San Suu Kyi" length="16" position="1517"/>
+  <mention label="Myanmar" length="7" position="969"/>
+  <mention label="Myanmar" length="7" position="1176"/>
+  <mention label="Bago" length="4" position="347"/>
+</item>

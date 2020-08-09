@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan hikes taxes on cigarettes to curb smokingJapan has imposed a record 40 percent tax hike on cigarettes, effectively raising the price on most brands by a third, to curb smoking.The hike, which lifted the price of the popular Mild Seven brand to 410 yen ($4.88) per pack, will raise 63.1 billion yen over the first year, the finance ministry said.But the primary goal is to encourage smokers to quit, officials at the health and finance ministries said.Japan Tobacco Inc., the world's third-largest tobacco maker, said 36.6 percent of Japanese men smoke, down from about 50 percent a decade ago. The rate among women is 12.1 percent.</text>
+  <mention label="Japanese" length="8" position="539"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="Japan" length="5" position="47"/>
+  <mention label="Japan Tobacco Inc." length="18" position="457"/>
+</item>

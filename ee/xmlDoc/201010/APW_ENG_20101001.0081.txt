@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>A giddy ' Brief Encounter '  livens the darkDoomed extramarital affairs are usually heartbreaking, gut-wrenching, squalid little disasters. They're not fun to be in, and not fun to watch. They do not end prettily.Then how does one explain a Broadway adaptation of Noel Coward's "Brief Encounter" -- the classic 1945 film about a secret affair -- that is utterly infused with happy energy, facetious wackiness and outsized hilarity?It's a show that simply cannot be contained: Actors pop up from the orchestra seats and rush around the aisles, they dangle from the ceiling, toss pastries to the audience and vanish through a movie screen only to reappear in a two-dimensional film clip.Those are just some of the countless visual jokes and slapstick shenanigans that enliven the show. Others include the use of puppets to represent children, a toy train set assuming the role of a locomotive, and two dowagers who shuffle on stage pulling mops as stand-ins for dogs, sending the audience into hysterics.This has to be one of the most inventive, genre-breaking shows since "The Drowsy Chaperone." But all the smirk, all the exhilarating multimedia effects, cannot gussy up what is at its heart: a small, wistful play.The British-based Kneehigh Theatre's production at Roundabout Theatre Company's Studio 54 is basically a mash-up of Coward's original one-act play "Still Life" and the David Lean movie upon which it was based, spliced with songs by Coward himself and a healthy dose of goofiness.Emma Rice, who adapted the movie for stage and directed, has stayed mostly faithful to the story of two married, middle-aged British upper-crusters -- Laura, here played by Hannah Yelland, and Alec, played by Tristan Sturrock -- who meet at a train station and are soon smitten.But unlike the film's restrained, lip-trembling depiction of love, Rice strives to depict the interior lives' of these two would-be lovers. They swoon, they swing from chandeliers, their passion reflected in images of crashing waves projected onto the back screen or in butterflies cascading to the stage. Rachmaninoff's gorgeous Piano Concerto No. 2 is played."There's still time, if we control ourselves and behave like sensible human beings," Laura at one point tells her lover, in both tears and despair."There's no time at all," replies Alec.Proving that love is indeed blind, the mooning couple is oblivious to what goes on around them: Two other love stories intersect and dance around the central lovers, but Laura and Alec seem virtually sealed off, as if in their own bubble.The rail station, it turns out, is teeming with love. The prickly yet vivacious cafe manager (Annette McLaughlin) is being wooed by the station master (Joseph Alessi), while a candy vendor played by Gabriel Ebert can't keep his hands off a waitress (Dorothy Atkinson).Their lower-class affairs are anything but restrained -- crazed, sensual, passionate. They kiss and paw and jump in each others' arms. They're free to act in a way that Laura and Alec can only dream. They are the id to the central couple's ego.Yet the two ways in which love is handled sometimes gives the production a whipsaw quality. The comic relief comes as a relief, of course. Who wants to dwell on doomed romance when someone in the cast may at any time break into a song or goof on old movie conventions?But Rice hasn't told us anything fundamentally new about Alec and Laura, who basically play roles written back in the 1930s. That bittersweet story has merely been covered with a candy shell. And Rice hasn't anything at all to say about Coward himself, a closeted gay man who wrote about secret longing and societal shame.Among a multitalented and hardworking ensemble, McLaughlin and Atkinson are standouts -- their sense of timing is impeccable. They mug, they dance, they sing. These are two fun parts and each nails it like a duo of British Carol Burnetts.They are part of the reason theatergoers leave the play with a smile. That, and the cast itself waiting for you near the bar at the end, singing modern songs by Beyonce, Cyndi Lauper and Journey while playing accordion, trumpet, double bass and ukulele.Does being serenaded by the actors after the doomed romance on stage ends in tears make sense? Not really, particularly after all the blissful hijinks have evaporated. But if this is what Rice can do with a mere sliver of a story, just imagine what she can do with something more meaty.------Online:</text>
+  <mention label="Noel Coward" length="11" position="264"/>
+  <mention label="British" length="7" position="1219"/>
+  <mention label="Alec" length="4" position="3394"/>
+  <mention label="Alec" length="4" position="2499"/>
+  <mention label="Rice" length="4" position="3341"/>
+  <mention label="Coward" length="6" position="269"/>
+  <mention label="Hannah Yelland" length="14" position="1667"/>
+  <mention label="Laura" length="5" position="3403"/>
+  <mention label="Alec" length="4" position="2314"/>
+  <mention label="Rachmaninoff" length="12" position="2078"/>
+  <mention label="Alec" length="4" position="1687"/>
+  <mention label="Joseph Alessi" length="13" position="2709"/>
+  <mention label="Beyonce" length="7" position="4058"/>
+  <mention label="Rice" length="4" position="1499"/>
+  <mention label="Coward" length="6" position="1447"/>
+  <mention label="Laura" length="5" position="1645"/>
+  <mention label="Roundabout Theatre Company" length="26" position="1266"/>
+  <mention label="McLaughlin" length="10" position="2659"/>
+  <mention label="Rice" length="4" position="1839"/>
+  <mention label="Cyndi Lauper" length="12" position="4067"/>
+  <mention label="Laura" length="5" position="2218"/>
+  <mention label="Coward" length="6" position="1331"/>
+  <mention label="Atkinson" length="8" position="2815"/>
+  <mention label="Laura" length="5" position="2994"/>
+  <mention label="Alec" length="4" position="3004"/>
+  <mention label="Laura" length="5" position="2489"/>
+</item>

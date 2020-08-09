@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Favre hurts chin late in gameBrett Favre has been removed from Minnesota's game at New England midway in the fourth quarter with a face laceration.Favre was hit by Patriots defensive tackle Myron Pryor while throwing. He stayed on the ground momentarily, then tried to get up while holding his face. Favre then sank to the ground as trainers rushed onto the field, and they helped him to the sideline.The 41-year-old quarterback was taken by golf cart into the locker room with a Vikings staff member holding a compress to his chin.Favre, who did not appear bothered by two fractures in his left foot that initially jeopardized his availability Sunday, extended his NFL record consecutive starts streak to 292.</text>
+  <mention label="Favre" length="5" position="0"/>
+  <mention label="Myron Pryor" length="11" position="190"/>
+  <mention label="Favre" length="5" position="35"/>
+  <mention label="Favre" length="5" position="147"/>
+  <mention label="Minnesota" length="9" position="63"/>
+  <mention label="Brett Favre" length="11" position="29"/>
+  <mention label="Vikings" length="7" position="480"/>
+  <mention label="New England" length="11" position="83"/>
+  <mention label="NFL" length="3" position="666"/>
+  <mention label="Favre" length="5" position="300"/>
+</item>

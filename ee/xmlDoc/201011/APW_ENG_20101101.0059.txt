@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Clinton urges rights progress in CambodiaU.S. Secretary of State Hillary Rodham Clinton is urging Cambodia to improve its human rights record and ensure the Khmer Rouge are brought to justice for crimes against humanity in the 1970s.Clinton on Monday was in the capital, Phnom Penh, where she was visiting the main Khmer Rouge prison and torture center before urging Cambodian officials to overcome a legacy of impunity for abuses. The government has refused to allow a U.N.-backed court trying top Khmer Rouge leaders to prosecute lower-ranking members.The 1975-79 Khmer Rouge regime is blamed for the deaths of some 1.7 million people from starvation, disease, overwork and execution.The current government has been criticized for cracking down on opposition groups.</text>
+  <mention label="Khmer Rouge" length="11" position="315"/>
+  <mention label="Phnom Penh" length="10" position="271"/>
+  <mention label="Cambodian" length="9" position="367"/>
+  <mention label="Khmer Rouge" length="11" position="157"/>
+  <mention label="Hillary Rodham Clinton" length="22" position="65"/>
+  <mention label="Clinton" length="7" position="0"/>
+  <mention label="Clinton" length="7" position="80"/>
+  <mention label="Khmer Rouge" length="11" position="499"/>
+  <mention label="Cambodia" length="8" position="33"/>
+  <mention label="Cambodia" length="8" position="98"/>
+  <mention label="U.S." length="4" position="41"/>
+  <mention label="Khmer Rouge" length="11" position="566"/>
+</item>

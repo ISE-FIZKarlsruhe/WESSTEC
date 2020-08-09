@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Ryanair 1H profits rise 17 pct as fares rise 12 pcRyanair said Monday its first-half net profit rose 17 percent to (EURO)451.9 million ($628 million) as the budget airline raised its ticket prices and grew its business in the Mediterranean.The airline said its average fare rose 12 percent to (EURO)44 ($61) from the same April-September period a year ago as increased operations in Spain, Portugal and Malta paid off. The fare figure excludes Ryanair's industry-leading practice of adding hefty extra charges for luggage and credit-card use.Sales rose 23 percent to (EURO)2.18 billion ($3 billion), the number of passengers rose 10 percent to 40.1 million, and Ryanair's cash reserves rose 7.5 percent to (EURO)3.03 billion ($4.2 billion).The airline cautioned that it expects to suffer net losses in the October-March period of (EURO)50 million to (EURO)70 million, reflecting reduced business on routes dependent on summer tourist traffic. Ryanair, which previously guided second-half losses of up to (EURO)100 million, tries to offset winter losses by shifting aircraft seasonally to operations in Spain.Chief executive Michael O'Leary said Ryanair's earnings would have been even better if not for European authorities.About 9,400 Ryanair flights were canceled in April and May because of European restrictions amid volcanic ash fears. More than 2,000 other Ryanair flights have been canceled and 12,000 delayed this summer by air-traffic control strikes in France, Belgium and Spain.O'Leary said the European Union must reform its laws permitting air-traffic controllers to strike. He said the controllers' unions and European governments should be required to pay compensation to stranded passengers, not airlines."These highly paid protected bureaucrats have now disrupted more passengers than the Icelandic volcano and still the EU sits idly by and does nothing," O'Leary said.Ryanair also greatly reduced its total cost for spring's ash-related losses. The airline initially said it would lose (EURO)50 million from lost business and EU-ordered compensation payments to stranded customers, but on Monday said its total loss might not exceed (EURO)32 million. It attributed this to the airline's lower-than-expected payouts on customers' claims for hotel and meal bills.O'Leary's deputy chief executive, Michael Cawley, told Irish broadcasters RTE that Ryanair still expects to take over its Irish rival, Aer Lingus -- whenever the cash-strapped government drops its opposition to a merger."Our appetite for acquiring Aer Lingus is well known," Cawley said. "But we're not going to make another offer unless the government approaches us on a voluntary basis to offer their shares to us."Ryanair immediately pounced on Aer Lingus when the government floated the national airline on the Irish and British stock markets in 2006. But other major shareholders, chiefly the government and employee-controlled trusts, refused Ryanair's offer, and European Union regulators in 2007 ruled that a merger would create an effective Irish monopoly in short-haul air travel.Ryanair today retains a 30 percent stake in Aer Lingus, while the government holds 25 percent. Last week Britain's Office of Fair Trading announced an investigation into whether Ryanair's status as the top shareholder influences Aer Lingus policies. Cawley said Ryanair is "puzzled and baffled" by the British investigation.------Online:Ryanair earnings, http://bit.ly/d3evab</text>
+  <mention label="Ryanair" length="7" position="3331"/>
+  <mention label="European" length="8" position="1294"/>
+  <mention label="Michael Cawley" length="14" position="2313"/>
+  <mention label="Icelandic" length="9" position="1806"/>
+  <mention label="Ryanair" length="7" position="0"/>
+  <mention label="European Union" length="14" position="2949"/>
+  <mention label="Portugal" length="8" position="390"/>
+  <mention label="Ryanair" length="7" position="2696"/>
+  <mention label="Ryanair" length="7" position="662"/>
+  <mention label="Malta" length="5" position="403"/>
+  <mention label="Cawley" length="6" position="2321"/>
+  <mention label="Irish" length="5" position="2334"/>
+  <mention label="Aer Lingus" length="10" position="3113"/>
+  <mention label="Ryanair" length="7" position="943"/>
+  <mention label="Ryanair" length="7" position="3247"/>
+  <mention label="British" length="7" position="3371"/>
+  <mention label="Aer Lingus" length="10" position="2727"/>
+  <mention label="France" length="6" position="1463"/>
+  <mention label="RTE" length="3" position="2353"/>
+  <mention label="Ryanair" length="7" position="50"/>
+  <mention label="Belgium" length="7" position="1471"/>
+  <mention label="European" length="8" position="1203"/>
+  <mention label="Ryanair" length="7" position="444"/>
+  <mention label="Ryanair" length="7" position="2362"/>
+  <mention label="Spain" length="5" position="1102"/>
+  <mention label="Spain" length="5" position="1483"/>
+  <mention label="Irish" length="5" position="3029"/>
+  <mention label="Ryanair" length="7" position="1236"/>
+  <mention label="Ryanair" length="7" position="1363"/>
+  <mention label="Aer Lingus" length="10" position="2527"/>
+  <mention label="O'Leary" length="7" position="1489"/>
+  <mention label="O'Leary" length="7" position="1873"/>
+  <mention label="Ryanair" length="7" position="1886"/>
+  <mention label="Britain" length="7" position="3174"/>
+  <mention label="Irish" length="5" position="2401"/>
+  <mention label="Aer Lingus" length="10" position="2414"/>
+  <mention label="Office of Fair Trading" length="22" position="3184"/>
+  <mention label="Aer Lingus" length="10" position="3298"/>
+  <mention label="European" length="8" position="1506"/>
+  <mention label="O'Leary" length="7" position="1132"/>
+  <mention label="Michael O'Leary" length="15" position="1124"/>
+  <mention label="European Union" length="14" position="1506"/>
+  <mention label="Irish" length="5" position="2794"/>
+  <mention label="Mediterranean" length="13" position="226"/>
+  <mention label="British" length="7" position="2804"/>
+  <mention label="EU" length="2" position="116"/>
+  <mention label="Ryanair" length="7" position="2928"/>
+  <mention label="Spain" length="5" position="383"/>
+  <mention label="Ryanair" length="7" position="3069"/>
+  <mention label="Cawley" length="6" position="2554"/>
+  <mention label="Ryanair" length="7" position="1145"/>
+</item>

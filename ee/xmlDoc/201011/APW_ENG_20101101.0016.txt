@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Heat end Nets '  unbeaten start with easy victoryLeBron James scored 20 points, and Chris Bosh and Dwyane Wade were close behind as the Miami Heat ended the New Jersey Nets' two-game unbeaten start with a 101-78 victory Sunday.Bosh finished with 18 points and Wade added 17, both getting most of them in Miami's dominant first half before sitting out the fourth quarter. James played a little of the final period and added seven rebounds and seven assists.It was the most impressive offensive performance yet for the Heat, who have won three straight since beginning their new era with a loss in Boston on opening night. Miami shot 68 percent in the first half, when its Big Three combined for 41 points -- one fewer than New Jersey -- and the stats only lowered when the reserves took over toward the end.Mavericks 99, Clippers 83At Los Angeles, Jason Kidd ended the first half with a 65-foot shot-put heave from inside the 3-point arc at the opposite end, and Caron Butler scored 17 points and Shawn Marion had 10 of his 12 points in the fourth quarter as Dallas beat the Los Angeles Clippers.Dirk Nowitzki added 16 points and seven rebounds for the defending Southwest Division champions in their first road game of the season. Kidd finished with 13 points, nine rebounds and seven assists.Rookie Blake Griffin had 16 points and nine rebounds for the Clippers, who fell to 0-3 on the season under new coach Vinny Del Negro. None of the starters reached double digits until Griffin converted a slam dunk with 5:32 left in the third quarter.</text>
+  <mention label="Miami Heat" length="10" position="136"/>
+  <mention label="Dallas" length="6" position="1058"/>
+  <mention label="Jason Kidd" length="10" position="847"/>
+  <mention label="Los Angeles Clippers" length="20" position="1074"/>
+  <mention label="Dwyane Wade" length="11" position="99"/>
+  <mention label="Shawn Marion" length="12" position="996"/>
+  <mention label="Los Angeles" length="11" position="834"/>
+  <mention label="Dirk Nowitzki" length="13" position="1095"/>
+  <mention label="Vinny Del Negro" length="15" position="1410"/>
+  <mention label="Miami" length="5" position="136"/>
+  <mention label="Wade" length="4" position="106"/>
+  <mention label="Caron Butler" length="12" position="962"/>
+  <mention label="Kidd" length="4" position="853"/>
+  <mention label="New Jersey Nets" length="15" position="157"/>
+  <mention label="Boston" length="6" position="596"/>
+  <mention label="Miami" length="5" position="304"/>
+  <mention label="Clippers" length="8" position="1086"/>
+  <mention label="New Jersey" length="10" position="157"/>
+  <mention label="Clippers" length="8" position="820"/>
+  <mention label="James" length="5" position="56"/>
+  <mention label="LeBron James" length="12" position="49"/>
+  <mention label="Griffin" length="7" position="1306"/>
+  <mention label="Chris Bosh" length="10" position="84"/>
+  <mention label="Bosh" length="4" position="90"/>
+</item>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Rain pounds Celtic Manor for start of Ryder CupOvernight rain continued to pour on Celtic Manor early Friday, leaving the course so soggy that officials said the opening session of Ryder Cup matches would be preferred lies.The decision means players will be able to lift, clean and place their golf balls in the fairway.That will put an even greater premium on accuracy off the tee. And Celtic Manor already is playing long because of the wet conditions. Lee Westwood and PGA champion Martin Kaymer are first out for Europe against the American duo of Phil Mickelson and Dustin Johnson.</text>
+  <mention label="Celtic Manor" length="12" position="12"/>
+  <mention label="American" length="8" position="536"/>
+  <mention label="Europe" length="6" position="517"/>
+  <mention label="Dustin Johnson" length="14" position="571"/>
+  <mention label="Phil Mickelson" length="14" position="552"/>
+  <mention label="Martin Kaymer" length="13" position="485"/>
+  <mention label="Lee Westwood" length="12" position="455"/>
+  <mention label="Ryder Cup" length="9" position="181"/>
+  <mention label="Ryder Cup" length="9" position="38"/>
+</item>

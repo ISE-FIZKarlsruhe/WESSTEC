@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Terrorist bombers may have targeted aircraftPowerful explosives addressed to Chicago synagogues may have been intended to destroy the planes they were sent on, security officials acknowledged as they tried to figure out how to respond to the al-Qaida-linked plot.Disaster was narrowly averted, officials said Sunday. One device almost slipped through Britain and another seized in Dubai in the United Arab Emirates was unwittingly flown on two passenger jets.Investigators were still piecing together the potency and construction of two bombs they believed were designed by the top explosives expert working for al-Qaida in the Arabian Peninsula, the Yemen-based faction thought to be behind the plot. Yemeni authorities hunted suspects linked to the group, but released a female computer engineering student arrested Saturday, saying someone else had posed as her in signing the shipping documents.Authorities admitted how close the terrorists came to getting their bombs through, and a senior U.S. official said investigators were still trying to figure out if other devices remained at large.Deputy national security adviser John Brennan told CNN's "State of the Union," that "it would be very imprudent ... to presume that there are no others (packages) out there."Authorities are also "looking at the potential that they would have been detonated en route to those synagogues aboard the aircraft as well as at the destinations," Brennan said on CBS' "Face the Nation."After masterminding the attempt last December to blow up a U.S.-bound airliner with explosives hidden in a passenger's underwear, the Yemen terror group appears to have nearly pulled off an audacious plot capitalizing on weak points in the world's aviation security and cargo systems.The U.S. has been trying to kill or capture its leaders, and the American response to the thwarted attacks was still being developed Sunday. Brennan headed a meeting of national security and intelligence officials at the White House to determine the U.S. response in concert with a Yemeni government that has been reluctant to give the Americans free rein.About 50 elite U.S. military experts are in Yemen training its counterterrorism forces and Washington is giving $150 million in military assistance this year for helicopters, planes and other equipment.A Yemeni official said Sunday his government is aiming for a "surgical" response with the help of the U.S. against the plotters. The official spoke on condition of anonymity because of the sensitivity of the talks.New details have emerged about events leading up to the near-disaster. U.S. officials said a call from Saudi intelligence about packages containing explosives led to a frantic search in Dubai and England.German Interior Minister Thomas de Maiziere said German Federal Police were tipped off to a suspicious package Friday. The package was flown from Yemen to Cologne-Bonn airport, where UPS has its hub. From there it was transferred to a plane bound for Britain's East Midlands airport in central England.After the cargo plane landed at East Midlands, an initial search came up empty. But after consulting with officials in Dubai, British police found the lethal explosive PETN, or pentaerythritol tetranitrate.What happened in Dubai was even more troubling: The bomb had traveled on two commercial passenger planes, a Qatar Airways spokesman said.The package with the second bomb arrived in Qatar Airways' hub in Doha, Qatar, on one of the carrier's flights from the Yemeni capital San'a. It was then shipped on a separate Qatar Airways plane to Dubai, where it was discovered by authorities late Thursday or early Friday.U.S. intelligence officials believe the suspected bombmaker is a 28-year-old Saudi named Ibrahim Hassan al-Asiri, thought to be in Yemen.------Schreck reported from Dubai. Associated Press writers Matt Apuzzo and Kimberly Dozier in Washington, Melissa Eddy in Berlin and Gregory Katz in London also contributed to this report.</text>
+  <mention label="Ibrahim Hassan al-Asiri" length="23" position="3742"/>
+  <mention label="Yemeni" length="6" position="2317"/>
+  <mention label="Yemen" length="5" position="651"/>
+  <mention label="Qatar" length="5" position="3349"/>
+  <mention label="Kimberly Dozier" length="15" position="3866"/>
+  <mention label="American" length="8" position="1822"/>
+  <mention label="Washington" length="10" position="2204"/>
+  <mention label="Saudi" length="5" position="3730"/>
+  <mention label="Qatar Airways" length="13" position="3349"/>
+  <mention label="Brennan" length="7" position="1434"/>
+  <mention label="Dubai" length="5" position="2715"/>
+  <mention label="United Arab Emirates" length="20" position="394"/>
+  <mention label="England" length="7" position="2725"/>
+  <mention label="Americans" length="9" position="2093"/>
+  <mention label="Washington" length="10" position="3885"/>
+  <mention label="CBS" length="3" position="1450"/>
+  <mention label="German" length="6" position="2733"/>
+  <mention label="U.S." length="4" position="2600"/>
+  <mention label="Yemeni" length="6" position="3498"/>
+  <mention label="Britain" length="7" position="2984"/>
+  <mention label="White House" length="11" position="1978"/>
+  <mention label="Yemeni" length="6" position="702"/>
+  <mention label="Yemen" length="5" position="702"/>
+  <mention label="Dubai" length="5" position="3258"/>
+  <mention label="East Midlands" length="13" position="2994"/>
+  <mention label="Yemen" length="5" position="1607"/>
+  <mention label="Chicago" length="7" position="77"/>
+  <mention label="Saudi" length="5" position="2632"/>
+  <mention label="Berlin" length="6" position="3913"/>
+  <mention label="Schreck" length="7" position="3796"/>
+  <mention label="U.S." length="4" position="2007"/>
+  <mention label="Qatar Airways" length="13" position="3422"/>
+  <mention label="England" length="7" position="3027"/>
+  <mention label="U.S." length="4" position="2128"/>
+  <mention label="Thomas de Maiziere" length="18" position="2758"/>
+  <mention label="Dubai" length="5" position="3154"/>
+  <mention label="Britain" length="7" position="351"/>
+  <mention label="Gregory Katz" length="12" position="3924"/>
+  <mention label="Cologne-Bonn airport" length="20" position="2888"/>
+  <mention label="British" length="7" position="3161"/>
+  <mention label="Associated Press" length="16" position="3825"/>
+  <mention label="London" length="6" position="3940"/>
+  <mention label="John Brennan" length="12" position="1128"/>
+  <mention label="Arabian Peninsula" length="17" position="628"/>
+  <mention label="U.S." length="4" position="1761"/>
+  <mention label="U.S." length="4" position="995"/>
+  <mention label="UPS" length="3" position="2916"/>
+  <mention label="Brennan" length="7" position="1133"/>
+  <mention label="Federal Police" length="14" position="2789"/>
+  <mention label="Dubai" length="5" position="3818"/>
+  <mention label="Qatar Airways" length="13" position="3554"/>
+  <mention label="Doha" length="4" position="3444"/>
+  <mention label="Yemeni" length="6" position="2039"/>
+  <mention label="Yemen" length="5" position="2039"/>
+  <mention label="U.S." length="4" position="2417"/>
+  <mention label="East Midlands" length="13" position="3067"/>
+  <mention label="Dubai" length="5" position="381"/>
+  <mention label="U.S." length="4" position="1532"/>
+  <mention label="CNN" length="3" position="1146"/>
+  <mention label="al-Qaida" length="8" position="242"/>
+  <mention label="Dubai" length="5" position="3577"/>
+</item>

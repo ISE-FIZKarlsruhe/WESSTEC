@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US student ' s suicide illustrates Internet dangersThe shocking suicide of a college student whose sex life was broadcast over the Web illustrates yet again the Internet's alarming potential as a means of tormenting others and raises questions whether young people in the age of Twitter and Facebook can even distinguish public from private.Cruel gossip and vengeful acts once confined to the schoolyard or the dorm can now make their way around the world instantly via the Internet, along with photos and live video."It's just a matter of when the next suicide's going to hit, when the next attack's going to hit," said Parry Aftab, a New Jersey lawyer who runs the website WiredSafety.Last week, Tyler Clementi, a shy, 18-year-old Rutgers University freshman and gifted violinist, jumped to his death from the George Washington Bridge after his roommate and another classmate allegedly used a webcam to secretly broadcast his dorm-room sexual encounters with another man. The two classmates have been charged with invasion of privacy, with the most serious charges carrying up to five years in prison.The suicide shocked and disturbed gay rights activists and others on campus."Had he been in bed with a woman, this would not have happened," said Rutgers student Lauren Felton, 21. "He wouldn't have been outed via an online broadcast, and his privacy would have been respected and he might still have his life."The Associated Press found at least 12 cases in the U.S. since 2003 in which children and young adults between 11 and 18 killed themselves after falling victim to some form of "cyberbullying" -- teasing, harassing or intimidating with pictures or words distributed online or via text message.In probably the best-known case, 13-year-old Megan Meier hanged herself in 2006 after she received messages on MySpace -- supposedly from a teenage boy -- cruelly dumping her. An adult neighbor was later found guilty of taking part in the hoax, but the conviction was overturned.Earlier this year, 17-year-old Alexis Pilkington who had landed a college soccer scholarship, killed herself after receiving a stream of nasty messages.Gregory Jantz, founder of A Place of Hope, a Seattle mental health care center, said young people who use the Internet to spread something damaging about others often don't realize how hurtful it can be because many of them have grown up in a world that has blurred the line between public and private."Our kids are in a different zone now," Jantz said.Aftab said young people who would never bully someone face to face do it online in part because of the often-false sense of anonymity that the Internet provides."They'll also jump on because they don't want to be the next target," Aftab said.In Clementi's case, prosecutors said that his roommate, Dharun Ravi and Molly Wei both 18-year-old freshmen, transmitted a live image of Clementi having sex on Sept. 19 and that Ravi tried to webcast a second encounter on Sept. 21, the day before Clementi's suicide. Ravi's lawyer and a lawyer believed to be representing Wei did not return calls.Luanne Peterpaul, vice chairwoman of the gay rights group Garden State Equality and a former New Jersey prosecutor, said authorities might be able to pursue the case as a hate crime under state law if they are able to establish that the defendants acted because they believed Clementi was gay.Ravi posted a message on his now-closed Twitter account on Sept. 19: "Roommate asked for the room till midnight. I went into molly's room and turned on my webcam. I saw him making out with a dude. Yay."Prosecutor Bruce J. Kaplan said in a statement: "We will be making every effort to assess whether bias played a role in the incident, and, if so, we will bring appropriate charges."A lawyer for Clementi's family did not respond to requests for comment on whether Clementi had come out to friends and family about his sexual orientation. He also said the family had no comment.The mourning continued at Rutgers and in Ridgewood, the suburban New Jersey town where Clementi grew up and attended high school.Clementi's violin teacher for the past five years could not believe he had taken his own life."He was a very genuine and, I guess, you could call it a shy person," said Khullip Jeung, 33, who teaches out of his home in Fort Lee. "But when he played the violin, it was different. He had a strong voice. He knew what he wanted to say. And he spoke through his violin. And I think that is the real Tyler that I knew."The governor also had a comment."As the father of a 17-year-old, I can't imagine what those parents are feeling today," Gov. Chris Christie said. "Those people who led him to that bridge are going to have to bear that responsibility for the rest of their lives."Ed Schmiedecke, the recently retired music director at Ridgewood High, called Clementi "a terrific musician and a very promising, hardworking young man.""Musically, Tyler was destined for greatness," childhood friend Mary Alcaro, who played in a summer music academy with him, said in an e-mail. "I've never heard anyone make a violin sing the way he did."Students at West Windsor-Plainsboro Regional High School, from which Ravi and Wei graduated, remembered them as nice people who were not in any way homophobic.Ravi had gay friends, said Derek Yan, 16, a junior. Yan said he chatted online with Ravi about what college life was like, and Ravi "said he was lucky to have a good roommate. He said his roomate was cool."------Mulvihill reported from Haddonfield. Contributing to this article were Associated Press news researcher Rhonda Shafner in New York; videographers Ted Shaffrey in Ridgewood and Bonny Ghosh in Plainsboro; and writers Angela Delli Santi in Trenton and Wayne Parry in Atlantic City.</text>
+  <mention label="Web" length="3" position="131"/>
+  <mention label="Seattle" length="7" position="2182"/>
+  <mention label="Chris Christie" length="14" position="4618"/>
+  <mention label="Ridgewood" length="9" position="5644"/>
+  <mention label="Haddonfield" length="11" position="5506"/>
+  <mention label="Ravi" length="4" position="5270"/>
+  <mention label="Clementi" length="8" position="3355"/>
+  <mention label="Plainsboro" length="10" position="5136"/>
+  <mention label="Associated Press" length="16" position="1418"/>
+  <mention label="Ridgewood" length="9" position="3991"/>
+  <mention label="New Jersey" length="10" position="4015"/>
+  <mention label="Clementi" length="8" position="2735"/>
+  <mention label="Ravi" length="4" position="3372"/>
+  <mention label="Internet" length="8" position="161"/>
+  <mention label="Clementi" length="8" position="2979"/>
+  <mention label="Facebook" length="8" position="291"/>
+  <mention label="Internet" length="8" position="35"/>
+  <mention label="Clementi" length="8" position="3768"/>
+  <mention label="Ravi" length="4" position="2999"/>
+  <mention label="George Washington Bridge" length="24" position="812"/>
+  <mention label="Yan" length="3" position="5303"/>
+  <mention label="Ravi" length="4" position="5180"/>
+  <mention label="Clementi" length="8" position="2869"/>
+  <mention label="U.S." length="4" position="1466"/>
+  <mention label="Tyler" length="5" position="698"/>
+  <mention label="Aftab" length="5" position="2490"/>
+  <mention label="Fort Lee" length="8" position="4298"/>
+  <mention label="Ridgewood" length="9" position="4810"/>
+  <mention label="Clementi" length="8" position="704"/>
+  <mention label="Clementi" length="8" position="4037"/>
+  <mention label="Rutgers University" length="18" position="733"/>
+  <mention label="Internet" length="8" position="2247"/>
+  <mention label="Trenton" length="7" position="5719"/>
+  <mention label="Internet" length="8" position="474"/>
+  <mention label="Ravi" length="4" position="2910"/>
+  <mention label="Rutgers" length="7" position="733"/>
+  <mention label="Megan Meier" length="11" position="1751"/>
+  <mention label="Mulvihill" length="9" position="5482"/>
+  <mention label="Jantz" length="5" position="2145"/>
+  <mention label="Parry Aftab" length="11" position="621"/>
+  <mention label="Rutgers" length="7" position="1249"/>
+  <mention label="Clementi" length="8" position="4079"/>
+  <mention label="New York" length="8" position="5604"/>
+  <mention label="Wei" length="3" position="3054"/>
+  <mention label="New Jersey" length="10" position="3172"/>
+  <mention label="Ravi" length="4" position="2795"/>
+  <mention label="Clementi" length="8" position="3837"/>
+  <mention label="New Jersey" length="10" position="636"/>
+  <mention label="Aftab" length="5" position="627"/>
+  <mention label="Wei" length="3" position="2810"/>
+  <mention label="Hope" length="4" position="2174"/>
+  <mention label="Atlantic City" length="13" position="5746"/>
+  <mention label="Tyler" length="5" position="4474"/>
+</item>

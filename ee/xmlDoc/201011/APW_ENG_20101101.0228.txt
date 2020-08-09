@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Allied Irish shareholders debate sale of M &amp; T stakeShareholders of Allied Irish Banks are debating whether to sell their 22.4 percent stake in New York's M&amp;T Bank.Monday's extraordinary general meeting is expected to approve the M&amp;T sale through a public offering at $77.50 ((EURO)55.75) a share.Analysts estimate the deal would net Allied Irish (EURO)900 million ($1.25 billion).Allied Irish is trying to drum up (EURO)10.4 billion ($14.5 billion) to meet regulators' end-of-year requirements. It's expected to fall billions short and face nationalization by Ireland's government, which has an 18.6 percent stake.Allied Irish sold Bank Zachodni of Poland to Spain's Banc Santander in a September deal netting the Dublin bank (EURO)2.5 billion. It plans a (EURO)5.4 billion sale of new shares expected to be acquired primarily by the government.</text>
+  <mention label="Allied Irish" length="12" position="381"/>
+  <mention label="Spain" length="5" position="660"/>
+  <mention label="Allied Irish" length="12" position="334"/>
+  <mention label="Bank Zachodni" length="13" position="633"/>
+  <mention label="Ireland" length="7" position="561"/>
+  <mention label="New York" length="8" position="144"/>
+  <mention label="Allied Irish" length="12" position="68"/>
+  <mention label="Allied Irish" length="12" position="0"/>
+  <mention label="Poland" length="6" position="650"/>
+  <mention label="Dublin" length="6" position="715"/>
+</item>

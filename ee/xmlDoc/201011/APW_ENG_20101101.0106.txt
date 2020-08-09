@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Former NBA star Maurice Lucas dead at 58Maurice Lucas, the fierce power forward who helped lead the Portland Trail Blazers to the 1977 NBA title, has died after a long fight with bladder cancer. He was 58.The Trail Blazers said Lucas died Sunday.Lucas, whose No. 20 was retired by the Blazers in 1988, joined Portland in the 1976 and led the 1976-77 championship team in scoring with a 20.2 average. He also averaged 11.2 rebounds that season.He averaged 14.4 points and 8.8 rebounds in 12 NBA seasons with Portland, New Jersey, New York, Phoenix, the Los Angeles Lakers and Seattle. He also served as an assistant coach with the Blazers.He was a five-time All-Star.Lucas led Marquette to the 1974 U.S. college NCAA title game against North Carolina State and was selected to the All-Final Four team.Marquette also retired his No. 20 and inducted him into its Hall of Fame, and Walton named his son Luke, a player for the Lakers, after him.Lucas is survived by wife Pamela, sons David and Maurice II and daughter Kristin.</text>
+  <mention label="Pamela" length="6" position="966"/>
+  <mention label="NCAA" length="4" position="711"/>
+  <mention label="NBA" length="3" position="7"/>
+  <mention label="NBA" length="3" position="135"/>
+  <mention label="Luke" length="4" position="899"/>
+  <mention label="North Carolina State" length="20" position="735"/>
+  <mention label="New Jersey" length="10" position="517"/>
+  <mention label="Hall of Fame" length="12" position="860"/>
+  <mention label="David" length="5" position="979"/>
+  <mention label="New York" length="8" position="529"/>
+  <mention label="Phoenix" length="7" position="539"/>
+  <mention label="Maurice Lucas" length="13" position="16"/>
+  <mention label="Lucas" length="5" position="24"/>
+  <mention label="Lucas" length="5" position="228"/>
+  <mention label="Maurice Lucas" length="13" position="40"/>
+  <mention label="Walton" length="6" position="878"/>
+  <mention label="Marquette" length="9" position="800"/>
+  <mention label="Portland" length="8" position="100"/>
+  <mention label="Marquette" length="9" position="676"/>
+  <mention label="Lakers" length="6" position="564"/>
+  <mention label="Kristin" length="7" position="1013"/>
+  <mention label="Portland Trail Blazers" length="22" position="100"/>
+  <mention label="Lucas" length="5" position="246"/>
+  <mention label="Lucas" length="5" position="48"/>
+  <mention label="Seattle" length="7" position="575"/>
+  <mention label="Los Angeles Lakers" length="18" position="552"/>
+  <mention label="Portland" length="8" position="309"/>
+  <mention label="U.S." length="4" position="698"/>
+</item>

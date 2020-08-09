@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Jacobs called in for injury-hit SAfricaCenter Adi Jacobs has been called into South Africa's squad for its tour of Britain and Ireland as a precaution after injuries to Jean de Villiers and Juan de Jongh.Western Province pair De Villiers and De Jongh were injured in Saturday's Currie Cup final loss to the Sharks. De Villiers has a groin injury while De Jongh left the field with an ankle problem.Springboks coach Peter de Villiers said Monday the pair will be assessed this week. South Africa departs for its five-match tour on Wednesday.De Villiers said "we decided it was essential to have some experienced cover on hand and in the group just in case."Centers Jaque Fourie and Wynand Olivier are among 10 players ruled out of the tour with injury.</text>
+  <mention label="South Africa" length="12" position="78"/>
+  <mention label="Springboks" length="10" position="398"/>
+  <mention label="Adi Jacobs" length="10" position="46"/>
+  <mention label="Jacobs" length="6" position="0"/>
+  <mention label="Wynand Olivier" length="14" position="681"/>
+  <mention label="De Jongh" length="8" position="352"/>
+  <mention label="De Villiers" length="11" position="226"/>
+  <mention label="Peter de Villiers" length="17" position="415"/>
+  <mention label="South Africa" length="12" position="482"/>
+  <mention label="De Villiers" length="11" position="315"/>
+  <mention label="Juan de Jongh" length="13" position="190"/>
+  <mention label="Britain" length="7" position="115"/>
+  <mention label="Jaque Fourie" length="12" position="664"/>
+  <mention label="Sharks" length="6" position="307"/>
+  <mention label="De Villiers" length="11" position="540"/>
+  <mention label="Ireland" length="7" position="127"/>
+  <mention label="Jean de Villiers" length="16" position="169"/>
+  <mention label="De Jongh" length="8" position="242"/>
+  <mention label="Currie Cup" length="10" position="278"/>
+</item>

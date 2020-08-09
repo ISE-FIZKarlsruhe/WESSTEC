@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Pakistan cuts NATO supply line after border firingPakistan closed the Khyber Pass supply route for U.S. and NATO troops in Afghanistan after a coalition helicopter attack mistakenly killed three Pakistani soldiers at a border post, raising tensions in a vital relationship for both Islamabad and Washington.A lengthy ban on supply trucks would place intense strain on the U.S.-Pakistani relationship and hurt the Afghan war effort. But that was seen as unlikely, as neither Islamabad nor Washington can afford a meltdown in ties at a crucial time in the 9-year-old war.Briefly closing the route would serve a different purpose -- a timely reminder by Pakistan of the leverage it has over the United States in Afghanistan just as the American-led coalition there is under growing public and political pressure to show success.The blockade, which began Thursday, left 150 trucks lined up along the fabled Khyber Pass carrying fuel, military vehicles, spare parts, clothing and other non-lethal supplies for foreign troops. Pakistan's other main route into landlocked Afghanistan, in Chaman in the southeast, stayed open.While NATO and the United States have alternative supply routes into Afghanistan, the Pakistani ones are the cheapest and most convenient. Some 80 percent of the coalition's non-lethal supplies are transported over Pakistani soil after being unloaded at docks in Karachi, a port city in the south.It was the third time in less than a week that NATO choppers in pursuit of militants behind attacks on coalition bases have crossed over the Pakistani border and fired on targets. Pakistani officials had warned after the earlier strikes that they would stop allowing NATO convoys if it happened again.The NATO attacks follow a recent surge in missile strikes by CIA drones at Taliban and al-Qaida militants taking shelter in Pakistan out of reach of U.S. ground forces.While the Pakistani leadership has quietly accepted drone strikes over the last three years and even provides intelligence for some of them, closing the border crossing was a clear signal it will not compromise on allowing foreign troops or manned aircraft inside its territory."We will have to see whether we are allies or enemies," Pakistani Interior Minister Rehman Malik said of the border incident, without mentioning the decision to close the border.The move shows Pakistan's deep sensitivities over foreign forces on its doorstep. While nominally allied with Americans against the shared threat of Islamist militants, polls show many Pakistanis regard the United States as an enemy. Conspiracy theories abound of U.S. troops wanting to invade Pakistan and seize its nuclear weapons.The spike in drone attacks this month -- and the NATO's apparent increased willingness to attack targets on the border or just inside Pakistan -- could be a sign that the coalition wants to try to expand its reach inside this country. Militants behind attacks in Afghanistan have enjoyed relative safe haven in Pakistan.Thursday's strike took place soon after dawn on the border between Pakistan's Upper Kurram province and Afghanistan's Paktia province.NATO said its aircraft entered Pakistani airspace and engaged a target just across the border in self-defense after receiving ground fire.The Pakistani army said two approaching NATO helicopters fired on a post 200 meters (656 feet) inside the border. Its border force returned fire with rifles. Then the choppers rocketed the position, killing three officers and wounding three others, the army said.The border between Pakistan and Afghanistan is poorly defined and the terrain is rough. In 2008, 11 Pakistan border troops were killed when a U.S. plane mistakenly bombed them.NATO said the closing of the Torkham border crossing, the busiest entryway for NATO and U.S. goods into Afghanistan, had not strained the coalition's supply operation.Both the Khyber Pass and Chaman routes have occasionally closed for several days in recent years after major militant attacks on the road or disagreements between truckers and authorities. Pakistani security forces protect the convoys.------Riechmann reported from Kabul, Afghanistan. Associated Press writers Munir Ahmed in Islamabad, Riaz Khan in Peshawar, Matiullah Achakzai in Chaman, Hussein Afzal in Parachinar and Pauline Jelinek in Washington, D.C. contributed to this report.</text>
+  <mention label="Pakistan" length="8" position="651"/>
+  <mention label="al-Qaida" length="8" position="1803"/>
+  <mention label="Pakistan" length="8" position="0"/>
+  <mention label="NATO" length="4" position="14"/>
+  <mention label="Afghanistan" length="11" position="3097"/>
+  <mention label="Torkham" length="7" position="3733"/>
+  <mention label="Islamabad" length="9" position="282"/>
+  <mention label="NATO" length="4" position="1682"/>
+  <mention label="Chaman" length="6" position="4252"/>
+  <mention label="Americans" length="9" position="2450"/>
+  <mention label="Pakistan" length="8" position="1556"/>
+  <mention label="Pakistani" length="9" position="1556"/>
+  <mention label="Paktia" length="6" position="3111"/>
+  <mention label="Afghanistan" length="11" position="1065"/>
+  <mention label="Washington" length="10" position="296"/>
+  <mention label="Pakistani" length="9" position="2218"/>
+  <mention label="Afghanistan" length="11" position="4143"/>
+  <mention label="NATO" length="4" position="2722"/>
+  <mention label="Afghanistan" length="11" position="1187"/>
+  <mention label="U.S." length="4" position="2604"/>
+  <mention label="Associated Press" length="16" position="4156"/>
+  <mention label="Kabul" length="5" position="4136"/>
+  <mention label="Islamist" length="8" position="2489"/>
+  <mention label="NATO" length="4" position="1462"/>
+  <mention label="Pakistani" length="9" position="1595"/>
+  <mention label="NATO" length="4" position="3127"/>
+  <mention label="Pakistan" length="8" position="1595"/>
+  <mention label="Pakistan" length="8" position="1840"/>
+  <mention label="United States" length="13" position="692"/>
+  <mention label="Pakistan" length="8" position="50"/>
+  <mention label="NATO" length="4" position="1720"/>
+  <mention label="Pakistan" length="8" position="1204"/>
+  <mention label="Pakistani" length="9" position="1333"/>
+  <mention label="Pakistan" length="8" position="1333"/>
+  <mention label="Pakistani" length="9" position="1204"/>
+  <mention label="Chaman" length="6" position="3896"/>
+  <mention label="Parachinar" length="10" position="4277"/>
+  <mention label="Chaman" length="6" position="1081"/>
+  <mention label="NATO" length="4" position="3783"/>
+  <mention label="Rehman Malik" length="12" position="2246"/>
+  <mention label="Pakistani" length="9" position="195"/>
+  <mention label="Pakistan" length="8" position="195"/>
+  <mention label="U.S." length="4" position="1865"/>
+  <mention label="Afghanistan" length="11" position="709"/>
+  <mention label="U.S." length="4" position="3670"/>
+  <mention label="Islamabad" length="9" position="474"/>
+  <mention label="Pakistani" length="9" position="2525"/>
+  <mention label="Pakistanis" length="10" position="2525"/>
+  <mention label="Washington" length="10" position="4311"/>
+  <mention label="Pakistani" length="9" position="3158"/>
+  <mention label="NATO" length="4" position="1124"/>
+  <mention label="Washington" length="10" position="488"/>
+  <mention label="Karachi" length="7" position="1381"/>
+  <mention label="Afghanistan" length="11" position="3560"/>
+  <mention label="U.S." length="4" position="99"/>
+  <mention label="D.C." length="4" position="4323"/>
+  <mention label="NATO" length="4" position="108"/>
+  <mention label="Afghanistan" length="11" position="3808"/>
+  <mention label="NATO" length="4" position="3305"/>
+  <mention label="Islamabad" length="9" position="4196"/>
+  <mention label="Pakistan" length="8" position="1894"/>
+  <mention label="Pakistani" length="9" position="1894"/>
+  <mention label="Afghanistan" length="11" position="123"/>
+  <mention label="U.S." length="4" position="372"/>
+  <mention label="Pakistani" length="9" position="377"/>
+  <mention label="Pakistan" length="8" position="377"/>
+  <mention label="CIA" length="3" position="1777"/>
+  <mention label="Afghanistan" length="11" position="2936"/>
+  <mention label="Peshawar" length="8" position="4220"/>
+  <mention label="Pakistan" length="8" position="1021"/>
+  <mention label="Taliban" length="7" position="1791"/>
+  <mention label="United States" length="13" position="1137"/>
+  <mention label="NATO" length="4" position="3704"/>
+  <mention label="Afghan" length="6" position="123"/>
+  <mention label="United States" length="13" position="2547"/>
+</item>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>AIG bailout exit doesn ' t resolve losses from TARPAmerican International Group finally has a plan to exit the biggest of the Wall Street bailouts a month before midterm elections. But much as embattled lawmakers might wish otherwise, the book on TARP won't close anytime soon.There's no guarantee taxpayers who gave AIG a $182 billion bailout will be made whole under the plan the company announced Thursday. Under the deal, Treasury will swap its majority stake in AIG for common stock and then sell those shares over time.The government loses its authority to tap Troubled Asset Relief Program funds on Sunday. Democrats facing tough re-elections hope voters will see the bailouts as nearing an end.That will be a tough case to make. Close to $190 billion in TARP money has not been paid back. The Congressional Budget Office's most recent estimate said taxpayers will never get back about $66 billion of it, although estimates of the final cost have been dropping steadily.The public remains angry about the bailouts, which were launched in President George W. Bush's final months. Americans have been particularly furious over the outsize bonuses that bailed-out firms paid to executives. The anger may dissipate as the economy improves, but it will linger until most sitting lawmakers are out of office, said Norman Ornstein, resident scholar at the conservative American Enterprise Institute."Finding a way to reduce the anger, much of it misplaced, over what TARP did, is a pretty strong political goal" for the Democrats, he said. It will be an uphill battle, Ornstein said.TARP, which Obama administration officials say helped stabilize the financial system, has been targeted by the tea party movement as a wasteful giveaway that rescued Wall Street while ordinary Americans suffered the effects of the Great Recession. Democratic and Republican lawmakers who voted for the bailout have had to defend their votes.The deal will give Treasury a 92.1 percent stake in AIG before it begins selling its shares. But it can't be completed until AIG proves its strength by displaying its ability to raise money from private investors and regain a top rating from credit agencies.Otherwise, "this deal won't go through," CEO Robert Benmosche said in an interview Thursday. "The Treasury wants to assure itself it's investing in a company with the strength to be competitive in the marketplace."Benmosche said he expects the transaction to take place in the first quarter of 2011. S&amp;P credit analyst Kevin Ahern said AIG's rating will likely be upgraded in a month's time, after it sells off a life insurance subsidiary and spins off another in an initial public offering.Before the stock swap, AIG will repay about $20 billion in loans it received from the Federal Reserve Bank of New York. AIG plans to repay that debt in part through earnings it generates and the sale of some its subsidiaries. AIG has been selling some of its units since it received the initial bailout in September 2008.CEO Benmosche said he would have preferred to put off an exit agreement until November, after the completion of some sales. But he said he wanted to make sure that as TARP expired, AIG wasn't again thrust into the spotlight as a "ward of the state."Treasury Secretary Timothy Geithner praised the agreement. He said it "puts taxpayers in a considerably stronger position to recoup our investment in the company."The government will receive about 1.66 billion shares of AIG common stock in exchange for its $49.1 billion investment. The shares would be worth about $29.67 apiece. In trading Thursday, shares rose $1.65, or 4.4 percent, to $39.10. So if the government is able to sell shares at their current price, it would make $15.8 billion in profit on that part of its stake.Part of the government AIG's $182 billion bailout went unused. The rest is expected to be recovered from the sale of assets.Treasury's work on the bailouts is hardly finished. As of Aug. 31, Treasury had tapped $460 billion from TARP for banks, auto makers and mortgage companies. Of that, $386 billion was disbursed, and $187 billion had not been repaid. AIG and automakers GM and Chrysler held the bulk of that money.The government is in the process of selling back shares of Citigroup Inc., which received $45 billion in taxpayer support in one of the largest bank rescues by the government. The government said Thursday it raised $2.25 billion from the sale of trust-preferred shares, and has raised $16.4 billion so far from the sale of Citigroup common stock. The bank repaid another $20 billion in December 2009.The government's remaining shares of common stock have a value of $14 billion at Thursday's closing stock market price.AIG was one of the financial companies hit hardest by the credit crisis and received the largest bailout the government doled out. The insurance giant was not undone by its traditional business. Rather, it was felled by its dealings in complex derivatives.AIG also drew criticism for continuing to pay out bonuses to employees after it received the bailout. Some of those employees worked in the division that nearly destroyed the company.The government stepped in to rescue AIG because the insurer worked with hundreds of financial institutions throughout the world. The government believed at the time that a collapse of AIG would further hurt the already fragile credit markets, which had been shaken by the bankruptcy of Lehman Brothers.</text>
+  <mention label="AIG" length="3" position="2049"/>
+  <mention label="AIG" length="3" position="5185"/>
+  <mention label="AIG" length="3" position="0"/>
+  <mention label="American Enterprise Institute" length="29" position="1369"/>
+  <mention label="AIG" length="3" position="3463"/>
+  <mention label="AIG" length="3" position="2696"/>
+  <mention label="AIG" length="3" position="467"/>
+  <mention label="AIG" length="3" position="2899"/>
+  <mention label="AIG" length="3" position="3795"/>
+  <mention label="George W. Bush" length="14" position="1055"/>
+  <mention label="Citigroup" length="9" position="4250"/>
+  <mention label="Citigroup Inc." length="14" position="4250"/>
+  <mention label="Benmosche" length="9" position="2396"/>
+  <mention label="AIG" length="3" position="2518"/>
+  <mention label="AIG" length="3" position="5333"/>
+  <mention label="Treasury" length="8" position="1943"/>
+  <mention label="Treasury" length="8" position="2280"/>
+  <mention label="Treasury" length="8" position="426"/>
+  <mention label="Ornstein" length="8" position="1322"/>
+  <mention label="Robert Benmosche" length="16" position="2227"/>
+  <mention label="Treasury" length="8" position="3243"/>
+  <mention label="AIG" length="3" position="4128"/>
+  <mention label="AIG" length="3" position="3175"/>
+  <mention label="AIG" length="3" position="4710"/>
+  <mention label="AIG" length="3" position="4966"/>
+  <mention label="Federal Reserve Bank of New York" length="32" position="2759"/>
+  <mention label="AIG" length="3" position="2793"/>
+  <mention label="Norman Ornstein" length="15" position="1315"/>
+  <mention label="Democratic" length="10" position="1831"/>
+  <mention label="Timothy Geithner" length="16" position="3262"/>
+  <mention label="Democrats" length="9" position="614"/>
+  <mention label="American International Group" length="28" position="51"/>
+  <mention label="Treasury" length="8" position="3896"/>
+  <mention label="Chrysler" length="8" position="4154"/>
+  <mention label="Benmosche" length="9" position="2234"/>
+  <mention label="Lehman Brothers" length="15" position="5435"/>
+  <mention label="Americans" length="9" position="1086"/>
+  <mention label="Americans" length="9" position="1776"/>
+  <mention label="Democrats" length="9" position="1520"/>
+  <mention label="Congressional Budget Office" length="27" position="801"/>
+  <mention label="AIG" length="3" position="1976"/>
+  <mention label="Republican" length="10" position="1846"/>
+  <mention label="Obama" length="5" position="1595"/>
+  <mention label="AIG" length="3" position="317"/>
+</item>

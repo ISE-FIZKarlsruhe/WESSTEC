@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Ice Cube ' s cred melts on ' I Am The West 'Ice Cube, "I Am The West" (Lench Mob Records)It's been 22 years since N.W.A. put gangsta rap on the map, and hip-hop has exploded into arguably the most diverse music genre since then.Somebody forgot to tell Ice Cube.His new disc "I Am The West" could have been recorded in 1989. AK-47s are still the guns of choice in South Central and there's nothing more manly than sex with multiple partners."This ain't Sinatra / This ain't Tha Carter / I am the chaperone ... who brought ya," raps Ice Cube on one of the more boastful tracks, "Drink the Kool-Aid."Nostalgic N.W.A. fans will buy it regardless of what is written here, but it would have been nice to see one of rap's pioneers try something new and shake up the genre he helped develop. The booming bass and the turntable scratching will sound old-school to some, just old to others.He's at his best when rapping about his beloved Los Angeles. The finest tracks all feature California or West in the title. Still, it's an album that begins with the single word "gangsta" and ends with the lyric "money or your life" fading to nothing. For all but the most diehard N.W.A. fans, that's not enough to put Ice Cube back in the rap conversation.CHECK THIS TRACK OUT: "Nothin' Like L.A." featuring music by The Fliptones and an uncredited vocalist whose soothing chorus makes the shout-outs to Cali-forn-eye-ehh tolerable.</text>
+  <mention label="N.W.A." length="6" position="615"/>
+  <mention label="Los Angeles" length="11" position="936"/>
+  <mention label="N.W.A." length="6" position="1169"/>
+  <mention label="California" length="10" position="979"/>
+  <mention label="Sinatra" length="7" position="460"/>
+  <mention label="N.W.A." length="6" position="122"/>
+  <mention label="South Central" length="13" position="371"/>
+  <mention label="Lench Mob Records" length="17" position="79"/>
+</item>

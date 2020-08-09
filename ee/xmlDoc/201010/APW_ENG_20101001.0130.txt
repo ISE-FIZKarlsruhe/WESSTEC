@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Giants sweep Arizona, clinch tie for NL West titlePolice say 27 tankers carrying fuel for NATO troops in Afghanistan attacked in Pakistan.</text>
+  <mention label="Afghanistan" length="11" position="105"/>
+  <mention label="Pakistan" length="8" position="129"/>
+  <mention label="NATO" length="4" position="90"/>
+</item>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US Republican wins could be felt in EuropeA big Republican win in Tuesday's U.S. congressional elections could jolt U.S. relations with Europe by affecting issues such as arms control, climate change and relations with Turkey.Foreign policy has not been a factor in the campaign, which has been dominated by economic and other domestic issues. But if Republicans, as expected, win control of the House of Representatives and make gains in the Senate, the impact will be felt beyond U.S. borders.Though Congress does not run U.S. foreign policy, it can influence it in many ways, and President Barack Obama could find many of his priorities stalled or tripped up by lawmakers.Obama's arms control agenda and U.S.-Russian relations could be the first foreign policy casualties of the election. The administration has been trying for months to win enough Republican support in the Senate to ratify the New Strategic Arms Control Treaty with Russia.The treaty, signed in April by Obama and Russian President Dmitry Medvedev, would lower limits on the two countries' nuclear arsenals, but some Republicans are not satisfied that the United States could verify whether Russia was sticking to its terms.Defeat in the Senate would have two obvious consequences. Since arms negotiations have been the centerpiece of Obama's opening to improve relations with Russia, a failure to ratify the treaty would be a setback. Without a victory, Obama's broader agenda on reducing the risk from nuclear weapons could be in doubt. For instance, plans to ratify a nuclear test ban treaty already look beyond reach.The administration is pushing for a vote on New START shortly after the election before most newly elected senators are seated in January, because it will be much more difficult with fewer Democrats in office next year. But in a twist of election law, three newly elected senators will take office immediately after the election because they are running for seats that were vacated by predecessors including Obama and Vice President Joe Biden.It remains unclear whether Democrats can pick up enough Republican votes or have enough time to win passage in the postelections session.In another possible pitfall for U.S.-Russian relations, Obama's support for Russia to join the World Trade Organization could be blocked by Congress. Before the United States can approve Russia's bid, Congress must first repeal the Jackson-Vanik agreement, a Soviet-era regulation that can restrict bilateral trade.Republican gains also could add uncertainties for relations with Turkey. Republicans have traditionally supported the NATO ally. But anger in both major parties has risen over Turkish conflict with Israel and ties with Iran.In previous periods of Republican control of the House of Representatives, party leaders have blocked attempts to pass resolutions recognizing the World-War I-era killings of Armenians by Ottoman Turks as genocide. The third-ranking Republican lawmaker, Rep. Mike Pence, who helps guide party strategy in the House, has said he might reconsider opposition to a resolution because of Turkish positions on Israel. The passage of a resolution on Armenia could upend relations with Turkey, a rising power that vociferously opposes it.The election campaigns already have damaged Obama's chances of passing legislation that would curb climate-warming emissions. In a sign of the legislation's unpopularity, candidates from both parties railed against proposed legislation as antibusiness at a time of high unemployment and slow economic growth.With poor prospects for U.S. legislation on reducing emissions, it is unlikely that Obama can lobby effectively or a global pact that would bind the countries of the world to limits on greenhouse gasses. The issue has become a political loser domestically. If voters appear to rebuke him Tuesday, Obama will be looking for other initiatives that can improve his own re-election chances in 2012.Pure political partisanship after Tuesday's elections also could have foreign policy implications with Republican leaders in Congress talking about opposition, not compromise.Republicans are more likely than Democrats to support free trade. But a Republican win may not do much to advance global free trade talks, which are unpopular politically. Republicans are wary about handing Obama victories ahead of the 2012 elections.If Republicans take over one chamber or two, they will gain power over the budget and could force changes in funding for programs such as U.S. foreign aid, which some would like to cut, and missile defense, which some would like to boost.</text>
+  <mention label="Congress" length="8" position="2313"/>
+  <mention label="Obama" length="5" position="3847"/>
+  <mention label="Democrats" length="9" position="2063"/>
+  <mention label="U.S." length="4" position="524"/>
+  <mention label="Republican" length="10" position="3"/>
+  <mention label="Republicans" length="11" position="2561"/>
+  <mention label="Republican" length="10" position="2561"/>
+  <mention label="Russia" length="6" position="1163"/>
+  <mention label="Europe" length="6" position="136"/>
+  <mention label="Turkish" length="7" position="3095"/>
+  <mention label="Mike Pence" length="10" position="2971"/>
+  <mention label="United States" length="13" position="2334"/>
+  <mention label="House of Representatives" length="24" position="396"/>
+  <mention label="Obama" length="5" position="1427"/>
+  <mention label="Iran" length="4" position="2707"/>
+  <mention label="U.S." length="4" position="2205"/>
+  <mention label="Republicans" length="11" position="4119"/>
+  <mention label="Republicans" length="11" position="4373"/>
+  <mention label="Obama" length="5" position="1307"/>
+  <mention label="Europe" length="6" position="36"/>
+  <mention label="Republican" length="10" position="2735"/>
+  <mention label="Republican" length="10" position="2092"/>
+  <mention label="Obama" length="5" position="675"/>
+  <mention label="NATO" length="4" position="2606"/>
+  <mention label="Israel" length="6" position="3116"/>
+  <mention label="Russia" length="6" position="938"/>
+  <mention label="Obama" length="5" position="2229"/>
+  <mention label="Democrats" length="9" position="4152"/>
+  <mention label="Republican" length="10" position="2488"/>
+  <mention label="Obama" length="5" position="3634"/>
+  <mention label="Republican" length="10" position="48"/>
+  <mention label="Senate" length="6" position="1210"/>
+  <mention label="Senate" length="6" position="443"/>
+  <mention label="Armenia" length="7" position="2887"/>
+  <mention label="Russia" length="6" position="1349"/>
+  <mention label="World Trade Organization" length="24" position="2268"/>
+  <mention label="U.S." length="4" position="707"/>
+  <mention label="U.S." length="4" position="76"/>
+  <mention label="Republicans" length="11" position="4291"/>
+  <mention label="Republicans" length="11" position="1089"/>
+  <mention label="Republican" length="10" position="1089"/>
+  <mention label="Congress" length="8" position="2374"/>
+  <mention label="Armenians" length="9" position="2887"/>
+  <mention label="Russia" length="6" position="712"/>
+  <mention label="Russian" length="7" position="712"/>
+  <mention label="House of Representatives" length="24" position="2761"/>
+  <mention label="Obama" length="5" position="3286"/>
+  <mention label="Republicans" length="11" position="351"/>
+  <mention label="Obama" length="5" position="2001"/>
+  <mention label="Republican" length="10" position="351"/>
+  <mention label="Obama" length="5" position="976"/>
+  <mention label="Ottoman Turks" length="13" position="2900"/>
+  <mention label="Russia" length="6" position="986"/>
+  <mention label="Obama" length="5" position="600"/>
+  <mention label="Barack Obama" length="12" position="593"/>
+  <mention label="Turkey" length="6" position="219"/>
+  <mention label="Republican" length="10" position="852"/>
+  <mention label="Dmitry Medvedev" length="15" position="1004"/>
+  <mention label="Joe Biden" length="9" position="2026"/>
+  <mention label="United States" length="13" position="1128"/>
+  <mention label="U.S." length="4" position="482"/>
+  <mention label="Senate" length="6" position="878"/>
+  <mention label="Congress" length="8" position="4069"/>
+  <mention label="Turkish" length="7" position="2664"/>
+  <mention label="U.S." length="4" position="116"/>
+  <mention label="Turkey" length="6" position="3190"/>
+  <mention label="Israel" length="6" position="2686"/>
+  <mention label="Congress" length="8" position="502"/>
+  <mention label="Turkey" length="6" position="2553"/>
+  <mention label="Democrats" length="9" position="1782"/>
+</item>

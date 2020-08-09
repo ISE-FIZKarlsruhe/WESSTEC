@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Malaysia, Australia hope for trade pact by 2011Iraqi police and hospital officials say death toll in Baghdad church attack has risen to 39.</text>
+  <mention label="Baghdad" length="7" position="101"/>
+  <mention label="Iraqi" length="5" position="47"/>
+</item>

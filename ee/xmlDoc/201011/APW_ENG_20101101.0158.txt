@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>At No. 1, Lil Wayne redefines stardom behind barsHe had the top-selling album in the country earlier this month. and he's on the charts with two singles and a collaboration on a third. He's on the president's iPod, and he's on Facebook with updates for his more than 14 million fans.By the way, Lil Wayne's in jail. But his public persona is anything but locked away.The rapper is on track to be released Thursday from a New York City jail. He has served about eight months after pleading guilty in a gun case.His "I Am Not a Human Being" spent a week on top of the Billboard 200 chart after its release last month.</text>
+  <mention label="Lil Wayne" length="9" position="10"/>
+  <mention label="New York City" length="13" position="421"/>
+  <mention label="Facebook" length="8" position="227"/>
+  <mention label="Lil Wayne" length="9" position="295"/>
+</item>

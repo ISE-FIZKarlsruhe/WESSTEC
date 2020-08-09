@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Death toll in southern Mexico mudslides up to 32A rain-soaked hillside crumbled and crushed an elderly couple in their home Thursday, and rescuers found more bodies buried by earlier landslides, raising the death toll from a series of slides in southern Mexico to at least 32.In the worst disaster, a mudslide surged into a community in Chiapas state Wednesday, killing 16 people and injuring 13, while another avalanche claimed three lives in the nearby town of Angel Albino Corzo, federal officials said.Heavy rains have beleaguered much of Mexico's south for weeks.Another landslide Thursday morning in the town of Villa Hidalgo Yalalag in Oaxaca state buried an 80-year-old man and his 68-year-old wife, said Mayor Onesimo Cuevas.He said relatives and neighbors recovered the bodies themselves after the slide, which came when a rain-drenched hillside collapsed on their home.The couple's death came two days after a huge mudslide roared down a hill another Oaxaca town, touching off a scare that hundreds of people might have been lost. Officials later lowered the likely death toll to 11 in Santa Maria de Tlahuitoltepec.Searchers have recovered the bodies of four family members: The pregnant wife of the chief health official, their two teenage daughters and their 5-year-old son, Oaxaca state police said in a statement Thursday.The statement said a the body of a 39-year-old man was also pulled from the rubble early Thursday, but it was unclear if he was the health official.The death toll from the four landslides stood at 32.The area was battered by the remnants of a hurricane one week and a tropical storm the next.The U.S. government offered to pay for a team of Mexican rescuers to travel to the site.Oaxaca state's Civil Protection operations coordinator, Luis Marin, said the state had seen three days straight of intense rain. The state government warned residents south of the city of Oaxaca of flooding from overflowing rivers and opened shelters in other parts of the state.Santa Maria de Tlahuitoltepec, which had 9,000 residents in 2005 according to Mexican census data, is a community high in the Sierra Norte mountains known for maintaining its indigenous culture, especially its music. Residents speak the native language, Mixe, and its youth orchestra plays throughout Mexico.------Associated Press writer Manuel de la Cruz in Tuxtla Gutierrez, Mexico, contributed to this report.</text>
+  <mention label="Mexico" length="6" position="2374"/>
+  <mention label="Tuxtla Gutierrez" length="16" position="2356"/>
+  <mention label="Oaxaca" length="6" position="962"/>
+  <mention label="Luis Marin" length="10" position="1774"/>
+  <mention label="Oaxaca" length="6" position="643"/>
+  <mention label="U.S." length="4" position="1634"/>
+  <mention label="Sierra Norte" length="12" position="2123"/>
+  <mention label="Mexican" length="7" position="1679"/>
+  <mention label="Oaxaca" length="6" position="1289"/>
+  <mention label="Oaxaca" length="6" position="1718"/>
+  <mention label="Mexico" length="6" position="23"/>
+  <mention label="Oaxaca" length="6" position="1906"/>
+  <mention label="Chiapas" length="7" position="337"/>
+  <mention label="Associated Press" length="16" position="2311"/>
+  <mention label="Mexico" length="6" position="254"/>
+  <mention label="Mexico" length="6" position="543"/>
+  <mention label="Mexican" length="7" position="2075"/>
+  <mention label="Mexico" length="6" position="2298"/>
+  <mention label="Angel Albino Corzo" length="18" position="463"/>
+</item>

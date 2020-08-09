@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>American seeks to stop ' milkshake murder '  retrialLawyers for an American housewife accused of drugging then bashing her banker husband to death in a luxury Hong Kong apartment seven years ago urged a judge Monday to stop her retrial.Nancy Kissel was convicted of murder and sentenced to life in prison in September 2005, but Hong Kong's Court of Final Appeal overturned the decision in February. The court found prosecutors improperly cross-examined the 46-year-old native of Adrian, Michigan, and the trial judge wrongly allowed hearsay evidence.Lawyer's for Kissel, who has remained in custody while she awaits the new trial, argued Monday that the court should grant an application to have the case thrown out altogether. The hearing is expected to last five days.Kissel's first trial grabbed headlines around the world with its juicy detail on the breakdown of a wealthy expatriate marriage in this southern Chinese financial hub. It spawned two books and a TV special.Prosecutors alleged that Kissel carefully plotted her husband Robert's murder in November 2003, first drugging him with a milkshake laced with sedatives and then bludgeoning his head with a metal ornament. Kissel said she killed her husband in self-defense after he attacked her with a baseball bat and tried to rape her.While prosecutors portrayed Robert as a loving father, his wife said the former investment banker for Goldman Sachs and Merrill Lynch was a heavy drinker and cocaine user who was frequently sexually abusive. She also acknowledged having an affair with an electrician who worked at the couple's vacation home in Vermont.On Monday, the judge presiding over the hearing granted a prosecution request to ban journalists from reporting on the arguments in detail. The judge also banned the public from the hearing. The worry is that potential jurors in a retrial could hear evidence from the first trial that has been ruled hearsay.Kissel appeared slender and frail, needing a hand from court security guards to stand up in the defendant's dock. She spoke briefly with a group of supporters, which included her parents, stepfather and a friend.Former British colony Hong Kong maintains separate political, economic and legal systems from mainland China as part of its special semiautonomous status.</text>
+  <mention label="Nancy Kissel" length="12" position="236"/>
+  <mention label="Hong Kong" length="9" position="328"/>
+  <mention label="Merrill Lynch" length="13" position="1417"/>
+  <mention label="Kissel" length="6" position="770"/>
+  <mention label="Hong Kong" length="9" position="2158"/>
+  <mention label="American" length="8" position="0"/>
+  <mention label="Robert" length="6" position="1038"/>
+  <mention label="Robert" length="6" position="1325"/>
+  <mention label="Vermont" length="7" position="1608"/>
+  <mention label="Michigan" length="8" position="487"/>
+  <mention label="Kissel" length="6" position="1001"/>
+  <mention label="Chinese" length="7" position="915"/>
+  <mention label="Kissel" length="6" position="242"/>
+  <mention label="Kissel" length="6" position="563"/>
+  <mention label="Hong Kong" length="9" position="159"/>
+  <mention label="British" length="7" position="2143"/>
+  <mention label="Kissel" length="6" position="1182"/>
+  <mention label="Adrian" length="6" position="479"/>
+  <mention label="China" length="5" position="2239"/>
+  <mention label="Goldman Sachs" length="13" position="1399"/>
+</item>

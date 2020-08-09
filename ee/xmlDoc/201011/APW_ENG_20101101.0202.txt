@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Clinton urges rights progress in CambodiaU.S. Secretary of State Hillary Rodham Clinton on Monday urged Cambodia to confront its troubled past by ensuring the Khmer Rouge are brought to justice for crimes against humanity in the 1970s and improve its current human rights record.In the capital of Phnom Penh, she visited a former school that served as the main Khmer Rouge prison and torture center and appealed for the Cambodian people and government to overcome a legacy of impunity for abuses. The government has refused to allow a U.N.-backed court trying top Khmer Rouge leaders to prosecute lower-ranking members.In addition, Clinton said she was prepared to work with Cambodia to resolve another historical hangover: an outstanding debt of about $445 million in Vietnam War-era debt that it owes to the United States. The U.S. has balked at requests to forgive the debt from the Cambodian government, which says it cannot afford to pay.Clinton toured the infamous S-21 prison where as many as 16,000 people were tortured by the Khmer Rouge before being executed for alleged counterrevolutionary behavior. The ultra-leftist regime is blamed for the deaths of some 1.7 million people from starvation, disease, overwork and execution during its 1975-79 reign."It's a very disturbing experience and the pictures -- both the pictures of the young Cambodians who were killed and the young Cambodians who were doing the killing -- were so painful," she told students after the tour. "But I also came away very impressed because a country that is able to confront its past is a country that can overcome it.""Countries that are held prisoner to their past can never break those chains and build the kind of future that their children deserve," Clinton said. "Although I am well aware the work of the tribunal is painful, it is necessary to ensure a lasting peace."The Khmer Rouge tribunal closed its first case in July when it convicted the regime's chief jailer and head of S-21, Kaing Guek Eav, also known as Duch. He was sentenced to 19 years in prison on charges of war crimes and crimes against humanity. A second trial is expected to start next year for the four top surviving Khmer Rouge leaders.But Cambodian Prime Minister Hun Sen has said the trials will stop there, despite U.N. wishes to bring lower-ranking officers to justice for murder, torture and other crimes. The U.N. says progress has been blocked by political interference from Cambodian officials who oppose more prosecutions.Critics accuse the Cambodian leader of trying to limit the tribunal's scope to prevent his political allies from being indicted. Hun Sen once served as a Khmer Rouge officer and many of his main allies are also former members of the group.Cambodian Foreign Minister Hor Namhong said after meeting Clinton that expanding the scope of the tribunal would "jeopardize peace and stability in Cambodia.""Who would be responsible for that?" he asked. "There will be a hindrance of development if Cambodia is plunged into instability."Clinton called for full support the tribunal, which needs $40 million to $60 million to hold the second trial, and said that an expansion of its mandate needed to be discussed. But, she said "my highest priority right now is to make sure that we have that money in place so that trial can begin. The sooner, the better."Clinton also said the government, which has been harshly criticized for cracking down on opposition groups, must do more to protect human rights. She will meet with opposition leaders before departing for Malaysia on the next leg of a two-week, seven-nation tour of the Asia-Pacific.Last week, Hun Sen told visiting U.N. chief Ban Ki-moon that he must close down the U.N. human rights office in Cambodia, which he accuses of interfering in the country's internal affairs. Hor Namhong noted that there were already more than 100 human rights groups in Cambodia but said no decision had yet been made on the U.N. office.Clinton said keeping the U.N. office open is critical to Cambodia's development."We think the work is important and we would like to see it continue," she said.On repaying the outstanding loans, Clinton said she was ready to explore creative ways the country could make good on the arrears, possibly by agreeing to preserve key environmental areas or investing in education. A team of U.S. experts will travel to Cambodia soon to resume negotiations on the matter that were last held in 2006."There are things that the Cambodian government can do to demonstrate some level of accountability," she said. "It is hanging out there and it needs to be addressed."</text>
+  <mention label="Khmer Rouge" length="11" position="1035"/>
+  <mention label="Vietnam" length="7" position="769"/>
+  <mention label="Clinton" length="7" position="0"/>
+  <mention label="Khmer Rouge" length="11" position="2182"/>
+  <mention label="Asia-Pacific" length="12" position="3614"/>
+  <mention label="U.N." length="4" position="535"/>
+  <mention label="Khmer Rouge" length="11" position="159"/>
+  <mention label="Cambodia" length="8" position="2206"/>
+  <mention label="Cambodian" length="9" position="2206"/>
+  <mention label="Clinton" length="7" position="3344"/>
+  <mention label="Cambodia" length="8" position="2448"/>
+  <mention label="Cambodian" length="9" position="2448"/>
+  <mention label="Phnom Penh" length="10" position="297"/>
+  <mention label="United States" length="13" position="810"/>
+  <mention label="Clinton" length="7" position="943"/>
+  <mention label="Cambodia" length="8" position="33"/>
+  <mention label="Cambodia" length="8" position="675"/>
+  <mention label="Cambodia" length="8" position="420"/>
+  <mention label="Cambodian" length="9" position="420"/>
+  <mention label="U.S." length="4" position="41"/>
+  <mention label="Hun Sen" length="7" position="2231"/>
+  <mention label="Hun Sen" length="7" position="3638"/>
+  <mention label="Kaing Guek Eav" length="14" position="1980"/>
+  <mention label="U.S." length="4" position="829"/>
+  <mention label="Khmer Rouge" length="11" position="564"/>
+  <mention label="Hor Namhong" length="11" position="2763"/>
+  <mention label="Khmer Rouge" length="11" position="1867"/>
+  <mention label="Hun Sen" length="7" position="2626"/>
+  <mention label="Clinton" length="7" position="1743"/>
+  <mention label="U.N." length="4" position="3660"/>
+  <mention label="U.N." length="4" position="2381"/>
+  <mention label="Cambodian" length="9" position="1349"/>
+  <mention label="Cambodia" length="8" position="1349"/>
+  <mention label="S-21" length="4" position="971"/>
+  <mention label="Khmer Rouge" length="11" position="2651"/>
+  <mention label="Malaysia" length="8" position="3549"/>
+  <mention label="Clinton" length="7" position="80"/>
+  <mention label="Clinton" length="7" position="3024"/>
+  <mention label="Hillary Rodham Clinton" length="22" position="65"/>
+  <mention label="Ban Ki-moon" length="11" position="3671"/>
+  <mention label="Cambodian" length="9" position="2516"/>
+  <mention label="Duch" length="4" position="2010"/>
+  <mention label="Cambodia" length="8" position="104"/>
+  <mention label="Khmer Rouge" length="11" position="361"/>
+  <mention label="Hor Namhong" length="11" position="3816"/>
+  <mention label="Cambodia" length="8" position="1390"/>
+  <mention label="Cambodian" length="9" position="1390"/>
+  <mention label="U.N." length="4" position="2284"/>
+  <mention label="U.N." length="4" position="3950"/>
+  <mention label="Clinton" length="7" position="2794"/>
+  <mention label="U.N." length="4" position="3711"/>
+  <mention label="Clinton" length="7" position="3962"/>
+  <mention label="Cambodia" length="8" position="886"/>
+  <mention label="Cambodian" length="9" position="886"/>
+  <mention label="Clinton" length="7" position="632"/>
+  <mention label="U.S." length="4" position="4347"/>
+</item>

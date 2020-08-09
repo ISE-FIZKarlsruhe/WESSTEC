@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Supreme Court to hear violent video game caseBefore picking up any Wii games or downloading apps on her iPhone for her two daughters, Lillian Quintero does her homework. She'll first read reviews online and in magazines, then try them out for herself. If she thinks the games are engaging and educational enough, 4-year-old Isabella and 2-year-old Sophia are free to play."I know there's going to be a point where they get these things on their own," said the 35-year-old mother from Long Beach, California. "We're not going to be there to monitor everything. That's why the most important thing is communication, instilling morals and values in them and helping them to understand certain boundaries. There's only so much you can do."Quintero and her husband, Jorge, are some of the parents who support a California law that seeks to ban the sale and rental of violent games to children. The law, which has bounced around the legal system like a game of "Pong" since Gov. Arnold Schwarzenegger first signed it in 2005, was declared unconstitutional last year by the 9th U.S. Circuit Court of Appeals in San Francisco.The U.S. Supreme Court will hear arguments Tuesday about the federal court's decision to throw out California's ban on violent games, marking the first time a case involving the interactive medium itself has gone before the Supreme Court. It's another sign that the $20 billion-a-year industry, long considered to be just child's play, is now all grown up.California's measure would have regulated games more like pornography than movies, prohibiting the sale or rental of games that give players the option of "killing, maiming, dismembering, or sexually assaulting an image of a human being" to anyone under the age of 18. Only retailers would be punished with fines of up to $1,000 for each infraction.The federal court said the law violated minors' constitutional rights under the First and Fourteenth amendments and the state lacked enough evidence to prove violent games cause physical and psychological harm to minors. Courts in six other states, including Michigan and Illinois, have reached similar conclusions, striking down parallel violent game bans.Under California's law, only adults would be able to purchase games like "Postal 2," the first-person shooter by developer Running With Scissors that features the ability to light unarmed bystanders on fire, and "Grand Theft Auto IV," the popular third-person shoot-'em-up from Rockstar Games that allows gamers to portray carjacking, gun-toting gangsters.The Quinteros, like most supporters, believe the law will protect children from buying such violent titles, while gamers and free speech advocates think California's ban could lead to strict federal regulation on the content of games and other media. All agree, however, that the graphically rich medium has come a long way from 8-bit tennis matches.The average age of gamers is 34, according to the Entertainment Software Association, and many are paying close attention to the Supreme Court case. The Entertainment Consumers Association, which lobbies on behalf of gamers, is organizing a rally outside the Supreme Court building Tuesday as "a way of sending a strong message and uniting gamers.""It's not so much a video game case as a First Amendment case," said George Rose, chief public policy officer at Activision Blizzard Inc., the Santa Monica, California-based publisher of the popular "Call of Duty" and "Guitar Hero" gaming franchises. The gamemaker filed a friend-of-the-court brief opposing California's ban, which was never enforced.Other allies in the fight include Xbox manufacturer Microsoft Corp., "Star Wars" publisher LucasArts, The Recording Academy, Motion Picture Association of America, as well as the Entertainment Merchants Association and Entertainment Software Association, which sued to block California's ban, calling it "unnecessary, unwarranted and unconstitutional."Opponents of the ban have called the measure unnecessary because virtually all major game publishers and retailers employ a universal voluntary rating system, much like movie studios and theaters, that assigns one of eight age-specific ratings to games, then blocks the sale of games that are rated M for "mature" and AO for "adults only" to children.The gaming industry has actually done a better job of preventing minors from buying entertainment not intended for their age group than the music and film industries, according to the Federal Trade Commission. In a report released last year, the FTC found that 20 percent of minors were able to buy M-rated games, down from 42 percent three years earlier.In contrast, 72 percent of minors were able buy music CDs with explicit content warnings, 50 percent were sold R-rated and unrated DVDs and 28 percent purchased tickets to R-rated movies. The FTC noted there were gaps in enforcement of age-based sales restrictions, specifically with the use of gift cards in online purchases and unrestricted mobile games.The Parents Television Council, which supports California's ban on violent games, conducted its own secret shopper campaign this year with children between the ages of 12 and 16 attempting to buy M-rated games at 109 stores in 14 states. The group found 21 instances of retailers, including Target, Kmart, Sears and Best Buy, selling M-rated games to minors.Leland Yee, the Democratic state senator and child psychologist who originally authored the law, contends the gaming industry's rating system is not effective because of the sweeping scope of games, which are longer and more intricate than movies. Yee said he believes violent games are more harmful to children because of the medium's interactive nature."This isn't an attack on the First Amendment," said Yee. "I'm a supporter of the First Amendment. This is about not making ultra violent video games available to children. Within the bill, the definition of a violent video game is so narrowly tailored because of my respect for the First Amendment. This isn't to stop the creation of violent video games."Yee's position hasn't stopped the Entertainment Software Association's Video Game Voters Network from targeting him. The group has asked gamers to write "I believe in the First Amendment" on old or broken controllers and send them to Yee. When asked about the joystick campaign, the senator scoffed and said that any gifts he received would be returned.The Quinteros, who practice yoga poses in their living room during rounds of "Wii Fit," won't be sending their Wii Balance Board to Yee. While they believe it's ultimately up to parents to police what games their children play, Lillian and Jorge agree that they would feel more comfortable if violent games were legally off limits from being sold to kids."It's one less way for children to have access to it," said Jorge, a 35-year-old middle school teacher who recently bought an iPad. "It's common sense. You don't pick a weenie off the grill with your hands because you know your hand will get burned. We shouldn't let children buy something violent that they don't think will affect them."------AP Technology Writer Barbara Ortutay in New York contributed to this report.------Online:</text>
+  <mention label="California" length="10" position="2186"/>
+  <mention label="Jorge" length="5" position="6660"/>
+  <mention label="Lillian" length="7" position="134"/>
+  <mention label="Quintero" length="8" position="142"/>
+  <mention label="Yee" length="3" position="5764"/>
+  <mention label="Activision Blizzard Inc." length="24" position="3347"/>
+  <mention label="California" length="10" position="2689"/>
+  <mention label="Supreme Court" length="13" position="0"/>
+  <mention label="Parents Television Council" length="26" position="5003"/>
+  <mention label="Quinteros" length="9" position="6424"/>
+  <mention label="Wii Balance Board" length="17" position="6531"/>
+  <mention label="Rockstar Games" length="14" position="2458"/>
+  <mention label="California" length="10" position="3860"/>
+  <mention label="Yee" length="3" position="6301"/>
+  <mention label="Xbox" length="4" position="3619"/>
+  <mention label="Illinois" length="8" position="2095"/>
+  <mention label="Michigan" length="8" position="2082"/>
+  <mention label="California" length="10" position="806"/>
+  <mention label="Yee" length="3" position="6067"/>
+  <mention label="Supreme Court" length="13" position="1342"/>
+  <mention label="California" length="10" position="3391"/>
+  <mention label="FTC" length="3" position="4534"/>
+  <mention label="Jorge" length="5" position="6835"/>
+  <mention label="Kmart" length="5" position="5298"/>
+  <mention label="Microsoft Corp." length="15" position="3637"/>
+  <mention label="Sears" length="5" position="5305"/>
+  <mention label="Santa Monica" length="12" position="3377"/>
+  <mention label="California" length="10" position="1474"/>
+  <mention label="Grand Theft Auto" length="16" position="2393"/>
+  <mention label="Supreme Court" length="13" position="3015"/>
+  <mention label="California" length="10" position="1217"/>
+  <mention label="Isabella" length="8" position="324"/>
+  <mention label="LucasArts" length="9" position="3676"/>
+  <mention label="Arnold Schwarzenegger" length="21" position="973"/>
+  <mention label="Entertainment Software Association" length="34" position="2936"/>
+  <mention label="Sophia" length="6" position="348"/>
+  <mention label="Motion Picture Association of America" length="37" position="3710"/>
+  <mention label="California" length="10" position="3542"/>
+  <mention label="San Francisco" length="13" position="1104"/>
+  <mention label="Federal Trade Commission" length="24" position="4472"/>
+  <mention label="FTC" length="3" position="4835"/>
+  <mention label="Quinteros" length="9" position="2540"/>
+  <mention label="Yee" length="3" position="5605"/>
+  <mention label="Leland Yee" length="10" position="5357"/>
+  <mention label="Supreme Court" length="13" position="1127"/>
+  <mention label="George Rose" length="11" position="3303"/>
+  <mention label="Long Beach" length="10" position="484"/>
+  <mention label="U.S. Supreme Court" length="18" position="1122"/>
+  <mention label="Democratic" length="10" position="5373"/>
+  <mention label="Yee" length="3" position="5364"/>
+  <mention label="California" length="10" position="496"/>
+  <mention label="Jorge" length="5" position="761"/>
+  <mention label="Entertainment Software Association" length="34" position="3804"/>
+  <mention label="New York" length="8" position="7159"/>
+</item>

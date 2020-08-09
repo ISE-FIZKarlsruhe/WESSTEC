@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Winners of the 2010 Ig Nobel AwardsThe 2010 Ig Nobel winners, awarded Thursday at Harvard University by the Annals of Improbable Research magazine:ENGINEERING: Karina Acevedo-Whitehouse, Agnes Rocha-Gosselin and Diane Gendron for developing a method to collect whale snot using a remote control helicopter.MEDICINE: Simon Rietveld, Ilja van Beest for investigating asthma on a rollercoaster.TRANSPORTATION PLANNING: Toshiyuki Nakagaki, Atsushi Tero, Seiji Takagi, Tetsu Saigusa, Kentaro Ito, Kenji Yumiki, Ryo Kobayashi, Dan Bebber, Mark Fricker for using slime mold to determine the optimal routes for railroad tracks.PHYSICS: Lianne Parkin, Sheila Williams and Patricia Priest for demonstrating that wearing socks on the outside of your shoes helps prevent slipping on ice.PEACE: Richard Stephens, John Atkins and Andrew Kingston for confirming that swearing helps relieve pain.PUBLIC HEALTH: Manuel Barbeito, Charles Mathews and Larry Taylor for determining that microbes cling to bearded scientists.ECONOMICS: The executives and directors of Goldman Sachs, AIG, Lehman Brothers, Bear Stearns, Merrill Lynch, and Magnetar for creating and promoting new ways to invest money that maximize financial gain and minimize financial risk.CHEMISTRY: Eric Adams, Scott Socolofsky and Stephen Masutani for disproving the belief that water and oil don't mix.MANAGEMENT: Alessandro Pluchino, Andrea Rapisarda and Cesare Garofalo for demonstrating mathematically that organizations would become more efficient if promotions were made at random.BIOLOGY: Libiao Zhang, Min Tan, Guangjian Zhu, Jianping Ye, Tiyu Hong, Shanyi Zhou, Shuyi Zhang of China and Gareth Jones for scientifically documenting fruit bat fellatio.</text>
+  <mention label="Harvard University" length="18" position="82"/>
+  <mention label="Merrill Lynch" length="13" position="1097"/>
+  <mention label="China" length="5" position="1633"/>
+  <mention label="Lehman Brothers" length="15" position="1066"/>
+  <mention label="AIG" length="3" position="1061"/>
+  <mention label="Gareth Jones" length="12" position="1643"/>
+  <mention label="Larry Taylor" length="12" position="932"/>
+  <mention label="John Atkins" length="11" position="800"/>
+  <mention label="Sheila Williams" length="15" position="643"/>
+  <mention label="Annals of Improbable Research" length="29" position="108"/>
+  <mention label="Magnetar" length="8" position="1116"/>
+  <mention label="Kentaro Ito" length="11" position="479"/>
+  <mention label="Bear Stearns" length="12" position="1083"/>
+  <mention label="Ryo Kobayashi" length="13" position="506"/>
+  <mention label="Eric Adams" length="10" position="1245"/>
+  <mention label="Patricia Priest" length="15" position="663"/>
+  <mention label="Mark Fricker" length="12" position="533"/>
+  <mention label="Goldman Sachs" length="13" position="1046"/>
+  <mention label="Ig Nobel" length="8" position="20"/>
+  <mention label="Richard Stephens" length="16" position="782"/>
+  <mention label="Charles Mathews" length="15" position="912"/>
+</item>

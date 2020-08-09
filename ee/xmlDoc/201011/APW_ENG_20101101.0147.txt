@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Myanmar junta accused of slowing down InternetMyanmar authorities appear to be deliberately slowing down the Internet ahead of this weekend's election to make it more difficult for journalists to get images and news out of the country, rights groups said Monday.The highly secretive military junta has not announced any Internet slowdown but analysts say it fits a pattern of new restrictions put in place ahead of Sunday's vote, including tighter controls over the movement of aid agencies and the suspension of a visa-on-arrival system for travelers. Other measures include barring entry to foreign journalists and outside observers.The poll will be Myanmar's first elections in 20 years, but critics have widely dismissed it as designed to ensure the military retains power with a civilian facade.The junta aggressively censors the Internet, routinely blocking politically sensitive websites. During a crackdown on pro-democracy protesters in 2007, the junta completely cut access to the Internet and shuttered many cybercafes."I'm not surprised to hear that the Internet is grinding to a halt," said David Mathieson, a Myanmar researcher with New York-based Human Rights Watch."It's a slow squeeze," Mathieson said. "They're slowing everything right down so the potential for negative information to come out is greatly reduced."Hotels and travel agents that rely on the Internet for business say the slowdown started a week ago and many are advising travelers that Internet connections cannot be guaranteed for at least a week."The situation with the Internet connection is not stable. We don't know exactly how long it will last. We hope it will be better after this weekend," said a worker on the reservation desk at Yangon's upscale, colonial-era Strand Hotel. She spoke on condition of anonymity for fear of drawing unwanted attention from authorities.The slowdown has been mentioned in Myanmar's tightly controlled media, none of which have blamed the government.The "7 Day News" weekly reported in its Oct. 28 issue that the problem appeared to stem from a hacker attack and was affecting all Internet service providers.The Committee to Protect Journalists issued a statement over the weekend that put Myanmar at the top of its list of the "10 Worst Countries to be a Blogger.""It does appear that the authorities are deliberately slowing down Internet connections to make it more difficult for journalists to file images and video over the Internet ahead of the upcoming elections," the statement said.------Associated Press writer Jocelyn Gecker in Bangkok contributed to this report.</text>
+  <mention label="Myanmar" length="7" position="2213"/>
+  <mention label="Internet" length="8" position="1066"/>
+  <mention label="Myanmar" length="7" position="1123"/>
+  <mention label="Bangkok" length="7" position="2562"/>
+  <mention label="Internet" length="8" position="109"/>
+  <mention label="Myanmar" length="7" position="0"/>
+  <mention label="Associated Press" length="16" position="2520"/>
+  <mention label="Internet" length="8" position="320"/>
+  <mention label="Myanmar" length="7" position="46"/>
+  <mention label="Myanmar" length="7" position="652"/>
+  <mention label="Internet" length="8" position="835"/>
+  <mention label="Internet" length="8" position="38"/>
+  <mention label="Myanmar" length="7" position="1896"/>
+  <mention label="Internet" length="8" position="2104"/>
+  <mention label="Internet" length="8" position="1470"/>
+  <mention label="Internet" length="8" position="991"/>
+  <mention label="Internet" length="8" position="1375"/>
+  <mention label="Yangon" length="6" position="1724"/>
+  <mention label="Internet" length="8" position="1556"/>
+  <mention label="David Mathieson" length="15" position="1104"/>
+  <mention label="Mathieson" length="9" position="1110"/>
+</item>

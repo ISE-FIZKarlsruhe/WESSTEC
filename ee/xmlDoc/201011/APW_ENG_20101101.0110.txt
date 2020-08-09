@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Heat end Nets '  unbeaten start with easy victoryLeBron James scored 20 points, and Chris Bosh and Dwyane Wade were close behind as the Miami Heat ended the New Jersey Nets' two-game unbeaten start with a 101-78 victory Sunday.Bosh finished with 18 points and Wade added 17, both getting most of them in Miami's dominant first half before sitting out the fourth quarter. James played a little of the final period and added seven rebounds and seven assists.It was the most impressive offensive performance yet for the Heat, who have won three straight since beginning their new era with a loss in Boston on opening night. Miami shot 68 percent in the first half, when its Big Three combined for 41 points -- one fewer than New Jersey -- and the stats only lowered when the reserves took over toward the end.Mavericks 99, Clippers 83At Los Angeles, Jason Kidd ended the first half with a 65-foot shot-put heave from inside the 3-point arc at the opposite end, and Caron Butler scored 17 points and Shawn Marion had 10 of his 12 points in the fourth quarter as Dallas beat the Los Angeles Clippers.Dirk Nowitzki added 16 points and seven rebounds for the defending Southwest Division champions in their first road game of the season. Kidd finished with 13 points, nine rebounds and seven assists.Rookie Blake Griffin had 16 points and nine rebounds for the Clippers, who fell to 0-3 on the season under new coach Vinny Del Negro. None of the starters reached double digits until Griffin converted a slam dunk with 5:32 left in the third quarter.Jazz 120, Thunder 99At Oklahoma City, Paul Millsap had 30 points and 16 rebounds, and Deron Williams added 16 points and 15 assists as Utah beat Oklahoma to avoid matching its worst start in 31 years.Al Jefferson notched his first double-double since joining the Jazz in an offseason trading, putting up 23 points and 10 rebounds.The Jazz haven't started 0-3 since the 1979-80 season, the franchise's first in Utah.Kevin Durant led Oklahoma City with 28 points and Russell Westbrook scored 22.Lakers 107, Warriors 83At Los Angeles, Pau Gasol had 26 points and 12 rebounds, and Kobe Bryant added 20 points as the Los Angeles Lakers kept up their unbeaten start with a win over Golden State.Lamar Odom had 16 points and 14 rebounds for the Lakers, who easily improved to 3-0 with their 10th consecutive win over their upstate rivals.Monta Ellis scored 20 points for the Warriors, whose first loss ended their first 2-0 start in 16 years. Golden State played without guard Stephen Curry, who aggravated his sprained right ankle Friday.</text>
+  <mention label="Al Jefferson" length="12" position="1742"/>
+  <mention label="Miami Heat" length="10" position="136"/>
+  <mention label="Jason Kidd" length="10" position="847"/>
+  <mention label="Russell Westbrook" length="17" position="2007"/>
+  <mention label="Utah" length="4" position="1677"/>
+  <mention label="Los Angeles" length="11" position="834"/>
+  <mention label="Dirk Nowitzki" length="13" position="1095"/>
+  <mention label="Kobe Bryant" length="11" position="2119"/>
+  <mention label="Vinny Del Negro" length="15" position="1410"/>
+  <mention label="Miami" length="5" position="136"/>
+  <mention label="Monta Ellis" length="11" position="2373"/>
+  <mention label="Caron Butler" length="12" position="962"/>
+  <mention label="Oklahoma City" length="13" position="1565"/>
+  <mention label="Kidd" length="4" position="853"/>
+  <mention label="Boston" length="6" position="596"/>
+  <mention label="Deron Williams" length="14" position="1628"/>
+  <mention label="New Jersey Nets" length="15" position="157"/>
+  <mention label="Pau Gasol" length="9" position="2074"/>
+  <mention label="Oklahoma" length="8" position="1565"/>
+  <mention label="New Jersey" length="10" position="157"/>
+  <mention label="Stephen Curry" length="13" position="2512"/>
+  <mention label="Griffin" length="7" position="1306"/>
+  <mention label="Chris Bosh" length="10" position="84"/>
+  <mention label="Bosh" length="4" position="90"/>
+  <mention label="Paul Millsap" length="12" position="1580"/>
+  <mention label="Utah" length="4" position="1952"/>
+  <mention label="Dallas" length="6" position="1058"/>
+  <mention label="Los Angeles Clippers" length="20" position="1074"/>
+  <mention label="Golden State" length="12" position="2218"/>
+  <mention label="Dwyane Wade" length="11" position="99"/>
+  <mention label="Shawn Marion" length="12" position="996"/>
+  <mention label="Kevin Durant" length="12" position="1957"/>
+  <mention label="Wade" length="4" position="106"/>
+  <mention label="Lakers" length="6" position="2166"/>
+  <mention label="Lakers" length="6" position="2035"/>
+  <mention label="Miami" length="5" position="304"/>
+  <mention label="Clippers" length="8" position="1086"/>
+  <mention label="Warriors" length="8" position="2047"/>
+  <mention label="Los Angeles Lakers" length="18" position="2154"/>
+  <mention label="Los Angeles" length="11" position="1074"/>
+  <mention label="Oklahoma City" length="13" position="1974"/>
+  <mention label="Clippers" length="8" position="820"/>
+  <mention label="Lamar Odom" length="10" position="2231"/>
+  <mention label="James" length="5" position="56"/>
+  <mention label="LeBron James" length="12" position="49"/>
+</item>

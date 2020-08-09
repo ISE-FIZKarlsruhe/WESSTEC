@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>China goes door-to-door in world ' s biggest censusChina kicked off its once-a-decade census Monday, a whirlwind 10-day head count that will see 6 million census takers go door-to-door to document the massive demographic changes taking place in the world's most populous country.The 2000 tally put China's official population at 1.295 billion people. In the 10 years since, there has been an extensive shift in the population base as millions of migrant workers have poured into urban areas from the countryside.It is the sixth time China has carried out a national census but the first time it will count people where they live and not where their resident certificate, or hukou, is legally registered. The change will better track the demographic changes and will find the true size of China's giant cities, the populations of which have up to now only been estimates.Citizens' privacy concerns could be one of the biggest challenges for the census takers. After years of reforms that have reduced the government's once-pervasive involvement in most people's lives, some Chinese may be reluctant to give up personal information, harboring suspicions about what the government plans to do with their details.Another complicating issue are children born in violation of the country's one-child policy, many of whom are unregistered and therefore have no legal identity. They could number in the millions.The government has said it would lower or waive the hefty penalty fees required for those children to obtain identity cards, though so far it appears there hasn't been much response to the limited amnesty.The census takers will fan out across the country from Nov. 1-10, with the main data to be released at the end of April.</text>
+  <mention label="China" length="5" position="533"/>
+  <mention label="China" length="5" position="788"/>
+  <mention label="China" length="5" position="0"/>
+  <mention label="China" length="5" position="51"/>
+  <mention label="Chinese" length="7" position="1073"/>
+  <mention label="China" length="5" position="298"/>
+</item>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Malaysia, Australia hope for trade pact by 2011Malaysia and Australia expressed confidence Monday in completing a free trade deal next year while the Southeast Asian nation said it needed more information before taking a stance on Canberra's proposal to set up a regional detention center in East Timor to process refugees.Australian Prime Minister Julia Gillard, who arrived Sunday night for a visit lasting less than 24 hours, said both countries have "a shared commitment" to successfully completing bilateral free trade talks.She met with Deputy Prime Minister Muhyiddin Yassin in place of Prime Minister Najib Razak who is ill with suspected chicken pox and has had to cancel all appointments.Gillard also called for a center to be set up in East Timor to process refugees and asylum seekers, mostly from Afghanistan and Sri Lanka, who in the past have used Malaysia as transit point before embarking on a long sea voyage to Australia. Canberra is seeking better policing in Malaysia to control the flow of refugees.Muhyiddin said Malaysia needs more information before coming up with an official stance on the processing center. "We need to see how the mechanism can work," he said.In July, East Timor's parliament rejected the proposed detention center but the country's leaders have said they are open to dialogue with the Australian government. Gillard has used her Asian tour to try to win support for the proposal.Noting that Malaysia is Australia's third largest trade partner among Southeast Asian countries, Gillard said she and Muhyiddin discussed the prospect of concluding the free trade agreement."We will be continuing (the talks) with a view to the free trade agreement being concluded next year," she told a joint news conference.Malaysia already has a free trade pact with New Zealand, which came into force on Aug. 1. It expects to seal one with India next year.Muhyiddin told the news conference that bilateral trade with Australia jumped 20.5 percent to $7 billion in January through August this year from $5.4 billion in the same period last year.</text>
+  <mention label="Australia" length="9" position="10"/>
+  <mention label="Malaysia" length="8" position="1036"/>
+  <mention label="Malaysia" length="8" position="0"/>
+  <mention label="India" length="5" position="1869"/>
+  <mention label="New Zealand" length="11" position="1795"/>
+  <mention label="Australian" length="10" position="323"/>
+  <mention label="Australia" length="9" position="323"/>
+  <mention label="Gillard" length="7" position="1354"/>
+  <mention label="Muhyiddin" length="9" position="1543"/>
+  <mention label="Julia Gillard" length="13" position="349"/>
+  <mention label="Malaysia" length="8" position="1437"/>
+  <mention label="Malaysia" length="8" position="863"/>
+  <mention label="Southeast Asian" length="15" position="1495"/>
+  <mention label="Southeast Asian" length="15" position="150"/>
+  <mention label="Malaysia" length="8" position="980"/>
+  <mention label="Malaysia" length="8" position="1751"/>
+  <mention label="Afghanistan" length="11" position="810"/>
+  <mention label="East Timor" length="10" position="747"/>
+  <mention label="Gillard" length="7" position="355"/>
+  <mention label="Muhyiddin Yassin" length="16" position="565"/>
+  <mention label="Asian" length="5" position="160"/>
+  <mention label="Canberra" length="8" position="941"/>
+  <mention label="East Timor" length="10" position="1197"/>
+  <mention label="Malaysia" length="8" position="47"/>
+  <mention label="Najib Razak" length="11" position="609"/>
+  <mention label="Australia" length="9" position="930"/>
+  <mention label="East Timor" length="10" position="292"/>
+  <mention label="Canberra" length="8" position="231"/>
+  <mention label="Sri Lanka" length="9" position="826"/>
+  <mention label="Muhyiddin" length="9" position="1021"/>
+  <mention label="Australia" length="9" position="60"/>
+  <mention label="Australian" length="10" position="1331"/>
+  <mention label="Australia" length="9" position="1331"/>
+  <mention label="Muhyiddin" length="9" position="565"/>
+  <mention label="Gillard" length="7" position="698"/>
+</item>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Japan hikes taxes on cigarettes to curb smokingJapan imposed a record 40 percent tax hike on cigarettes in a bid to curb the nation's smoking rate -- the highest among major industrialized nations.The hike, effective from Friday, will raise the price of Japan's most popular brand, Mild Seven, by a third to 410 yen ($4.93) a pack, bringing it closer to prices in the U.S.In the weeks leading up to the tax increase, smokers across the country stocked up on cigarettes, some buying cartons by the armful."The aim is to encourage smokers to quit. We hope the price increase will discourage smokers from buying cigarettes and eventually help them quit smoking," said health ministry official Kosuke Kato. Per cigarette, the tax rose to 12.244 yen (14.7 cents) from 8.744 yen.Smoking is still allowed in restaurants and bars across Japan. Authorities have tried to discourage smoking in public areas such as airports, train stations and government buildings by designating smoking rooms -- and many Japanese smokers comply.The price hike is expected to raise 63.1 billion yen ($756 million) in taxes over the first year, but government officials said the main purpose was to promote health, not raise revenues."We want to encourage healthy lifestyles. The purpose of the hike is not to raise government revenue," said Koji Motozuka, a finance ministry official.Japan Tobacco Inc., the world's third-largest tobacco company, expects the number of cigarettes smoked to drop by a quarter because of the hike.The smoking rates among Japanese men has fallen from about 50 percent a decade ago to 36.6 percent, according to Japan Tobacco, a formerly government-owned company that was privatized in 1985. The rate among Japanese women is 12.1 percent.That smoking rate for men is still the highest among the Group of Seven developed nations. The latest survey, in 2009, by Japan's health ministry showed that the smoking rate for American men stood at 25.7 percent, and in Germany the rate was 34.8 percent, while in France it was 33.3 percent. Canadian men had the lowest rate among the seven nations at 19.9 percent.With the tax hike, Marlboro, the most popular foreign brand in Japan, now costs 440 yen ($5.27) per pack, up nearly 40 percent. Marlboro is sold for an average of about $5.42 per pack in the United States, although prices can vary widely depending on local taxes.</text>
+  <mention label="Japan" length="5" position="996"/>
+  <mention label="Japan Tobacco" length="13" position="1358"/>
+  <mention label="Japan" length="5" position="0"/>
+  <mention label="Japanese" length="8" position="1710"/>
+  <mention label="Marlboro" length="8" position="2127"/>
+  <mention label="American" length="8" position="1920"/>
+  <mention label="Japan" length="5" position="47"/>
+  <mention label="Japan" length="5" position="1358"/>
+  <mention label="Japanese" length="8" position="996"/>
+  <mention label="Germany" length="7" position="1963"/>
+  <mention label="France" length="6" position="2007"/>
+  <mention label="U.S" length="3" position="368"/>
+  <mention label="United States" length="13" position="2299"/>
+  <mention label="Japan" length="5" position="829"/>
+  <mention label="Canadian" length="8" position="2035"/>
+  <mention label="Japan" length="5" position="254"/>
+  <mention label="Japan Tobacco Inc." length="18" position="1358"/>
+  <mention label="Japanese" length="8" position="1526"/>
+</item>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Ryan Reynolds in the `Buried 'In "Buried," Ryan Reynolds plays a sardine.He may not literally be one, but he's packed just as tightly in an underground coffin. The film opens in darkness, flickering to life when Paul Conroy (Reynolds) comes to, using his Zippo to make out his horrific confines.The film never strays from the coffin. It's a 94-minute exercise in minimalism, the sort of filmmaking puzzle Hitchcock reveled in. "Buried" and its Spanish director Rodrigo Cortes don't deserve such a comparison, but the film -- written by Chris Sparling -- does succeed as an intriguing if somewhat absurd B-movie.Besides his lighter, Paul has few tools at his disposal: a cell phone, a flask of alcohol, a pencil. The phone gets service (imagine the ad for AT&amp;T: "Five bars when you're six feet under") but its power is slowly draining just as Paul's oxygen is.From his desperate calls, we quickly gather that our sardine is a contract truck driver in Iraq whose convoy was ambushed. He's being held hostage for ransom by an Iraqi who calls him to demand he raises $5 million in a matter of hours.Paul tries calling anyone he can -- police, the State Department, his company, his family -- but he is mostly stymied. He's transferred, put on hold, subjected to pettier concerns of legality and family squabbles and managed like a public relations problem.The politics of "Buried" aren't exactly refined. There's outrage over bureaucratic indifference, but "Buried" works better in representing the more simple frustration of hold music and disinterested receptionists.The biggest surprise of "Buried" is that it's not pure torture. Cortes, with director of photography Eduard Grau, vary their angles impressively. Drama, too, has enough room to build from both the over-the-phone conflicts and the more immediate problems of being buried underground.Reynolds, who has shown flashes of depth in films like "Adventureland" but mostly appeared in more conventional ones like "The Proposal," plays Paul in dramatic extremes. It's as if the actor and the filmmakers felt they had dieted so much on setting that they had a right to otherwise gorge themselves on hyperbole.Whatever the reasons that draw us to the movies, spending an hour-and-a-half trapped in a box with Ryan Reynolds isn't one of them. You will not see "Buried" for its lush scenery, ensemble acting nor its chase sequences.Those who do seek it out will likely sit nervously eyeing one's moviegoing neighbors, wondering if the theater is populated by only masochists and "The Proposal" fans (assuming those are mutually exclusive groups).But really, the interest here is getting an answer to: "How'd they do that? How'd they make such an uncinematic movie?"Yes, "Buried" pulls off its trick. But few besides magicians will be much impressed."Buried," a Lionsgate release, is rated R for language and some violent content. Running time: 94 minutes. Two and a half stars out of four.</text>
+  <mention label="Iraqi" length="5" position="1031"/>
+  <mention label="Spanish" length="7" position="452"/>
+  <mention label="Paul" length="4" position="640"/>
+  <mention label="Ryan Reynolds" length="13" position="8"/>
+  <mention label="Reynolds" length="8" position="13"/>
+  <mention label="Paul" length="4" position="1103"/>
+  <mention label="Lionsgate" length="9" position="2820"/>
+  <mention label="State Department" length="16" position="1151"/>
+  <mention label="Reynolds" length="8" position="56"/>
+  <mention label="Ryan Reynolds" length="13" position="2270"/>
+  <mention label="Hitchcock" length="9" position="413"/>
+  <mention label="Paul" length="4" position="850"/>
+  <mention label="Paul Conroy" length="11" position="220"/>
+  <mention label="Paul" length="4" position="220"/>
+  <mention label="Iraq" length="4" position="958"/>
+  <mention label="Cortes" length="6" position="477"/>
+  <mention label="Ryan Reynolds" length="13" position="51"/>
+</item>

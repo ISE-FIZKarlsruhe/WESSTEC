@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Oil rises above $80 on US economy, demand signsOil prices rose above $80 a barrel Friday in Asia as traders bet improving signs from the U.S. economy signal a growing appetite for crude.Benchmark oil for November delivery was up 34 cents to $80.31 a barrel at midday Singapore time in electronic trading on the New York Mercantile Exchange. The contract rose $2.11 to settle at $79.97 on Thursday.Oil investors took heart from a decline in first-time claims for jobless benefits and an improvement in Chicago region manufacturing activity. The government Thursday also raised its second-quarter estimate of gross domestic product growth to 1.7 percent from 1.6 percent.A drop in commercial crude inventories of 500,000 barrels last week, announced by the Energy Information Administration on Wednesday, also boosted investor optimism. Analysts surveyed by Platts, the energy information arm of McGraw-Hill Cos., had forecast an increase of 2.2 million barrels."Oil is still riding the wave of the supportive EIA report," Ritterbusch and Associates said in a report. "We still view the $80 area as the approximate high side of about a $10 trading range that could remain intact through most of the fourth quarter."Crude prices have zigzagged in the $70s for most of the last year, with short-lived peaks above $80 undermined by an uneven economic recovery in developed countries. Some analysts expect strong crude demand in emerging economies, such as China, will help push prices higher."Oil prices slowly but surely appear to be breaking away from the shackles of macroeconomic influence to refocus on market-specific fundamentals," Barclays Capital said.In other Nymex trading in November contracts, heating oil rose 0.32 cent to $2.271 a gallon and gasoline gained 0.49 cent to $2.032 a gallon. Natural gas fell 3.1 cents to $3.861 per 1,000 cubic feet.In London, Brent crude rose 34 cents to $82.65 a barrel on the ICE Futures exchange.</text>
+  <mention label="Brent crude" length="11" position="1867"/>
+  <mention label="Singapore" length="9" position="267"/>
+  <mention label="London" length="6" position="1859"/>
+  <mention label="New York Mercantile Exchange" length="28" position="311"/>
+  <mention label="U.S." length="4" position="137"/>
+  <mention label="China" length="5" position="1451"/>
+  <mention label="Barclays Capital" length="16" position="1634"/>
+  <mention label="Chicago" length="7" position="501"/>
+  <mention label="Energy Information Administration" length="33" position="755"/>
+  <mention label="EIA" length="3" position="1008"/>
+  <mention label="US" length="2" position="23"/>
+  <mention label="Asia" length="4" position="92"/>
+  <mention label="Platts" length="6" position="856"/>
+</item>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Baghdad church siege ends with 47 deadIraqi security forces stormed a Baghdad church where militants had taken an entire congregation hostage for four hours, leaving at least 47 people dead, including a priest, Iraqi officials said Monday.It was not immediately clear whether the hostages died at the hands of the attackers or during the rescue late on Sunday night in an affluent neighborhood of the capital.The incident began when militants wearing suicide vests and armed with grenades attacked the Iraqi stock exchange at dusk Sunday before turning their attention to the nearby Our Lady of Deliverance church -- one of Baghdad's main Catholic places of worship -- taking about 120 Christians hostage.Officials said at least one priest and 10 policemen were among the dead. Many of the 62 wounded were women.The casualty information came from police and officials at hospitals where the dead and wounded were taken. They spoke on condition of anonymity because they were not authorized to speak to the media.There were conflicting accounts about the number of attackers involved in the assault, with Baghdad military spokesman Maj. Gen. Qassim al-Moussawi saying Sunday night that security forces killed eight, while the U.S. military said between five and seven died.Two police officers on the scene, however, say only three attackers were killed and another seven arrested afterward.A cryptically worded statement posted late Sunday on a militant website allegedly by the Islamic State of Iraq appeared to claim responsibility for the attack. The group, which is linked to al-Qaida in Iraq, said it would "exterminate Iraqi Christians" if Muslim women in Egypt were not freed.It specifically mentioned two women in Egypt that extremists maintain have converted to Islam and are being held against their will.The Egyptian women are wives of priests that are believed to have converted to Islam to leave their husbands, since divorce is banned by the Coptic Church. One woman disappeared in 2004 and another in July of this year.Egypt's Christians maintained they had been kidnapped and demonstrated for their release. Both were later recovered by police, denied any conversions and were then spirited away to distant monasteries.In the message, the militants claim the two are still Muslim and they called upon the Vatican, which held a meeting earlier in October to discuss the fate of Christians in the Middle East, to release the women."We direct our speech to the Vatican and say that as you met with Christians of the Mideast a few days ago to support them and back them, now you have to pressure them to release our sisters, otherwise death will reach you all," the message said.Iraqi Christians, who have been frequent targets for Sunni insurgents, have left in droves since the 2003 U.S.-led war. Catholics used to represent 2.89 percent of the population in 1980; by 2008 they were just .89 percent.One Iraqi man who identified himself only as Abu Sami for security reasons, said his wife was inside the church during the attack. Although she was unharmed, he said he feared that the church siege signaled a new round of violence by militants against Iraq's Christian community."I expect the coming attacks will be worse in the future since the government is doing nothing to protect us. We are peaceful people and never harmed any of our fellow countrymen, so we do not understand the reasons behind such evil attacks," he said."Many Christians now believe that they do not have any hope in Iraq and the best thing to survive is to seek another country to live in," he said.</text>
+  <mention label="Baghdad" length="7" position="70"/>
+  <mention label="Islam" length="5" position="1478"/>
+  <mention label="Christians" length="10" position="2510"/>
+  <mention label="Baghdad" length="7" position="0"/>
+  <mention label="U.S." length="4" position="1225"/>
+  <mention label="Christians" length="10" position="2392"/>
+  <mention label="Egyptian" length="8" position="1818"/>
+  <mention label="Christians" length="10" position="1630"/>
+  <mention label="Iraqi" length="5" position="211"/>
+  <mention label="Vatican" length="7" position="2320"/>
+  <mention label="Baghdad" length="7" position="1104"/>
+  <mention label="Iraq" length="4" position="211"/>
+  <mention label="Iraqi" length="5" position="1624"/>
+  <mention label="Egypt" length="5" position="1818"/>
+  <mention label="Middle East" length="11" position="2410"/>
+  <mention label="Iraq" length="4" position="38"/>
+  <mention label="Iraqi" length="5" position="38"/>
+  <mention label="al-Qaida" length="8" position="1579"/>
+  <mention label="Christians" length="10" position="686"/>
+  <mention label="Mideast" length="7" position="2528"/>
+  <mention label="Christian" length="9" position="686"/>
+  <mention label="Muslim" length="6" position="1645"/>
+  <mention label="Vatican" length="7" position="2473"/>
+  <mention label="Coptic Church" length="13" position="1955"/>
+  <mention label="Islam" length="5" position="1770"/>
+  <mention label="Sunni" length="5" position="2743"/>
+  <mention label="Iraq" length="4" position="502"/>
+  <mention label="Iraqi" length="5" position="502"/>
+  <mention label="Christians" length="10" position="2041"/>
+  <mention label="Catholics" length="9" position="2810"/>
+  <mention label="Muslim" length="6" position="2288"/>
+  <mention label="Catholic" length="8" position="639"/>
+  <mention label="Baghdad" length="7" position="624"/>
+  <mention label="Egypt" length="5" position="1661"/>
+  <mention label="Egypt" length="5" position="1721"/>
+</item>

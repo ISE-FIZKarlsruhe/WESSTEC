@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Hornby-Folds collaboration clicksBen Folds and Nick Hornby, "Lonely Avenue" (Nonesuch)"Belinda" is a ballad about a has-been singer on the nostalgia circuit who each night performs his one hit, a love song written about a woman he later lost and now misses, which makes reprising his golden oldie for sing-a-long crowds a bizarre form of public torture.Such is the richness of a three-verse plot when a novelist turns lyricist.Nick Hornby ("High Fidelity," "About a Boy") wrote the words for the 11 songs on "Lonely Avenue," and Ben Folds set them to music. The collaboration clicks: There's a depth to the lyrics rare in pop songs, and they inspire top-notch work from the ever-inventive Folds.Hornby finds fresh ways to approach his topics, such as on "Belinda," which is both funny and sad. He writes about divorce from the perspective of the couple's 9-year-old daughter on "Claire's Ninth," and shows sympathy for Bristol Palin's ex in "Levi Johnston's Blues." Hornby's lyrics are smart, profane, violent, poignant, hilarious and absolutely true.Folds pairs them with a wide range of sounds and plenty of catchy melodies. On "From Above" he sings about serendipity to a finger-snapping dance beat, while "Levi Johnston's Blues" is built on clattering percussion and superb arranger Paul Buckmaster's grinding strings. As for "Belinda," the coda rocks like the Ben Folds Five.CHECK THIS OUT: "Saskia Hamilton" deserves a Grammy for polysyllabic silliness. The rollicking tune sings the praises of the American poet: "She's got more assonance than she knows what to do with."</text>
+  <mention label="Paul Buckmaster" length="15" position="1295"/>
+  <mention label="Ben Folds" length="9" position="41"/>
+  <mention label="American" length="8" position="1513"/>
+  <mention label="Hornby" length="6" position="8"/>
+  <mention label="Levi Johnston" length="13" position="1218"/>
+  <mention label="Ben Folds" length="9" position="537"/>
+  <mention label="Bristol Palin" length="13" position="927"/>
+  <mention label="Saskia Hamilton" length="15" position="1405"/>
+  <mention label="Ben Folds" length="9" position="1373"/>
+  <mention label="Belinda" length="7" position="95"/>
+  <mention label="Nick Hornby" length="11" position="435"/>
+  <mention label="Hornby" length="6" position="60"/>
+  <mention label="Levi Johnston" length="13" position="950"/>
+  <mention label="Belinda" length="7" position="763"/>
+  <mention label="Nick Hornby" length="11" position="55"/>
+  <mention label="Nonesuch" length="8" position="85"/>
+</item>

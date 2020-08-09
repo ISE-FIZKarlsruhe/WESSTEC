@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Gitmo former ' child soldier '  sentenced to 8 yearsA judge sentenced a former teenage al-Qaida fighter Sunday to eight more years in custody, bound by a plea agreement that compelled him to ignore a military jury that said he should serve 40 years for war crimes that included the killing of an American soldier.Omar Khadr's sentencing brings to an end a case that attracted intense scrutiny and criticism because the Canadian prisoner was 15 when he was captured, badly wounded after a fierce firefight at an al-Qaida compound in Afghanistan in 2002.Khadr stared straight ahead and appeared relaxed as the judge read a sentence that calls for him to stay one more year in Guantanamo before he can ask the Canadian government to allow him to return to his homeland to serve the remainder of his sentence or seek early release on parole. He has been held eight years at Guantanamo but doesn't get credit for time served.The jury of military officers deliberated nearly nine hours over two days and had not been told that a sealed plea deal would mean that their decision would be largely symbolic.Military prosecutors, who had portrayed the now 24-year-old Khadr as a dangerous terrorist, had asked the seven-member jury for a sentence of 25 years -- and the accused could have received up to life in prison if convicted of even one of the five war crimes counts against him.Navy Capt. John F. Murphy, the chief military prosecutor, said the plea deal included a provision that Khadr cannot appeal, eliminating the possibility of a reversal or even more time being spent on a case that has been winding its way through the Guantanamo tribunals since 2004. He said the government considered Khadr's age and background as the child of a prominent al-Qaida figure in agreeing to the eight-year sentence."I hope it sends a message to any terrorists that if you are involved with serious offenses like this you face the potential of a very serious sentence," Murphy said.Khadr admitted planting 10 roadside bombs in Afghanistan as part of an al-Qaida explosive cell and throwing a grenade that mortally wounded an American special forces medic, Sgt. 1st Class Christopher Speer of Albuquerque, New Mexico. His lawyers and human rights groups said he was a "child soldier," who should have been sent home long ago for rehabilitation and they challenged the notion that a battlefield killing amounted to a war crime.Prosecutors said Khadr was a war criminal because he was not a legitimate soldier fighting in Afghanistan but a member of al-Qaida, which hides among civilians, doesn't represent a country or follow internationally accepted principles of warfare.His lawyers said they had no choice but to strike a plea deal given the potential for a long sentence."I think when you look at it we did quite well," said Marine Col. Jeffrey Colwell, the chief defense counsel.The jury began its deliberations after nearly a week of testimony that included a wrenching hour of testimony from Speer's widow about the loss of her husband and a 10-minute statement from Khadr, who apologized to the soldier's family in his most extensive public statements since his capture.Speer's widow, Tabitha, pumped her fist and cheered "yes!" when the jury announced its 40-year sentence. Then she burst into tears.Later, she said that she was relieved to have the case behind her. She called the jury's verdict "the right thing" but accepted the eight-year sentence."I miss my husband very, very much. There will never be anyone or anything that can replace or bring him back, but today this helps to close a huge chapter," Speer said, her voice breaking. "And this is going to help my children and I move forward."Human rights groups said they understood why the defense would accept a plea deal, but said the case would have presented an opportunity to challenge the government's notion of what constitutes a war crimes, the legality of the harsh interrogations that Khadr and many other prisoners experienced and the overall legitimacy of the Guantanamo tribunals."Having a fake sentence which is basically thrown out the window as soon as the jury leaves the room does not look like fair justice to the rest of the world," said Andrea Prasow, a a lawyer for Human Rights Watch who observed the trial.In Ottawa, Melissa Lantsman, a spokeswoman for Canada's foreign affairs minister, declined to speculate about when Khadr might return. She said a decision will be made only when he formally applies for a transfer, and he will be treated like any other Canadian.Prime Minister Stephen Harper's Conservative government has steadfastly refused to request the return of Khadr, the last Western detainee held at the prison. The reluctance owes partly to Canadians' ambivalence toward the Khadr family, which has been called "the first family of terrorism.""Omar Khadr pleaded guilty to murdering U.S. Army medic Christopher Speer," Lantsman said. "He pleaded guilty to attempted murder. He admitted he was a member of Al-Qaeda. He also publicly acknowledged that he planted roadside bombs and that he knew he was targeting civilians."</text>
+  <mention label="Khadr" length="5" position="1157"/>
+  <mention label="U.S. Army" length="9" position="4872"/>
+  <mention label="Khadr" length="5" position="1478"/>
+  <mention label="Stephen Harper" length="14" position="4557"/>
+  <mention label="New Mexico" length="10" position="2189"/>
+  <mention label="Christopher Speer" length="17" position="4888"/>
+  <mention label="Canadian" length="8" position="707"/>
+  <mention label="Albuquerque" length="11" position="2176"/>
+  <mention label="Afghanistan" length="11" position="2503"/>
+  <mention label="Afghanistan" length="11" position="2011"/>
+  <mention label="al-Qaida" length="8" position="1745"/>
+  <mention label="Navy" length="4" position="1375"/>
+  <mention label="Human Rights Watch" length="18" position="4239"/>
+  <mention label="Speer" length="5" position="3160"/>
+  <mention label="Guantanamo" length="10" position="1623"/>
+  <mention label="Afghanistan" length="11" position="532"/>
+  <mention label="Khadr" length="5" position="1690"/>
+  <mention label="al-Qaida" length="8" position="87"/>
+  <mention label="American" length="8" position="296"/>
+  <mention label="Tabitha" length="7" position="3175"/>
+  <mention label="Speer" length="5" position="2981"/>
+  <mention label="Khadr" length="5" position="4647"/>
+  <mention label="John F. Murphy" length="14" position="1386"/>
+  <mention label="Guantanamo" length="10" position="674"/>
+  <mention label="Khadr" length="5" position="4396"/>
+  <mention label="Khadr" length="5" position="1966"/>
+  <mention label="Canadian" length="8" position="419"/>
+  <mention label="Omar Khadr" length="10" position="4833"/>
+  <mention label="al-Qaida" length="8" position="2531"/>
+  <mention label="Guantanamo" length="10" position="870"/>
+  <mention label="Khadr" length="5" position="552"/>
+  <mention label="Canada" length="6" position="4328"/>
+  <mention label="Khadr" length="5" position="3946"/>
+  <mention label="Western" length="7" position="4663"/>
+  <mention label="Speer" length="5" position="2167"/>
+  <mention label="Canadians" length="9" position="4730"/>
+  <mention label="Omar Khadr" length="10" position="313"/>
+  <mention label="Murphy" length="6" position="1394"/>
+  <mention label="Khadr" length="5" position="3056"/>
+  <mention label="American" length="8" position="2109"/>
+  <mention label="al-Qaida" length="8" position="511"/>
+  <mention label="Christopher Speer" length="17" position="2155"/>
+  <mention label="Ottawa" length="6" position="4284"/>
+  <mention label="Khadr" length="5" position="318"/>
+  <mention label="Canadian" length="8" position="4533"/>
+  <mention label="al-Qaida" length="8" position="2037"/>
+  <mention label="Khadr" length="5" position="2426"/>
+</item>

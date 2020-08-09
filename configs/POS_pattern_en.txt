@@ -1,0 +1,21 @@
+NP1 = "(NN|NNP|NNS|NNPS)+";
+NP2 = NP1 + "(CD)*";
+DP1 = "(RB|RBR|RBS)*(JJ|JJS|JJR)+";
+DP2 = "(VBG|VBN)+";
+DP = "(" + DP1 + "|" + DP2 + ")";
+NP3 = DP + "*" + NP2;
+CP = "(IN)";
+NE1 = NP3 + CP + ".*(POS)*" + NP3;
+NE2 = NP3 + "(POS)*" + NP3;
+MP = "(" + NP3 + "|" + NE1 + "|" + NE2 + ")";
+MP="("+NP3+"|"+NE2+")";
+
+#rule2 = "(JJ|JJS)+" + NP1;
+#rule3 = NP1 + "of.*" + NP1;
+#rule4 = NP1 + "POS" + NP1;
+#finalRule = "(" + NP1 + "|" + rule2 + "|" + rule3 + "|" + rule4 + ")";
+
+#POSNOUNTAGS = ".*(NN|NR|NNP|NNPS|NNS)$";
+#POSNOUNTAGS=namedEntityRegex;
+#POSNOUNTAGS=finalRule;
+POSNOUNTAGS = MP;

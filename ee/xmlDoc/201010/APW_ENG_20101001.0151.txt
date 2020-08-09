@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Travel ban could cost Filipinos their Afghan jobsThe Philippine government, which bans citizens from traveling to or working in Afghanistan, said Friday it would review the security situation in the war-torn country after Filipino workers already there pleaded with the government to lift the restriction.Although the travel ban is likely to remain in place to prevent more people from going to Afghanistan, the review raises the possibility that thousands of Filipinos already there will be allowed to stay. Manila offered such a hybrid solution for Filipinos in Iraq.An estimated 2,500 to 4,000 Filipinos work in Afghanistan despite their government's 2005 ban, most of them employed in military bases by U.S. contractors, according to the Philippine Department of Foreign Affairs. A Filipino workers' group there says they number as many as 5,000.U.S. military authorities in Afghanistan last month ordered contractors there to send home any workers who are in violation of their home country's rules.The Department of Foreign Affairs has now recommended that President Benigno Aquino III convene a high-level committee to assess the security situation in Afghanistan and the implications of the U.S. Central Command order on Filipinos already in the country.Filipino workers in Afghanistan have pleaded with Aquino to lift the deployment ban, saying they stand to lose jobs they took fully aware of the risks involved.The workers said in a letter to Aquino earlier this week that their employers have stringent security arrangements for their staff and written assurance that such measures are in place should be enough.When the U.S. previously issued a similar order for contractors in Iraq, the Philippines allowed its nationals to remain in that country until their contracts ended but refused to let more people travel there.Nearly 10 percent of the Philippines' more than 90 million people work abroad, sending back billions of dollars that prop up the economy.</text>
+  <mention label="Afghanistan" length="11" position="395"/>
+  <mention label="Filipinos" length="9" position="1229"/>
+  <mention label="Filipinos" length="9" position="460"/>
+  <mention label="U.S." length="4" position="707"/>
+  <mention label="Afghanistan" length="11" position="1282"/>
+  <mention label="Philippines" length="11" position="1858"/>
+  <mention label="Afghanistan" length="11" position="128"/>
+  <mention label="Afghanistan" length="11" position="1159"/>
+  <mention label="Filipino" length="8" position="222"/>
+  <mention label="U.S." length="4" position="850"/>
+  <mention label="Filipinos" length="9" position="597"/>
+  <mention label="Filipino" length="8" position="22"/>
+  <mention label="Filipinos" length="9" position="22"/>
+  <mention label="Iraq" length="4" position="1691"/>
+  <mention label="Afghan" length="6" position="38"/>
+  <mention label="Benigno Aquino III" length="18" position="1073"/>
+  <mention label="Afghanistan" length="11" position="879"/>
+  <mention label="Aquino" length="6" position="1312"/>
+  <mention label="U.S." length="4" position="1199"/>
+  <mention label="Afghanistan" length="11" position="615"/>
+  <mention label="Filipinos" length="9" position="551"/>
+  <mention label="Philippines" length="11" position="1701"/>
+  <mention label="Iraq" length="4" position="564"/>
+  <mention label="Manila" length="6" position="509"/>
+  <mention label="U.S. Central Command" length="20" position="1199"/>
+  <mention label="Philippine" length="10" position="53"/>
+  <mention label="Aquino" length="6" position="1081"/>
+</item>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Broken Bells finds its unique voiceBrian Burton and James Mercer worked in secret for almost a year as they developed tunes for a group that would become the Broken Bells. That approach probably was for the best.When word got out that Burton, the eclectic producer whose credits include being one-half of Gnarls Barkley and this year's long-awaited "Dark Night of the Soul" with Sparklehorse, was working with the Shins' leader, plenty of expectations arose, most of them wrong."I think some people thought it would be a Shins record produced by Danger Mouse," said Mercer, referring to Burton's producer nickname."Or that I would be bringing beats," interjected Burton.Or that it would be another side project for Burton, known for his unique collaborations including The Good, the Bad &amp; the Queen that included the Gorillaz's Damon Albarn and the Clash's Paul Simonon.What emerged is an album with a sound they call a "sci-fi space-pop album" and a group they insist is more than a one-off partnership."We just want to make sure that people understand that this is a band and this is what we are focusing on," said Mercer, whose Shins have not released an album in three years."Sometimes we wish we were two guys nobody had ever heard of and this was our first band, because it would help us when people talk about it to not talk about everything else that we've done except for this album," Burton said.The duo put out their debut self-titled CD this year and recently launched the second leg of their American tour. The album has cemented their musical partnership and their friendship.The pair, though admirers of each other's work, were not exactly friends when they started working on the album at Burton's home. Instead, they were more interested in forging a new sound together."We wanted to make this beautiful, sad, kind of dark record because that's where we really crossed over in a lot of ways, but in a real psychedelic, catchy way," said Burton.The band went lo-fi, using older technology to achieve a gritty retro effect.They found that they meshed both sonically and emotionally."I'd fly down there and stay at Brian's house (in Los Angeles), in his guest room, and then we'd wake up and have breakfast and go into the studio and work all day," said the Portland, Oregon-based Mercer.They would spend all day talking, too: "I think those conversations about your life, your world view, end up informing the lyrics," Mercer said.Given the tone of the songs, moody and melancholy, and a bit depressing, those talks must have been pretty weighty. But the pair would not explain the meaning behind songs like "The Ghost Inside," "The Mall &amp; Misery" and "Sailing to Nowhere.""When you reveal too much about the song's meaning, you can end up disappointing some people who had their own sort of take on it," Mercer said.The songs represented the creative vision of both men, which was a unique experience for Mercer, who has carried the weight of song writing for the Shins."It's very different for me because we just share the writing responsibility, we work together," he said."Either one of us always had veto power over any note, any lyric," added Burton.It certainly is not as soulful as Gnarls Barkley's "Crazy," but it has more groove than anything from the Shins. The music is rock-tinged with trippy vibe, and veers from a driving pace to a downbeat, morose tone. The pair believes it is unlike any music they have done before, which was their goal: to create a sound unique to the Broken Bells."When we were done with the record, this is the record that we wanted to make," said Burton. "This is the most comfortable I've been with an album after I've finished with it."--------Online:</text>
+  <mention label="Mercer" length="6" position="2434"/>
+  <mention label="Gnarls Barkley" length="14" position="3205"/>
+  <mention label="Broken Bells" length="12" position="0"/>
+  <mention label="Burton" length="6" position="587"/>
+  <mention label="Burton" length="6" position="715"/>
+  <mention label="Burton" length="6" position="663"/>
+  <mention label="Broken Bells" length="12" position="158"/>
+  <mention label="Paul Simonon" length="12" position="857"/>
+  <mention label="Burton" length="6" position="3164"/>
+  <mention label="Mercer" length="6" position="1117"/>
+  <mention label="Burton" length="6" position="1954"/>
+  <mention label="Brian" length="5" position="35"/>
+  <mention label="Portland" length="8" position="2272"/>
+  <mention label="Los Angeles" length="11" position="2147"/>
+  <mention label="American" length="8" position="1505"/>
+  <mention label="Burton" length="6" position="235"/>
+  <mention label="Brian Burton" length="12" position="35"/>
+  <mention label="Burton" length="6" position="41"/>
+  <mention label="Burton" length="6" position="1705"/>
+  <mention label="Damon Albarn" length="12" position="828"/>
+  <mention label="Mercer" length="6" position="566"/>
+  <mention label="Mercer" length="6" position="2295"/>
+  <mention label="Burton" length="6" position="1394"/>
+  <mention label="Sparklehorse" length="12" position="379"/>
+  <mention label="James Mercer" length="12" position="52"/>
+  <mention label="Gorillaz" length="8" position="817"/>
+  <mention label="Mercer" length="6" position="58"/>
+  <mention label="Gnarls Barkley" length="14" position="305"/>
+</item>

@@ -1,0 +1,14 @@
+articleParents
+categoryParents
+childArticles
+childCategories
+label
+page
+pageLabel
+pageLinkIn
+pageLinkOut
+redirectSourcesByTarget
+redirectTargetsBySource
+sentenceSplits
+stats
+translations

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Favre hurts chin late in game; carted off fieldBrett Favre was carted off the field midway in the fourth quarter Sunday with a cut to his chin that required 10 stitches.Favre was hit by Patriots defensive tackle Myron Pryor while throwing. He stayed on the ground momentarily, then tried to get up while holding his face. But Favre then sank to the ground as Vikings trainers rushed onto the field, and they helped him to the sideline.The 41-year-old quarterback spent a few minutes on a training table at the Vikings' sideline as staffers held a towel to his chin. He sat up after trainers applied a compress, then was carted from the field as a few fans booed."My chin is numb right now," Favre said after Minnesota was beaten 28-18 and fell to 2-5. "I don't want to make a big deal out of it."Asked if he might have a concussion, Favre said, "I remember everything -- unfortunately. But I'll be fine."Nobody knows my body like me," Favre added when asked if he would be ready for next Sunday's game against Arizona. "There were plenty of times I should've been knocked out and wasn't. I should be ready to play next week."Vikings coach Brad Childress said Favre needed 10 stitches. He also praised Favre's durability."He's got pretty good recuperative skills," Childress said. "He's a tough guy."Favre, who did not appear bothered by two fractures in his left foot that initially jeopardized his availability Sunday, extended his NFL record consecutive starts streak to 292.Tarvaris Jackson replaced Favre and immediately threw a 1-yard touchdown pass to Naufahu Tahi. Jackson completed a 2-point conversion pass to Percy Harvin, bringing Minnesota within 21-18.Favre has both a stress fracture and an avulsion fracture in the foot. The avulsion fracture in the heel bone is where a fragment has been torn away by a tendon or ligament.He appeared to have no trouble with his foot, though. He injured his ankle and heel in last week's loss at Green Bay. But after a week of treatment and even some practice time Friday, he was in the starting lineup Sunday, a few days after Childress said he would consider starting Jackson if Favre was hobbled.Favre was fine for most of the game, but left with 7:31 remaining after the hard hit by Pryor left him wobbly.Favre, who did not appear bothered by two fractures in his left foot that initially jeopardized his availability Sunday, extended his NFL record consecutive starts streak to 292.Favre played well in the first half, but an interception in the third quarter catapulted the Patriots to victory.The interception wasn't Favre's fault -- Percy Harvin bobbled it directly into the arms of Patriots rookie Devin McCourty. Favre even gave chase, sort of, on the 37-yard runback, falling over two other players when McCourty was tackled. Favre slowly stood up and walked to the sideline, looking weary and every bit his age.Favre completed his first four passes for 40 yards and was 11 for 13 for 121 yards through the first half. But the second half was ugly for Minnesota -- just as much of the season has been for the Vikings and their aged QB, who had taken every snap this season.The website Deadspin reported weeks ago that Favre sent lewd photos and inappropriate text messages to a New York Jets game hostess in 2008 when Favre played for the team. The NFL is investigating and the woman, Jenn Sterger, has not yet spoken to league investigators, although her manager and her lawyer both have said she might do so soon.</text>
+  <mention label="Favre" length="5" position="2436"/>
+  <mention label="Favre" length="5" position="1159"/>
+  <mention label="Favre" length="5" position="1665"/>
+  <mention label="Favre" length="5" position="0"/>
+  <mention label="Favre" length="5" position="2573"/>
+  <mention label="Green Bay" length="9" position="1945"/>
+  <mention label="Percy Harvin" length="12" position="2590"/>
+  <mention label="Favre" length="5" position="1299"/>
+  <mention label="Naufahu Tahi" length="12" position="1558"/>
+  <mention label="NFL" length="3" position="1433"/>
+  <mention label="Jenn Sterger" length="12" position="3345"/>
+  <mention label="Favre" length="5" position="935"/>
+  <mention label="Jackson" length="7" position="1572"/>
+  <mention label="Brett Favre" length="11" position="47"/>
+  <mention label="New York Jets" length="13" position="3238"/>
+  <mention label="Favre" length="5" position="169"/>
+  <mention label="Favre" length="5" position="53"/>
+  <mention label="Favre" length="5" position="1201"/>
+  <mention label="Favre" length="5" position="691"/>
+  <mention label="Favre" length="5" position="2872"/>
+  <mention label="Deadspin" length="8" position="3145"/>
+  <mention label="Favre" length="5" position="326"/>
+  <mention label="Favre" length="5" position="833"/>
+  <mention label="Jackson" length="7" position="1486"/>
+  <mention label="Minnesota" length="9" position="708"/>
+  <mention label="Minnesota" length="9" position="3012"/>
+  <mention label="Tarvaris Jackson" length="16" position="1477"/>
+  <mention label="Favre" length="5" position="2130"/>
+  <mention label="Favre" length="5" position="2258"/>
+  <mention label="Favre" length="5" position="1503"/>
+  <mention label="NFL" length="3" position="2392"/>
+  <mention label="Pryor" length="5" position="218"/>
+  <mention label="Percy Harvin" length="12" position="1619"/>
+  <mention label="Myron Pryor" length="11" position="212"/>
+  <mention label="Vikings" length="7" position="359"/>
+  <mention label="Favre" length="5" position="2148"/>
+  <mention label="Vikings" length="7" position="1125"/>
+  <mention label="Minnesota" length="9" position="1642"/>
+  <mention label="Favre" length="5" position="2786"/>
+  <mention label="McCourty" length="8" position="2662"/>
+  <mention label="NFL" length="3" position="3309"/>
+  <mention label="Devin McCourty" length="14" position="2656"/>
+  <mention label="Favre" length="5" position="3178"/>
+  <mention label="Childress" length="9" position="1144"/>
+  <mention label="Favre" length="5" position="2672"/>
+  <mention label="Arizona" length="7" position="1010"/>
+  <mention label="Vikings" length="7" position="510"/>
+  <mention label="Childress" length="9" position="1264"/>
+  <mention label="Vikings" length="7" position="3069"/>
+  <mention label="Brad Childress" length="14" position="1139"/>
+</item>

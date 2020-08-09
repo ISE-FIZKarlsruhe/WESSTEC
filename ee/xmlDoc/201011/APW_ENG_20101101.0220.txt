@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>10 alleged Somali pirates to be tried in GermanyA German court says 10 suspected Somali pirates will go on trial this month on charges connected to the hijacking earlier this year of a German container ship.Hamburg state court spokesman Conrad Mueller-Horn said Monday the 10 will be tried Nov. 22 on charges of attacking maritime traffic and kidnapping.He says prosecutors were unable to determine the ages of three of the men, so the trial will take place in a youth court for all suspects.The men were captured aboard the MV Taipan in the Gulf of Aden on April 5 by a heavily armed boarding party of Dutch Marines. The 15 crew members had locked themselves into a secure area of the ship and were rescued unharmed.The suspected pirates were extradited from the Netherlands to Germany in June.</text>
+  <mention label="German" length="6" position="50"/>
+  <mention label="Netherlands" length="11" position="764"/>
+  <mention label="Somali" length="6" position="81"/>
+  <mention label="Hamburg" length="7" position="207"/>
+  <mention label="Germany" length="7" position="779"/>
+  <mention label="Somali" length="6" position="11"/>
+  <mention label="Germany" length="7" position="41"/>
+  <mention label="German" length="6" position="41"/>
+</item>

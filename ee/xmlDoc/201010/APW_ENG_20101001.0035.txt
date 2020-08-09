@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Correction: People-Kid Cudi storyIn a Sept. 28 story about a court hearing on drug charges against rapper Kid Cudi, The Associated Press, relying on information provided by Manhattan prosecutors, erroneously reported that Cudi pleaded guilty to misdemeanor possession of a controlled substance.The Manhattan district attorney's office said Thursday that a judge adjourned the case against Cudi and said the charge would be dismissed if Cudi stays out of trouble for six months and performs two days of community service.</text>
+  <mention label="Cudi" length="4" position="389"/>
+  <mention label="Cudi" length="4" position="23"/>
+  <mention label="Manhattan" length="9" position="298"/>
+  <mention label="Manhattan" length="9" position="173"/>
+  <mention label="Cudi" length="4" position="110"/>
+  <mention label="Cudi" length="4" position="222"/>
+  <mention label="Kid Cudi" length="8" position="19"/>
+</item>

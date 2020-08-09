@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>UN tones down Congo ' genocide '  reportThe United Nations has toned down a report detailing hundreds of gruesome attacks against civilians in Congo over a 10-year period but left intact the suggestion that Rwanda's army may have committed genocide there in the 1990s.Rwanda and its northern neighbor Uganda had protested a leaked draft of the report last month, threatening to pull their soldiers from U.N. peacekeeping missions unless changes were made to the published version.The final report, obtained Thursday by The Associated Press, shows that the U.N. Office of the High Commissioner for Human Rights rewrote sensitive sections of the 545-page document to couch them in less inflammatory language.For instance, an earlier reference to "damning elements" that could be used by a court to conclude that genocide took place has been changed to "inculpatory elements."Another section elaborates at length -- compared with the earlier draft -- on a number of "countervailing factors" that could be used to argue that such a crime didn't take place. A draft section that dismissed mitigating arguments was dropped entirely.Despite the changes, Rwandan Foreign Affairs Minister Louise Mushikiwabo said Thursday that the document was "flawed and dangerous from start to finish."Mushikiwabo claimed the report had been manipulated by "organizations and individuals" seeking to rewrite Rwanda's history.Rwandan President Paul Kagame, a U.S. ally, has long claimed the moral high ground for ending the 1994 genocide in his country, during which more than half a million people, mostly Tutsis but also some moderate Hutus, were killed. But the U.N. report casts doubt on Rwanda's claim that it was only pursuing those responsible for the Rwandan genocide when it sent troops across the border into eastern Congo in 1996.Mushikiwabo said the $3 million report, which details more than 600 incidents between 1993 and 2003 in which tens of thousands of people -- mostly women and children -- were killed, ignored the historical situation and relied overly on questionable sources.Ugandan officials also dismissed the report. A spokesman for Uganda's army, which was involved in several conflicts in the area of eastern Congo in the 1990s, on Thursday called the report "rubbish.""We have not taken it kindly," said Lt. Col. Felix Kulayigye. "They have not asked us about the allegations. They did not get our side of the story."Ugandan Foreign Affairs Minister Sam Kutesa warned in a letter to the U.N. human rights office that the report undermined efforts made by countries in the region toward regional peace and security."Such sinister tactics undermine Uganda's resolve to continue contributing to, and participating in, various regional and international peacekeeping operations," he said.If both countries make good on their threat to withdraw troops it could create a headache for the United Nations.Rwanda, a small country in East Africa, contributes thousands of soldiers to U.N. peacekeeping operations in Chad, Haiti, Liberia and mainly Sudan. Larger Uganda is a significant contributor to the African-led force in Somalia.A spokesman for the U.N. human rights office declined to comment ahead of the report's official release in Geneva on Friday.U.N. High Commissioner for Human Rights Navi Pillay had delayed publication for several weeks to give affected governments time to publish their comments alongside the final version.The report, which includes interviews with over 1,280 witnesses, concludes by suggesting ways in which Congo's government, together with the international community, could prosecute the perpetrators of crimes and assist survivors.Amnesty International described the report as "a very thorough investigation" and called for pressure by donor countries to make Congo prosecute alleged perpetrators."What we want now is for action to be taken," said Veronique Aubert, deputy director of the group's Africa Program. "The cycle of violence in the region will only stop if those responsible for these horrific crimes are held to account."------Associated Press reporters Godfrey Olukya in Kampala, Uganda, and Edmund Kagire in Kigali, Rwanda, contributed to this report.</text>
+  <mention label="Rwandan" length="7" position="1735"/>
+  <mention label="Rwanda" length="6" position="1668"/>
+  <mention label="Amnesty International" length="21" position="3665"/>
+  <mention label="Chad" length="4" position="3011"/>
+  <mention label="Paul Kagame" length="11" position="1420"/>
+  <mention label="United Nations" length="14" position="2887"/>
+  <mention label="Rwanda" length="6" position="207"/>
+  <mention label="U.N." length="4" position="3149"/>
+  <mention label="Rwanda" length="6" position="268"/>
+  <mention label="Congo" length="5" position="143"/>
+  <mention label="Congo" length="5" position="14"/>
+  <mention label="Haiti" length="5" position="3017"/>
+  <mention label="Congo" length="5" position="1803"/>
+  <mention label="Kampala" length="7" position="4118"/>
+  <mention label="Uganda" length="6" position="2135"/>
+  <mention label="The Associated Press" length="20" position="519"/>
+  <mention label="Navi Pillay" length="11" position="3293"/>
+  <mention label="Congo" length="5" position="3538"/>
+  <mention label="Congo" length="5" position="3794"/>
+  <mention label="Liberia" length="7" position="3024"/>
+  <mention label="U.N." length="4" position="403"/>
+  <mention label="Uganda" length="6" position="2652"/>
+  <mention label="Associated Press" length="16" position="523"/>
+  <mention label="Uganda" length="6" position="2074"/>
+  <mention label="Ugandan" length="7" position="2074"/>
+  <mention label="Sam Kutesa" length="10" position="2455"/>
+  <mention label="U.S." length="4" position="1435"/>
+  <mention label="Congo" length="5" position="2213"/>
+  <mention label="United Nations" length="14" position="44"/>
+  <mention label="Geneva" length="6" position="3236"/>
+  <mention label="Sudan" length="5" position="3043"/>
+  <mention label="U.N." length="4" position="2979"/>
+  <mention label="U.N." length="4" position="556"/>
+  <mention label="Tutsis" length="6" position="1583"/>
+  <mention label="Uganda" length="6" position="301"/>
+  <mention label="U.N." length="4" position="1641"/>
+  <mention label="Rwanda" length="6" position="1385"/>
+  <mention label="Uganda" length="6" position="2422"/>
+  <mention label="Ugandan" length="7" position="2422"/>
+  <mention label="Somalia" length="7" position="3121"/>
+  <mention label="U.N." length="4" position="2492"/>
+  <mention label="Kigali" length="6" position="4156"/>
+  <mention label="East Africa" length="11" position="2929"/>
+  <mention label="Rwandan" length="7" position="1147"/>
+  <mention label="Rwanda" length="6" position="1402"/>
+  <mention label="Rwandan" length="7" position="1402"/>
+  <mention label="Rwanda" length="6" position="1147"/>
+</item>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>UCI boss refuses to be drawn on Contador caseThe head of cycling's world governing body refused to comment Friday on the provisional suspension of three-time Tour de France champion Alberto Contador for a doping violation.Pat McQuaid, who attended the UCI Congress meeting in a downtown Melbourne hotel, told The Associated Press he was "completely limited" in what he could say, so "I'm saying nothing."Contador has been provisionally suspended after a World Anti-Doping Agency lab in Germany found a "very small concentration" of the banned substance clenbuterol in his urine sample taken on July 21 at the Tour.The Spanish rider said Thursday that contaminated meat must have caused the positive result and called the UCI's suspension of him "a true mistake."Both Contador's A and B samples tested positive, and the cyclist and a UCI statement released Thursday gave no indication of whether the Spanish rider will be stripped of his latest Tour title or be banned.The UCI statement said the case required further scientific investigation before any conclusion could be drawn.McQuaid said he had every confidence in the investigative process."It's an independent process," he said. "The UCI are working closely with WADA and we wait until we get to the process."Within hours of Contador's case becoming public, the UCI announced that two Spanish riders failed drug tests during the Spanish Vuelta in September -- runner-up Ezequiel Mosquera and David Garcia. The UCI said both tested positive for hydroxyethyl starch, which increases blood volume.McQuaid offered a "no comment" to all questions related to the implications of Contador's suspension, possible reason for the detected clenbuterol, or the timing of the release of details during the road world championships in Geelong, Australia.In its statement Thursday, the UCI said it would not make any further comment on Contador's case until the investigation process is complete "in order to protect the integrity of the process and in accordance with the World Anti-Doping Code."When asked whether the recent doping cases was a reflection of the effectiveness of the UCI anti-doping regime, McQuaid said only "the system works."Contador said he decided to go public because a German television station was aware of the case, but said it would have been better for cycling's image if it could have been handled internally. He called his suspension by the UCI "a true mistake."Contador beat Andy Schleck of Luxembourg by 39 seconds in winning his third Tour de France title in four years.The Spaniard said the allegedly contaminated beef was brought across the border from Spain to France by a Spanish cycling organizer, Jose Luis Lopez Cerron, during a Tour rest day and at the request of the team's chef.Clenbuterol has anabolic properties that build muscle while burning fat. It is commonly given to horses to treat breathing problems. In medicine, it is used to treat asthma. In similar ways to stimulant drugs such as amphetamine or ephedrine, it can increase the heart rate and body temperature.</text>
+  <mention label="Tour de France" length="14" position="2510"/>
+  <mention label="UCI" length="3" position="833"/>
+  <mention label="Ezequiel Mosquera" length="17" position="1426"/>
+  <mention label="Spain" length="5" position="2630"/>
+  <mention label="UCI" length="3" position="0"/>
+  <mention label="Contador" length="8" position="2187"/>
+  <mention label="Spanish" length="7" position="899"/>
+  <mention label="WADA" length="4" position="1219"/>
+  <mention label="World Anti-Doping Code" length="22" position="2014"/>
+  <mention label="McQuaid" length="7" position="1550"/>
+  <mention label="Contador" length="8" position="1281"/>
+  <mention label="UCI" length="3" position="2126"/>
+  <mention label="UCI" length="3" position="972"/>
+  <mention label="Tour de France" length="14" position="158"/>
+  <mention label="UCI" length="3" position="721"/>
+  <mention label="Pat McQuaid" length="11" position="222"/>
+  <mention label="Contador" length="8" position="1629"/>
+  <mention label="Melbourne" length="9" position="287"/>
+  <mention label="Tour" length="4" position="158"/>
+  <mention label="Andy Schleck" length="12" position="2448"/>
+  <mention label="Contador" length="8" position="404"/>
+  <mention label="Contador" length="8" position="1877"/>
+  <mention label="World Anti-Doping Agency" length="24" position="454"/>
+  <mention label="German" length="6" position="486"/>
+  <mention label="UCI" length="3" position="1827"/>
+  <mention label="France" length="6" position="166"/>
+  <mention label="The Associated Press" length="20" position="309"/>
+  <mention label="Germany" length="7" position="486"/>
+  <mention label="David Garcia" length="12" position="1448"/>
+  <mention label="McQuaid" length="7" position="226"/>
+  <mention label="UCI" length="3" position="1190"/>
+  <mention label="UCI" length="3" position="1318"/>
+  <mention label="Tour" length="4" position="609"/>
+  <mention label="Alberto Contador" length="16" position="182"/>
+  <mention label="Contador" length="8" position="32"/>
+  <mention label="Luxembourg" length="10" position="2464"/>
+  <mention label="Spanish" length="7" position="618"/>
+  <mention label="Spanish" length="7" position="1385"/>
+  <mention label="McQuaid" length="7" position="1079"/>
+  <mention label="Australia" length="9" position="1786"/>
+  <mention label="Tour" length="4" position="944"/>
+  <mention label="Geelong" length="7" position="1777"/>
+  <mention label="Contador" length="8" position="190"/>
+  <mention label="Contador" length="8" position="767"/>
+  <mention label="UCI" length="3" position="1466"/>
+  <mention label="Spanish" length="7" position="1341"/>
+  <mention label="Spaniard" length="8" position="2549"/>
+  <mention label="UCI" length="3" position="252"/>
+</item>

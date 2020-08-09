@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Tottenham interested in moving to Olympic StadiumPremier League club Tottenham says it has registered an interest in moving into the Olympic Stadium after the 2012 London Games.The 80,000-seat Olympic Stadium is designed to be reduced to 25,000 seats after the games, but those plans could be changed.Tottenham chairman Daniel Levy says "we were informed by the Olympic Park Legacy Company that if were we not to register an interest at this time, there would not be an opportunity at any future date."West Ham had previously expressed interest in moving into the stadium after the Olympics. Another potential investor is American sports and entertainment giant AEG, which revived the former Millennium Dome site near the Olympic Park into the successful O2 Arena.</text>
+  <mention label="Tottenham" length="9" position="301"/>
+  <mention label="Olympic Park" length="12" position="362"/>
+  <mention label="American" length="8" position="622"/>
+  <mention label="Tottenham" length="9" position="0"/>
+  <mention label="Olympic Stadium" length="15" position="133"/>
+  <mention label="Daniel Levy" length="11" position="320"/>
+  <mention label="Tottenham" length="9" position="69"/>
+  <mention label="Olympic Stadium" length="15" position="34"/>
+  <mention label="Olympics" length="8" position="582"/>
+  <mention label="Olympic Stadium" length="15" position="193"/>
+  <mention label="Olympic Park Legacy Company" length="27" position="362"/>
+  <mention label="AEG" length="3" position="662"/>
+  <mention label="Premier League" length="14" position="49"/>
+</item>

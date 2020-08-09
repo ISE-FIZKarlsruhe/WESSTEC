@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Seoul bans corporal punishment at schoolsEducation authorities in the South Korean capital on Monday banned corporal punishment at all schools in the city.Teachers in Seoul are now prohibited from all forms of corporal punishment, including ordering students to do push-ups, run, hold their arms straight above their heads and walk in a squatting position called a "ducks' walk," said Chung Young-chul, a supervisor at the Seoul Metropolitan Office of Education.There is no official data on how common corporal punishment is in South Korean schools, but its practice is believed to be widespread, although many parents and rights groups argue it is uncivilized."Some could say that corporal punishment may be temporarily effective but it cannot be a fundamental solution," Chung said. "Only a small number of students cause troubles and we aim to help them truly revise their behavior on their own, rather through a stopgap physical measure."Students who violate school regulations instead will be required to take special education classes or conduct in-school and community service, he said. Teachers who violate the policy will be subject to counseling, suspension from work and possible layoff depending on their behavior, he said.The ban only applies to schools in Seoul, but Chung said he hopes other South Korean cities will follow suit.</text>
+  <mention label="Chung" length="5" position="773"/>
+  <mention label="Seoul" length="5" position="167"/>
+  <mention label="Seoul" length="5" position="423"/>
+  <mention label="Chung" length="5" position="385"/>
+  <mention label="Seoul" length="5" position="0"/>
+  <mention label="South Korean" length="12" position="1307"/>
+  <mention label="South Korean" length="12" position="70"/>
+  <mention label="South Korean" length="12" position="528"/>
+</item>

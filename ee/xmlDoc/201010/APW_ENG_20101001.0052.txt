@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Rick Bass takes on history with `Nashville Chrome 'Maxine Brown had an immediate and intense reaction when she read "Nashville Chrome," Rick Bass' fictionalized account of country music pioneers The Browns."When I first got that damn book I screamed and cried and threw it across the room, threw it in the trash, wrote him a hot note," Brown said. "And then I retrieved it and said, `I've got to read this with an open mind, because it's got to be something here, he's such a great writer.' So I read it again and again and again and I realize that it is absolutely great. He painted a beautiful picture."What is more important, she said, is that Bass is illuminating a piece of country music that has been forgotten.The Browns helped lay the path for many of today's most popular stars -- Taylor Swift, Lady Antebellum, Carrie Underwood. The Browns were among the first huge crossover stars, country music acts that are so popular they break out of their own genre and invade the pop charts and popular culture.Maxine, her brother Jim Ed and sister Bonnie sold millions of records with hits such as "The Three Bells" and "The Old Lamplighter." Their popularity rivaled good friend Elvis Presley's for a time.Yet, they were caught between two worlds and two times, and the mark they made faded from America's cultural memory."Nobody knew where to put us," Brown said. "We were too country for pop and too pop for country. And I feel like The Browns built that bridge, that we had to cross that bridge from country over to the pop field. And I think we blazed the way for all these country artists today who have no clue of what it was like back in those days."Bass had never heard of The Browns when he began a whimsical journey that eventually landed him in Maxine Brown's living room in North Little Rock, Arkansas.The 52-year-old author, who splits his time between Missoula and the Yaak Valley in Montana, was reared on classic rock and became interested in country music only recently because of his daughters' love for Keith Urban.Bass, a finalist for the National Critics Circle Award for his last book, 2008's "Why I Came West," is primarily known as a writer of deeply thoughtful pieces on the environment and literary works of fiction. "Chrome," with a print run of 25,000 copies, is his third novel, following 2005's "The Diezmo." He has also authored several short story collections.He's won the O. Henry Award and Pushcart Prize and been a National Endowment for the Arts and Guggenheim Foundation fellow.Bass also works as a freelance journalist to support his writing habit. He came up with the Urban idea as a way to impress his girls and started on a quixotic chase of the country music star that netted nothing. He got some good advice from a friend who suggested he start writing other stories for country music magazines to build a bridge that might eventually lead to Urban.Along the way he met Norma Morris, a publicist who told him about The Browns and showed him Maxine's book, "Looking Back to See." He immediately fell in love with the story of The Browns, thinking, "This is amazing. This is radical."Then he visited with Brown. What she really wanted, she told him, was for someone to write a screenplay based on her book. She just knew a film would reinvigorate interest in The Browns."No, I can't write a movie," he told her. "I'm a literary novelist."What he could do, though, was tackle her story as a novel in a vivid, dramatic way and perhaps someone could base a movie on that.It sounded easy to Bass. The story of The Browns and the way fame touched each of the siblings in different ways was fascinating. Each was blessed with the gift of familial harmony so sweet and pure it awed even The Beatles. But that gift touched each in very different ways.The group stopped working together regularly in the late 1960s when circumstances pulled them apart. Jim Ed moved to Nashville, released dozens of albums over the decades and remains a Grand Ole Opry member. Bonnie left music life, content to live quietly with the doctor she ended her relationship with Presley to marry.Maxine's departure from the spotlight was not as welcome. After a divorce, she had three children to raise and was never able to rekindle her career, despite the passion she still has.Bass saw that all the great elements in that story could shape a powerful piece of fiction."That is the true core of great tragedies," Bass said in a recent interview. "Somebody is consumed in pursuit of their gift. We read in the paper so and so was killed in a tragedy. No, for it to be a classic tragedy you have to be consumed in pursuit of your gift. She was and has been and is being. I mean it's beautiful."There were some surprising challenges along the way for a story that seemed so clear-cut. Bass said he had trouble divining exactly what the story was. What defined it, made it more than a string of events tied together like a history?And then there was the prickly problem of writing a historical novel about figures who are still alive. Early drafts shown to Brown were met with resistance."He kept sending me these things that he was working on," Brown said, "and I kept saying, 'Rick, that's not true. Read my book. Page so and so and so and so.'"Bass admits to the voice in the back of his head telling him more than once to be careful. But he also had a duty to the reader."I knew what I was writing was a novel, and I could do anything and say anything," Bass said. "But not only that, I would need to be vigilant and called upon to look for openings to enhance, make hyperbolic, downplay, tweak, manipulate, alter in the way vocalists and musicians send sound out."Brown did not like that sound at first, but eventually found the harmony in the tune. The 79-year-old says Jim Ed remains puzzled by the whole thing, while Bonnie loves it."We have laughed about this," Maxine said. "Me and my sister have just absolutely laughed our heads off."------Online:http://www.hmhbooks.com/nashvillechrome</text>
+  <mention label="Bass" length="4" position="5"/>
+  <mention label="Browns" length="6" position="199"/>
+  <mention label="Rick Bass" length="9" position="136"/>
+  <mention label="Brown" length="5" position="199"/>
+  <mention label="Bass" length="4" position="647"/>
+  <mention label="Rick" length="4" position="0"/>
+  <mention label="Missoula" length="8" position="1869"/>
+  <mention label="The Browns" length="10" position="717"/>
+  <mention label="Bass" length="4" position="141"/>
+  <mention label="Brown" length="5" position="1356"/>
+  <mention label="Rick Bass" length="9" position="0"/>
+  <mention label="The Browns" length="10" position="195"/>
+  <mention label="National Endowment for the Arts" length="31" position="2453"/>
+  <mention label="Grand Ole Opry" length="14" position="3972"/>
+  <mention label="Bonnie" length="6" position="5835"/>
+  <mention label="The Browns" length="10" position="839"/>
+  <mention label="Brown" length="5" position="843"/>
+  <mention label="Bass" length="4" position="3531"/>
+  <mention label="Bass" length="4" position="2518"/>
+  <mention label="Elvis Presley" length="13" position="1182"/>
+  <mention label="Maxine Brown" length="12" position="1759"/>
+  <mention label="Brown" length="5" position="721"/>
+  <mention label="America" length="7" position="1299"/>
+  <mention label="Brown" length="5" position="336"/>
+  <mention label="Browns" length="6" position="721"/>
+  <mention label="Arkansas" length="8" position="1808"/>
+  <mention label="Maxine" length="6" position="1759"/>
+  <mention label="Taylor Swift" length="12" position="790"/>
+  <mention label="Bonnie" length="6" position="1050"/>
+  <mention label="Bonnie" length="6" position="3995"/>
+  <mention label="Keith Urban" length="11" position="2025"/>
+  <mention label="Carrie Underwood" length="16" position="821"/>
+  <mention label="O. Henry Award" length="14" position="2408"/>
+  <mention label="Nashville" length="9" position="33"/>
+  <mention label="Montana" length="7" position="1901"/>
+  <mention label="Urban" length="5" position="2031"/>
+  <mention label="Guggenheim Foundation" length="21" position="2489"/>
+  <mention label="North Little Rock" length="17" position="1789"/>
+  <mention label="Maxine" length="6" position="2987"/>
+  <mention label="Bass" length="4" position="2037"/>
+  <mention label="Maxine" length="6" position="1012"/>
+  <mention label="Maxine" length="6" position="51"/>
+  <mention label="Bass" length="4" position="1660"/>
+  <mention label="Brown" length="5" position="58"/>
+  <mention label="Maxine Brown" length="12" position="51"/>
+</item>

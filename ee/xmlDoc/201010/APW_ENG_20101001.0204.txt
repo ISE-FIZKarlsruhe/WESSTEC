@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Evans reserves opinion on ContadorRoad race world champion Cadel Evans of Australia says he wants to learn more about Alberto Contador's doping case before commenting on the situation.Contador, who beat Evans by 23 seconds to win his first Tour de France title in 2007, has been provisionally suspended after a World Anti-Doping Agency lab in Germany found a trace of the banned substance clenbuterol in his urine sample taken on July 21 at the Tour. The Spanish rider is blaming contaminated meat for the result.Evans, speaking at the world road championships in Geelong, said he didn't really know what the situation is regarding Contador's suspension. "I just read some little things in the paper."</text>
+  <mention label="Spanish" length="7" position="455"/>
+  <mention label="Australia" length="9" position="74"/>
+  <mention label="Evans" length="5" position="65"/>
+  <mention label="Evans" length="5" position="0"/>
+  <mention label="Alberto Contador" length="16" position="118"/>
+  <mention label="Evans" length="5" position="203"/>
+  <mention label="World Anti-Doping Agency" length="24" position="311"/>
+  <mention label="Cadel Evans" length="11" position="59"/>
+  <mention label="Germany" length="7" position="343"/>
+  <mention label="Contador" length="8" position="184"/>
+  <mention label="Contador" length="8" position="26"/>
+  <mention label="Geelong" length="7" position="564"/>
+  <mention label="Tour" length="4" position="240"/>
+  <mention label="Contador" length="8" position="126"/>
+  <mention label="Tour de France" length="14" position="240"/>
+</item>

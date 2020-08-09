@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Official: Germans, Brits behind Europe terror plotEight Germans and two British brothers are at the heart of an al-Qaida-linked terror plot against European cities, but the plan is still in its early stages, with the suspects calling acquaintances in Europe to plan logistics, a Pakistani intelligence official said Thursday. One of the Britons died in a recent CIA missile strike, he said.The revelations underscore the role of Pakistan as a haven for many would-be Islamist militants with foreign ties, a worrying prospect for Western countries who face additional challenges when tracking terror suspects among citizens who have passports and easier access to their shores.Pakistan, Britain and Germany are tracking the suspects and intercepting their phone calls, the official told The Associated Press on condition of anonymity because he was not authorized to release the information to the media.The official is part of an intelligence team that has been tracking the two British brothers of Pakistani origin for nearly a year and the Germans for more than six months.He said the suspects are hiding in North Waziristan, a Pakistani tribal region where militancy is rife and where the U.S. has focused many of its drone-fired missile strikes."They have been making calls to Germany and London," the official said. "They have been talking about and looking for facilitators and logistics they need there to carry out terror strikes."Western security officials said Wednesday that a terror plot to wage Mumbai-style shooting sprees or other attacks in Britain, France and Germany was still active. Both European and U.S. officials said the plot was still in its early stages and not considered serious enough to raise the terror threat level.Still, the Eiffel Tower in Paris was briefly evacuated Tuesday -- the second time in two weeks because of an unspecified threat -- and there was a heavy police presence around Buckingham Palace, Trafalgar Square and Big Ben. Police on Thursday evacuated a street near Britain's Parliament in London after reports of a suspicious vehicle but said they did not regard the incident as serious.Although he characterized the plot as immature, the Pakistani official warned against underestimating the suspects, whom he said have backing from al-Qaida, the Pakistani Taliban and the Afghan Taliban, all groups that are separate yet interconnected."It does not mean that they are not capable of materializing their designs," the official said. "They are very much working on it."The U.S. has dramatically stepped up its missile attacks in North Waziristan, and is believed to have launched at least 21 this month. The official said a Sept. 8 strike killed one of the Britons, whom he identified as Abdul Jabbar, originally from Pakistan's Jhelum district. Jabbar was believed to be younger than 30.In Brussels on Thursday, Europol director Robert Wainwright said a drop in terror attacks in Europe -- coupled with intelligence that had thwarted major plots in the past -- masked an ongoing threat."There has been a significant decline in the number of terrorist attacks in Europe -- certainly committed by Islamist groups -- that hides the reality that these groups are still active," Wainwright told AP.Asked about the suspected plot, Pakistan's Foreign Ministry spokesman, Abdul Basit, said the government was unaware of any such plans."Let me reiterate that Pakistan is committed not to allow its territory for terrorist actions anywhere in the world," he said.A German intelligence official, speaking on condition of anonymity because he was not authorized to speak with the media, said Germany regularly tracks suspected radicals leaving the country to go to train in Pakistan or Afghanistan, but cannot do anything to prevent them from leaving the country.When they return, however, German laws enacted since the Sept. 11, 2001, attacks in the U.S. now let authorities charge people for training in such camps.In August, for example, a 25-year-old German citizen identified only as Rami M. was extradited from Pakistan and charged with membership in a terrorist organization. According to prosecutors at the time, he left Germany in March 2009 to join a terrorist training camp in Pakistan, where he learned how to handle "weapons and explosives," prosecutors said when he was charged.He then joined the Islamic Movement of Uzbekistan's fighting in the region, the prosecutors said. The group is suspected of terror attacks mostly targeting Pakistani security forces or NATO's international troops in Afghanistan, prosecutors said.Germany's Federal Criminal Police Office would not comment on the report of eight Germans being involved. But a spokeswoman, speaking on the condition of anonymity because of departmental policy, said there are indications that some 220 people have traveled from Germany to Pakistan and Afghanistan for paramilitary training, and "concrete evidence" that 70 of those had done so.She said it is believed that about a third of those 70 have returned to Germany. The Pakistani intelligence official said there are believed to be around 60 Germans in North Waziristan now.French authorities, meanwhile, have received indications from allied intelligence services about the possibility of attacks, but no plot outright, a high-ranking French security official said on condition of anonymity because of the sensitivity of the issue.A recent spate of anonymous, phoned-in bomb threats in Paris -- including on the Eiffel Tower -- didn't appear to have the "signature" of al-Qaida, the official said, noting the terror network hasn't typically tipped off authorities to attacks in advance.The ability of homegrown militants to cross borders and commit acts of terror has long confounded law enforcement officials. The secretary-general of Interpol, Ronald K. Noble, told the AP that one of the biggest challenges law enforcement and terror officials encounter was that passport details of millions of passengers each year were not being checked against Interpol databases.Last year, out of the nearly 1 billion passengers that traveled through airports, only 400 million had their passport details checked against national and Interpol databases, he said.------Dodds reported from Brussels. Associated Press writers David Rising in Berlin and Jamey Keaten in Paris contributed to this report.</text>
+  <mention label="North Waziristan" length="16" position="2579"/>
+  <mention label="Pakistani" length="9" position="2189"/>
+  <mention label="Pakistan" length="8" position="2189"/>
+  <mention label="Afghanistan" length="11" position="3725"/>
+  <mention label="Trafalgar Square" length="16" position="1942"/>
+  <mention label="The Associated Press" length="20" position="786"/>
+  <mention label="Germany" length="7" position="1281"/>
+  <mention label="Afghanistan" length="11" position="4864"/>
+  <mention label="London" length="6" position="1293"/>
+  <mention label="German" length="6" position="10"/>
+  <mention label="Germans" length="7" position="10"/>
+  <mention label="Interpol" length="8" position="6022"/>
+  <mention label="Pakistani" length="9" position="4487"/>
+  <mention label="Brussels" length="8" position="2841"/>
+  <mention label="Europe" length="6" position="148"/>
+  <mention label="Britain" length="7" position="1557"/>
+  <mention label="Britons" length="7" position="2707"/>
+  <mention label="North Waziristan" length="16" position="5124"/>
+  <mention label="Germans" length="7" position="1042"/>
+  <mention label="France" length="6" position="1566"/>
+  <mention label="Afghan Taliban" length="14" position="2324"/>
+  <mention label="Berlin" length="6" position="6301"/>
+  <mention label="European" length="8" position="148"/>
+  <mention label="Pakistani" length="9" position="279"/>
+  <mention label="Pakistan" length="8" position="279"/>
+  <mention label="French" length="6" position="5145"/>
+  <mention label="NATO" length="4" position="4516"/>
+  <mention label="Germany" length="7" position="5028"/>
+  <mention label="Pakistan" length="8" position="429"/>
+  <mention label="Europe" length="6" position="32"/>
+  <mention label="Europol" length="7" position="2863"/>
+  <mention label="Germany" length="7" position="3631"/>
+  <mention label="Britain" length="7" position="686"/>
+  <mention label="Pakistan" length="8" position="676"/>
+  <mention label="U.S." length="4" position="1192"/>
+  <mention label="Big Ben" length="7" position="1963"/>
+  <mention label="Germany" length="7" position="1577"/>
+  <mention label="Germans" length="7" position="4659"/>
+  <mention label="Ronald K. Noble" length="15" position="5818"/>
+  <mention label="U.S." length="4" position="3890"/>
+  <mention label="Interpol" length="8" position="5808"/>
+  <mention label="German" length="6" position="698"/>
+  <mention label="Interpol" length="8" position="6196"/>
+  <mention label="French" length="6" position="5307"/>
+  <mention label="Germany" length="7" position="698"/>
+  <mention label="Paris" length="5" position="6328"/>
+  <mention label="Jabbar" length="6" position="2744"/>
+  <mention label="German" length="6" position="56"/>
+  <mention label="Abdul Jabbar" length="12" position="2738"/>
+  <mention label="Germans" length="7" position="56"/>
+  <mention label="European" length="8" position="1608"/>
+  <mention label="Islamist" length="8" position="3146"/>
+  <mention label="Pakistan" length="8" position="3276"/>
+  <mention label="North Waziristan" length="16" position="1110"/>
+  <mention label="Foreign Ministry" length="16" position="3287"/>
+  <mention label="Afghanistan" length="11" position="4547"/>
+  <mention label="Wainwright" length="10" position="2887"/>
+  <mention label="Europe" length="6" position="1608"/>
+  <mention label="British" length="7" position="72"/>
+  <mention label="Germany" length="7" position="4168"/>
+  <mention label="U.S." length="4" position="1621"/>
+  <mention label="Robert Wainwright" length="17" position="2880"/>
+  <mention label="Dodds" length="5" position="6230"/>
+  <mention label="British" length="7" position="979"/>
+  <mention label="Britons" length="7" position="337"/>
+  <mention label="Paris" length="5" position="5458"/>
+  <mention label="Pakistan" length="8" position="2768"/>
+  <mention label="Britain" length="7" position="2015"/>
+  <mention label="Islamist" length="8" position="467"/>
+  <mention label="Jhelum" length="6" position="2779"/>
+  <mention label="U.S." length="4" position="2523"/>
+  <mention label="Islamic Movement of Uzbekistan" length="30" position="4350"/>
+  <mention label="Pakistan" length="8" position="1130"/>
+  <mention label="Brussels" length="8" position="6250"/>
+  <mention label="Pakistani" length="9" position="1130"/>
+  <mention label="Parliament" length="10" position="2025"/>
+  <mention label="al-Qaida" length="8" position="2284"/>
+  <mention label="Germany" length="7" position="4577"/>
+  <mention label="CIA" length="3" position="362"/>
+  <mention label="Paris" length="5" position="1774"/>
+  <mention label="Pakistani" length="9" position="999"/>
+  <mention label="Pakistan" length="8" position="999"/>
+  <mention label="Germany" length="7" position="4840"/>
+  <mention label="London" length="6" position="2039"/>
+  <mention label="Pakistan" length="8" position="2298"/>
+  <mention label="Pakistani" length="9" position="2298"/>
+  <mention label="Federal Criminal Police Office" length="30" position="4587"/>
+  <mention label="Abdul Basit" length="11" position="3315"/>
+  <mention label="al-Qaida" length="8" position="112"/>
+  <mention label="Europe" length="6" position="251"/>
+  <mention label="Germans" length="7" position="5113"/>
+</item>

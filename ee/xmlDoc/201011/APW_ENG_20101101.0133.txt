@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Real Madrid looking to make it into last 16Real Madrid will qualify for the knockout stage of the Champions League if it can maintain its supreme form and complete a Group G double over AC Milan in the standout match of the tournament this week.Madrid and Milan, who have won Europe's biggest prize 16 times between them, met two weeks ago when early goals by Cristiano Ronaldo and Mesut Oezil earned the Spanish club a 2-0 win.The result kept up Madrid's perfect record in the competition, lifting it onto nine points. A victory at the San Siro on Wednesday will guarantee Jose Mourinho's side a top-two group finish and allow it to relax in its final two matches."Our objective is to secure the top place in the group as quickly as possible," Madrid defender Ricardo Carvalho said. "At the Bernabeu stadium, we were better than they were and now they will want to show that they can beat us."Madrid beat Hercules 3-1 on the weekend to preserve its unbeaten start to the season in all competitions and leave it top of the Primera Liga, a point clear of Barcelona.Milan, which is level on four points with four-time European champion Ajax, lost 2-1 at home to Juventus in Serie A on Saturday but is likely to have Brazil pair Ronaldinho and Thiago Silva back from injury against Madrid.The match will see Mourinho return to Italy for the first time as a coach since leading Inter Milan to the Champions League title in May.Ajax is away at Auxerre in the group's other match.Inter took control of Group A with a 4-3 victory over Tottenham two weeks ago and will also qualify for the last 16 by winning the return match at White Hart Lane.Inter coach Rafael Benitez is awaiting fitness updates on two of his key players -- midfielder Esteban Cambiasso and goalkeeper Julio Cesar -- after both came off during Friday's 1-0 win over Genoa with strained hamstrings.Benitez, who could partner fit-again striker Diego Milito with Samuel Eto'o up front, will know all about Spurs from his six years in England in charge of Liverpool and will be wary of Tottenham winger Gareth Bale, who scored a fabulous second-half hat trick in vain at the San Siro in matchday three.Aside from Madrid, four other teams head into this week looking to defend perfect records in their groups.English champion Chelsea, which stayed five points clear at the top of the Premier League after grinding out a gritty 2-1 win over Blackburn on Saturday, will aim to make it four wins from four when it hosts Spartak Moscow in Group F.Fellow English side Arsenal has a maximum nine points ahead if its match at Shakhtar Donetsk in Group H, while Bayern Munich and Lyon, who play Cluj and Benfica respectively, also have 100 percent records after three games.Group D leader Barcelona, which has won the European Cup three times, will put one foot in the last 16 if it completes the double over FC Copenhagen, which lost 2-0 at the Camp Nou a fortnight ago after two goals by Lionel Messi.Barca's 5-0 win over Sevilla made it six wins from seven in the Primera Liga."We are playing at a very high level, like we have for the past few years," said Barcelona midfielder Xavi.Defender Gabriel Milito may be available for the Spanish champions after recovering from injury, but goalkeeper Jose Pinto is suspended.Elsewhere, Manchester United manager Alex Ferguson believes a victory over Bursaspor on Tuesday will see his team through to the knockout stage. United is leading Group C on seven points, two more then Rangers, while Bursaspor has lost all three of its matches so far."The way I have to look at it is if we win the match it will put us on 10 points, and that would be us qualified," said Ferguson, who is without Wayne Rooney, Michael Owen and Ryan Giggs against the Turkish champions.Valencia will leapfrog Rangers into second place if it beats the Scottish champions at the Mestalla.</text>
+  <mention label="Juventus" length="8" position="1160"/>
+  <mention label="Shakhtar Donetsk" length="16" position="2577"/>
+  <mention label="Madrid" length="6" position="5"/>
+  <mention label="Gareth Bale" length="11" position="2062"/>
+  <mention label="Real Madrid" length="11" position="0"/>
+  <mention label="Ajax" length="4" position="1423"/>
+  <mention label="Barca" length="5" position="2953"/>
+  <mention label="Ryan Giggs" length="10" position="3717"/>
+  <mention label="Samuel Eto'o" length="12" position="1923"/>
+  <mention label="Bernabeu" length="8" position="792"/>
+  <mention label="San Siro" length="8" position="537"/>
+  <mention label="Spanish" length="7" position="405"/>
+  <mention label="Europe" length="6" position="276"/>
+  <mention label="Rangers" length="7" position="3475"/>
+  <mention label="Barcelona" length="9" position="1054"/>
+  <mention label="Auxerre" length="7" position="1439"/>
+  <mention label="Sevilla" length="7" position="2974"/>
+  <mention label="Turkish" length="7" position="3740"/>
+  <mention label="Genoa" length="5" position="1829"/>
+  <mention label="Real Madrid" length="11" position="43"/>
+  <mention label="Spartak Moscow" length="14" position="2475"/>
+  <mention label="FC Copenhagen" length="13" position="2859"/>
+  <mention label="Valencia" length="8" position="3758"/>
+  <mention label="Premier League" length="14" position="2342"/>
+  <mention label="Italy" length="5" position="1324"/>
+  <mention label="Spurs" length="5" position="1966"/>
+  <mention label="Barcelona" length="9" position="3111"/>
+  <mention label="Jose Mourinho" length="13" position="574"/>
+  <mention label="Madrid" length="6" position="48"/>
+  <mention label="Brazil" length="6" position="1214"/>
+  <mention label="Milan" length="5" position="189"/>
+  <mention label="Xavi" length="4" position="3132"/>
+  <mention label="Madrid" length="6" position="447"/>
+  <mention label="Bayern Munich" length="13" position="2612"/>
+  <mention label="Barcelona" length="9" position="2739"/>
+  <mention label="Ronaldinho" length="10" position="1226"/>
+  <mention label="Lyon" length="4" position="2630"/>
+  <mention label="Gabriel Milito" length="14" position="3146"/>
+  <mention label="Primera Liga" length="12" position="3017"/>
+  <mention label="Manchester United" length="17" position="3284"/>
+  <mention label="Mourinho" length="8" position="579"/>
+  <mention label="English" length="7" position="2508"/>
+  <mention label="England" length="7" position="1994"/>
+  <mention label="Cluj" length="4" position="2645"/>
+  <mention label="European" length="8" position="1116"/>
+  <mention label="Esteban Cambiasso" length="17" position="1732"/>
+  <mention label="Inter Milan" length="11" position="1374"/>
+  <mention label="Thiago Silva" length="12" position="1241"/>
+  <mention label="Liverpool" length="9" position="2015"/>
+  <mention label="Blackburn" length="9" position="2398"/>
+  <mention label="Camp Nou" length="8" position="2896"/>
+  <mention label="Benfica" length="7" position="2654"/>
+  <mention label="White Hart Lane" length="15" position="1621"/>
+  <mention label="Inter" length="5" position="1374"/>
+  <mention label="European Cup" length="12" position="2768"/>
+  <mention label="English" length="7" position="2267"/>
+  <mention label="San Siro" length="8" position="2134"/>
+  <mention label="Arsenal" length="7" position="2521"/>
+  <mention label="Alex Ferguson" length="13" position="3310"/>
+  <mention label="Scottish" length="8" position="3823"/>
+  <mention label="Ricardo Carvalho" length="16" position="761"/>
+  <mention label="Wayne Rooney" length="12" position="3686"/>
+  <mention label="Ajax" length="4" position="1134"/>
+  <mention label="Chelsea" length="7" position="2284"/>
+  <mention label="Julio Cesar" length="11" position="1765"/>
+  <mention label="Madrid" length="6" position="745"/>
+  <mention label="Lionel Messi" length="12" position="2940"/>
+  <mention label="Tottenham" length="9" position="1528"/>
+  <mention label="Champions League" length="16" position="98"/>
+  <mention label="Primera Liga" length="12" position="1023"/>
+  <mention label="Madrid" length="6" position="245"/>
+  <mention label="Tottenham" length="9" position="2045"/>
+  <mention label="Mesut Oezil" length="11" position="382"/>
+  <mention label="Spanish" length="7" position="3186"/>
+  <mention label="Madrid" length="6" position="894"/>
+  <mention label="Michael Owen" length="12" position="3700"/>
+  <mention label="Cristiano Ronaldo" length="17" position="360"/>
+  <mention label="Ferguson" length="8" position="3315"/>
+  <mention label="Diego Milito" length="12" position="1905"/>
+  <mention label="Rafael Benitez" length="14" position="1649"/>
+  <mention label="Benitez" length="7" position="1656"/>
+</item>

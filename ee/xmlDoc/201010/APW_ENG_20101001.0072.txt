@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Review: Ronson hosts eclectic crew on third albumMark Ronson &amp; The Business Intl, "Record Collection" (RCA Music Group)Mark Ronson &amp; The Business Intl's "Record Collection" is a thumping party, but its the album's eclectic guest list -- including singers, songwriters and musicians -- that's worth tweeting about.There's a very raspy Boy George on the steel drum-tinged "Somebody to Love Me," and Wu-Tang Clan rapper Ghostface Killah joins Ronson when the Grammy Award-winning producer makes his vocal debut on the love-jaded "Lose It (In The End)."And while it sounds like neo-soul pioneer D'Angelo is singing from inside a fish aquarium on the sonically warped "Glass Mountain Trust," the crooner's cameo is a surprise after nearly a decade without releasing an album.First single "Bang Bang Bang," featuring Q-Tip and MNDR, is fun and upbeat -- representing a shift from the horn-backed, retro soul sound that Ronson achieved with Amy Winehouse, or the melancholy mood he created with Daniel Merriweather.The b-boy-influenced "The Bike Song," and "You Gave Me Nothing" -- which includes vocals from former Pipette Rose Elinor Dougall -- reveal Ronson's latest penchant for synthesizers and keyboards."Record Collection" is a bold shift from Ronson's two previous studio albums, but he flourishes in the new territory.CHECK OUT THIS TRACK: Mark Ronson layers African guitar rhythms with a U.K.-dance feel to create something fresh on "Hey Boy," featuring rap newcomer Theophilus London and Dougall.</text>
+  <mention label="D'Angelo" length="8" position="591"/>
+  <mention label="Amy Winehouse" length="13" position="934"/>
+  <mention label="Dougall" length="7" position="1129"/>
+  <mention label="Ronson" length="6" position="8"/>
+  <mention label="Daniel Merriweather" length="19" position="988"/>
+  <mention label="Ronson" length="6" position="54"/>
+  <mention label="Ghostface Killah" length="16" position="417"/>
+  <mention label="African" length="7" position="1361"/>
+  <mention label="Ronson" length="6" position="913"/>
+  <mention label="Ronson" length="6" position="124"/>
+  <mention label="Mark Ronson" length="11" position="49"/>
+  <mention label="Mark Ronson" length="11" position="119"/>
+  <mention label="Ronson" length="6" position="440"/>
+</item>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Euro steady at $1.3642 after better US dataThe euro is steady against the dollar after an upbeat round of U.S. economic data nudged it off five-month highs.The 16-nation euro bought $1.3642 in Friday morning European trading, barely changed from $1.3643 in New York late Thursday.The currency has hit a string of five-month highs this week -- most recently, $1.3683 on Thursday -- despite Europe's ongoing debt crisis.The dollar has suffered from expectations that the Federal Reserve may take further action to boost the U.S. economy, effectively lowering interest rates.However, positive news Thursday on U.S. jobs and manufacturing helped the dollar.The British pound edged up Friday to $1.5725 from $1.5716. The dollar bought 83.42 yen, compared with 83.40 yen late Thursday.</text>
+  <mention label="British" length="7" position="657"/>
+  <mention label="Europe" length="6" position="208"/>
+  <mention label="US" length="2" position="36"/>
+  <mention label="European" length="8" position="208"/>
+  <mention label="New York" length="8" position="257"/>
+  <mention label="Federal Reserve" length="15" position="469"/>
+  <mention label="U.S." length="4" position="607"/>
+  <mention label="U.S." length="4" position="106"/>
+  <mention label="U.S." length="4" position="522"/>
+</item>

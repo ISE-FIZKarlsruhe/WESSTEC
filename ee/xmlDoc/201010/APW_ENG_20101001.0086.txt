@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>5 most savory vampire moviesThese are dangerous woods to venture into, for sure.Choosing the five best vampire movies is sure to stir the ire of the multitude of fans of the genre, people who are proprietary about this romantic, fearsome figure. But with the opening this week of "Let Me In," it's as good a time as any to sink our teeth into the topic. (Sorry, the puns are just too easy.)These are five I like best, in no particular order. You will notice that none of them includes the word "Twilight" in the title:-- "Let the Right One In" (2008): We may as well begin with the Swedish thriller that inspired "Let Me In," a film that was rightly hailed for its inventiveness, scares and soul. A lonely, bullied boy befriends the mysterious, barefoot girl who's just moved into his shabby Stockholm apartment complex -- only she warns him they can't be friends, and she's not really a girl anyway. She's been 12 "for a long time," as she puts it. Director Tomas Alfredson offers plenty of startling scenes, but the real allure comes from the suspense that builds in the stillness, and the sweetness that arises from these two misfit characters forging a relationship they both desperately need, even though they know it can't last.-- "Nosferatu" (1922): As far as classics go, it's hard to choose between this and the Bela Lugosi "Dracula" from 1931. Lugosi is, of course, synonymous with the character. But Max Schreck frightens me more. Maybe it's the flickering, black-and-white cinematography, the off-kilter shadows and camera angles, all hallmarks of German expressionism. Maybe it's because F.W. Murnau's film is silent, allowing room for our imagination to run wild. But all these decades later, the vision of the lanky Schreck rising from a coffin or walking through a doorway with that haunting look in his eyes is still creepy as hell. This version is such an enduring part of the culture, it inspired the next choice ...-- "Shadow of the Vampire" (2000): Barely anyone saw this movie, which is a shame because it was wonderfully clever, funny and disturbing. The premise from director E. Elias Merhige and writer Steven Katz was that, in making "Nosferatu," Murnau knowingly hired a real vampire as the star to make its frightening moments more realistic. As the driven director, John Malkovich provided an incisive exploration of the lengths to which a filmmaker will go in the name of art, and as Schreck, Willem Dafoe delivered an Oscar-nominated supporting performance full of impishness and intensity. It also earned an Academy Award nomination for its makeup.-- "The Lost Boys" (1987): Robert Pattinson was an infant when this came out, nowhere close to playing the swoony, sparkly Edward of the "Twilight" series. But back then, Joel Schumacher's film defined the vampire as teenage rebel. And this is very much a Schumacher film, for better and for worse: It's got the hot young cast of Jason Patric, Kiefer Sutherland, Jami Gertz and not one but two Coreys, Haim and Feldman. But it's also extremely dated in retrospect, with the big hair and the soundtrack including songs from INXS and Echo and the Bunnymen. If you grew up in the '80s, though, this was an exciting, sexy little movie.-- "Love at First Bite (1979): A disco-riffic spoof of the seductive side of Dracula. George Hamilton has never been as pasty or as funny as he was here, playing the deadly serious and hopelessly romantic count. Forced out of his Transylvania castle, he moves to New York City to pursue the model (Susan Saint James) he adores from afar. Arte Johnson is a hoot as his sniveling sidekick, Renfield. If you've never seen this movie -- or even if you have -- please go to YouTube right now and look up the scene where Hamilton and Saint James boogie to Alicia Bridges' "I Love the Nightlife." This one's dated, too, but it deserves eternal life.------Think of any other examples? Share them with AP Movie Critic Christy Lemire through Twitter: http://twitter.com/christylemire.</text>
+  <mention label="Schreck" length="7" position="1415"/>
+  <mention label="Murnau" length="6" position="1606"/>
+  <mention label="Swedish" length="7" position="582"/>
+  <mention label="Schreck" length="7" position="1731"/>
+  <mention label="Renfield" length="8" position="3599"/>
+  <mention label="Max Schreck" length="11" position="1411"/>
+  <mention label="Edward" length="6" position="2703"/>
+  <mention label="F.W. Murnau" length="11" position="1601"/>
+  <mention label="Schumacher" length="10" position="2756"/>
+  <mention label="Arte Johnson" length="12" position="3549"/>
+  <mention label="Stockholm" length="9" position="792"/>
+  <mention label="Jason Patric" length="12" position="2910"/>
+  <mention label="INXS" length="4" position="3103"/>
+  <mention label="Steven Katz" length="11" position="2128"/>
+  <mention label="German" length="6" position="1560"/>
+  <mention label="Christy Lemire" length="14" position="3920"/>
+  <mention label="New York City" length="13" position="3474"/>
+  <mention label="Hamilton" length="8" position="3304"/>
+  <mention label="Academy Award" length="13" position="2540"/>
+  <mention label="Bela Lugosi" length="11" position="1321"/>
+  <mention label="Haim" length="4" position="2982"/>
+  <mention label="E. Elias Merhige" length="16" position="2100"/>
+  <mention label="YouTube" length="7" position="3680"/>
+  <mention label="Feldman" length="7" position="2991"/>
+  <mention label="Lugosi" length="6" position="1326"/>
+  <mention label="George Hamilton" length="15" position="3297"/>
+  <mention label="Joel Schumacher" length="15" position="2751"/>
+  <mention label="Tomas Alfredson" length="15" position="959"/>
+  <mention label="Jami Gertz" length="10" position="2943"/>
+  <mention label="John Malkovich" length="14" position="2295"/>
+  <mention label="Willem Dafoe" length="12" position="2423"/>
+  <mention label="Kiefer Sutherland" length="17" position="2924"/>
+  <mention label="Transylvania" length="12" position="3441"/>
+  <mention label="Robert Pattinson" length="16" position="2607"/>
+  <mention label="Alicia Bridges" length="14" position="3761"/>
+</item>

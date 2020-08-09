@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Taliban briefly overrun east Afghanistan districtThe Taliban briefly overran a district in eastern Afghanistan, torching government buildings and capturing police officers after an intense gunfight, officials said Monday.The government was back in control of Ghazni province's Khogyani district a few hours later, said Interior Ministry spokesman Zemeri Bashary, who did not have any information on casualties.Local police chief Mohammad Yasin, who wasn't there during the attacks, said government buildings were capture and set on fire.All the police guarding the district headquarters were either killed or captured, Taliban spokesman Zabiullah Mujahid said, and their weapons and vehicles were confiscated.He put out a press release later saying the Taliban had left the district after damaging the headquarters.The government was back in control of the district a few hours after the Taliban took control, confirmed Interior Ministry, saying three rooms in the government headquarters had been burned and a vehicle damaged.A NATO spokesman said he did not have any details of the incident.In recent months, Ghazni has become one of the most unstable provinces in Afghanistan. Insecurity around the country shot up after NATO and Afghan troops began pushing into the Taliban heartland of the south in July.Parliamentary elections held in September did not take place in most of Ghazni because of the insurgent threat.Afghanistan has more than 350 districts. Around 10 are under direct Taliban control but they have a presence in many more.</text>
+  <mention label="NATO" length="4" position="1029"/>
+  <mention label="Afghanistan" length="11" position="1167"/>
+  <mention label="Ghazni" length="6" position="259"/>
+  <mention label="Taliban" length="7" position="0"/>
+  <mention label="Afghanistan" length="11" position="1420"/>
+  <mention label="Afghanistan" length="11" position="99"/>
+  <mention label="Interior Ministry" length="17" position="920"/>
+  <mention label="Taliban" length="7" position="619"/>
+  <mention label="Zabiullah Mujahid" length="17" position="637"/>
+  <mention label="Ghazni province" length="15" position="259"/>
+  <mention label="NATO" length="4" position="1224"/>
+  <mention label="Interior Ministry" length="17" position="319"/>
+  <mention label="Ghazni" length="6" position="1111"/>
+  <mention label="Taliban" length="7" position="53"/>
+  <mention label="Taliban" length="7" position="753"/>
+  <mention label="Afghanistan" length="11" position="29"/>
+  <mention label="Afghan" length="6" position="29"/>
+  <mention label="Khogyani" length="8" position="277"/>
+  <mention label="Taliban" length="7" position="888"/>
+</item>

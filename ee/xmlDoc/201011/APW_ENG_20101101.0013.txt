@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Analysis: Turbulent times and change electionsChange. Change. Change.A demand for change propelled Democrats to power in Congress in 2006, and then put Barack Obama in the White House two years later. Either the change wasn't what a restive public wanted or it didn't come fast enough. Now voters are looking toward a Republican change."2008 wasn't the end goal. It was to keep building a movement for change," Obama said near the finish of a turbulent campaign, pleading for a surly electorate to give his Democrats more time to put in place their version of change in Tuesday's election.He's counting on voters still seeing Democrats as change agents even though they are in power -- and liking the type of change he and his party have delivered in his first two years.Huge assumptions.Yes, Obama and his Democrats stabilized the economy. But their solution was to pump huge sums of money into it as people fretted about all the government borrowing and federal debt burden stacked on their children and grandchildren. The unemployment rate rose; it's stuck near 10 percent. Foreclosures and bankruptcies continued.Yes, they passed a health care overhaul to remake a patchwork and costly system. But the public was divided over it and cringed at how the White House and Democrats pushed it through Congress. Deals with special interests. Virtually no Republican support. Why now? asked people crying out for jobs and losing their homes.Yes, they reined in Wall Street with new rules for big financial institutions whose instability is blamed for the recession. But Main Street still feels left out, ignoring tax cuts they got under Obama and focusing on bailouts that went to banks, an insurance company and automakers. People questioned whether government was getting too intrusive.Bipartisanship and compromise? A different approach to governing? A more civil Washington? Not so much.Says Obama: "Delivering change isn't easy."Certainly, Republicans who opposed Obama and his Democrats at every turn bear some responsibility. But Democrats are the party in power and, therefore, likely to carry more of the blame come Tuesday."There was a misunderstanding of the kind of change people wanted," says Howard Dean, the former Democratic Party chairman and ex-governor of Vermont. "Democrats wanted policy change. Independents and Republicans wanted to change the way business was done in Washington, and that really hasn't happened."This is still a city of red-hot polarization, gridlock the norm, with partisan rancor from the Capitol to the White House. Neither party is giving the country what it wants; people dislike Democrats roughly as much as they do Republicans. Congress' popularity is stuck at basement levels.Perhaps most illuminating, trust in government is near a record low."People think the system is broken, and no one's addressing it," says former Missouri Sen. Jim Talent, who says the viewpoint spans Republican rule, too. "The voters feel that there are big obvious things that the government should be dealing with but that it's not dealing with, that the politicians aren't dealing with and should be. And they're right."Not to be discounted is just how much the country's angst is being fueled by the remnants of the recession.Beneath the economic woes, the explanation for a restlessness that spans at least four years may be more complex: Could this be a nation in transformation, struggling to figure out what it wants and who, if anyone, can deliver?History shows that may be the case.A president's party usually loses House and Senate seats in the first midterm election. Enormous losses caused a Capitol Hill power shift three times in the past three decades -- 1982 under Ronald Reagan, 1994 under Bill Clinton and 2006 under George W. Bush.Republicans could gain the 40 seats they need for House control, following Democratic gains of 55 seats over 2006 and 2008.If the Republicans succeed, it would mark only the fourth time in nearly a century that either the Democrats or Republicans won 20 or more House seats in three straight cycles. The other periods of political volatility came in the 1920s after World War I, during the Great Depression of the 1930s, and over the course of World War II.The U.S. has been at war nearly a decade and recovering from the recession. It's becoming far more diverse. Seemingly everything about how people live has changed in just a few years."It's about fear," said Michael Ford, the founding director of Xavier University's Institute for Politics and the American Dream. "When you ask people about the American Dream, they all worry about whether it's lost for their children. What they've lost confidence in is every institution that's supposed to safeguard that, the government, church, business, even sports.""It's not going to come back simply by changing a couple of players on the chess board," he added. "The election is a quick fix. It's psychological, it's not real."--------EDITOR'S NOTE -- Liz Sidoti has covered national politics for The Associated Press since 2003.</text>
+  <mention label="Washington" length="10" position="1864"/>
+  <mention label="Republican" length="10" position="1353"/>
+  <mention label="Jim Talent" length="10" position="2881"/>
+  <mention label="The Associated Press" length="20" position="5018"/>
+  <mention label="U.S." length="4" position="4234"/>
+  <mention label="Howard Dean" length="11" position="2203"/>
+  <mention label="Republicans" length="11" position="2331"/>
+  <mention label="Barack Obama" length="12" position="152"/>
+  <mention label="Michael Ford" length="12" position="4437"/>
+  <mention label="Obama" length="5" position="159"/>
+  <mention label="Congress" length="8" position="1300"/>
+  <mention label="Obama" length="5" position="793"/>
+  <mention label="Republican" length="10" position="1942"/>
+  <mention label="Republicans" length="11" position="1942"/>
+  <mention label="Obama" length="5" position="411"/>
+  <mention label="Bill Clinton" length="12" position="3730"/>
+  <mention label="Washington" length="10" position="2389"/>
+  <mention label="Obama" length="5" position="1893"/>
+  <mention label="Senate" length="6" position="3558"/>
+  <mention label="George W. Bush" length="14" position="3758"/>
+  <mention label="American Dream" length="14" position="4527"/>
+  <mention label="Democratic Party" length="16" position="2227"/>
+  <mention label="Democrats" length="9" position="2282"/>
+  <mention label="Vermont" length="7" position="2272"/>
+  <mention label="Obama" length="5" position="1634"/>
+  <mention label="White House" length="11" position="172"/>
+  <mention label="Democrats" length="9" position="99"/>
+  <mention label="House" length="5" position="1262"/>
+  <mention label="Democrats" length="9" position="807"/>
+  <mention label="Republicans" length="11" position="2660"/>
+  <mention label="Congress" length="8" position="121"/>
+  <mention label="Democrats" length="9" position="1272"/>
+  <mention label="Democrats" length="9" position="507"/>
+  <mention label="Republican" length="10" position="318"/>
+  <mention label="Republicans" length="11" position="3903"/>
+  <mention label="Ronald Reagan" length="13" position="3704"/>
+  <mention label="Democrats" length="9" position="1980"/>
+  <mention label="World War II" length="12" position="4217"/>
+  <mention label="Democrats" length="9" position="2623"/>
+  <mention label="Republicans" length="11" position="3773"/>
+  <mention label="House" length="5" position="178"/>
+  <mention label="Congress" length="8" position="2673"/>
+  <mention label="Democratic" length="10" position="2227"/>
+  <mention label="Democrats" length="9" position="626"/>
+  <mention label="Democrats" length="9" position="2034"/>
+  <mention label="Missouri" length="8" position="2867"/>
+</item>

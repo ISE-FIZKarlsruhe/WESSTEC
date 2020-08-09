@@ -1,0 +1,415 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>Annotation Web Service</display-name>
+
+	<context-param>
+		<param-name>dataset</param-name>
+		<param-value>aida</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>alpha</param-name>
+		<param-value>0.15</param-value>
+	</context-param>
+
+	<!-- /home/data/users/lzh/configs/ -->
+	<!-- /Users/leizhang/Data/Wikipedia/configs/ -->
+	<!-- /local/users/lzh/configs/ -->
+	<context-param>
+		<param-name>configPath</param-name>
+		<param-value>/local/users/lzh/configs/</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>inputLanguage</param-name>
+		<param-value>en</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>outputLanguage</param-name>
+		<param-value>en</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>KB</param-name>
+		<param-value>wikipedia</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>NLPModel</param-name>
+		<param-value>NGRAM</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>disambiguationModel</param-name>
+		<param-value>pagerank</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>mentionMode</param-name>
+		<param-value>non_overlapped</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>responseMode</param-name>
+		<param-value>best</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>repeatMode</param-name>
+		<param-value>all</param-value>
+	</context-param>
+	
+	<filter>
+		<filter-name>CharsetFilter</filter-name>
+		<filter-class>edu.kit.aifb.gwifi.servlet.CharsetFilter</filter-class>
+		<init-param>
+			<param-name>requestEncoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>CharsetFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<!-- A2W services -->
+	<!-- NER -->
+	<servlet>
+		<servlet-name>gerbil_ner_pagerank_annotation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.annotation.NLP_NER_Pagerank_AnnotationServlet</servlet-class>
+	</servlet>
+	
+	<!-- NGram -->
+	<servlet>
+		<servlet-name>gerbil_ngram_pagerank_annotation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.annotation.NLP_NGram_Pagerank_AnnotationServlet</servlet-class>
+	</servlet>
+	
+	<!-- POS -->
+	<servlet>
+		<servlet-name>gerbil_pos_pagerank_annotation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.annotation.NLP_POS_Pagerank_AnnotationServlet</servlet-class>
+	</servlet>
+	
+
+	<!-- D2W Servlet -->
+	<!-- NER -->
+	<servlet>
+		<servlet-name>gerbil_ner_eigenvector_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_Eigenvector_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_ner_hitshub_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_Hitshub_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ner_hitshub_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_HitshubNP_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ner_ksmarkov_10_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_KSMarkov_10_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ner_pagerank_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_Pagerank_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_ner_pagerank_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_PagerankNP_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_ner_prior_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NER_Prior_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	
+	<!-- NGram -->
+	<servlet>
+		<servlet-name>gerbil_ngram_eigenvector_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_Eigenvector_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ngram_hitshub_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_Hitshub_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ngram_hitshub_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_HitshubNP_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ngram_ksmarkov_10_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_KSMarkov_10_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_ngram_pagerank_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_Pagerank_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_ngram_pagerank_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_PagerankNP_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_ngram_prior_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NGram_Prior_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<!-- POS -->
+	<servlet>
+		<servlet-name>gerbil_pos_eigenvector_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_Eigenvector_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_pos_hitshub_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_Hitshub_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_pos_hitshub_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_HitshubNP_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_pos_ksmarkov_10_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_KSMarkov_10_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_pos_pagerank_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_Pagerank_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_pos_pagerank_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_PagerankNP_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_pos_prior_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_POS_Prior_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	
+	<!-- NoContext -->
+	<servlet>
+		<servlet-name>gerbil_nc_eigenvector_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_Eigenvector_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_nc_hitshub_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_Hitshub_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_nc_hitshub_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_HitshubNP_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_nc_ksmarkov_10_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_KSMarkov_10_DisambiguationServlet</servlet-class>
+	</servlet>
+
+	<servlet>
+		<servlet-name>gerbil_nc_pagerank_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_Pagerank_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_nc_pagerank_np_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_PagerankNP_DisambiguationServlet</servlet-class>
+	</servlet>
+	
+	<servlet>
+		<servlet-name>gerbil_nc_prior_disambiguation</servlet-name>
+		<servlet-class>edu.kit.aifb.gwifi.evaluation.gerbil.disambiguation.NLP_NoContext_Prior_DisambiguationServlet</servlet-class>
+	</servlet>
+
+
+	<!-- A2W Mappings  -->
+	<!-- NER -->
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_pagerank_annotation</servlet-name>
+		<url-pattern>/gerbil_ner_pagerank_annotation</url-pattern>
+	</servlet-mapping>
+
+	<!-- NGram -->
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_pagerank_annotation</servlet-name>
+		<url-pattern>/gerbil_ngram_pagerank_annotation</url-pattern>
+	</servlet-mapping>
+	
+	<!-- POS -->
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_pagerank_annotation</servlet-name>
+		<url-pattern>/gerbil_pos_pagerank_annotation</url-pattern>
+	</servlet-mapping>
+	
+	
+	<!-- D2W Mappings  -->
+	<!-- NER -->
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_eigenvector_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_eigenvector_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_hitshub_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_hitshub_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_hitshub_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_hitshub_np_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_ksmarkov_10_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_ksmarkov_10_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_pagerank_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_pagerank_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_pagerank_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_pagerank_np_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_ner_prior_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ner_prior_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	
+	<!-- NGram -->
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_eigenvector_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_eigenvector_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_hitshub_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_hitshub_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_hitshub_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_hitshub_np_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_ksmarkov_10_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_ksmarkov_10_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_pagerank_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_pagerank_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_pagerank_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_pagerank_np_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_ngram_prior_disambiguation</servlet-name>
+		<url-pattern>/gerbil_ngram_prior_disambiguation</url-pattern>
+	</servlet-mapping>	
+
+	<!-- POS -->
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_eigenvector_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_eigenvector_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_hitshub_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_hitshub_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_hitshub_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_hitshub_np_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_ksmarkov_10_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_ksmarkov_10_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_pagerank_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_pagerank_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_pagerank_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_pagerank_np_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_pos_prior_disambiguation</servlet-name>
+		<url-pattern>/gerbil_pos_prior_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	
+	<!-- NoContext -->
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_eigenvector_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_eigenvector_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_hitshub_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_hitshub_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_hitshub_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_hitshub_np_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_ksmarkov_10_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_ksmarkov_10_disambiguation</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_pagerank_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_pagerank_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_pagerank_np_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_pagerank_np_disambiguation</url-pattern>
+	</servlet-mapping>
+	
+	<servlet-mapping>
+		<servlet-name>gerbil_nc_prior_disambiguation</servlet-name>
+		<url-pattern>/gerbil_nc_prior_disambiguation</url-pattern>
+	</servlet-mapping>
+
+</web-app>

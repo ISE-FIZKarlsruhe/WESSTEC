@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Brian Wilson lets the music do the talkingBrian Wilson remembers the first time he heard George Gershwin's music."I was 2 years old, and my grandmother played it for me," Wilson said in a recent interview. "I remember how much I loved it. I couldn't think. When you're 2 years old, you can't think, but it really blew my mind."Sixty-six years later, the music legend is paying tribute to the legacy of Gershwin with his recently released album, "Brian Wilson Reimagines Gershwin."According to Wilson, the concept began when Disney approached him with the idea of doing an album of Gershwin material, and he said: "Why not?"Wilson described the project's evolution."We started with 25 Gershwin songs, narrowed it down to 12. There were 104 unfinished Gershwin piano pieces; we narrowed that down to just two. And we made two songs out of it," Wilson said.Throughout the project, Wilson had a solitary goal: "I was recording songs that I think George would like if he was still around."And along the way, he learned something."Gershwin could not only write 'Rhapsody in Blue,' but he could actually write actual songs," he said, before singing the titles from "They Can't Take That Away From Me" and "Someone to Watch Over Me."Both songs seem to resonate with Wilson's struggles.Wilson is considered a musical genius. The Beach Boys founder, chief songwriter and falsetto vocalist helped invent the California surf sound in the early 1960s and the iconic feel good tunes that continue to stick in our head.He took the sound further with the experimental tones of "Good Vibrations," and impressed Beatles producer George Martin so much, Martin later said it was instrumental in creating the iconic "Sgt. Peppers Lonely Hearts Club Band."But Wilson has endured plenty of turmoil in his life. He has battled drug abuse and a bipolar disorder, and the effects of both are still clear today. He spoke in short, quick sentences during the interview, rarely elaborating, and needed prompting and guidance from his handlers at times.Rumors have circulated that the Beach Boys will reunite for a 50th-anniversary tour in 2011. But when asked, Wilson simply replied: "No plans to do that now."--------Online:</text>
+  <mention label="Wilson" length="6" position="6"/>
+  <mention label="Wilson" length="6" position="452"/>
+  <mention label="Brian Wilson" length="12" position="42"/>
+  <mention label="George Martin" length="13" position="1611"/>
+  <mention label="Gershwin" length="8" position="96"/>
+  <mention label="Wilson" length="6" position="878"/>
+  <mention label="Wilson" length="6" position="623"/>
+  <mention label="Disney" length="6" position="524"/>
+  <mention label="Wilson" length="6" position="493"/>
+  <mention label="Brian Wilson" length="12" position="0"/>
+  <mention label="Wilson" length="6" position="842"/>
+  <mention label="Wilson" length="6" position="1258"/>
+  <mention label="Gershwin" length="8" position="581"/>
+  <mention label="Wilson" length="6" position="171"/>
+  <mention label="Martin" length="6" position="1618"/>
+  <mention label="Wilson" length="6" position="48"/>
+  <mention label="George Gershwin" length="15" position="89"/>
+  <mention label="Gershwin" length="8" position="402"/>
+  <mention label="Gershwin" length="8" position="470"/>
+  <mention label="Brian Wilson Reimagines Gershwin" length="32" position="446"/>
+  <mention label="George" length="6" position="89"/>
+  <mention label="California" length="10" position="1397"/>
+</item>

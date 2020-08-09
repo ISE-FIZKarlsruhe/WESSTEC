@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Sources: Emanuel leaving White House on FridayOne of President Barack Obama's top advisers, Rahm Emanuel, is expected to resign as White House chief of staff Friday to begin his campaign for Chicago mayor within days, and his departure will be an unquestioned loss for the president.Obama has counted on Emanuel's intensity, discipline and congressional relationships to keep the White House focused and aggressive. As the president prepared for what his spokesman called a "personal announcement" Friday, word circulated that he likely would tap another top staffer as Emanuel's interim replacement -- Pete Rouse.Rouse, 64, was Obama's chief of staff when he served in the U.S. Senate.And while Rouse doesn't have Emanuel's larger-than-life personality -- or taste for colorful invective and aggressive political combat -- he's seen as a highly knowledgeable insider who quietly gets things done.Unlike Emanuel, Rouse rarely talks to the media.Emanuel's plans have been the source of widespread speculation ever since Chicago's Mayor Richard Daley announced last month he would not seek re-election. In an April television interview, the 50-year-old Emanuel had called it "no secret" he'd like to run for mayor.Other top officials also have announced their departures in recent weeks, including budget director Peter R. Orszag, who left in late July, and economist Lawrence Summers, who will leave his post as director of the National Economic Council at the end of the year.Such turnover isn't unusual two years into a presidential term, but it comes as Obama's Democratic Party is facing serious challenges in the November congressional elections. Widespread losses by the party in the House and Senate could force Obama to make more changes in his staff.Emanuel's plan to resign was disclosed by two people, who spoke on condition of anonymity because they did not want to pre-empt the formal announcement.Obama spokesman Robert Gibbs said Thursday in Washington that the president will make a personnel announcement Friday.Gibbs said that the president has "complete loyalty and trust" in Rouse -- but he wouldn't confirm that Rouse had been tapped for the interim appointment.The president is likely to choose a permanent chief of staff after the Nov. 2 congressional elections.Rouse has gained the respect and trust of key lawmakers during three decades on Capitol Hill, where he sometimes was referred to as the 101st Senator during years serving as chief of staff to former Senate Democratic Leader Tom Daschle.Now, although Rouse is one of the least-visible members of Obama's senior staff, he's seen as a steady hand who can guide the White House through an unsettled period with difficult midterm elections looming and other staff changes on the horizon."Pete has been with senator-elect, senator, president-elect and now President Obama. There is a complete loyalty and trust with somebody like Pete," Gibbs said.Rouse, who is unmarried, was raised on the East Coast, graduated from Colby College and later got degrees from the London School of Economics and Harvard's Kennedy School of Government. He's known for his fondness for cats.With Daley's unexpected announcement that he would not run for the mayor's post again, Emanuel suddenly was faced with the choice whether he would make a dash for the political job he has openly coveted, at a cost of quitting his post of national influence sooner than he thought.When Emanuel ultimately announces his candidacy, he instantly becomes the most recognizable name in what is already a crowded field of candidates and possible candidates.With well over $1 million already in his war chest and his well documented ability to raise huge amounts of money for political candidates around the country, Emanuel"s campaign would be extremely well funded.Other possible candidates include Cook County Sheriff Tom Dart, former U.S. Sen. Carol Moseley Braun, and at least one state senator and a city alderman.A number of African Americans besides Moseley Braun are considering running, including Rep. Danny Davis and James Meeks, a state senator and prominent black minister. Black ministers, politicians and others have discussed throwing their support behind a single candidate.------Associated Press White House Correspondent Ben Feller contributed to this report from Washington. AP writer Erica Werner contributed from Washington and AP writer Don Babwin contributed from Chicago.</text>
+  <mention label="Richard Daley" length="13" position="1035"/>
+  <mention label="Gibbs" length="5" position="1933"/>
+  <mention label="Cook County" length="11" position="3842"/>
+  <mention label="Robert Gibbs" length="12" position="1926"/>
+  <mention label="National Economic Council" length="25" position="1427"/>
+  <mention label="Democratic Party" length="16" position="1564"/>
+  <mention label="Emanuel" length="7" position="9"/>
+  <mention label="Emanuel" length="7" position="904"/>
+  <mention label="Obama" length="5" position="1556"/>
+  <mention label="Washington" length="10" position="4376"/>
+  <mention label="White House" length="11" position="25"/>
+  <mention label="East Coast" length="10" position="2969"/>
+  <mention label="African Americans" length="17" position="3973"/>
+  <mention label="Rouse" length="5" position="913"/>
+  <mention label="Daley" length="5" position="1043"/>
+  <mention label="Kennedy School of Government" length="28" position="3082"/>
+  <mention label="Obama" length="5" position="2579"/>
+  <mention label="Democratic" length="10" position="1564"/>
+  <mention label="House" length="5" position="31"/>
+  <mention label="Tom Dart" length="8" position="3862"/>
+  <mention label="Obama" length="5" position="283"/>
+  <mention label="Associated Press" length="16" position="4238"/>
+  <mention label="Senate" length="6" position="679"/>
+  <mention label="Carol Moseley Braun" length="19" position="3889"/>
+  <mention label="U.S." length="4" position="3879"/>
+  <mention label="Emanuel" length="7" position="3236"/>
+  <mention label="Pete" length="4" position="1312"/>
+  <mention label="Senate" length="6" position="1699"/>
+  <mention label="U.S." length="4" position="674"/>
+  <mention label="Rouse" length="5" position="2094"/>
+  <mention label="Washington" length="10" position="1956"/>
+  <mention label="Peter R. Orszag" length="15" position="1312"/>
+  <mention label="Capitol Hill" length="12" position="2364"/>
+  <mention label="Obama" length="5" position="1718"/>
+  <mention label="Barack Obama" length="12" position="63"/>
+  <mention label="Senate" length="6" position="2483"/>
+  <mention label="Emanuel" length="7" position="945"/>
+  <mention label="Emanuel" length="7" position="304"/>
+  <mention label="Chicago" length="7" position="191"/>
+  <mention label="Colby College" length="13" position="2996"/>
+  <mention label="Moseley Braun" length="13" position="3895"/>
+  <mention label="Emanuel" length="7" position="570"/>
+  <mention label="Rouse" length="5" position="696"/>
+  <mention label="Obama" length="5" position="70"/>
+  <mention label="Lawrence Summers" length="16" position="1366"/>
+  <mention label="Tom Daschle" length="11" position="2508"/>
+  <mention label="Chicago" length="7" position="4429"/>
+  <mention label="Emanuel" length="7" position="715"/>
+  <mention label="Rahm Emanuel" length="12" position="92"/>
+  <mention label="Pete Rouse" length="10" position="603"/>
+  <mention label="Rouse" length="5" position="2132"/>
+  <mention label="Emanuel" length="7" position="1758"/>
+  <mention label="Danny Davis" length="11" position="4053"/>
+  <mention label="Pete" length="4" position="603"/>
+  <mention label="Rouse" length="5" position="614"/>
+  <mention label="Rouse" length="5" position="2534"/>
+  <mention label="Rouse" length="5" position="608"/>
+  <mention label="Emanuel" length="7" position="97"/>
+  <mention label="Gibbs" length="5" position="2028"/>
+  <mention label="Rouse" length="5" position="2284"/>
+  <mention label="Emanuel" length="7" position="3434"/>
+  <mention label="James Meeks" length="11" position="4069"/>
+  <mention label="Washington" length="10" position="4324"/>
+  <mention label="Obama" length="5" position="629"/>
+  <mention label="Obama" length="5" position="1910"/>
+  <mention label="Emanuel" length="7" position="1151"/>
+  <mention label="Chicago" length="7" position="1019"/>
+</item>

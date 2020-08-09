@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>THURSDAY ' S MAJOR LEAGUE LEADERSNATIONAL LEAGUEBATTING--CGonzalez, Colorado, .338; Votto, Cincinnati, .323; Tulowitzki, Colorado, .320; Pujols, St. Louis, .315; Holliday, St. Louis, .311; Prado, Atlanta, .307; Zimmerman, Washington, .307.RUNS--Pujols, St. Louis, 115; CGonzalez, Colorado, 111; Weeks, Milwaukee, 110; Votto, Cincinnati, 105; Werth, Philadelphia, 104; Braun, Milwaukee, 100; AHuff, San Francisco, 100; Prado, Atlanta, 100.RBI--Pujols, St. Louis, 118; CGonzalez, Colorado, 117; Votto, Cincinnati, 111; Howard, Philadelphia, 106; Braun, Milwaukee, 103; ADunn, Washington, 103; Holliday, St. Louis, 103.HITS--CGonzalez, Colorado, 197; Braun, Milwaukee, 187; Prado, Atlanta, 184; Pujols, St. Louis, 183; Holliday, St. Louis, 182; Votto, Cincinnati, 175; Weeks, Milwaukee, 173.DOUBLES--Holliday, St. Louis, 45; Werth, Philadelphia, 45; Braun, Milwaukee, 44; ATorres, San Francisco, 43; Loney, Los Angeles, 41; Prado, Atlanta, 40; Byrd, Chicago, 39; Pujols, St. Louis, 39; ASoriano, Chicago, 39.TRIPLES--Fowler, Colorado, 14; SDrew, Arizona, 12; AEscobar, Milwaukee, 10; JosReyes, New York, 10; Victorino, Philadelphia, 10; CGonzalez, Colorado, 9; ATorres, San Francisco, 8.HOME RUNS--Pujols, St. Louis, 42; ADunn, Washington, 38; Votto, Cincinnati, 37; CGonzalez, Colorado, 34; Fielder, Milwaukee, 32; MarReynolds, Arizona, 32; Uggla, Florida, 32.STOLEN BASES--Bourn, Houston, 52; Pagan, New York, 37; Morgan, Washington, 34; Victorino, Philadelphia, 34; AMcCutchen, Pittsburgh, 33; HRamirez, Florida, 32; JosReyes, New York, 30.PITCHING--Halladay, Philadelphia, 21-10; Wainwright, St. Louis, 20-11; Jimenez, Colorado, 19-8; Arroyo, Cincinnati, 17-10; CCarpenter, St. Louis, 16-9; THudson, Atlanta, 16-9; Lincecum, San Francisco, 16-10; DLowe, Atlanta, 16-12.STRIKEOUTS--Lincecum, San Francisco, 231; Halladay, Philadelphia, 219; Wainwright, St. Louis, 213; Kershaw, Los Angeles, 212; Hamels, Philadelphia, 209; Jimenez, Colorado, 204; Dempster, Chicago, 201.SAVES--BrWilson, San Francisco, 47; HBell, San Diego, 45; FCordero, Cincinnati, 38; Marmol, Chicago, 37; Wagner, Atlanta, 36; LNunez, Florida, 30; Lidge, Philadelphia, 27.</text>
+  <mention label="Marmol" length="6" position="2054"/>
+  <mention label="MAJOR LEAGUE" length="12" position="13"/>
+  <mention label="Philadelphia" length="12" position="525"/>
+  <mention label="Howard" length="6" position="517"/>
+  <mention label="Halladay" length="8" position="1550"/>
+  <mention label="Chicago" length="7" position="2062"/>
+  <mention label="Milwaukee" length="9" position="773"/>
+  <mention label="San Francisco" length="13" position="1792"/>
+  <mention label="Colorado" length="8" position="280"/>
+  <mention label="Philadelphia" length="12" position="1822"/>
+  <mention label="Arizona" length="7" position="1043"/>
+  <mention label="Philadelphia" length="12" position="1560"/>
+  <mention label="Holliday" length="8" position="797"/>
+  <mention label="Milwaukee" length="9" position="1298"/>
+  <mention label="Halladay" length="8" position="1812"/>
+  <mention label="Wagner" length="6" position="2075"/>
+  <mention label="Milwaukee" length="9" position="1066"/>
+  <mention label="Atlanta" length="7" position="2083"/>
+  <mention label="Braun" length="5" position="544"/>
+  <mention label="Milwaukee" length="9" position="302"/>
+  <mention label="Wainwright" length="10" position="1581"/>
+  <mention label="Arizona" length="7" position="1326"/>
+  <mention label="Milwaukee" length="9" position="551"/>
+  <mention label="St. Louis" length="9" position="807"/>
+  <mention label="St. Louis" length="9" position="1593"/>
+  <mention label="Philadelphia" length="12" position="829"/>
+  <mention label="Werth" length="5" position="822"/>
+  <mention label="Washington" length="10" position="574"/>
+  <mention label="St. Louis" length="9" position="1853"/>
+  <mention label="Votto" length="5" position="318"/>
+  <mention label="Wainwright" length="10" position="1841"/>
+  <mention label="Uggla" length="5" position="1339"/>
+  <mention label="Florida" length="7" position="2104"/>
+  <mention label="Lidge" length="5" position="2117"/>
+  <mention label="Philadelphia" length="12" position="2124"/>
+  <mention label="Florida" length="7" position="1346"/>
+  <mention label="Holliday" length="8" position="591"/>
+  <mention label="Kershaw" length="7" position="1869"/>
+  <mention label="Braun" length="5" position="847"/>
+  <mention label="New York" length="8" position="1091"/>
+  <mention label="Colorado" length="8" position="68"/>
+  <mention label="Jimenez" length="7" position="1611"/>
+  <mention label="Cincinnati" length="10" position="325"/>
+  <mention label="St. Louis" length="9" position="601"/>
+  <mention label="Philadelphia" length="12" position="1116"/>
+  <mention label="Votto" length="5" position="84"/>
+  <mention label="Cincinnati" length="10" position="91"/>
+  <mention label="Philadelphia" length="12" position="349"/>
+  <mention label="Werth" length="5" position="342"/>
+  <mention label="Victorino" length="9" position="1105"/>
+  <mention label="Bourn" length="5" position="1372"/>
+  <mention label="Colorado" length="8" position="1620"/>
+  <mention label="Los Angeles" length="11" position="1878"/>
+  <mention label="Milwaukee" length="9" position="854"/>
+  <mention label="Arroyo" length="6" position="1636"/>
+  <mention label="San Francisco" length="13" position="878"/>
+  <mention label="Houston" length="7" position="1379"/>
+  <mention label="Cincinnati" length="10" position="1644"/>
+  <mention label="Tulowitzki" length="10" position="109"/>
+  <mention label="Hamels" length="6" position="1896"/>
+  <mention label="Colorado" length="8" position="121"/>
+  <mention label="Colorado" length="8" position="633"/>
+  <mention label="Colorado" length="8" position="1145"/>
+  <mention label="Braun" length="5" position="368"/>
+  <mention label="Pagan" length="5" position="1392"/>
+  <mention label="Philadelphia" length="12" position="1904"/>
+  <mention label="Milwaukee" length="9" position="375"/>
+  <mention label="New York" length="8" position="1399"/>
+  <mention label="St. Louis" length="9" position="1675"/>
+  <mention label="San Francisco" length="13" position="1167"/>
+  <mention label="Morgan" length="6" position="1413"/>
+  <mention label="San Francisco" length="13" position="398"/>
+  <mention label="Los Angeles" length="11" position="904"/>
+  <mention label="Colorado" length="8" position="1932"/>
+  <mention label="Jimenez" length="7" position="1923"/>
+  <mention label="Loney" length="5" position="897"/>
+  <mention label="Milwaukee" length="9" position="655"/>
+  <mention label="Washington" length="10" position="1421"/>
+  <mention label="Braun" length="5" position="648"/>
+  <mention label="Pujols" length="6" position="137"/>
+  <mention label="Dempster" length="8" position="1947"/>
+  <mention label="Victorino" length="9" position="1437"/>
+  <mention label="St. Louis" length="9" position="145"/>
+  <mention label="Prado" length="5" position="671"/>
+  <mention label="Prado" length="5" position="921"/>
+  <mention label="Atlanta" length="7" position="678"/>
+  <mention label="Atlanta" length="7" position="1701"/>
+  <mention label="Chicago" length="7" position="1957"/>
+  <mention label="Philadelphia" length="12" position="1448"/>
+  <mention label="St. Louis" length="9" position="172"/>
+  <mention label="Atlanta" length="7" position="928"/>
+  <mention label="Prado" length="5" position="418"/>
+  <mention label="Byrd" length="4" position="941"/>
+  <mention label="Holliday" length="8" position="162"/>
+  <mention label="Pujols" length="6" position="1195"/>
+  <mention label="Atlanta" length="7" position="425"/>
+  <mention label="Pujols" length="6" position="692"/>
+  <mention label="San Francisco" length="13" position="1726"/>
+  <mention label="Chicago" length="7" position="947"/>
+  <mention label="RBI" length="3" position="438"/>
+  <mention label="St. Louis" length="9" position="700"/>
+  <mention label="Prado" length="5" position="189"/>
+  <mention label="St. Louis" length="9" position="1203"/>
+  <mention label="Lincecum" length="8" position="1716"/>
+  <mention label="Pujols" length="6" position="443"/>
+  <mention label="St. Louis" length="9" position="968"/>
+  <mention label="Washington" length="10" position="1225"/>
+  <mention label="Atlanta" length="7" position="196"/>
+  <mention label="Holliday" length="8" position="716"/>
+  <mention label="Pujols" length="6" position="960"/>
+  <mention label="St. Louis" length="9" position="451"/>
+  <mention label="Pittsburgh" length="10" position="1478"/>
+  <mention label="San Francisco" length="13" position="1987"/>
+  <mention label="Washington" length="10" position="222"/>
+  <mention label="San Diego" length="9" position="2013"/>
+  <mention label="Colorado" length="8" position="478"/>
+  <mention label="Zimmerman" length="9" position="211"/>
+  <mention label="Votto" length="5" position="1241"/>
+  <mention label="Atlanta" length="7" position="1755"/>
+  <mention label="St. Louis" length="9" position="726"/>
+  <mention label="Votto" length="5" position="742"/>
+  <mention label="Chicago" length="7" position="993"/>
+  <mention label="Cincinnati" length="10" position="749"/>
+  <mention label="Florida" length="7" position="1504"/>
+  <mention label="Votto" length="5" position="493"/>
+  <mention label="Cincinnati" length="10" position="1248"/>
+  <mention label="Fowler" length="6" position="1014"/>
+  <mention label="Colorado" length="8" position="1275"/>
+  <mention label="Pujols" length="6" position="245"/>
+  <mention label="St. Louis" length="9" position="253"/>
+  <mention label="Colorado" length="8" position="1022"/>
+  <mention label="Cincinnati" length="10" position="2038"/>
+  <mention label="Cincinnati" length="10" position="500"/>
+  <mention label="Lincecum" length="8" position="1782"/>
+  <mention label="New York" length="8" position="1527"/>
+</item>

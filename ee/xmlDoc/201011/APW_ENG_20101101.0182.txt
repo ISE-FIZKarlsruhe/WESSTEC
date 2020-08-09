@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Russia leader visits disputed isle, Tokyo protestsRussia's president visited an island in the Pacific Ocean claimed by both Russia and Japan on Monday, triggering immediate protests from Tokyo, which is already involved in a heated dispute with China over islands to the south.President Dmitry Medvedev landed on Kunashiri Island, just off Japan's northern coast. Known in Russian as Kunashir, it is part of a group of four islands claimed by both countries that Japan calls the Northern Territories and Russia calls the southern Kurils.Medvedev is the first Russian president to visit the island.Japan's Foreign Ministry issued a statement soon after Medvedev's arrival that it opposed the visit, and would take appropriate measures. It called in Russia's ambassador in Tokyo to protest."We have never changed our position that the Northern Territories are a part of our territory and the visit is very regrettable," Prime Minister Naoto Kan told a session of Parliament on Monday.Part of a larger chain of Russian-held islands, the disputed islands are surrounded by rich fishing waters and are believed to have promising offshore oil and natural gas reserves, plus gold and silver deposits. The islands -- which have been under Russian control since the waning days of World War II -- have suffered neglect and the population has plummeted since the fall of the Soviet Union.Commenting on general living standards in a meeting with local officials, Medvedev said: "We are beginning to improve the situation. New housing is being built. Social facilities are appearing. This is good because this is raising living standards. To a certain extent this allows people to hope that in a reasonable period of time their lives will be similar to those on the mainland: modern and successful."He also visited a kindergarten, a geothermal power station and a fishery.Medvedev, in a white coat over his suit, tried some local caviar, plunging a fork into a container of fresh orange roe and spreading it thinly on a slice of white bread. "Delicious. Very tasty," he said.He then bought a local smelt for 475 rubles ($15), and later used his last moments on the island to take photographs of the sea.Medvedev's visit comes amid a high-level dispute between Japan and China over another set of islands in the East China Sea.Japan's coast guard detained the captain of a Chinese fishing boat that collided with its patrol vessels near the islands Sept. 7, sparking the diplomatic spat and setting off protests across China even after the captain was released.On Monday, a group of Japanese lawmakers got their first look at a video of the collision filmed from the coast guard vessels. Though Kan's ruling party has said it does not want the video to be made public because of the possible diplomatic ramifications, opposition leaders are demanding that it be released more widely and say it proves the Chinese captain was at fault.China also has competing claims with several other Asian neighbors over islands in the region.Medvedev said in September that he planned to visit the disputed islands in the Pacific, which are just six miles (10 kilometers) from Japan's Hokkaido island but are also near undisputed Russian territory. Japan criticized his plan, with Kan saying he didn't think the visit would actually take place.Medvedev at the time described the islands as "a very important region in our country."Japan also protested when Russian Foreign Minister Sergey Lavrov visited the islands in 2007. Two years earlier, Moscow hinted it would cede two of the four disputed islands if Japan gave up its claim to the other two, an idea Japan rejected.The dispute has prevented Tokyo and Moscow from signing a peace treaty to formally end hostilities from World War II.Takehiko Yamamoto, a professor at Tokyo's Waseda University, said the visit was likely intended to reinforce to the Russian people Medvedev's commitment to push for development in its far east, while demonstrating to Japan that he intends to take a tough stance on disputed territory."I think this will make negotiations over the islands tougher," he said. "It's like rubbing salt into a wound."------Associated Press writers Mari Yamaguchi in Tokyo and David Nowak in Moscow contributed to this report.</text>
+  <mention label="Japan" length="5" position="135"/>
+  <mention label="Japanese" length="8" position="2570"/>
+  <mention label="Russian" length="7" position="3203"/>
+  <mention label="Medvedev" length="8" position="652"/>
+  <mention label="China" length="5" position="2304"/>
+  <mention label="Russia" length="6" position="0"/>
+  <mention label="Tokyo" length="5" position="771"/>
+  <mention label="Medvedev" length="8" position="2191"/>
+  <mention label="Moscow" length="6" position="4232"/>
+  <mention label="Japan" length="5" position="2314"/>
+  <mention label="Japan" length="5" position="2570"/>
+  <mention label="Dmitry Medvedev" length="15" position="287"/>
+  <mention label="Medvedev" length="8" position="537"/>
+  <mention label="Japan" length="5" position="3222"/>
+  <mention label="Kurils" length="6" position="530"/>
+  <mention label="Asian" length="5" position="2972"/>
+  <mention label="Tokyo" length="5" position="36"/>
+  <mention label="Medvedev" length="8" position="1452"/>
+  <mention label="Russian" length="7" position="559"/>
+  <mention label="Kan" length="3" position="939"/>
+  <mention label="Kunashiri Island" length="16" position="313"/>
+  <mention label="Japan" length="5" position="3631"/>
+  <mention label="World War II" length="12" position="3750"/>
+  <mention label="Naoto Kan" length="9" position="933"/>
+  <mention label="Medvedev" length="8" position="294"/>
+  <mention label="Kunashir" length="8" position="313"/>
+  <mention label="Russia" length="6" position="50"/>
+  <mention label="Moscow" length="6" position="3517"/>
+  <mention label="Tokyo" length="5" position="187"/>
+  <mention label="Chinese" length="7" position="2360"/>
+  <mention label="Russian" length="7" position="1231"/>
+  <mention label="Japan" length="5" position="3404"/>
+  <mention label="Japan" length="5" position="463"/>
+  <mention label="Japan" length="5" position="3150"/>
+  <mention label="Chinese" length="7" position="2892"/>
+  <mention label="Parliament" length="10" position="961"/>
+  <mention label="Waseda University" length="17" position="3805"/>
+  <mention label="Medvedev" length="8" position="1860"/>
+  <mention label="Foreign Ministry" length="16" position="605"/>
+  <mention label="Japan" length="5" position="2248"/>
+  <mention label="China" length="5" position="2506"/>
+  <mention label="Medvedev" length="8" position="3015"/>
+  <mention label="Tokyo" length="5" position="3797"/>
+  <mention label="Japan" length="5" position="597"/>
+  <mention label="Japan" length="5" position="340"/>
+  <mention label="Pacific Ocean" length="13" position="94"/>
+  <mention label="Associated Press" length="16" position="4164"/>
+  <mention label="China" length="5" position="2258"/>
+  <mention label="Pacific" length="7" position="94"/>
+  <mention label="Soviet Union" length="12" position="1365"/>
+  <mention label="Tokyo" length="5" position="3672"/>
+  <mention label="Russian" length="7" position="3430"/>
+  <mention label="Moscow" length="6" position="3682"/>
+  <mention label="Tokyo" length="5" position="4207"/>
+  <mention label="China" length="5" position="245"/>
+  <mention label="Russian" length="7" position="373"/>
+  <mention label="Sergey Lavrov" length="13" position="3455"/>
+  <mention label="Russia" length="6" position="373"/>
+  <mention label="World War II" length="12" position="1272"/>
+  <mention label="East China Sea" length="14" position="2299"/>
+  <mention label="Russian" length="7" position="1008"/>
+  <mention label="Japan" length="5" position="3581"/>
+  <mention label="Kan" length="3" position="2682"/>
+  <mention label="Russia" length="6" position="124"/>
+  <mention label="Medvedev" length="8" position="3317"/>
+  <mention label="Russia" length="6" position="504"/>
+</item>

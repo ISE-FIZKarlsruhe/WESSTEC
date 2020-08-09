@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Europe debt crisis rolls on as Irish bailouts growIreland will have to pump (EURO)12 billion ($16 billion) more into the country's crippled banking system, dealing more grief to shellshocked Irish taxpayers.Coupled with the downgrade of Spain's bonds by a third ratings agency, the news Thursday from Dublin provided more evidence that Europe has not shed the debt troubles that shook the continent this spring as Greece teetered on the edge of bankruptcy.Irish government leaders described the total bill to fix their banks, about (EURO)45 billion ($60 billion), as "horrible" -- but manageable. The bailout will swell Ireland's deficit this year to a staggering 32 percent of economic output, the biggest in post-World War II Europe.Yet investors seemed to find some solace in the view that Ireland at least had come clean about the worst of its troubles. Irish government bonds and the Irish Stock Exchange rose, while European Union officials expressed confidence in what Ireland had done.Finance Minister Brian Lenihan announced that Ireland will pump (EURO)6.4 billion into Anglo Irish Bank, (EURO)3 billion into Allied Irish Bank and (EURO)2.7 billion into Irish Nationwide Building Society.Citing Irish Central Bank conclusions published Thursday, Lenihan said the government expects to spend a total of (EURO)45 billion ($60 billion) in resurrecting five banks -- equivalent to (EURO)10,000 for every man, woman and child in Ireland. Of the five, only Bank of Ireland will require no new state aid."This is a horrible legacy, the figures are numbing, and one would really wish we didn't have this legacy from our property bubble and our banking system. But we had it, we have to deal with it," said the government's communications minister, Eamon Ryan.Irish banks borrowed heavily from foreign lenders and plowed the money into Ireland's overheated property market -- then papered over the true scale of the wreckage when the global credit crisis broke the real-estate bubble two years ago."Some of the banks have spent a considerable period of time trying to conceal the existence of these losses," Lenihan said.Meanwhile, Moody's Investor Services cut Spain's public debt rating, an expected move that provided a further sign that Europe faces a long, hard fight to overcome its debt crisis.The European Union welcomed Ireland's harsh assessment as designed to consume as much bitter medicine as possible now. Lenihan said the government was determined to return to 3 percent deficit spending -- the European Union's often-violated limit -- by 2014 and would publish a four-year plan in November that will mean even harsher spending cuts for his recession-hit country.EU competition commissioner Joaquin Almunia said Lenihan's announcement "brings clarity" and foresaw EU approval for Ireland's attempt to conclude its 2-year bailout struggle.And EU monetary commissioner Olli Rehn said he doubted that Ireland would need emergency aid from a rescue fund established earlier this year by the European Union and the International Monetary Fund. Greece has already tapped that fund to the tune of (EURO)110 billion, but Ireland has already secured sufficient funds through mid-2011 and insists it won't need external aid.The Irish bailouts represent "a one-off cost measure that will be reflected in this year's deficit figures," Rehn said. "It is really large but manageable on condition that Ireland can ... present a convincing multiannual fiscal strategy covering the years 2011-2014."Analysts remained skeptical, saying Ireland appeared to be playing for time in hopes that its key trading partners, the United States and Britain, would resume strong growth and pull the Irish economy up with them. Ireland hosts 1,000 multinational companies, mostly American."Ireland really has to pray for the best," said Daniel Gros, director of the Center for European Policy Studies.Gros said worsening global markets, or stubbornly high interest rates on Irish borrowing, might mean Thursday's supposedly "final" bank-bailout figures might prove to be another false dawn. "At that point it might be difficult for Ireland to go it alone," he said, referring to the prospect of an EU-IMF rescue.Brian Lucey, economics professor at Trinity College Dublin, said the government had taken too long to reach this point. He said he expected ultimate losses at Anglo and Allied Irish to be several billion euros' greater."Alas I don't think we have final figures. We've had about four final figures for Anglo," Lucey said, referring to previous government announcements.The international investors who have driven Ireland's cost of borrowing to euro-era highs this year reacted positively.The yield paid out on 10-year Irish treasuries fell from its early 6.9 percent high to 6.57 percent by late Thursday. The premium demanded versus German bonds, the benchmark of euro-zone credit worthiness, declined to 4.3 points. At those rates, Ireland remains the second-riskiest national borrower in Europe behind Greece, and with Portugal a close third.Lenihan said Ireland could not afford to trim its costs by requiring holders of Anglo's senior bonds to eat some of the losses."We have to fund ourselves as a state with senior debt. And other banks have to fund themselves with senior debt," Lenihan said. "You cannot send out a message in an economy like Ireland that senior debt can be dishonored. We're far too dependent on international investment."However, he said the government would negotiate cut-rate settlements with Anglo's most junior holders of "subordinated" bonds with a face value of (EURO)2.4 billion. This could reduce Ireland's estimated (EURO)29.3 billion price tag for Anglo by a billion or two.Economist Lucey said Ireland was needlessly tying its future fortunes to keeping all senior bondholders happy. He said bondholders should be forced, on a case-by-case basis, to accept punishment for the risks they took in loaning to Irish banks."We haven't been told who owns this senior debt," he said.The biggest surprise in Thursday's announcement was confirmation that Ireland has conceded it will effectively nationalize Allied Irish Banks, once the country's largest financial institution but now so weakened by loan write-offs that it cannot borrow on international markets.Allied Irish has been trying to prevent majority state ownership by selling off its foreign assets, including a Polish bank and a stake in M&amp;T Bank of New York. But the Central Bank report dramatically raised Allied Irish's cash requirements by the end of the year to (EURO)10.4 billion, up from Irish regulators' previous requirement of (EURO)7.4 billion.As a result, two senior Allied Irish executives announced their resignations Thursday and Lenihan said the government expected to fund that (EURO)3 billion shortfall in addition to its existing (EURO)3.5 billion investment.Analysts said the outcome would mean the mass issuing of new Allied Irish shares to the government, creating a stake exceeding 90 percent.Allied Irish shares initially plummeted more than 30 percent, but rallied, closing down 8 percent at (EURO)0.51.The Central Bank announced that another state-seized Dublin lender, Irish Nationwide, also will receive (EURO)2.7 billion more, doubling the amount already spent by the government to keep it afloat.The government plans to split Anglo into two banks, one to retain its deposits, the other to manage the disposal of (EURO)37 billion in largely defaulting loans on property assets in Ireland, Britain and the United States.The Central Bank warned that, under "a severe hypothetical stress scenario," the long-term Anglo bailout bill could reach (EURO)34.3 billion.The bank said this worst-case scenario would involve the bank's loans on property-based assets losing 65 percent of their original value and remaining at that level in 2020. Ireland's property prices are currently 35 percent to 50 percent below their 2007 peaks.Irish Nationwide is expected to be sold to foreign investors or merged with one of Ireland's two remaining healthy banks, Bank of Ireland or Irish Life &amp; Permanent.------Online:Irish Central Bank, http://www.financialregulator.ie/Pages/home.aspx</text>
+  <mention label="Anglo" length="5" position="4356"/>
+  <mention label="Anglo" length="5" position="5121"/>
+  <mention label="Ireland" length="7" position="4609"/>
+  <mention label="Polish" length="6" position="6400"/>
+  <mention label="Europe" length="6" position="0"/>
+  <mention label="Ireland" length="7" position="1039"/>
+  <mention label="European Union" length="14" position="2306"/>
+  <mention label="Irish" length="5" position="4373"/>
+  <mention label="Ireland" length="7" position="4117"/>
+  <mention label="Irish" length="5" position="31"/>
+  <mention label="Ireland" length="7" position="2330"/>
+  <mention label="Ireland" length="7" position="793"/>
+  <mention label="Anglo Irish Bank" length="16" position="1080"/>
+  <mention label="Ireland" length="7" position="1837"/>
+  <mention label="Dublin" length="6" position="301"/>
+  <mention label="United States" length="13" position="3618"/>
+  <mention label="Britain" length="7" position="3636"/>
+  <mention label="Anglo" length="5" position="5681"/>
+  <mention label="Ireland" length="7" position="50"/>
+  <mention label="Central Bank" length="12" position="6457"/>
+  <mention label="Lenihan" length="7" position="2109"/>
+  <mention label="Irish" length="5" position="1086"/>
+  <mention label="Anglo" length="5" position="1080"/>
+  <mention label="Ireland" length="7" position="3129"/>
+  <mention label="Ireland" length="7" position="4930"/>
+  <mention label="Olli Rehn" length="9" position="2883"/>
+  <mention label="Ireland" length="7" position="3403"/>
+  <mention label="Moody's Investor Services" length="25" position="2133"/>
+  <mention label="Rehn" length="4" position="2888"/>
+  <mention label="Ireland" length="7" position="7498"/>
+  <mention label="Britain" length="7" position="7507"/>
+  <mention label="Europe" length="6" position="336"/>
+  <mention label="Irish" length="5" position="858"/>
+  <mention label="Irish" length="5" position="3685"/>
+  <mention label="Irish" length="5" position="1126"/>
+  <mention label="Ireland" length="7" position="2914"/>
+  <mention label="Ireland" length="7" position="5728"/>
+  <mention label="Ireland" length="7" position="620"/>
+  <mention label="Irish Stock Exchange" length="20" position="889"/>
+  <mention label="United States" length="13" position="7523"/>
+  <mention label="Lucey" length="5" position="4203"/>
+  <mention label="Bank of Ireland" length="15" position="8062"/>
+  <mention label="Irish" length="5" position="3959"/>
+  <mention label="Lenihan" length="7" position="2421"/>
+  <mention label="Spain" length="5" position="2163"/>
+  <mention label="Central Bank" length="12" position="7541"/>
+  <mention label="Irish" length="5" position="889"/>
+  <mention label="Ireland" length="7" position="3713"/>
+  <mention label="Irish" length="5" position="1164"/>
+  <mention label="Anglo" length="5" position="5518"/>
+  <mention label="Greece" length="6" position="5001"/>
+  <mention label="Portugal" length="8" position="5018"/>
+  <mention label="European Union" length="14" position="922"/>
+  <mention label="Anglo" length="5" position="4498"/>
+  <mention label="Greece" length="6" position="414"/>
+  <mention label="Europe" length="6" position="922"/>
+  <mention label="Joaquin Almunia" length="15" position="2707"/>
+  <mention label="Ireland" length="7" position="1434"/>
+  <mention label="Dublin" length="6" position="4249"/>
+  <mention label="Trinity College Dublin" length="22" position="4233"/>
+  <mention label="Lucey" length="5" position="4506"/>
+  <mention label="Lenihan" length="7" position="5283"/>
+  <mention label="Irish" length="5" position="3234"/>
+  <mention label="Ireland" length="7" position="7852"/>
+  <mention label="Irish Nationwide Building Society" length="33" position="1164"/>
+  <mention label="Lenihan" length="7" position="2728"/>
+  <mention label="Irish" length="5" position="1205"/>
+  <mention label="Anglo" length="5" position="7345"/>
+  <mention label="European Union" length="14" position="3003"/>
+  <mention label="Lenihan" length="7" position="5041"/>
+  <mention label="Central Bank" length="12" position="1211"/>
+  <mention label="Central Bank" length="12" position="8123"/>
+  <mention label="Ireland" length="7" position="3775"/>
+  <mention label="Ireland" length="7" position="5054"/>
+  <mention label="Bank of Ireland" length="15" position="1461"/>
+  <mention label="Ireland" length="7" position="1469"/>
+  <mention label="Irish" length="5" position="191"/>
+  <mention label="American" length="8" position="3765"/>
+  <mention label="European Union" length="14" position="2511"/>
+  <mention label="Europe" length="6" position="2242"/>
+  <mention label="Ireland" length="7" position="6080"/>
+  <mention label="Ireland" length="7" position="3534"/>
+  <mention label="International Monetary Fund" length="27" position="3026"/>
+  <mention label="Irish" length="5" position="456"/>
+  <mention label="Ireland" length="7" position="976"/>
+  <mention label="German" length="6" position="4830"/>
+  <mention label="Eamon Ryan" length="10" position="1750"/>
+  <mention label="Central Bank" length="12" position="7121"/>
+  <mention label="Europe" length="6" position="728"/>
+  <mention label="Ireland" length="7" position="5347"/>
+  <mention label="Irish" length="5" position="1761"/>
+  <mention label="Daniel Gros" length="11" position="3822"/>
+  <mention label="Spain" length="5" position="237"/>
+  <mention label="Greece" length="6" position="3055"/>
+  <mention label="Ireland" length="7" position="2796"/>
+  <mention label="Lenihan" length="7" position="1256"/>
+  <mention label="Gros" length="4" position="3829"/>
+  <mention label="Ireland" length="7" position="5628"/>
+  <mention label="Brian Lenihan" length="13" position="1010"/>
+  <mention label="Lenihan" length="7" position="1016"/>
+</item>

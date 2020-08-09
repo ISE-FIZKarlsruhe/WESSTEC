@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Euro rises vs US dollarThe euro is higher against the U.S. dollar to start the week as traders await a raft of news from Washington.The 16-nation euro rose to $1.3969 in morning European trading Monday, up from $1.3897 late Friday in New York.The British pound is up slightly to $1.6052 from $1.6021 on Friday, while the dollar nudged up to buy 80.50 Japanese yen from 80.49 in New York.In addition to this week's American midterm elections, traders are looking ahead to the Federal Open Market Committee's midweek meeting for details on possible new stimulus measures, and unemployment statistics from Washington on Friday.</text>
+  <mention label="British" length="7" position="247"/>
+  <mention label="Washington" length="10" position="603"/>
+  <mention label="New York" length="8" position="234"/>
+  <mention label="New York" length="8" position="378"/>
+  <mention label="U.S." length="4" position="54"/>
+  <mention label="Washington" length="10" position="121"/>
+  <mention label="Federal Open Market Committee" length="29" position="475"/>
+  <mention label="American" length="8" position="414"/>
+  <mention label="Japanese" length="8" position="351"/>
+  <mention label="European" length="8" position="178"/>
+</item>

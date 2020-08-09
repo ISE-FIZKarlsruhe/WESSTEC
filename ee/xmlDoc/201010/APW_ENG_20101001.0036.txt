@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Sheriff: Pirates shoot US man in Mexican watersAn American tourist was shot in the back of the head in Mexican waters on Thursday after being ambushed by armed boaters, a Texas sheriff said. It happened near the U.S. boundary of a lake where run-ins with pirates already has had fishermen and Texas officials on alert.Zapata County Sheriff Sigifredo Gonzalez said a 30-year-old man and his wife were riding personal watercrafts back from Mexico when about six gunmen approached in two boats. Gonzalez said the man was shot as the couple sped away at the sight of the boaters.What happened to the man was unclear. Gonzalez said the man's wife tried circling back to get him, but retreated back to U.S. waters after being fired upon again."They saw them approaching and started revving it up back to the U.S. side," Gonzalez said. "The guys just started shooting at them from behind."Gonzalez said he has contacted the Mexican consulate and asked them to look for the man. He said there was nothing else he could do.One of the boats may have crossed the U.S. side of the lake to fire at the woman, said Mike Cox, a spokesman for the Texas Parks &amp; Wildlife Department. The shooting renewed warnings of pirates on Falcon Lake, which is about 60 miles (96 kilometers)down the border from Laredo and is popular with water skiers and bass fishing.Earlier this year, several fishermen were robbed at gunpoint on the lake's Mexican side. In those holdups, authorities say the gunmen traveled in the low-slung, underpowered commercial Mexican fishing boats that are familiar in the area. They asked for money, drugs and guns, and took what cash was available, but no one was hurt.Gonzalez has previously chalked up the dangerous waters as the product of fighting between rival Mexican drug gangs."I would think that, right now, the prudent boater would want to stay on the Texas side," Cox said Thursday.Gonzalez said the couple shot at Thursday never spoke to the gunmen. He said the couple lived in McAllen, Texas, and had ridden over to Mexico for sightseeing and to take photos of a famous church in Old Guerrero.That is identical to what five boaters did in April when authorities said they were approached by men who identified themselves as "Federales" and asked for drugs. Those boaters handed over $200 before the pirates chased them back to U.S. waters.Gonzalez said the woman raced her watercraft to the shores of the first lakeside homes she could reach and asked for help.Violence on the Mexican side of the lake has been climbing for several months, as a fractured partnership between the region's dominant Gulf Cartel and its former enforcers, the Zetas, plunged many of the area's Mexican border cities into violence.Falcon Lake is a dammed section of the Rio Grande that straddles the border. The border is marked by 14 partially submerged concrete towers that mark the Rio Grande's path before the lake was created in 1954.------Associated Press Writer Terry Wallace in Dallas contributed to this report.</text>
+  <mention label="Mexican" length="7" position="1415"/>
+  <mention label="McAllen" length="7" position="1991"/>
+  <mention label="Rio Grande" length="10" position="2762"/>
+  <mention label="Texas" length="5" position="1863"/>
+  <mention label="Laredo" length="6" position="1283"/>
+  <mention label="Mike Cox" length="8" position="1101"/>
+  <mention label="Gonzalez" length="8" position="1670"/>
+  <mention label="U.S." length="4" position="212"/>
+  <mention label="Cox" length="3" position="1106"/>
+  <mention label="Mexican" length="7" position="917"/>
+  <mention label="Gonzalez" length="8" position="350"/>
+  <mention label="U.S." length="4" position="1052"/>
+  <mention label="Zetas" length="5" position="2653"/>
+  <mention label="Terry Wallace" length="13" position="2961"/>
+  <mention label="Mexican" length="7" position="103"/>
+  <mention label="Mexican" length="7" position="1767"/>
+  <mention label="Texas" length="5" position="293"/>
+  <mention label="U.S." length="4" position="2341"/>
+  <mention label="Gonzalez" length="8" position="492"/>
+  <mention label="Dallas" length="6" position="2978"/>
+  <mention label="Mexican" length="7" position="33"/>
+  <mention label="U.S." length="4" position="802"/>
+  <mention label="Gonzalez" length="8" position="814"/>
+  <mention label="Falcon Lake" length="11" position="2723"/>
+  <mention label="Mexico" length="6" position="2030"/>
+  <mention label="Associated Press" length="16" position="2937"/>
+  <mention label="Gonzalez" length="8" position="613"/>
+  <mention label="Gonzalez" length="8" position="1894"/>
+  <mention label="Texas" length="5" position="171"/>
+  <mention label="Texas" length="5" position="1131"/>
+  <mention label="Mexico" length="6" position="438"/>
+  <mention label="Falcon Lake" length="11" position="1210"/>
+  <mention label="Mexican" length="7" position="1525"/>
+  <mention label="Zapata County" length="13" position="318"/>
+  <mention label="Mexican" length="7" position="2687"/>
+  <mention label="Gulf Cartel" length="11" position="2611"/>
+  <mention label="American" length="8" position="50"/>
+  <mention label="Gonzalez" length="8" position="882"/>
+  <mention label="Mexican" length="7" position="2491"/>
+  <mention label="U.S." length="4" position="696"/>
+</item>

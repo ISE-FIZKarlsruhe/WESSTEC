@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Trial begins 8 years after Smart kidnappingEight years after he's accused of slicing through a kitchen window screen with a knife and whisking away a young girl in the middle of the night, the man charged in the abduction of Elizabeth Smart is headed to trial in federal court.Jury selection in the trial of Brian David Mitchell is scheduled to begin Monday in Salt Lake City's U.S. District Court.After years of delays driven by questions about Mitchell's mental health and a jump from state to federal court, the trial of the one-time itinerant street preacher should finally bring Smart's saga to a close. Hers is a tale of loss, a family's fears and an improbable recovery that has long riveted America."It's certainly been a long time coming," Ed Smart, Elizabeth's father said Thursday. "We're very confident in the prosecution."Mitchell, 57, was indicted in March 2008 on federal charges of kidnapping and unlawful transportation of a minor across state lines -- for allegedly taking Smart to San Diego. If convicted, he could spend the rest of his life in a federal prison.A 2003 state case -- in which Mitchell was charged with aggravated kidnapping and aggravated sexual assault -- stalled after Mitchell was diagnosed with a delusional disorder and deemed incompetent to stand trial. A state judge rejected a request to force Mitchell to be treated with medications, saying she didn't believe the drugs would work.The ruling left Mitchell incarcerated in the state hospital -- where he had refused treatment -- before federal prosecutors stepped in to take a run at the case.Mitchell was judged competent to stand trial in federal court earlier this year after an expert witness for the government said he believed Mitchell was "malingering," essentially faking a mental illness to avoid prosecution.With prosecutors expected to call as many as 22 witnesses, the trial could take up to six weeks. Just picking a jury could take several weeks. Defense attorneys have argued that publicity of the case has tainted the pool of more than 200 jurors called for consideration, but efforts to move the trial out of Utah were rejected by both the U.S. District Judge Dale Kimball and the 10th Circuit Court of Appeals in Denver.Mitchell's federal public defenders maintain that he is ill and unable to participate in his own defense. In court papers, defense attorneys have said they'll mount an insanity defense, claiming Mitchell was so impaired at the time of the alleged crime that he can't be held legally responsible.As evidence the defense is expected to rely on testimony from mental health experts who have evaluated Mitchell and will likely point to a 27-page manifesto drafted by Mitchell -- "The Book of Immanuel David Isaiah" -- as evidence of his delusions.The rambling tome drafted a few months before Smart's June 5, 2002, kidnapping lays out Mitchell's own brand of religion that mixes revelations from early Mormon theology with excerpts from the King James version of the Bible and the writings of several New Age philosophers. The manifesto, an addendum to which has been written since Mitchell was arrested in March 2003, proclaims Mitchell a prophet and predicts his wife, Wanda Eileen Barzee, will take "seven times, seven sisters," an apparent endorsement of polygamy.In Smart's first public testimony during a competency hearing last year, Smart said after being led from home in her pajamas and tennis shoes to a mountainside campsite she was forced to become Mitchell's second wife in a quickie religious ceremony and raped. During her captivity, Smart said Mitchell read frequently from his manifesto, sang hymns and laced his daily conversations with religious language."He told me he was a prophet," said Smart, who was given a religious name and was forced to wear a long, white robe, head scarf and two veils across her face. "He said he was the voice of God on Earth and that he would reign over God's children until Jesus came."Smart said she believed Mitchell's religious devotions were a ruse. Religious revelations came conveniently when he wanted something or when he was trying to calm Barzee, Smart said.Smart was 14 when she was abducted in the middle of the night. The disappearance transfixed the country as thousands of Utahns turned out to comb Salt Lake City and the surrounding mountains to search for her.She was rescued nine months later after motorists spotted her walking the streets of a Salt Lake City suburb with Mitchell and Barzee.Now, 22, Smart is expected to return to Utah from France where she is serving a mission for The Church of Jesus Christ of Latter-day Saints to testify against Mitchell.Not on the prosecution's list of 22 possible witnesses is Mitchell's now-estranged wife, Barzee, who also was charged in both state and federal court with crimes related to the kidnapping.Like Mitchell, Barzee was twice deemed incompetent for trial in state proceedings. Ordered to undergo forced treatment with anti-psychotic medications, Barzee's competency was restored last year.She pleaded guilty to federal kidnapping and unlawful transportation of a minor charges in federal court last year and was sentenced to 15 years in prison. State authorities dropped Barzee's pending case related to Smart's kidnapping in favor of her guilty plea in a companion case involving the attempted abduction of one of Smart's cousins.</text>
+  <mention label="Barzee" length="6" position="4998"/>
+  <mention label="Barzee" length="6" position="4483"/>
+  <mention label="Mitchell" length="8" position="3588"/>
+  <mention label="Barzee" length="6" position="3211"/>
+  <mention label="Barzee" length="6" position="4747"/>
+  <mention label="Mitchell" length="8" position="2694"/>
+  <mention label="Mitchell" length="8" position="3989"/>
+  <mention label="Smart" length="5" position="27"/>
+  <mention label="Mitchell" length="8" position="4649"/>
+  <mention label="Barzee" length="6" position="4128"/>
+  <mention label="Mitchell" length="8" position="2862"/>
+  <mention label="Mitchell" length="8" position="1441"/>
+  <mention label="Mitchell" length="8" position="3489"/>
+  <mention label="Mitchell" length="8" position="3109"/>
+  <mention label="Utah" length="4" position="4267"/>
+  <mention label="Mitchell" length="8" position="1337"/>
+  <mention label="Mitchell" length="8" position="446"/>
+  <mention label="Mitchell" length="8" position="1726"/>
+  <mention label="Denver" length="6" position="2224"/>
+  <mention label="Mitchell" length="8" position="1586"/>
+  <mention label="France" length="6" position="4540"/>
+  <mention label="Earth" length="5" position="3897"/>
+  <mention label="America" length="7" position="699"/>
+  <mention label="Mitchell" length="8" position="1206"/>
+  <mention label="Mitchell" length="8" position="2231"/>
+  <mention label="Utah" length="4" position="2119"/>
+  <mention label="Mitchell" length="8" position="320"/>
+  <mention label="Mitchell" length="8" position="835"/>
+  <mention label="Salt Lake City" length="14" position="4293"/>
+  <mention label="Smart" length="5" position="584"/>
+  <mention label="Mitchell" length="8" position="2629"/>
+  <mention label="New Age" length="7" position="3028"/>
+  <mention label="Salt Lake City" length="14" position="4443"/>
+  <mention label="Mitchell" length="8" position="3156"/>
+  <mention label="Mitchell" length="8" position="1111"/>
+  <mention label="San Diego" length="9" position="1000"/>
+  <mention label="Mitchell" length="8" position="4716"/>
+  <mention label="Salt Lake City" length="14" position="361"/>
+  <mention label="Elizabeth" length="9" position="225"/>
+  <mention label="U.S. District Court" length="19" position="378"/>
+  <mention label="Smart" length="5" position="235"/>
+  <mention label="Elizabeth Smart" length="15" position="225"/>
+  <mention label="Mitchell" length="8" position="2426"/>
+  <mention label="Jesus" length="5" position="3953"/>
+  <mention label="Dale Kimball" length="12" position="2170"/>
+  <mention label="Mormon" length="6" position="2929"/>
+  <mention label="Barzee" length="6" position="4861"/>
+  <mention label="The Church of Jesus Christ" length="26" position="4582"/>
+  <mention label="U.S." length="4" position="378"/>
+  <mention label="Mitchell" length="8" position="4470"/>
+</item>

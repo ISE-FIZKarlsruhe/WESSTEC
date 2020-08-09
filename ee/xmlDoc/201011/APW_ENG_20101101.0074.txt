@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Indonesian volcano unleashes new powerful eruptionIndonesia's deadly volcano has unleashed another powerful eruption, spewing out towering clouds of hot ash. There were no immediate reports of new casualties or damage.Mount Merapi, one of the world's most active volcanoes, has killed at least 38 people in the past week.Safari Dwiyono, a volcanologist, said ash and debris were fired hundreds of yards (meters) into the air on Monday morning. Searing gases were also spilling down the slopes of the 9,700-foot (3,000-meter) mountain.Indonesia is prone to earthquakes and eruptions because it straddles a series of fault lines and volcanoes known as the Pacific "Ring of Fire."On the other end of the country, rescue workers were ferrying aid to survivors of a tsunami that killed at least 450 people.</text>
+  <mention label="Mount Merapi" length="12" position="218"/>
+  <mention label="Pacific" length="7" position="654"/>
+  <mention label="Indonesia" length="9" position="0"/>
+  <mention label="Indonesian" length="10" position="0"/>
+  <mention label="Indonesia" length="9" position="50"/>
+</item>

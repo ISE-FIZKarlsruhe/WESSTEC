@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Woods not surprised by drop in rankingsTiger Woods says he wasn't surprised to lose golf's No. 1 ranking to England's Lee Westwood after a disappointing year.Westwood assumed the top ranking Sunday to end a record run by Woods, who had been the world's No. 1 golfer for 281 weeks.Woods on Monday said that in order to be ranked No. 1 you have to win "and I didn't win this year."Woods played an exhibition at Yokohama Country Club on Monday against Japanese teenager Ryo Ishikawa. He was on the way to the HSBC Championship in Shanghai which starts Thursday at Sheshan International.Woods had been No. 1 since the week before the 2005 U.S. Open, where he was runner-up. He won the British Open a month later and his ranking was rarely threatened since.</text>
+  <mention label="Woods" length="5" position="0"/>
+  <mention label="British Open" length="12" position="681"/>
+  <mention label="Shanghai" length="8" position="527"/>
+  <mention label="Woods" length="5" position="45"/>
+  <mention label="Japanese" length="8" position="449"/>
+  <mention label="England" length="7" position="108"/>
+  <mention label="Tiger Woods" length="11" position="39"/>
+  <mention label="U.S. Open" length="9" position="635"/>
+  <mention label="Westwood" length="8" position="122"/>
+  <mention label="Woods" length="5" position="221"/>
+  <mention label="Lee Westwood" length="12" position="118"/>
+  <mention label="Woods" length="5" position="280"/>
+  <mention label="Woods" length="5" position="379"/>
+  <mention label="Ryo Ishikawa" length="12" position="467"/>
+</item>

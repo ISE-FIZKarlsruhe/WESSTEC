@@ -1,0 +1,80 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+	<display-name>Annotation Web Service</display-name>
+
+	<context-param>
+		<param-name>dataset</param-name>
+		<param-value>aida</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>alpha</param-name>
+		<param-value>0.15</param-value>
+	</context-param>
+
+	<!-- /home/data/users/lzh/configs/ -->
+	<!-- /Users/leizhang/Data/Wikipedia/configs/ -->
+	<!-- /local/users/lzh/configs/ -->
+	<context-param>
+		<param-name>configPath</param-name>
+		<param-value>/local/users/lzh/configs/</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>inputLanguage</param-name>
+		<param-value>en</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>outputLanguage</param-name>
+		<param-value>en</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>KB</param-name>
+		<param-value>wikipedia</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>NLPModel</param-name>
+		<param-value>NGRAM</param-value>
+	</context-param>
+	
+	<context-param>
+		<param-name>disambiguationModel</param-name>
+		<param-value>pagerank</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>mentionMode</param-name>
+		<param-value>non_overlapped</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>responseMode</param-name>
+		<param-value>best</param-value>
+	</context-param>
+
+	<context-param>
+		<param-name>repeatMode</param-name>
+		<param-value>all</param-value>
+	</context-param>
+	
+	<filter>
+		<filter-name>CharsetFilter</filter-name>
+		<filter-class>edu.kit.aifb.gwifi.servlet.CharsetFilter</filter-class>
+		<init-param>
+			<param-name>requestEncoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>CharsetFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+</web-app>

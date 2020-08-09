@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Singapore property prices reach new high in 3QSingapore's housing prices reached a fresh record high in the third quarter as the city-state's economy booms after last year's recession.Private residential property prices rose 3.1 percent in the July-to-September period, down from 5.3 percent growth in the second quarter, the Urban Redevelopment Authority said Friday. Real estate prices are at their highest level since the government began the index in 1975.Prices of public housing apartments, where about 80 percent of Singaporeans live, rose 4 percent last quarter.Singapore's low crime rate, good schools and low personal and corporate taxes have helped the island rank near the top of expatriate quality-of-life surveys and attracted investors to the residential and office property markets. Singapore opened its first two casino-resorts this year, boosting tourist visits.The government expects the economy to grow as much as 15 percent this year.Private property prices leapt 5.6 percent in the first quarter and 7.4 percent in the fourth, bouncing back strongly after diving 25 percent in the 12 months to mid-2009.</text>
+  <mention label="Singapore" length="9" position="523"/>
+  <mention label="Singapore" length="9" position="570"/>
+  <mention label="Singapore" length="9" position="46"/>
+  <mention label="Singapore" length="9" position="0"/>
+  <mention label="Urban Redevelopment Authority" length="29" position="326"/>
+</item>

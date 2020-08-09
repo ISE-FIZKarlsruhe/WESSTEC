@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>US missile attack kills 5 people in NW PakistanIntelligence officials say a U.S. drone attack has killed five people in northwest Pakistan.The identities of the victims of Monday's missile attack in North Waziristan were not immediately known.Two Pakistani intelligence officials say the missiles struck a house in the Hyder Khel area of the region.The officials did not give their names because the agency they work for does not allow its operatives to be named.</text>
+  <mention label="North Waziristan" length="16" position="199"/>
+  <mention label="U.S." length="4" position="76"/>
+  <mention label="Pakistan" length="8" position="130"/>
+  <mention label="Pakistani" length="9" position="247"/>
+  <mention label="Pakistan" length="8" position="39"/>
+</item>

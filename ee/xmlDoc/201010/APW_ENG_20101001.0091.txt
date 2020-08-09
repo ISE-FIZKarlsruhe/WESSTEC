@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <text>Celebrity birthdays for the week of Oct. 3-9Oct. 3: Singer Chubby Checker is 69. Actor Alan Rachins is 68. Magician Roy Horn of Siegfried and Roy is 66. Singer-guitarist Lindsey Buckingham of Fleetwood Mac is 61. Jazz saxophonist Ronnie Laws is 60. Blues singer Keb' Mo' is 59. Actor Peter Frechette ("Profiler") is 54. Actor Jack Wagner is 51. Drummer Tommy Lee of Motley Crue is 48. Actress Janel Moloney ("The West Wing") is 41. Singer Gwen Stefani of No Doubt is 41. Singer Kevin Richardson of the Backstreet Boys is 39. Singer G. Love is 38. Actress Neve Campbell is 37. Singer India.Arie is 35. Rapper Talib Kweli is 35. Actor Seann William Scott is 34. Guitarist Mark King of Hinder is 28. Singer Ashlee Simpson-Wentz is 26.Oct. 4: Author Jackie Collins is 73. Author Anne Rice is 69. Actress Lori Saunders ("Petticoat Junction") is 69. Actor Clifton Davis ("Amen") is 65. Actress Susan Sarandon is 64. Actor Armand Assante is 61. Actor Alan Rosenberg is 60. Rap producer Russell Simmons is 53. Keyboardist Chris Lowe of The Pet Shop Boys is 51. Keyboardist Gregg "Hobie" Hubbard of Sawyer Brown is 50. Singer Jon Secada is 49. Actor Liev Schreiber is 43. Country singer-guitarist Heidi Newfield (Trick Pony) is 40. Actress Alicia Silverstone is 34. Singer-guitarist Marc Roberge of O.A.R. is 32. Actress Rachel Leigh Cook is 31. Singer Jessica Benson of 3LW is 23.Oct. 5: Cartoonist Bil Keane ("Family Circus") is 88. Comedian Bill Dana is 86. Actress Diane Cilento is 77. Singer Arlene Smith of The Chantels is 69. Singer Richard Street (The Temptations) is 68. Singer-guitarist Steve Miller is 67. Singer Brian Johnson of AC/DC is 63. Actor Jeff Conaway ("Taxi") is 60. Actress Karen Allen is 59. Director Clive Barker is 58. Guitarist David Bryson of Counting Crows is 56. Singer Bob Geldof is 56. Actor Daniel Baldwin is 50. Guitarist Dave Dederer (Presidents of the United States of America) is 46. Actress Josie Bissett ("Melrose Place") is 40. Singer-actress Heather Headley is 36. Singer Colin Meloy of The Decemberists is 36. Guitarist Brian Mashburn of Save Ferris is 35. Actress Parminder Nagra is 35. Actor Scott Weinger ("Full House") is 35. Actress Kate Winslet is 35. Guitarist James Valentine of Maroon 5 is 32. Bassist Paul Thomas of Good Charlotte is 30.Oct. 6: Actress Britt Ekland is 68. Singer Millie Small is 64. Singer-guitarist Thomas McClary (The Commodores) is 61. Singer Kevin Cronin of REO Speedwagon is 59. Guitarist David Hidalgo of Los Lobos is 56. Actress Elisabeth Shue is 47. Singer-songwriter Matthew Sweet is 46. Bassist Tommy Stinson (The Replacements, Guns N' Roses) is 44. Actress Amy Jo Johnson ("Felicity," "Mighty Morphin Power Rangers") is 40. Actor Ioan Gruffudd ("Fantastic Four," "Horatio Hornblower") is 37. Actor Jeremy Sisto is 36. Singer Melinda Doolittle ("American Idol") is 33.Oct. 7: "The View" co-host Joy Behar is 68. Drummer Kevin Godley of 10cc is 65. Country singer Kieran Kane of The O'Kanes is 61. Musician John Mellencamp is 59. Guitarist Ricky Phillips of Styx is 59. Actress Mary Badham ("To Kill a Mockingbird") is 58. Actress Christopher Norris ("Trapper John, M.D.") is 57. Drummer Tico Torres of Bon Jovi is 57. Gospel singer Michael W. Smith is 53. Former "American Idol" judge Simon Cowell is 51. Guitarist Charlie Marinkovich of Iron Butterfly is 51. Singer Ann Curless of Expose is 47. Singer Toni Braxton is 43. Singer Thom Yorke of Radiohead is 42. Singer Damian Kulash of OK Go is 35. Singer Taylor Hicks ("American Idol") is 34.Oct. 8: Actor Paul Hogan is 71. Singer Fred Cash of The Impressions is 70. Actor-comedian Chevy Chase is 67. Author R.L. Stine ("Goosebumps") is 67. Country singer Susan Raye is 66. TV personality Sarah Purcell ("Real People") is 62. Actress Sigourney Weaver is 61. Singer Robert "Kool" Bell of Kool and the Gang is 60. Singer-guitarist Ricky Lee Phelps is 57. Comedian Darrell Hammond is 55. Actress Stephanie Zimbalist is 54. Singer Steve Perry of Cherry Poppin' Daddies is 47. Actor Ian Hart ("Dirt") is 46. Singer CeCe Winans is 46. Bassist C.J. Ramone of The Ramones is 46. Actress Karyn Parsons ("The Fresh Prince of Bel-Air") is 44. Singer Teddy Riley is 44. Actress Emily Procter is 42. Actor-screenwriter Matt Damon is 40. Singer Byron Reeder of Mista is 30. Actor Nick Cannon is 30. Actor Angus T. Jones ("Two and a Half Men") is 17.Oct. 9: Actor Fyvush Finkel is 88. R&amp;B singer Nona Hendryx (LaBelle) is 66. Singer Jackson Browne is 62. Actor Robert Wuhl ("Arli$$") is 59. Manager-TV personality Sharon Osbourne is 58. Actor Tony Shalhoub is 57. Accordion player James Fearnley of The Pogues is 56. Actor Scott Bakula is 56. Actor John O'Hurley is 56. Singer-guitarist Kurt Neumann of The BoDeans is 49. Country singer Gary Bennett (BR549) is 46. Singer P.J. Harvey is 41. Actor Steve Burns ("Blues Clues") is 37. Singer Sean Lennon is 35. Actor Zachery Ty Bryan ("Home Improvement") is 29. Actor Tyler James Williams ("Everybody Hates Chris") is 18.</text>
+  <mention label="Ann Curless" length="11" position="3337"/>
+  <mention label="Tommy Stinson" length="13" position="2565"/>
+  <mention label="Brian Mashburn" length="14" position="2053"/>
+  <mention label="Karyn Parsons" length="13" position="4099"/>
+  <mention label="Anne Rice" length="9" position="775"/>
+  <mention label="Christopher Norris" length="18" position="3100"/>
+  <mention label="G. Love" length="7" position="532"/>
+  <mention label="Peter Frechette" length="15" position="284"/>
+  <mention label="Zachery Ty Bryan" length="16" position="4869"/>
+  <mention label="Scott Bakula" length="12" position="4628"/>
+  <mention label="Chevy Chase" length="11" position="3602"/>
+  <mention label="Daniel Baldwin" length="14" position="1815"/>
+  <mention label="Fyvush Finkel" length="13" position="4369"/>
+  <mention label="Millie Small" length="12" position="2323"/>
+  <mention label="Bel-Air" length="7" position="4135"/>
+  <mention label="Toni Braxton" length="12" position="3373"/>
+  <mention label="John O'Hurley" length="13" position="4654"/>
+  <mention label="Darrell Hammond" length="15" position="3882"/>
+  <mention label="Neve Campbell" length="13" position="555"/>
+  <mention label="R.L. Stine" length="10" position="3628"/>
+  <mention label="Tyler James Williams" length="20" position="4920"/>
+  <mention label="Lori Saunders" length="13" position="800"/>
+  <mention label="Hubbard" length="7" position="1079"/>
+  <mention label="Rachel Leigh Cook" length="17" position="1312"/>
+  <mention label="Teddy Riley" length="11" position="4159"/>
+  <mention label="Thomas McClary" length="14" position="2360"/>
+  <mention label="Joy Behar" length="9" position="2865"/>
+  <mention label="Steve Miller" length="12" position="1588"/>
+  <mention label="Dave Dederer" length="12" position="1847"/>
+  <mention label="Parminder Nagra" length="15" position="2098"/>
+  <mention label="Nona Hendryx" length="12" position="4401"/>
+  <mention label="Thom Yorke" length="10" position="3400"/>
+  <mention label="Brian Johnson" length="13" position="1615"/>
+  <mention label="Scott Weinger" length="13" position="2127"/>
+  <mention label="Commodores" length="10" position="2380"/>
+  <mention label="Kevin Godley" length="12" position="2890"/>
+  <mention label="Amy Jo Johnson" length="14" position="2628"/>
+  <mention label="Jack Wagner" length="11" position="326"/>
+  <mention label="Sawyer Brown" length="12" position="1090"/>
+  <mention label="Jessica Benson" length="14" position="1344"/>
+  <mention label="United States of America" length="24" position="1879"/>
+  <mention label="Susan Raye" length="10" position="3676"/>
+  <mention label="Emily Procter" length="13" position="4186"/>
+  <mention label="Jon Secada" length="10" position="1117"/>
+  <mention label="Kurt Neumann" length="12" position="4692"/>
+  <mention label="Jackson Browne" length="14" position="4438"/>
+  <mention label="Stephanie Zimbalist" length="19" position="3913"/>
+  <mention label="Alan Rachins" length="12" position="87"/>
+  <mention label="Tico Torres" length="11" position="3157"/>
+  <mention label="Radiohead" length="9" position="3414"/>
+  <mention label="Clifton Davis" length="13" position="850"/>
+  <mention label="Steve Perry" length="11" position="3947"/>
+  <mention label="Damian Kulash" length="13" position="3438"/>
+  <mention label="Bil Keane" length="9" position="1391"/>
+  <mention label="Tommy Lee" length="9" position="353"/>
+  <mention label="Kevin Cronin" length="12" position="2406"/>
+  <mention label="Talib Kweli" length="11" position="608"/>
+  <mention label="Bon Jovi" length="8" position="3172"/>
+  <mention label="BoDeans" length="7" position="4712"/>
+  <mention label="Sarah Purcell" length="13" position="3709"/>
+  <mention label="Susan Sarandon" length="14" position="888"/>
+  <mention label="Kate Winslet" length="12" position="2171"/>
+  <mention label="Roy" length="3" position="116"/>
+  <mention label="REO Speedwagon" length="14" position="2422"/>
+  <mention label="Robert Wuhl" length="11" position="4466"/>
+  <mention label="Liev Schreiber" length="14" position="1141"/>
+  <mention label="Roy Horn" length="8" position="116"/>
+  <mention label="Kieran Kane" length="11" position="2933"/>
+  <mention label="Jeff Conaway" length="12" position="1651"/>
+  <mention label="Ioan Gruffudd" length="13" position="2701"/>
+  <mention label="Janel Moloney" length="13" position="393"/>
+  <mention label="Matt Damon" length="10" position="4226"/>
+  <mention label="Siegfried" length="9" position="128"/>
+  <mention label="Gary Bennett" length="12" position="4742"/>
+  <mention label="Josie Bissett" length="13" position="1920"/>
+  <mention label="Michael W. Smith" length="16" position="3202"/>
+  <mention label="Bill Dana" length="9" position="1435"/>
+  <mention label="Karen Allen" length="11" position="1688"/>
+  <mention label="James Valentine" length="15" position="2201"/>
+  <mention label="Ian Hart" length="8" position="3998"/>
+  <mention label="Armand Assante" length="14" position="916"/>
+  <mention label="David Hidalgo" length="13" position="2454"/>
+  <mention label="Taylor Hicks" length="12" position="3475"/>
+  <mention label="P.J. Harvey" length="11" position="4777"/>
+  <mention label="Sharon Osbourne" length="15" position="4519"/>
+  <mention label="Heidi Newfield" length="14" position="1188"/>
+  <mention label="Los Lobos" length="9" position="2471"/>
+  <mention label="Mista" length="5" position="4267"/>
+  <mention label="John Mellencamp" length="15" position="2976"/>
+  <mention label="CeCe Winans" length="11" position="4030"/>
+  <mention label="Nick Cannon" length="11" position="4286"/>
+  <mention label="Lindsey Buckingham" length="18" position="170"/>
+  <mention label="Clive Barker" length="12" position="1716"/>
+  <mention label="Heather Headley" length="15" position="1974"/>
+  <mention label="Diane Cilento" length="13" position="1460"/>
+  <mention label="Sigourney Weaver" length="16" position="3754"/>
+  <mention label="Gwen Stefani" length="12" position="439"/>
+  <mention label="Simon Cowell" length="12" position="3255"/>
+  <mention label="Horatio Hornblower" length="18" position="2735"/>
+  <mention label="Alan Rosenberg" length="14" position="944"/>
+  <mention label="Steve Burns" length="11" position="4802"/>
+  <mention label="Tony Shalhoub" length="13" position="4548"/>
+  <mention label="Paul Hogan" length="10" position="3526"/>
+  <mention label="Fleetwood Mac" length="13" position="192"/>
+  <mention label="Kevin Richardson" length="16" position="478"/>
+  <mention label="Elisabeth Shue" length="14" position="2496"/>
+  <mention label="Ricky Phillips" length="14" position="3009"/>
+  <mention label="C.J. Ramone" length="11" position="4057"/>
+  <mention label="Ashlee Simpson-Wentz" length="20" position="704"/>
+  <mention label="Angus T. Jones" length="14" position="4311"/>
+  <mention label="Russell Simmons" length="15" position="979"/>
+  <mention label="Jeremy Sisto" length="12" position="2769"/>
+  <mention label="Alicia Silverstone" length="18" position="1231"/>
+  <mention label="David Bryson" length="12" position="1746"/>
+  <mention label="Colin Meloy" length="11" position="2004"/>
+  <mention label="The Ramones" length="11" position="4072"/>
+  <mention label="James Fearnley" length="14" position="4586"/>
+  <mention label="Jackie Collins" length="14" position="746"/>
+  <mention label="Matthew Sweet" length="13" position="2536"/>
+  <mention label="Sean Lennon" length="11" position="4844"/>
+  <mention label="Mary Badham" length="11" position="3047"/>
+  <mention label="The Chantels" length="12" position="1504"/>
+  <mention label="Ronnie Laws" length="11" position="230"/>
+  <mention label="Britt Ekland" length="12" position="2296"/>
+  <mention label="Richard Street" length="14" position="1531"/>
+  <mention label="Bob Geldof" length="10" position="1791"/>
+  <mention label="Marc Roberge" length="12" position="1274"/>
+  <mention label="The Pogues" length="10" position="4604"/>
+  <mention label="Chris Lowe" length="10" position="1014"/>
+  <mention label="Melinda Doolittle" length="17" position="2796"/>
+</item>
